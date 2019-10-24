@@ -1,0 +1,324 @@
+{
+	"Achievements": {
+		"83163": {
+			"release_per_platform_id": "n64_6B6EA7DB",
+			"name": "Tutor Mentor Genisys",
+			"description": "Defeat Karin and finish Day 01.",
+			"api_key": "83163",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89744.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89744_lock.png"
+		},
+		"83164": {
+			"release_per_platform_id": "n64_6B6EA7DB",
+			"name": "Prime Directives",
+			"description": "Defeat Licht and finish Day 02.",
+			"api_key": "83164",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89745.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89745_lock.png"
+		},
+		"83165": {
+			"release_per_platform_id": "n64_6B6EA7DB",
+			"name": "Oh, Hayao",
+			"description": "Defeat your new rival, Hayao, and finish Day 03.",
+			"api_key": "83165",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89746.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89746_lock.png"
+		},
+		"83166": {
+			"release_per_platform_id": "n64_6B6EA7DB",
+			"name": "Rise of the Machines",
+			"description": "Defeat everyone at the Robo Cup and finish Day 04.",
+			"api_key": "83166",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89747.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89747_lock.png"
+		},
+		"83167": {
+			"release_per_platform_id": "n64_6B6EA7DB",
+			"name": "Karin in Danger",
+			"description": "Save Karin from Fukashi's wrath on Day 05.",
+			"api_key": "83167",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89748.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89748_lock.png"
+		},
+		"83168": {
+			"release_per_platform_id": "n64_6B6EA7DB",
+			"name": "Fukashi in Love",
+			"description": "Help Fukashi, defeat Jake, then finish Day 05.",
+			"api_key": "83168",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89749.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89749_lock.png"
+		},
+		"83169": {
+			"release_per_platform_id": "n64_6B6EA7DB",
+			"name": "Tourna-Mentor",
+			"description": "Win the first half of the tournament on Day 06.",
+			"api_key": "83169",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89750.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89750_lock.png"
+		},
+		"83170": {
+			"release_per_platform_id": "n64_6B6EA7DB",
+			"name": "Tourna-Mentor 2, Tutorial Day",
+			"description": "Win the final part of the tournament on Day 07.",
+			"api_key": "83170",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89751.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89751_lock.png"
+		},
+		"83171": {
+			"release_per_platform_id": "n64_6B6EA7DB",
+			"name": "Robo Cope",
+			"description": "Defeat Jirou at the end of Day 08.",
+			"api_key": "83171",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89752.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89752_lock.png"
+		},
+		"83172": {
+			"release_per_platform_id": "n64_6B6EA7DB",
+			"name": "A Short Preliminary Circuit Match",
+			"description": "Win the Preliminary Match on Day 09.",
+			"api_key": "83172",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89753.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89753_lock.png"
+		},
+		"83173": {
+			"release_per_platform_id": "n64_6B6EA7DB",
+			"name": "I, Robo",
+			"description": "Defeat the autonomous Robo and the professor on Day 10.",
+			"api_key": "83173",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89754.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89754_lock.png"
+		},
+		"83174": {
+			"release_per_platform_id": "n64_6B6EA7DB",
+			"name": "We Can Retest Him",
+			"description": "Win the test-battles on Day 11.",
+			"api_key": "83174",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89755.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89755_lock.png"
+		},
+		"83175": {
+			"release_per_platform_id": "n64_6B6EA7DB",
+			"name": "Casino Roboyale",
+			"description": "Infiltrate the Dark Battles on Day 12.",
+			"api_key": "83175",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89756.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89756_lock.png"
+		},
+		"83176": {
+			"release_per_platform_id": "n64_6B6EA7DB",
+			"name": "Robos in DisGuy's Base",
+			"description": "Begin the assault on the Dread Army HQ on Day 13.",
+			"api_key": "83176",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89757.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89757_lock.png"
+		},
+		"83177": {
+			"release_per_platform_id": "n64_6B6EA7DB",
+			"name": "From Robo with Custom",
+			"description": "Finish the first set of battles at the HQ on Day 13.",
+			"api_key": "83177",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89758.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89758_lock.png"
+		},
+		"83178": {
+			"release_per_platform_id": "n64_6B6EA7DB",
+			"name": "Nanomachines, Girl",
+			"description": "Put an end to the Dread Army on Day 13.",
+			"api_key": "83178",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89759.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89759_lock.png"
+		},
+		"83179": {
+			"release_per_platform_id": "n64_6B6EA7DB",
+			"name": "Bicentennial Meh",
+			"description": "Defeat both Fukashi and Jake in the Final Tournament.",
+			"api_key": "83179",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89760.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89760_lock.png"
+		},
+		"83180": {
+			"release_per_platform_id": "n64_6B6EA7DB",
+			"name": "Blade Winner",
+			"description": "Defeat both Cattleya and Jirou in the Final Tournament.",
+			"api_key": "83180",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89761.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89761_lock.png"
+		},
+		"83181": {
+			"release_per_platform_id": "n64_6B6EA7DB",
+			"name": "Custom Rival",
+			"description": "Defeat Hayao in the Final Tournament.",
+			"api_key": "83181",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89762.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89762_lock.png"
+		},
+		"83182": {
+			"release_per_platform_id": "n64_6B6EA7DB",
+			"name": "Tourna-Mentor Salvation",
+			"description": "Defeat Mamoru in the Final Tournament.",
+			"api_key": "83182",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89763.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89763_lock.png"
+		},
+		"83183": {
+			"release_per_platform_id": "n64_6B6EA7DB",
+			"name": "Customs Check Day I",
+			"description": "On Day 01, finish all five battles without cheating.",
+			"api_key": "83183",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89764.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89764_lock.png"
+		},
+		"83184": {
+			"release_per_platform_id": "n64_6B6EA7DB",
+			"name": "Customs Check Day II",
+			"description": "On Day 02, finish all four battles without cheating.",
+			"api_key": "83184",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89765.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89765_lock.png"
+		},
+		"83185": {
+			"release_per_platform_id": "n64_6B6EA7DB",
+			"name": "Customs Check Day III",
+			"description": "On Day 03, finish all four battles without cheating.",
+			"api_key": "83185",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89766.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89766_lock.png"
+		},
+		"83186": {
+			"release_per_platform_id": "n64_6B6EA7DB",
+			"name": "Customs Check Day IV",
+			"description": "On Day 04, finish all five battles without cheating.",
+			"api_key": "83186",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89767.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89767_lock.png"
+		},
+		"83187": {
+			"release_per_platform_id": "n64_6B6EA7DB",
+			"name": "Customs Check Day V",
+			"description": "On Day 05, finish all eight battles without cheating.",
+			"api_key": "83187",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89768.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89768_lock.png"
+		},
+		"83188": {
+			"release_per_platform_id": "n64_6B6EA7DB",
+			"name": "Customs Check Day VI",
+			"description": "On Day 06, finish all four battles without cheating.",
+			"api_key": "83188",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89769.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89769_lock.png"
+		},
+		"83189": {
+			"release_per_platform_id": "n64_6B6EA7DB",
+			"name": "Customs Check Day VII",
+			"description": "On Day 07, finish all four battles without cheating.",
+			"api_key": "83189",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89770.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89770_lock.png"
+		},
+		"83190": {
+			"release_per_platform_id": "n64_6B6EA7DB",
+			"name": "Customs Check Day VIII",
+			"description": "On Day 08, finish all five battles without cheating.",
+			"api_key": "83190",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89771.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89771_lock.png"
+		},
+		"83191": {
+			"release_per_platform_id": "n64_6B6EA7DB",
+			"name": "Customs Check Day IX",
+			"description": "On Day 09, finish all five battles without cheating.",
+			"api_key": "83191",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89772.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89772_lock.png"
+		},
+		"83192": {
+			"release_per_platform_id": "n64_6B6EA7DB",
+			"name": "Customs Check Day X",
+			"description": "On Day 10, finish all two battles without cheating.",
+			"api_key": "83192",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89773.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89773_lock.png"
+		},
+		"83193": {
+			"release_per_platform_id": "n64_6B6EA7DB",
+			"name": "Customs Check Day XI",
+			"description": "On Day 11, finish all two battles without cheating.",
+			"api_key": "83193",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89774.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89774_lock.png"
+		},
+		"83194": {
+			"release_per_platform_id": "n64_6B6EA7DB",
+			"name": "Customs Check Day XII",
+			"description": "On Day 12, finish all five battles without cheating.",
+			"api_key": "83194",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89775.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89775_lock.png"
+		},
+		"83195": {
+			"release_per_platform_id": "n64_6B6EA7DB",
+			"name": "Customs Check Day XIII",
+			"description": "On Day 13, finish all twelve battles without cheating.",
+			"api_key": "83195",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89776.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89776_lock.png"
+		},
+		"83196": {
+			"release_per_platform_id": "n64_6B6EA7DB",
+			"name": "Customs Check Day XIV",
+			"description": "On Day 14, finish all six battles without cheating.",
+			"api_key": "83196",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89777.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89777_lock.png"
+		},
+		"83197": {
+			"release_per_platform_id": "n64_6B6EA7DB",
+			"name": "Customs Check Failure to Launch",
+			"description": "Lose the very first battle on Day 01 without forfeiting.",
+			"api_key": "83197",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89778.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89778_lock.png"
+		},
+		"83198": {
+			"release_per_platform_id": "n64_6B6EA7DB",
+			"name": "Thanks Kilroy",
+			"description": "Complete Challenge Mode Beginner without losing any battle.",
+			"api_key": "83198",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89779.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89779_lock.png"
+		},
+		"83199": {
+			"release_per_platform_id": "n64_6B6EA7DB",
+			"name": "Robot Rock",
+			"description": "Complete Challenge Mode Common without losing any battle.",
+			"api_key": "83199",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89780.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89780_lock.png"
+		},
+		"83200": {
+			"release_per_platform_id": "n64_6B6EA7DB",
+			"name": "Machinehead",
+			"description": "Complete Challenge Mode Expert without losing any battle.",
+			"api_key": "83200",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89781.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89781_lock.png"
+		},
+		"83201": {
+			"release_per_platform_id": "n64_6B6EA7DB",
+			"name": "Technologic",
+			"description": "Complete Challenge Mode Master without losing any battle.",
+			"api_key": "83201",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89782.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89782_lock.png"
+		},
+		"83202": {
+			"release_per_platform_id": "n64_6B6EA7DB",
+			"name": "We Are The Robots",
+			"description": "Complete Challenge Mode Legend without losing any battle.",
+			"api_key": "83202",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89783.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89783_lock.png"
+		}
+	}
+}

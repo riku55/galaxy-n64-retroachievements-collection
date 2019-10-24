@@ -1,0 +1,580 @@
+{
+	"Achievements": {
+		"78967": {
+			"release_per_platform_id": "n64_2D4F8F1B",
+			"name": "NO RETRIES ALLOWED",
+			"description": "'Obtain a Platinum Trophy' achievements must be done without retrying in the 2nd, 3rd & 4th races of the tourneys (1st allowed)",
+			"api_key": "78967",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85080.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85080_lock.png"
+		},
+		"78968": {
+			"release_per_platform_id": "n64_2D4F8F1B",
+			"name": "Through Traffic",
+			"description": "Obtain a Platinum Trophy on Traffic Troubles on the Amateur Difficulty",
+			"api_key": "78968",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85081.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85081_lock.png"
+		},
+		"78969": {
+			"release_per_platform_id": "n64_2D4F8F1B",
+			"name": "Traffic Turmoil",
+			"description": "Obtain a Platinum Trophy on Traffic Troubles on the Intermediate Difficulty",
+			"api_key": "78969",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85082.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85082_lock.png"
+		},
+		"78970": {
+			"release_per_platform_id": "n64_2D4F8F1B",
+			"name": "Traffic Turbulence",
+			"description": "Obtain a Platinum Trophy on Traffic Troubles on the Professional Difficulty",
+			"api_key": "78970",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85083.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85083_lock.png"
+		},
+		"78971": {
+			"release_per_platform_id": "n64_2D4F8F1B",
+			"name": "Minimal Motorway",
+			"description": "Obtain a Platinum Trophy on Motorway Mania on the Amateur Difficulty",
+			"api_key": "78971",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85084.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85084_lock.png"
+		},
+		"78972": {
+			"release_per_platform_id": "n64_2D4F8F1B",
+			"name": "Maximum Motorway",
+			"description": "Obtain a Platinum Trophy on Motorway Mania on the Intermediate Difficulty",
+			"api_key": "78972",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85085.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85085_lock.png"
+		},
+		"78973": {
+			"release_per_platform_id": "n64_2D4F8F1B",
+			"name": "Majestic Motorway",
+			"description": "Obtain a Platinum Trophy on Motorway Mania on the Professional Difficulty",
+			"api_key": "78973",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85086.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85086_lock.png"
+		},
+		"78974": {
+			"release_per_platform_id": "n64_2D4F8F1B",
+			"name": "Funky Freeway",
+			"description": "Obtain a Platinum Trophy on Freewayphobia on the Amateur Difficulty",
+			"api_key": "78974",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85087.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85087_lock.png"
+		},
+		"78975": {
+			"release_per_platform_id": "n64_2D4F8F1B",
+			"name": "Fast Freeway",
+			"description": "Obtain a Platinum Trophy on Freewayphobia on the Intermediate Difficulty",
+			"api_key": "78975",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85088.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85088_lock.png"
+		},
+		"78976": {
+			"release_per_platform_id": "n64_2D4F8F1B",
+			"name": "Furious Freeway",
+			"description": "Obtain a Platinum Trophy on Freewayphobia on the Professional Difficulty",
+			"api_key": "78976",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85089.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85089_lock.png"
+		},
+		"78977": {
+			"release_per_platform_id": "n64_2D4F8F1B",
+			"name": "Victor Vicheles",
+			"description": "Unlock the Victory Vehicles Cup",
+			"api_key": "78977",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85090.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85090_lock.png"
+		},
+		"78978": {
+			"release_per_platform_id": "n64_2D4F8F1B",
+			"name": "Valiant Vehicles",
+			"description": "Obtain a Platinum Trophy on Victory Vehicles on the Amateur Difficulty",
+			"api_key": "78978",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85091.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85091_lock.png"
+		},
+		"78979": {
+			"release_per_platform_id": "n64_2D4F8F1B",
+			"name": "Vicious Vehicles",
+			"description": "Obtain a Platinum Trophy on Victory Vehicles on the Intermediate Difficulty",
+			"api_key": "78979",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85092.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85092_lock.png"
+		},
+		"78980": {
+			"release_per_platform_id": "n64_2D4F8F1B",
+			"name": "Violent Vehicles",
+			"description": "Obtain a Platinum Trophy on Victory Vehicles on the Professional Difficulty",
+			"api_key": "78980",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85093.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85093_lock.png"
+		},
+		"78981": {
+			"release_per_platform_id": "n64_2D4F8F1B",
+			"name": "Fated Finale",
+			"description": "Unlock the Frantic Finale Cup",
+			"api_key": "78981",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85094.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85094_lock.png"
+		},
+		"78982": {
+			"release_per_platform_id": "n64_2D4F8F1B",
+			"name": "Fearless Finale",
+			"description": "Obtain a Platinum Trophy on Frantic Finale on the Amateur Difficulty",
+			"api_key": "78982",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85095.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85095_lock.png"
+		},
+		"78983": {
+			"release_per_platform_id": "n64_2D4F8F1B",
+			"name": "Ferocious Finale",
+			"description": "Obtain a Platinum Trophy on Frantic Finale on the Intermediate Difficulty",
+			"api_key": "78983",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85096.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85096_lock.png"
+		},
+		"78984": {
+			"release_per_platform_id": "n64_2D4F8F1B",
+			"name": "Fiendish Finale",
+			"description": "Obtain a Platinum Trophy on Frantic Finale on the Professional Difficulty",
+			"api_key": "78984",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85097.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85097_lock.png"
+		},
+		"78985": {
+			"release_per_platform_id": "n64_2D4F8F1B",
+			"name": "Mirrored Mirror",
+			"description": "Unlock Mirror Mode",
+			"api_key": "78985",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85098.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85098_lock.png"
+		},
+		"78986": {
+			"release_per_platform_id": "n64_2D4F8F1B",
+			"name": "Twisted Traffic",
+			"description": "Obtain a Platinum Trophy on Traffic Troubles on Mirror Mode",
+			"api_key": "78986",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85099.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85099_lock.png"
+		},
+		"78987": {
+			"release_per_platform_id": "n64_2D4F8F1B",
+			"name": "Motorway Madness",
+			"description": "Obtain a Platinum Trophy on Motorway Mania on Mirror Mode",
+			"api_key": "78987",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85100.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85100_lock.png"
+		},
+		"78988": {
+			"release_per_platform_id": "n64_2D4F8F1B",
+			"name": "Flawless Freeway",
+			"description": "Obtain a Platinum Trophy on Freewayphobia on Mirror Mode",
+			"api_key": "78988",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85101.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85101_lock.png"
+		},
+		"78989": {
+			"release_per_platform_id": "n64_2D4F8F1B",
+			"name": "Vengeful Vehicles",
+			"description": "Obtain a Platinum Trophy on Victory Vehicles on Mirror Mode",
+			"api_key": "78989",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85102.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85102_lock.png"
+		},
+		"78990": {
+			"release_per_platform_id": "n64_2D4F8F1B",
+			"name": "Fatal Finale",
+			"description": "Obtain a Platinum Trophy on Frantic Finale on Mirror Mode",
+			"api_key": "78990",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85103.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85103_lock.png"
+		},
+		"78991": {
+			"release_per_platform_id": "n64_2D4F8F1B",
+			"name": "OOHHH BOY!",
+			"description": "Obtain a Platinum Trophy on Professional or Mirrored Mode with Mickey Mouse",
+			"api_key": "78991",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85104.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85104_lock.png"
+		},
+		"78992": {
+			"release_per_platform_id": "n64_2D4F8F1B",
+			"name": "Sweet like a flower",
+			"description": "Obtain a Platinum Trophy on Professional or Mirrored Mode with Daisy Duck",
+			"api_key": "78992",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85105.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85105_lock.png"
+		},
+		"78993": {
+			"release_per_platform_id": "n64_2D4F8F1B",
+			"name": "LOOK AT ME!",
+			"description": "Obtain a Platinum Trophy on Professional or Mirrored Mode with Goofy",
+			"api_key": "78993",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85106.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85106_lock.png"
+		},
+		"78994": {
+			"release_per_platform_id": "n64_2D4F8F1B",
+			"name": "Bad Breath Pete",
+			"description": "Obtain a Platinum Trophy on Professional or Mirrored Mode with Pete",
+			"api_key": "78994",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85107.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85107_lock.png"
+		},
+		"78995": {
+			"release_per_platform_id": "n64_2D4F8F1B",
+			"name": "Cute little mouse",
+			"description": "Obtain a Platinum Trophy on Professional or Mirrored Mode with Minnie Mouse",
+			"api_key": "78995",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85108.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85108_lock.png"
+		},
+		"78996": {
+			"release_per_platform_id": "n64_2D4F8F1B",
+			"name": "Quack Quack QUACK!!!",
+			"description": "Obtain a Platinum Trophy on Professional or Mirrored Mode with Donald Duck",
+			"api_key": "78996",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85109.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85109_lock.png"
+		},
+		"78997": {
+			"release_per_platform_id": "n64_2D4F8F1B",
+			"name": "It was here all along?",
+			"description": "Find a Stolen Car Part",
+			"api_key": "78997",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85110.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85110_lock.png"
+		},
+		"78998": {
+			"release_per_platform_id": "n64_2D4F8F1B",
+			"name": "Who would have thought...",
+			"description": "Find a Stolen Car Part",
+			"api_key": "78998",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85111.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85111_lock.png"
+		},
+		"78999": {
+			"release_per_platform_id": "n64_2D4F8F1B",
+			"name": "They hid this one well",
+			"description": "Find a Stolen Car Part",
+			"api_key": "78999",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85112.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85112_lock.png"
+		},
+		"79000": {
+			"release_per_platform_id": "n64_2D4F8F1B",
+			"name": "Far, Far away",
+			"description": "Find a Stolen Car Part",
+			"api_key": "79000",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85113.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85113_lock.png"
+		},
+		"79001": {
+			"release_per_platform_id": "n64_2D4F8F1B",
+			"name": "Blueish Quack",
+			"description": "Unlock a Secret Character",
+			"api_key": "79001",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85114.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85114_lock.png"
+		},
+		"79002": {
+			"release_per_platform_id": "n64_2D4F8F1B",
+			"name": "Greenish Quack",
+			"description": "Unlock a Secret Character",
+			"api_key": "79002",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85115.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85115_lock.png"
+		},
+		"79003": {
+			"release_per_platform_id": "n64_2D4F8F1B",
+			"name": "Scientific Quack",
+			"description": "Unlock a Secret Character",
+			"api_key": "79003",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85116.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85116_lock.png"
+		},
+		"79004": {
+			"release_per_platform_id": "n64_2D4F8F1B",
+			"name": "Easter Egg?",
+			"description": "Unlock the hidden course, New Orleans",
+			"api_key": "79004",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85117.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85117_lock.png"
+		},
+		"79006": {
+			"release_per_platform_id": "n64_2D4F8F1B",
+			"name": "Dockyard Star",
+			"description": "Beat Dockyard in Contest Mode without losing a single balloon",
+			"api_key": "79006",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85119.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85119_lock.png"
+		},
+		"79005": {
+			"release_per_platform_id": "n64_2D4F8F1B",
+			"name": "Mr. President",
+			"description": "Beat White House in Contest Mode without losing a single balloon",
+			"api_key": "79005",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85118.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85118_lock.png"
+		},
+		"79007": {
+			"release_per_platform_id": "n64_2D4F8F1B",
+			"name": "Duel Arena",
+			"description": "Beat Arena in Contest Mode without losing a single balloon",
+			"api_key": "79007",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85120.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85120_lock.png"
+		},
+		"79008": {
+			"release_per_platform_id": "n64_2D4F8F1B",
+			"name": "Steam Master",
+			"description": "Beat Steamboat in Contest Mode without losing a single balloon",
+			"api_key": "79008",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85121.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85121_lock.png"
+		},
+		"79009": {
+			"release_per_platform_id": "n64_2D4F8F1B",
+			"name": "Traffic on the Jukebox",
+			"description": "Press the 'R' button for each Traffic Troubles song in the right order while they are playing in the Jukebox",
+			"api_key": "79009",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85122.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85122_lock.png"
+		},
+		"79010": {
+			"release_per_platform_id": "n64_2D4F8F1B",
+			"name": "Jukebox Maniac",
+			"description": "Press the 'R' button for each Motor Way Mania song in the right order while they are playing in the Jukebox",
+			"api_key": "79010",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85123.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85123_lock.png"
+		},
+		"79011": {
+			"release_per_platform_id": "n64_2D4F8F1B",
+			"name": "Jukebox Phobia",
+			"description": "Press the 'R' button for each Freewayphobia song in the right order while they are playing in the Jukebox",
+			"api_key": "79011",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85124.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85124_lock.png"
+		},
+		"79012": {
+			"release_per_platform_id": "n64_2D4F8F1B",
+			"name": "Jukebox Victor",
+			"description": "Press the 'R' button for each Victory Vehicles song in the right order while they are playing in the Jukebox",
+			"api_key": "79012",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85125.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85125_lock.png"
+		},
+		"79013": {
+			"release_per_platform_id": "n64_2D4F8F1B",
+			"name": "Frantic Jukebox",
+			"description": "Press the 'R' button for each Frantic Finale song in the right order while they are playing in the Jukebox",
+			"api_key": "79013",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85126.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85126_lock.png"
+		},
+		"79014": {
+			"release_per_platform_id": "n64_2D4F8F1B",
+			"name": "You cheater... just kidding!",
+			"description": "Obtain a Platinum Trophy on Professional or Mirrored Mode with Negative Coins, Tiny Racers, Rainbow Goo & Disable Boost-Pads ON",
+			"api_key": "79014",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85127.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85127_lock.png"
+		},
+		"79015": {
+			"release_per_platform_id": "n64_2D4F8F1B",
+			"name": "Huehuey Dewey",
+			"description": "Obtain a Platinum Trophy on Professional or Mirrored Mode with Dewey",
+			"api_key": "79015",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85128.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85128_lock.png"
+		},
+		"79016": {
+			"release_per_platform_id": "n64_2D4F8F1B",
+			"name": "LoLouie",
+			"description": "Obtain a Platinum Trophy on Professional or Mirrored Mode with Louie",
+			"api_key": "79016",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85129.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85129_lock.png"
+		},
+		"79017": {
+			"release_per_platform_id": "n64_2D4F8F1B",
+			"name": "Ludovico Von Pato",
+			"description": "Obtain a Platinum Trophy on Professional or Mirrored Mode with Professor Ludwig Von Drake",
+			"api_key": "79017",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85130.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85130_lock.png"
+		},
+		"79018": {
+			"release_per_platform_id": "n64_2D4F8F1B",
+			"name": "Fastest Player Alive ~ Indianapolis",
+			"description": "Beat the Staff Ghost time on Indianapolis",
+			"api_key": "79018",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85131.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85131_lock.png"
+		},
+		"79019": {
+			"release_per_platform_id": "n64_2D4F8F1B",
+			"name": "Fastest Player Alive ~ San Francisco",
+			"description": "Beat the Staff Ghost time on San Francisco",
+			"api_key": "79019",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85132.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85132_lock.png"
+		},
+		"79020": {
+			"release_per_platform_id": "n64_2D4F8F1B",
+			"name": "Fastest Player Alive ~ New Mexico",
+			"description": "Beat the Staff Ghost time on New Mexico",
+			"api_key": "79020",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85133.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85133_lock.png"
+		},
+		"79021": {
+			"release_per_platform_id": "n64_2D4F8F1B",
+			"name": "Fastest Player Alive ~ Grand Canyon",
+			"description": "Beat the Staff Ghost time on Grand Canyon",
+			"api_key": "79021",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85134.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85134_lock.png"
+		},
+		"79022": {
+			"release_per_platform_id": "n64_2D4F8F1B",
+			"name": "Fastest Player Alive ~ Los Angeles",
+			"description": "Beat the Staff Ghost time on Los Angeles",
+			"api_key": "79022",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85135.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85135_lock.png"
+		},
+		"79023": {
+			"release_per_platform_id": "n64_2D4F8F1B",
+			"name": "Fastest Player Alive ~ Alaska",
+			"description": "Beat the Staff Ghost time on Alaska",
+			"api_key": "79023",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85136.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85136_lock.png"
+		},
+		"79024": {
+			"release_per_platform_id": "n64_2D4F8F1B",
+			"name": "Fastest Player Alive ~ Las Vegas",
+			"description": "Beat the Staff Ghost time on Las Vegas",
+			"api_key": "79024",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85137.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85137_lock.png"
+		},
+		"79025": {
+			"release_per_platform_id": "n64_2D4F8F1B",
+			"name": "Fastest Player Alive ~ Philadelphia",
+			"description": "Beat the Staff Ghost time on Philadelphia",
+			"api_key": "79025",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85138.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85138_lock.png"
+		},
+		"79026": {
+			"release_per_platform_id": "n64_2D4F8F1B",
+			"name": "Fastest Player Alive ~ Dakota",
+			"description": "Beat the Staff Ghost time on Dakota",
+			"api_key": "79026",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85139.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85139_lock.png"
+		},
+		"79027": {
+			"release_per_platform_id": "n64_2D4F8F1B",
+			"name": "Fastest Player Alive ~ Seattle",
+			"description": "Beat the Staff Ghost time on Seattle",
+			"api_key": "79027",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85140.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85140_lock.png"
+		},
+		"79028": {
+			"release_per_platform_id": "n64_2D4F8F1B",
+			"name": "Fastest Player Alive ~ New York",
+			"description": "Beat the Staff Ghost time on New York",
+			"api_key": "79028",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85141.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85141_lock.png"
+		},
+		"79029": {
+			"release_per_platform_id": "n64_2D4F8F1B",
+			"name": "Fastest Player Alive ~ Chicago",
+			"description": "Beat the Staff Ghost time on Chicago",
+			"api_key": "79029",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85142.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85142_lock.png"
+		},
+		"79030": {
+			"release_per_platform_id": "n64_2D4F8F1B",
+			"name": "Fastest Player Alive ~ Yellowstone",
+			"description": "Beat the Staff Ghost time on Yellowstone",
+			"api_key": "79030",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85143.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85143_lock.png"
+		},
+		"79031": {
+			"release_per_platform_id": "n64_2D4F8F1B",
+			"name": "Fastest Player Alive ~ Washington D.C.",
+			"description": "Beat the Staff Ghost time on Washington D.C.",
+			"api_key": "79031",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85144.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85144_lock.png"
+		},
+		"79032": {
+			"release_per_platform_id": "n64_2D4F8F1B",
+			"name": "Fastest Player Alive ~ Everglades",
+			"description": "Beat the Staff Ghost time on Everglades",
+			"api_key": "79032",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85145.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85145_lock.png"
+		},
+		"79033": {
+			"release_per_platform_id": "n64_2D4F8F1B",
+			"name": "Fastest Player Alive ~ Malibu",
+			"description": "Beat the Staff Ghost time on Malibu",
+			"api_key": "79033",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85146.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85146_lock.png"
+		},
+		"79034": {
+			"release_per_platform_id": "n64_2D4F8F1B",
+			"name": "Fastest Player Alive ~ Hawaii",
+			"description": "Beat the Staff Ghost time on Hawaii",
+			"api_key": "79034",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85147.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85147_lock.png"
+		},
+		"79035": {
+			"release_per_platform_id": "n64_2D4F8F1B",
+			"name": "Fastest Player Alive ~ Oregon",
+			"description": "Beat the Staff Ghost time on Oregon",
+			"api_key": "79035",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85148.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85148_lock.png"
+		},
+		"79036": {
+			"release_per_platform_id": "n64_2D4F8F1B",
+			"name": "Fastest Player Alive ~ Texas",
+			"description": "Beat the Staff Ghost time on Texas",
+			"api_key": "79036",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85149.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85149_lock.png"
+		},
+		"79037": {
+			"release_per_platform_id": "n64_2D4F8F1B",
+			"name": "Fastest Player Alive ~ Colorado",
+			"description": "Beat the Staff Ghost time on Colorado",
+			"api_key": "79037",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85150.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85150_lock.png"
+		},
+		"79038": {
+			"release_per_platform_id": "n64_2D4F8F1B",
+			"name": "Fastest Player Alive ~ New Orleans",
+			"description": "Beat the Staff Ghost time on New Orleans",
+			"api_key": "79038",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85151.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85151_lock.png"
+		}
+	}
+}

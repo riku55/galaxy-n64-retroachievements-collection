@@ -1,0 +1,676 @@
+{
+	"Achievements": {
+		"48960": {
+			"release_per_platform_id": "n64_594CDB4E",
+			"name": "Do Not Be Alarmed",
+			"description": "SA - Dam - Complete the mission without triggering a single alarm",
+			"api_key": "48960",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49900.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49900_lock.png"
+		},
+		"48961": {
+			"release_per_platform_id": "n64_594CDB4E",
+			"name": "Run, Bond, Run",
+			"description": "00 Agent - Dam -  Install the modem while only killing one enemy",
+			"api_key": "48961",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49902.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49902_lock.png"
+		},
+		"48962": {
+			"release_per_platform_id": "n64_594CDB4E",
+			"name": "Silent, But Deadly",
+			"description": "Agent - Facility - Gain Access to the lab only using the pistol (no switching)",
+			"api_key": "48962",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49903.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49903_lock.png"
+		},
+		"48963": {
+			"release_per_platform_id": "n64_594CDB4E",
+			"name": "For Science!",
+			"description": "SA - Facility - Complete the mission without killing a single scientist",
+			"api_key": "48963",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49904.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49904_lock.png"
+		},
+		"48964": {
+			"release_per_platform_id": "n64_594CDB4E",
+			"name": "Spectre",
+			"description": "00 Agent - Facility - Complete the mission without losing any health",
+			"api_key": "48964",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49905.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49905_lock.png"
+		},
+		"48966": {
+			"release_per_platform_id": "n64_594CDB4E",
+			"name": "Cool Guys Don't Look at Explosions",
+			"description": "SA - Runway -  Have the missile battery explode after boarding the plane",
+			"api_key": "48966",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49907.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49907_lock.png"
+		},
+		"48967": {
+			"release_per_platform_id": "n64_594CDB4E",
+			"name": "Getting Creative",
+			"description": "00 Agent - Runway - Complete without firing a single bullet [Explosives only]",
+			"api_key": "48967",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49908.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49908_lock.png"
+		},
+		"48969": {
+			"release_per_platform_id": "n64_594CDB4E",
+			"name": "Access Denied",
+			"description": "SA - Surface - Set off the alarm then go on to complete the mission",
+			"api_key": "48969",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49910.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49910_lock.png"
+		},
+		"48972": {
+			"release_per_platform_id": "n64_594CDB4E",
+			"name": "License to Kill",
+			"description": "SA - Bunker -  Kill 50 or more enemies and complete the mission",
+			"api_key": "48972",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49914.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49914_lock.png"
+		},
+		"48973": {
+			"release_per_platform_id": "n64_594CDB4E",
+			"name": "Let Them Watch",
+			"description": "00 Agent - Bunker - Complete objectives C,D, E  before destroying all cameras",
+			"api_key": "48973",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49915.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49915_lock.png"
+		},
+		"48986": {
+			"release_per_platform_id": "n64_594CDB4E",
+			"name": "Slapper",
+			"description": "Agent - Silo - Kill 10 enemies by slapping them and finish the mission unarmed",
+			"api_key": "48986",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49916.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49916_lock.png"
+		},
+		"48987": {
+			"release_per_platform_id": "n64_594CDB4E",
+			"name": "Ouromov's Secret",
+			"description": "SA - Silo -  Kill Ouromov and open the Silo roof using his key",
+			"api_key": "48987",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49917.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49917_lock.png"
+		},
+		"48988": {
+			"release_per_platform_id": "n64_594CDB4E",
+			"name": "Silo(w) Blow",
+			"description": "00 Agent - Silo -  Get 10 kills while crouching and aiming down the sights",
+			"api_key": "48988",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49918.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49918_lock.png"
+		},
+		"48990": {
+			"release_per_platform_id": "n64_594CDB4E",
+			"name": "A Consummate Professional",
+			"description": "SA - Frigate - Complete mission with \"Ammo on Screen\" off, and no autoaim",
+			"api_key": "48990",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49920.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49920_lock.png"
+		},
+		"48991": {
+			"release_per_platform_id": "n64_594CDB4E",
+			"name": "The Negotiator",
+			"description": "00 Agent - Frigate -  Rescue all hostages and complete the mission",
+			"api_key": "48991",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49921.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49921_lock.png"
+		},
+		"48992": {
+			"release_per_platform_id": "n64_594CDB4E",
+			"name": "Welcome to Severnaya, Comrade",
+			"description": "Agent - Surface II - Kill an enemy after the ending cinematic has commenced",
+			"api_key": "48992",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49922.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49922_lock.png"
+		},
+		"48993": {
+			"release_per_platform_id": "n64_594CDB4E",
+			"name": "Hatching A Plan",
+			"description": "SA - Surface 2 - This is a secret achievement",
+			"api_key": "48993",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49923.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49923_lock.png"
+		},
+		"48996": {
+			"release_per_platform_id": "n64_594CDB4E",
+			"name": "Over Protective",
+			"description": "SA - Bunker II - Complete objectives A, B, C before letting Natalya out of cell",
+			"api_key": "48996",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49926.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49926_lock.png"
+		},
+		"48999": {
+			"release_per_platform_id": "n64_594CDB4E",
+			"name": "Going Out On A Limb",
+			"description": "SA - Statue - Get 50 or more limb hits before rescuing Natalya",
+			"api_key": "48999",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49929.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49929_lock.png"
+		},
+		"49000": {
+			"release_per_platform_id": "n64_594CDB4E",
+			"name": "Auto Reloader",
+			"description": "00 Agent - Statue - Complete all objectives without current clip getting to 1 ",
+			"api_key": "49000",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49930.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49930_lock.png"
+		},
+		"49001": {
+			"release_per_platform_id": "n64_594CDB4E",
+			"name": "Mad Hatter",
+			"description": "SA - Archives - Shoot 5 hats off guards heads",
+			"api_key": "49001",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49931.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49931_lock.png"
+		},
+		"49003": {
+			"release_per_platform_id": "n64_594CDB4E",
+			"name": "Lambs to The Slaughter",
+			"description": "00 Agent - Archives - Kill 50 enemies before leaving the interrogation room",
+			"api_key": "49003",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49933.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49933_lock.png"
+		},
+		"49004": {
+			"release_per_platform_id": "n64_594CDB4E",
+			"name": "Squish",
+			"description": "Agent - Streets - Kill 10 enemies while on the tank without firing",
+			"api_key": "49004",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49934.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49934_lock.png"
+		},
+		"49005": {
+			"release_per_platform_id": "n64_594CDB4E",
+			"name": "No Tank You",
+			"description": "SA - Streets - Complete all objectives without riding the tank",
+			"api_key": "49005",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49935.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49935_lock.png"
+		},
+		"49006": {
+			"release_per_platform_id": "n64_594CDB4E",
+			"name": "You Call That a Road Block?",
+			"description": "00 Agent - Streets - Run over the jeeps \"blocking\" the level exit in the tank",
+			"api_key": "49006",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49936.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49936_lock.png"
+		},
+		"49009": {
+			"release_per_platform_id": "n64_594CDB4E",
+			"name": "From Russia With Love",
+			"description": "00 Agent - Depot - Kill 2 enemies with the KF7 Soviet",
+			"api_key": "49009",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49939.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49939_lock.png"
+		},
+		"49013": {
+			"release_per_platform_id": "n64_594CDB4E",
+			"name": "Ever The Gentleman",
+			"description": "Agent - Train - Complete objective C before completing objective B",
+			"api_key": "49013",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49941.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49941_lock.png"
+		},
+		"49010": {
+			"release_per_platform_id": "n64_594CDB4E",
+			"name": "Xenia Onabottom",
+			"description": "00 Agent - Train - Hit both Ouromov and Xenia when given the chance",
+			"api_key": "49010",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49940.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49940_lock.png"
+		},
+		"49030": {
+			"release_per_platform_id": "n64_594CDB4E",
+			"name": "A Helping Hand",
+			"description": "Agent - Jungle - Without firing a bullet, get 15 kills via Natalya or explosive",
+			"api_key": "49030",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49944.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49944_lock.png"
+		},
+		"49028": {
+			"release_per_platform_id": "n64_594CDB4E",
+			"name": "We All Know That Trick",
+			"description": "00 Agent - Jungle - Eliminate Xenia without going back over the bridge",
+			"api_key": "49028",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49946.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49946_lock.png"
+		},
+		"49034": {
+			"release_per_platform_id": "n64_594CDB4E",
+			"name": "Peek-A-Boo",
+			"description": "Agent - Control - Get 10 kills while peeking (aiming down the sights   leaning)",
+			"api_key": "49034",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49948.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49948_lock.png"
+		},
+		"49033": {
+			"release_per_platform_id": "n64_594CDB4E",
+			"name": "Let Boris Lead the Way",
+			"description": "SA - Control - This is a secret achievement",
+			"api_key": "49033",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49949.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49949_lock.png"
+		},
+		"49032": {
+			"release_per_platform_id": "n64_594CDB4E",
+			"name": "James, You Were Wonderful!",
+			"description": "00 Agent - Control - Destroy all 5 drone guns without losing 2  health pips",
+			"api_key": "49032",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49950.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49950_lock.png"
+		},
+		"49039": {
+			"release_per_platform_id": "n64_594CDB4E",
+			"name": "A Man of Precision",
+			"description": "Agent - Caverns - Kill 15 enemies without changing weapon or reloading",
+			"api_key": "49039",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49951.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49951_lock.png"
+		},
+		"49038": {
+			"release_per_platform_id": "n64_594CDB4E",
+			"name": "Never Say Never Again",
+			"description": "SA - Caverns - Complete the mission without aiming down the sights",
+			"api_key": "49038",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49952.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49952_lock.png"
+		},
+		"49049": {
+			"release_per_platform_id": "n64_594CDB4E",
+			"name": "From the Cradle to the Grave",
+			"description": "Agent - Cradle - Complete obj. B, then complete A before 2.42 on countdown",
+			"api_key": "49049",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49954.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49954_lock.png"
+		},
+		"49050": {
+			"release_per_platform_id": "n64_594CDB4E",
+			"name": "The Long Way Round",
+			"description": "SA - Cradle - Complete objective A and B without destroying both Drone Guns",
+			"api_key": "49050",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49955.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49955_lock.png"
+		},
+		"49051": {
+			"release_per_platform_id": "n64_594CDB4E",
+			"name": "For England, James",
+			"description": "00 Agent - Cradle - Crouch from level start until completing obj. A and B",
+			"api_key": "49051",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49956.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49956_lock.png"
+		},
+		"49053": {
+			"release_per_platform_id": "n64_594CDB4E",
+			"name": "The Glass Door Trick",
+			"description": "SA - Aztec - Complete the mission without killing Jaws",
+			"api_key": "49053",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49958.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49958_lock.png"
+		},
+		"49052": {
+			"release_per_platform_id": "n64_594CDB4E",
+			"name": "Well, Here's To Us",
+			"description": "00 Agent - Aztec - Kill Jaws",
+			"api_key": "49052",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49957.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49957_lock.png"
+		},
+		"49055": {
+			"release_per_platform_id": "n64_594CDB4E",
+			"name": "Loa of Voodoo",
+			"description": "Agent - Egyptian - Kill Baron Samedi 3 times without picking up the golden gun",
+			"api_key": "49055",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49960.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49960_lock.png"
+		},
+		"49062": {
+			"release_per_platform_id": "n64_594CDB4E",
+			"name": "DK Mode",
+			"description": "Complete Runway on Agent in 5.00 or less",
+			"api_key": "49062",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49963.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49963_lock.png"
+		},
+		"49063": {
+			"release_per_platform_id": "n64_594CDB4E",
+			"name": "Paintball Mode",
+			"description": "Complete Dam on Secret Agent in 2.40 or less",
+			"api_key": "49063",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49964.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49964_lock.png"
+		},
+		"49104": {
+			"release_per_platform_id": "n64_594CDB4E",
+			"name": "Invincible",
+			"description": "Complete Facility on 00 Agent in 2.05 or less",
+			"api_key": "49104",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49965.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49965_lock.png"
+		},
+		"49105": {
+			"release_per_platform_id": "n64_594CDB4E",
+			"name": "2x Grenade Launchers",
+			"description": "Complete Surface I on Secret Agent in 3.30 or less",
+			"api_key": "49105",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49966.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49966_lock.png"
+		},
+		"49106": {
+			"release_per_platform_id": "n64_594CDB4E",
+			"name": "2x Rocket Launchers",
+			"description": "Complete Bunker I on 00 Agent in 4.00 or less",
+			"api_key": "49106",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49967.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49967_lock.png"
+		},
+		"49107": {
+			"release_per_platform_id": "n64_594CDB4E",
+			"name": "Turbo Mode",
+			"description": "Complete Silo on Agent in 3.00 or less",
+			"api_key": "49107",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49968.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49968_lock.png"
+		},
+		"49108": {
+			"release_per_platform_id": "n64_594CDB4E",
+			"name": "No Radar (Multi)",
+			"description": "Complete Frigate on Secret Agent in 4.30 or less",
+			"api_key": "49108",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49969.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49969_lock.png"
+		},
+		"49109": {
+			"release_per_platform_id": "n64_594CDB4E",
+			"name": "Tiny Bond",
+			"description": "Complete Surface II on 00 Agent in 4.15 or less",
+			"api_key": "49109",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49970.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49970_lock.png"
+		},
+		"49110": {
+			"release_per_platform_id": "n64_594CDB4E",
+			"name": "2x Throwing Knife",
+			"description": "Complete Bunker II on Agent in 1.30 or less",
+			"api_key": "49110",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49971.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49971_lock.png"
+		},
+		"49111": {
+			"release_per_platform_id": "n64_594CDB4E",
+			"name": "Fast Animation",
+			"description": "Complete Statue on Secret Agent in 3.15 or less",
+			"api_key": "49111",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49972.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49972_lock.png"
+		},
+		"49112": {
+			"release_per_platform_id": "n64_594CDB4E",
+			"name": "Bond Invisible",
+			"description": "Complete Archives on 00 Agent in 1.20 or less",
+			"api_key": "49112",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49973.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49973_lock.png"
+		},
+		"49113": {
+			"release_per_platform_id": "n64_594CDB4E",
+			"name": "Enemy Rockets",
+			"description": "Complete Streets on Agent in 1.45 or less",
+			"api_key": "49113",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49974.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49974_lock.png"
+		},
+		"49114": {
+			"release_per_platform_id": "n64_594CDB4E",
+			"name": "Slow Animation",
+			"description": "Complete Depot on Secret Agent in 1.40 or less",
+			"api_key": "49114",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49975.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49975_lock.png"
+		},
+		"49115": {
+			"release_per_platform_id": "n64_594CDB4E",
+			"name": "Silver PP7",
+			"description": "Complete Train on 00 Agent in 5.25 or less",
+			"api_key": "49115",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49976.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49976_lock.png"
+		},
+		"49116": {
+			"release_per_platform_id": "n64_594CDB4E",
+			"name": "2x Hunting Knife",
+			"description": "Complete Jungle on Agent in 3.45 or less",
+			"api_key": "49116",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49977.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49977_lock.png"
+		},
+		"49117": {
+			"release_per_platform_id": "n64_594CDB4E",
+			"name": "Infinite Ammo",
+			"description": "Complete Control on Secret Agent in 10.00 or less",
+			"api_key": "49117",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49978.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49978_lock.png"
+		},
+		"49118": {
+			"release_per_platform_id": "n64_594CDB4E",
+			"name": "2x RC-P90",
+			"description": "Complete Caverns on 00 Agent in 9.30 or less",
+			"api_key": "49118",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49979.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49979_lock.png"
+		},
+		"49119": {
+			"release_per_platform_id": "n64_594CDB4E",
+			"name": "Gold PP7",
+			"description": "Complete Cradle on Agent in 2.15 or less",
+			"api_key": "49119",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49982.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49982_lock.png"
+		},
+		"49120": {
+			"release_per_platform_id": "n64_594CDB4E",
+			"name": "Laser",
+			"description": "Complete Aztec on Secret Agent",
+			"api_key": "49120",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49980.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49980_lock.png"
+		},
+		"49121": {
+			"release_per_platform_id": "n64_594CDB4E",
+			"name": "Golden Gun",
+			"description": "Complete Egyptian on 00 Agent",
+			"api_key": "49121",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49981.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49981_lock.png"
+		},
+		"49219": {
+			"release_per_platform_id": "n64_594CDB4E",
+			"name": "Magnum",
+			"description": "Complete Cradle on Agent ",
+			"api_key": "49219",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50011.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50011_lock.png"
+		},
+		"49220": {
+			"release_per_platform_id": "n64_594CDB4E",
+			"name": "2x Lasers",
+			"description": "Complete Aztec on Secret Agent in 9.00 or less",
+			"api_key": "49220",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50012.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50012_lock.png"
+		},
+		"49221": {
+			"release_per_platform_id": "n64_594CDB4E",
+			"name": "All Guns",
+			"description": "Complete Egyptian on 00 Agent in 6.00 or less",
+			"api_key": "49221",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50013.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50013_lock.png"
+		},
+		"49164": {
+			"release_per_platform_id": "n64_594CDB4E",
+			"name": "Agent 41 - Dam",
+			"description": "Complete Dam on Agent with the \"Enemy Rockets\" cheat on",
+			"api_key": "49164",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49669.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49669_lock.png"
+		},
+		"49165": {
+			"release_per_platform_id": "n64_594CDB4E",
+			"name": "Agent 41 - Facility",
+			"description": "Complete Facility on Agent with the \"Enemy Rockets\" cheat on",
+			"api_key": "49165",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49669.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49669_lock.png"
+		},
+		"49166": {
+			"release_per_platform_id": "n64_594CDB4E",
+			"name": "Agent 41 - Runway",
+			"description": "Complete Runway on Agent with the \"Enemy Rockets\" cheat on",
+			"api_key": "49166",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49669.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49669_lock.png"
+		},
+		"49167": {
+			"release_per_platform_id": "n64_594CDB4E",
+			"name": "Agent 41 - Surface I",
+			"description": "Complete Surface I on Agent with the \"Enemy Rockets\" cheat on",
+			"api_key": "49167",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49669.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49669_lock.png"
+		},
+		"49168": {
+			"release_per_platform_id": "n64_594CDB4E",
+			"name": "Agent 41 - Bunker I",
+			"description": "Complete Bunker I on Agent with the \"Enemy Rockets\" cheat on",
+			"api_key": "49168",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49669.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49669_lock.png"
+		},
+		"49169": {
+			"release_per_platform_id": "n64_594CDB4E",
+			"name": "Agent 41 - Silo",
+			"description": "Complete Silo on Agent with the \"Enemy Rockets\" cheat on",
+			"api_key": "49169",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49669.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49669_lock.png"
+		},
+		"49170": {
+			"release_per_platform_id": "n64_594CDB4E",
+			"name": "Agent 41 - Frigate",
+			"description": "Complete Frigate on Agent with the \"Enemy Rockets\" cheat on",
+			"api_key": "49170",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49669.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49669_lock.png"
+		},
+		"49171": {
+			"release_per_platform_id": "n64_594CDB4E",
+			"name": "Agent 41 - Surface II",
+			"description": "Complete Surface II on Agent with the \"Enemy Rockets\" cheat on",
+			"api_key": "49171",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49669.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49669_lock.png"
+		},
+		"49172": {
+			"release_per_platform_id": "n64_594CDB4E",
+			"name": "Agent 41 - Bunker II",
+			"description": "Complete Bunker II on Agent with the \"Enemy Rockets\" cheat on",
+			"api_key": "49172",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49669.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49669_lock.png"
+		},
+		"49173": {
+			"release_per_platform_id": "n64_594CDB4E",
+			"name": "Agent 41 - Statue",
+			"description": "Complete Statue on Agent with the \"Enemy Rockets\" cheat on",
+			"api_key": "49173",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49669.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49669_lock.png"
+		},
+		"49174": {
+			"release_per_platform_id": "n64_594CDB4E",
+			"name": "Agent 41 - Archives",
+			"description": "Complete Archives on Agent with the \"Enemy Rockets\" cheat on",
+			"api_key": "49174",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49669.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49669_lock.png"
+		},
+		"49175": {
+			"release_per_platform_id": "n64_594CDB4E",
+			"name": "Agent 41 - Streets",
+			"description": "Complete Streets on Agent with the \"Enemy Rockets\" cheat on",
+			"api_key": "49175",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49669.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49669_lock.png"
+		},
+		"49176": {
+			"release_per_platform_id": "n64_594CDB4E",
+			"name": "Agent 41 - Depot",
+			"description": "Complete Depot on Agent with the \"Enemy Rockets\" cheat on",
+			"api_key": "49176",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49669.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49669_lock.png"
+		},
+		"49177": {
+			"release_per_platform_id": "n64_594CDB4E",
+			"name": "Agent 41 - Train",
+			"description": "Complete Train on Agent with the \"Enemy Rockets\" cheat on",
+			"api_key": "49177",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49669.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49669_lock.png"
+		},
+		"49178": {
+			"release_per_platform_id": "n64_594CDB4E",
+			"name": "Agent 41 - Jungle",
+			"description": "Complete Jungle on Agent with the \"Enemy Rockets\" cheat on",
+			"api_key": "49178",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49669.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49669_lock.png"
+		},
+		"49179": {
+			"release_per_platform_id": "n64_594CDB4E",
+			"name": "Agent 41 - Control",
+			"description": "Complete Control on Agent with the \"Enemy Rockets\" cheat on",
+			"api_key": "49179",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49669.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49669_lock.png"
+		},
+		"49180": {
+			"release_per_platform_id": "n64_594CDB4E",
+			"name": "Agent 41 - Caverns",
+			"description": "Complete Caverns on Agent with the \"Enemy Rockets\" cheat on",
+			"api_key": "49180",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49669.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49669_lock.png"
+		},
+		"49181": {
+			"release_per_platform_id": "n64_594CDB4E",
+			"name": "Agent 41 - Cradle",
+			"description": "Complete Cradle on Agent with the \"Enemy Rockets\" cheat on",
+			"api_key": "49181",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49669.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49669_lock.png"
+		},
+		"49182": {
+			"release_per_platform_id": "n64_594CDB4E",
+			"name": "Agent 41 - Aztec",
+			"description": "Complete Aztec on Agent with the \"Enemy Rockets\" cheat on",
+			"api_key": "49182",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49669.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49669_lock.png"
+		},
+		"49183": {
+			"release_per_platform_id": "n64_594CDB4E",
+			"name": "Agent 41 - Egyptian",
+			"description": "Complete Egyptian on Agent with the \"Enemy Rockets\" cheat on",
+			"api_key": "49183",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49669.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49669_lock.png"
+		}
+	}
+}

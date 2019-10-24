@@ -1,0 +1,596 @@
+{
+	"Achievements": {
+		"57855": {
+			"release_per_platform_id": "n64_47E05128",
+			"name": "Shadow Walker",
+			"description": "Travel to the deadside for the first time",
+			"api_key": "57855",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61732.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61732_lock.png"
+		},
+		"57856": {
+			"release_per_platform_id": "n64_47E05128",
+			"name": "Les Cartes",
+			"description": "Obtain the book of Prophecy",
+			"api_key": "57856",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61744.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61744_lock.png"
+		},
+		"57857": {
+			"release_per_platform_id": "n64_47E05128",
+			"name": "Asson",
+			"description": "Obtain Asson",
+			"api_key": "57857",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61770.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61770_lock.png"
+		},
+		"57858": {
+			"release_per_platform_id": "n64_47E05128",
+			"name": "Baton",
+			"description": "Obtain Baton",
+			"api_key": "57858",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61772.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61772_lock.png"
+		},
+		"57859": {
+			"release_per_platform_id": "n64_47E05128",
+			"name": "A Book Full of Cheats",
+			"description": "Obtain the book of shadows (open inventory)",
+			"api_key": "57859",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61747.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61747_lock.png"
+		},
+		"57860": {
+			"release_per_platform_id": "n64_47E05128",
+			"name": "The Asylum",
+			"description": "Reach the asylum gateway",
+			"api_key": "57860",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61748.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61748_lock.png"
+		},
+		"57861": {
+			"release_per_platform_id": "n64_47E05128",
+			"name": "Key to Madness",
+			"description": "Obtain the Engineer's Key",
+			"api_key": "57861",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61786.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61786_lock.png"
+		},
+		"57862": {
+			"release_per_platform_id": "n64_47E05128",
+			"name": "L'Eclipser Part I",
+			"description": "Obtain La Lune",
+			"api_key": "57862",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61776.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61776_lock.png"
+		},
+		"57863": {
+			"release_per_platform_id": "n64_47E05128",
+			"name": "Temple of Fire",
+			"description": "Reach the temple of fire",
+			"api_key": "57863",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61768.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61768_lock.png"
+		},
+		"57864": {
+			"release_per_platform_id": "n64_47E05128",
+			"name": "Burning Touch",
+			"description": "Obtain the Toucher Gads",
+			"api_key": "57864",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61769.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61769_lock.png"
+		},
+		"57865": {
+			"release_per_platform_id": "n64_47E05128",
+			"name": "Cliffhanger",
+			"description": "Obtain Poigne",
+			"api_key": "57865",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61779.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61779_lock.png"
+		},
+		"57866": {
+			"release_per_platform_id": "n64_47E05128",
+			"name": "Flambeau",
+			"description": "Obtain the Flambeau",
+			"api_key": "57866",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61774.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61774_lock.png"
+		},
+		"57869": {
+			"release_per_platform_id": "n64_47E05128",
+			"name": "L'Eclipser Part II",
+			"description": "Obtain La Soleil",
+			"api_key": "57869",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61775.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61775_lock.png"
+		},
+		"57867": {
+			"release_per_platform_id": "n64_47E05128",
+			"name": "Cageways",
+			"description": "Reach the cageways in asylum",
+			"api_key": "57867",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61784.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61784_lock.png"
+		},
+		"57868": {
+			"release_per_platform_id": "n64_47E05128",
+			"name": "Key to Hell",
+			"description": "Obtain the retractor key at Asylum Cages",
+			"api_key": "57868",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61785.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61785_lock.png"
+		},
+		"57870": {
+			"release_per_platform_id": "n64_47E05128",
+			"name": "Enseigne",
+			"description": "Obtain the Enseigne",
+			"api_key": "57870",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61778.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61778_lock.png"
+		},
+		"57871": {
+			"release_per_platform_id": "n64_47E05128",
+			"name": "Playrooms",
+			"description": "Reach the asylum playrooms",
+			"api_key": "57871",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61899.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61899_lock.png"
+		},
+		"57872": {
+			"release_per_platform_id": "n64_47E05128",
+			"name": "Temple of Prophecy",
+			"description": "Reach the temple of prophecy ",
+			"api_key": "57872",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61900.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61900_lock.png"
+		},
+		"57873": {
+			"release_per_platform_id": "n64_47E05128",
+			"name": "Burning Steps",
+			"description": "Obtain the Marcher Gads",
+			"api_key": "57873",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61901.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61901_lock.png"
+		},
+		"57874": {
+			"release_per_platform_id": "n64_47E05128",
+			"name": "Marteau",
+			"description": "Obtain the Marteau",
+			"api_key": "57874",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61902.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61902_lock.png"
+		},
+		"57875": {
+			"release_per_platform_id": "n64_47E05128",
+			"name": "L'Eclipser Part III",
+			"description": "Obtain La Lame",
+			"api_key": "57875",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61777.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61777_lock.png"
+		},
+		"57876": {
+			"release_per_platform_id": "n64_47E05128",
+			"name": "The Bringer of Night",
+			"description": "Obtain all 3 parts of L'Eclipser and fulfill the prophecy",
+			"api_key": "57876",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61905.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61905_lock.png"
+		},
+		"57877": {
+			"release_per_platform_id": "n64_47E05128",
+			"name": "Shotgun",
+			"description": "Obtain the Shotgun",
+			"api_key": "57877",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61904.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61904_lock.png"
+		},
+		"57879": {
+			"release_per_platform_id": "n64_47E05128",
+			"name": "Prison Break",
+			"description": "Reach gardelle country jail",
+			"api_key": "57879",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61955.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61955_lock.png"
+		},
+		"57880": {
+			"release_per_platform_id": "n64_47E05128",
+			"name": "Prison Key Card",
+			"description": "Obtain the prison key card",
+			"api_key": "57880",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61949.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61949_lock.png"
+		},
+		"57881": {
+			"release_per_platform_id": "n64_47E05128",
+			"name": "Repo Man",
+			"description": "Defeat Marco Cruz",
+			"api_key": "57881",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61948.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61948_lock.png"
+		},
+		"57902": {
+			"release_per_platform_id": "n64_47E05128",
+			"name": "The Mist",
+			"description": "Find and defeat Marco Cruz while covered in a green fog",
+			"api_key": "57902",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61950.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61950_lock.png"
+		},
+		"57882": {
+			"release_per_platform_id": "n64_47E05128",
+			"name": "SMG",
+			"description": "Obtain smg ",
+			"api_key": "57882",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61951.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61951_lock.png"
+		},
+		"57883": {
+			"release_per_platform_id": "n64_47E05128",
+			"name": "Video Nasty Killer",
+			"description": "Defeat Milton Pike",
+			"api_key": "57883",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61952.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61952_lock.png"
+		},
+		"57884": {
+			"release_per_platform_id": "n64_47E05128",
+			"name": "Because One is not Enough",
+			"description": "Obtain the 2nd shotgun",
+			"api_key": "57884",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61953.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61953_lock.png"
+		},
+		"57885": {
+			"release_per_platform_id": "n64_47E05128",
+			"name": "Lizard King",
+			"description": "Defeat Victor Batrachian",
+			"api_key": "57885",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61954.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61954_lock.png"
+		},
+		"57886": {
+			"release_per_platform_id": "n64_47E05128",
+			"name": "Temple of Blood",
+			"description": "Reach the temple of blood",
+			"api_key": "57886",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62255.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62255_lock.png"
+		},
+		"57887": {
+			"release_per_platform_id": "n64_47E05128",
+			"name": "Hot Shower",
+			"description": "Obtain the Nager Gads",
+			"api_key": "57887",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62252.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62252_lock.png"
+		},
+		"57888": {
+			"release_per_platform_id": "n64_47E05128",
+			"name": "Lava Ducts",
+			"description": "Reach the asylum lava ducts",
+			"api_key": "57888",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62258.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62258_lock.png"
+		},
+		"57889": {
+			"release_per_platform_id": "n64_47E05128",
+			"name": "Calabash",
+			"description": "Obtain Calabash",
+			"api_key": "57889",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62256.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62256_lock.png"
+		},
+		"57890": {
+			"release_per_platform_id": "n64_47E05128",
+			"name": "London",
+			"description": "Reach Down Street Station in London",
+			"api_key": "57890",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62307.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62307_lock.png"
+		},
+		"57892": {
+			"release_per_platform_id": "n64_47E05128",
+			"name": "Jack the Ripper",
+			"description": "Defeat John G. Pierce",
+			"api_key": "57892",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62308.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62308_lock.png"
+		},
+		"57903": {
+			"release_per_platform_id": "n64_47E05128",
+			"name": "Case Closed",
+			"description": "Defeat John G. Pierce without leaving the room you first meet him",
+			"api_key": "57903",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62478.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62478_lock.png"
+		},
+		"57893": {
+			"release_per_platform_id": "n64_47E05128",
+			"name": "Undercity",
+			"description": "Reach the asylum undercity",
+			"api_key": "57893",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62482.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62482_lock.png"
+		},
+		"57894": {
+			"release_per_platform_id": "n64_47E05128",
+			"name": "New York",
+			"description": "Reach the Mordant street in New York",
+			"api_key": "57894",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62480.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62480_lock.png"
+		},
+		"57895": {
+			"release_per_platform_id": "n64_47E05128",
+			"name": "Bring the Light",
+			"description": "Obtain the flashlight",
+			"api_key": "57895",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62483.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62483_lock.png"
+		},
+		"57896": {
+			"release_per_platform_id": "n64_47E05128",
+			"name": "Home Improvement Killer",
+			"description": "Defeat Avery Marx",
+			"api_key": "57896",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62479.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62479_lock.png"
+		},
+		"57897": {
+			"release_per_platform_id": "n64_47E05128",
+			"name": "Violator",
+			"description": "Obtain all five accumulators and unlock their secrets",
+			"api_key": "57897",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62485.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62485_lock.png"
+		},
+		"57898": {
+			"release_per_platform_id": "n64_47E05128",
+			"name": "Dealer of Death",
+			"description": "Obtain both violators",
+			"api_key": "57898",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62486.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62486_lock.png"
+		},
+		"57899": {
+			"release_per_platform_id": "n64_47E05128",
+			"name": "Lord of Deadside",
+			"description": "Defeat the Legion and watch the ending  (do not skip the scenes)",
+			"api_key": "57899",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62487.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62487_lock.png"
+		},
+		"57900": {
+			"release_per_platform_id": "n64_47E05128",
+			"name": "Immortal Voodoo Warrior",
+			"description": "Defeat Legion without healing or equiping the violators",
+			"api_key": "57900",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62488.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62488_lock.png"
+		},
+		"57901": {
+			"release_per_platform_id": "n64_47E05128",
+			"name": "End of Days",
+			"description": "Alternative ending (do not skip the scenes)",
+			"api_key": "57901",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/00136.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/00136_lock.png"
+		},
+		"57904": {
+			"release_per_platform_id": "n64_47E05128",
+			"name": "Jaunty 1 - Its Just the End of the World",
+			"description": "Watch an optional cutscene with Jaunty (do not skip)",
+			"api_key": "57904",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61733.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61733_lock.png"
+		},
+		"57905": {
+			"release_per_platform_id": "n64_47E05128",
+			"name": "Nettie 1 - Hidden Souls",
+			"description": "Watch an optional cutscene with Nettie (do not skip)",
+			"api_key": "57905",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61735.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61735_lock.png"
+		},
+		"57906": {
+			"release_per_platform_id": "n64_47E05128",
+			"name": "Jaunty 2 - St. James Legacy",
+			"description": "Watch an optional cutscene with Jaunty (do not skip)",
+			"api_key": "57906",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61733.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61733_lock.png"
+		},
+		"57907": {
+			"release_per_platform_id": "n64_47E05128",
+			"name": "Nettie 2 - Path of Shadows",
+			"description": "Watch an optional cutscene with Nettie (do not skip)",
+			"api_key": "57907",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61735.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61735_lock.png"
+		},
+		"57908": {
+			"release_per_platform_id": "n64_47E05128",
+			"name": "Jaunty 3 - Long Time No See",
+			"description": "Watch an optional cutscene with Jaunty (do not skip)",
+			"api_key": "57908",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61733.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61733_lock.png"
+		},
+		"57909": {
+			"release_per_platform_id": "n64_47E05128",
+			"name": "Nettie 3 - Respect for the Souls",
+			"description": "Watch an optional cutscene with Nettie (do not skip)",
+			"api_key": "57909",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61735.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61735_lock.png"
+		},
+		"57910": {
+			"release_per_platform_id": "n64_47E05128",
+			"name": "Jaunty 4 - A Mathematical Genius",
+			"description": "Watch an optional cutscene with Jaunty (do not skip)",
+			"api_key": "57910",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61733.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61733_lock.png"
+		},
+		"57911": {
+			"release_per_platform_id": "n64_47E05128",
+			"name": "Nettie 4 - Hunger for Power",
+			"description": "Watch an optional cutscene with Nettie (do not skip)",
+			"api_key": "57911",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61735.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61735_lock.png"
+		},
+		"57912": {
+			"release_per_platform_id": "n64_47E05128",
+			"name": "Jaunty 5 - Looking for a corpse...or five",
+			"description": "Watch an optional cutscene with Jaunty (do not skip)",
+			"api_key": "57912",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61733.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61733_lock.png"
+		},
+		"57913": {
+			"release_per_platform_id": "n64_47E05128",
+			"name": "Nettie 5 - The Five Immortals",
+			"description": "Watch an optional cutscene with Nettie (do not skip)",
+			"api_key": "57913",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61735.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61735_lock.png"
+		},
+		"57914": {
+			"release_per_platform_id": "n64_47E05128",
+			"name": "Jaunty 6 - Voices in my Head",
+			"description": "Watch an optional cutscene with Jaunty (do not skip)",
+			"api_key": "57914",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61733.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61733_lock.png"
+		},
+		"57915": {
+			"release_per_platform_id": "n64_47E05128",
+			"name": "Nettie 6 - Little Brother",
+			"description": "Watch an optional cutscene with Nettie (do not skip)",
+			"api_key": "57915",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61735.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61735_lock.png"
+		},
+		"57916": {
+			"release_per_platform_id": "n64_47E05128",
+			"name": "Jaunty 7 - Sleeping Beauty",
+			"description": "Watch an optional cutscene with Jaunty (do not skip)",
+			"api_key": "57916",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61733.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61733_lock.png"
+		},
+		"57917": {
+			"release_per_platform_id": "n64_47E05128",
+			"name": "Shadow Secrets I",
+			"description": "Find the Twig Boy cheat",
+			"api_key": "57917",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61947.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61947_lock.png"
+		},
+		"57918": {
+			"release_per_platform_id": "n64_47E05128",
+			"name": "Shadow Secrets II",
+			"description": "Find the Deadsider cheat",
+			"api_key": "57918",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61947.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61947_lock.png"
+		},
+		"57919": {
+			"release_per_platform_id": "n64_47E05128",
+			"name": "Shadow Secrets III",
+			"description": "Find the Deadwing cheat",
+			"api_key": "57919",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61947.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61947_lock.png"
+		},
+		"57920": {
+			"release_per_platform_id": "n64_47E05128",
+			"name": "Shadow Secrets IV",
+			"description": "Find the Big Head Cheat",
+			"api_key": "57920",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61947.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61947_lock.png"
+		},
+		"57921": {
+			"release_per_platform_id": "n64_47E05128",
+			"name": "Shadow Secrets V",
+			"description": "Find the Deadside Shotguns cheat",
+			"api_key": "57921",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61947.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61947_lock.png"
+		},
+		"57922": {
+			"release_per_platform_id": "n64_47E05128",
+			"name": "Shadow Secrets VI",
+			"description": "Find the Pea Soup cheat",
+			"api_key": "57922",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61947.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61947_lock.png"
+		},
+		"57923": {
+			"release_per_platform_id": "n64_47E05128",
+			"name": "Shadow Secrets VII",
+			"description": "Find the dog cheat",
+			"api_key": "57923",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61947.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61947_lock.png"
+		},
+		"57924": {
+			"release_per_platform_id": "n64_47E05128",
+			"name": "Shadow Secrets VIII",
+			"description": "Find the blood shot cheat",
+			"api_key": "57924",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61947.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61947_lock.png"
+		},
+		"57925": {
+			"release_per_platform_id": "n64_47E05128",
+			"name": "Shadow Secrets IX",
+			"description": "Find the invisible man cheat",
+			"api_key": "57925",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61947.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61947_lock.png"
+		},
+		"57926": {
+			"release_per_platform_id": "n64_47E05128",
+			"name": "Shadow Secrets X",
+			"description": "Find the Duppie Cheat",
+			"api_key": "57926",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61947.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61947_lock.png"
+		},
+		"57927": {
+			"release_per_platform_id": "n64_47E05128",
+			"name": "Shadow Secrets XI",
+			"description": "Find the Wire Frame Cheat",
+			"api_key": "57927",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61947.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61947_lock.png"
+		},
+		"57928": {
+			"release_per_platform_id": "n64_47E05128",
+			"name": "A Spiritual Trade for Life Beyond",
+			"description": "Make an offering to Loa",
+			"api_key": "57928",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62489.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62489_lock.png"
+		},
+		"57929": {
+			"release_per_platform_id": "n64_47E05128",
+			"name": "Servant of Loa",
+			"description": "Make all five offerings to Loa",
+			"api_key": "57929",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62489.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62489_lock.png"
+		},
+		"57930": {
+			"release_per_platform_id": "n64_47E05128",
+			"name": "You Should Probably Just Keep for Yourself",
+			"description": "Collect 500 Cadeaux without spending any",
+			"api_key": "57930",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61773.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61773_lock.png"
+		}
+	}
+}

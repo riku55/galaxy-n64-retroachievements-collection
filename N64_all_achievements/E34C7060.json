@@ -1,0 +1,324 @@
+{
+	"Achievements": {
+		"75982": {
+			"release_per_platform_id": "n64_E34C7060",
+			"name": "Cleopactra",
+			"description": "Clear Cleopactra",
+			"api_key": "75982",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/81150.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/81150_lock.png"
+		},
+		"75983": {
+			"release_per_platform_id": "n64_E34C7060",
+			"name": "Mummy Dearest",
+			"description": "Clear Mummy Dearest",
+			"api_key": "75983",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/81152.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/81152_lock.png"
+		},
+		"75984": {
+			"release_per_platform_id": "n64_E34C7060",
+			"name": "Temple of Dots",
+			"description": "Clear Temple of Dots",
+			"api_key": "75984",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/81155.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/81155_lock.png"
+		},
+		"75985": {
+			"release_per_platform_id": "n64_E34C7060",
+			"name": "Crystal Caves",
+			"description": "Clear Crystal Caves",
+			"api_key": "75985",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/81156.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/81156_lock.png"
+		},
+		"75986": {
+			"release_per_platform_id": "n64_E34C7060",
+			"name": "Pacfooticus Stompicus",
+			"description": "Clear Pacfooticus Stompicus",
+			"api_key": "75986",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/81158.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/81158_lock.png"
+		},
+		"75987": {
+			"release_per_platform_id": "n64_E34C7060",
+			"name": "Freezer Burn",
+			"description": "Clear Freezer Burn",
+			"api_key": "75987",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/81161.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/81161_lock.png"
+		},
+		"75988": {
+			"release_per_platform_id": "n64_E34C7060",
+			"name": "Pac Ping Harbor",
+			"description": "Clear Pac Ping Harbor",
+			"api_key": "75988",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/81162.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/81162_lock.png"
+		},
+		"75989": {
+			"release_per_platform_id": "n64_E34C7060",
+			"name": "Year of the Pac",
+			"description": "Clear Year of the Pac",
+			"api_key": "75989",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/81165.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/81165_lock.png"
+		},
+		"75990": {
+			"release_per_platform_id": "n64_E34C7060",
+			"name": "Pac Crackle Pop",
+			"description": "Clear Pac Crackle Pop",
+			"api_key": "75990",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/81167.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/81167_lock.png"
+		},
+		"75991": {
+			"release_per_platform_id": "n64_E34C7060",
+			"name": "Haunted Halloween",
+			"description": "Clear Haunted Halloween",
+			"api_key": "75991",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/81168.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/81168_lock.png"
+		},
+		"75992": {
+			"release_per_platform_id": "n64_E34C7060",
+			"name": "Creature Feature",
+			"description": "Clear Creature Feature",
+			"api_key": "75992",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/81169.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/81169_lock.png"
+		},
+		"75993": {
+			"release_per_platform_id": "n64_E34C7060",
+			"name": "Watch your Pac",
+			"description": "Clear Watch your Pac",
+			"api_key": "75993",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/81173.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/81173_lock.png"
+		},
+		"75994": {
+			"release_per_platform_id": "n64_E34C7060",
+			"name": "Gobblin",
+			"description": "Clear Gobblin",
+			"api_key": "75994",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/81146.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/81146_lock.png"
+		},
+		"75995": {
+			"release_per_platform_id": "n64_E34C7060",
+			"name": "Mesmerelda",
+			"description": "Clear Mesmerelda",
+			"api_key": "75995",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/81148.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/81148_lock.png"
+		},
+		"75996": {
+			"release_per_platform_id": "n64_E34C7060",
+			"name": "Gem of Generosity",
+			"description": "Get the Gem of Generosity",
+			"api_key": "75996",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/81142.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/81142_lock.png"
+		},
+		"75997": {
+			"release_per_platform_id": "n64_E34C7060",
+			"name": "Gem of Truth",
+			"description": "Get the Gem of Truth",
+			"api_key": "75997",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/81143.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/81143_lock.png"
+		},
+		"75998": {
+			"release_per_platform_id": "n64_E34C7060",
+			"name": "Gem of Wisdom",
+			"description": "Get the Gem of Wisdom",
+			"api_key": "75998",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/81144.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/81144_lock.png"
+		},
+		"75999": {
+			"release_per_platform_id": "n64_E34C7060",
+			"name": "Gem of Courage",
+			"description": "Get the Gem of Courage",
+			"api_key": "75999",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/81145.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/81145_lock.png"
+		},
+		"76000": {
+			"release_per_platform_id": "n64_E34C7060",
+			"name": "Stars of Cleopactra",
+			"description": "Get all stars of Cleopactra",
+			"api_key": "76000",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/81151.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/81151_lock.png"
+		},
+		"76001": {
+			"release_per_platform_id": "n64_E34C7060",
+			"name": "Stars of Mummy Dearest",
+			"description": "Get all stars of Mummy Dearest",
+			"api_key": "76001",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/81153.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/81153_lock.png"
+		},
+		"76002": {
+			"release_per_platform_id": "n64_E34C7060",
+			"name": "Stars of Temple of Dots",
+			"description": "Get all stars of Temple of Dots",
+			"api_key": "76002",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/81154.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/81154_lock.png"
+		},
+		"76003": {
+			"release_per_platform_id": "n64_E34C7060",
+			"name": "Stars of Crystal Caves",
+			"description": "Get all stars of Crystal Caves",
+			"api_key": "76003",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/81157.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/81157_lock.png"
+		},
+		"76004": {
+			"release_per_platform_id": "n64_E34C7060",
+			"name": "Stars of Pacfooticus Stompicus",
+			"description": "Get all stars of Pacfooticus Stompicus",
+			"api_key": "76004",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/81159.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/81159_lock.png"
+		},
+		"76005": {
+			"release_per_platform_id": "n64_E34C7060",
+			"name": "Stars of Frezer Burn",
+			"description": "Get all stars of Freezer Burn",
+			"api_key": "76005",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/81160.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/81160_lock.png"
+		},
+		"76006": {
+			"release_per_platform_id": "n64_E34C7060",
+			"name": "Stars of Pac Ping Harbor",
+			"description": "Get all stars of Pac Ping Harbor",
+			"api_key": "76006",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/81163.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/81163_lock.png"
+		},
+		"76007": {
+			"release_per_platform_id": "n64_E34C7060",
+			"name": "Stars of Pac Year of the Pac",
+			"description": "Get all stars of Year of the Pac",
+			"api_key": "76007",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/81164.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/81164_lock.png"
+		},
+		"76008": {
+			"release_per_platform_id": "n64_E34C7060",
+			"name": "Stars of Pac Crackle Pop",
+			"description": "Get all stars of Pac Crackle Pop",
+			"api_key": "76008",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/81166.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/81166_lock.png"
+		},
+		"76009": {
+			"release_per_platform_id": "n64_E34C7060",
+			"name": "Stars of Haunted Halloween",
+			"description": "Get all stars of Haunted Halloween",
+			"api_key": "76009",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/81170.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/81170_lock.png"
+		},
+		"76010": {
+			"release_per_platform_id": "n64_E34C7060",
+			"name": "Stars of Creature Feature",
+			"description": "Get all stars of Creature Feature",
+			"api_key": "76010",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/81171.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/81171_lock.png"
+		},
+		"76011": {
+			"release_per_platform_id": "n64_E34C7060",
+			"name": "Stars of Watch your Pac",
+			"description": "Get all stars of Watch your Pac",
+			"api_key": "76011",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/81172.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/81172_lock.png"
+		},
+		"76012": {
+			"release_per_platform_id": "n64_E34C7060",
+			"name": "Bested Gobblin",
+			"description": "Defeat Gobblin without being harmed",
+			"api_key": "76012",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/81147.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/81147_lock.png"
+		},
+		"76013": {
+			"release_per_platform_id": "n64_E34C7060",
+			"name": "Bested Mesmerelda",
+			"description": "Defeat Mesmerelda without being harmed",
+			"api_key": "76013",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/81149.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/81149_lock.png"
+		},
+		"76016": {
+			"release_per_platform_id": "n64_E34C7060",
+			"name": "Cherry Maze",
+			"description": "Eat all dots of the Cherry Maze playing classic Ms. Pac-Man",
+			"api_key": "76016",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/81179.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/81179_lock.png"
+		},
+		"76017": {
+			"release_per_platform_id": "n64_E34C7060",
+			"name": "Strawberry Maze",
+			"description": "Eat all dots of the Strawberry Maze playing classic Ms. Pac-Man",
+			"api_key": "76017",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/81180.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/81180_lock.png"
+		},
+		"76018": {
+			"release_per_platform_id": "n64_E34C7060",
+			"name": "Orange Maze",
+			"description": "Eat all dots of the Orange Maze playing classic Ms. Pac-Man",
+			"api_key": "76018",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/81181.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/81181_lock.png"
+		},
+		"76019": {
+			"release_per_platform_id": "n64_E34C7060",
+			"name": "Pretzel Maze",
+			"description": "Eat all dots of the Pretzel Maze playing classic Ms. Pac-Man",
+			"api_key": "76019",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/81182.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/81182_lock.png"
+		},
+		"76020": {
+			"release_per_platform_id": "n64_E34C7060",
+			"name": "Apple Maze",
+			"description": "Eat all dots of the Apple Maze playing classic Ms. Pac-Man",
+			"api_key": "76020",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/81183.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/81183_lock.png"
+		},
+		"76021": {
+			"release_per_platform_id": "n64_E34C7060",
+			"name": "Pear Maze",
+			"description": "Eat all dots of the Pear Maze playing classic Ms. Pac-Man",
+			"api_key": "76021",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/81184.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/81184_lock.png"
+		},
+		"76022": {
+			"release_per_platform_id": "n64_E34C7060",
+			"name": "Banana Maze",
+			"description": "Eat all dots of the Banana Maze playing classic Ms. Pac-Man",
+			"api_key": "76022",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/81185.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/81185_lock.png"
+		},
+		"76023": {
+			"release_per_platform_id": "n64_E34C7060",
+			"name": "Extra Life",
+			"description": "Earn an Extra Life playing classic Ms. Pac-Man",
+			"api_key": "76023",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/81187.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/81187_lock.png"
+		}
+	}
+}

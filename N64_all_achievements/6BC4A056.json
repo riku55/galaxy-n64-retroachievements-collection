@@ -1,0 +1,444 @@
+{
+	"Achievements": {
+		"48866": {
+			"release_per_platform_id": "n64_6BC4A056",
+			"name": "Another Bug In My Gut~",
+			"description": "Reach max hp by collecting 100 total pawprints.",
+			"api_key": "48866",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49148.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49148_lock.png"
+		},
+		"48888": {
+			"release_per_platform_id": "n64_6BC4A056",
+			"name": "Getting My Fill Of TV",
+			"description": "Have a total of 20 lives.",
+			"api_key": "48888",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49600.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49600_lock.png"
+		},
+		"48861": {
+			"release_per_platform_id": "n64_6BC4A056",
+			"name": "Caught Red-handed",
+			"description": "Collect the Red Pawprint Key to unlock the Lake Flaccid hub.",
+			"api_key": "48861",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49149.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49149_lock.png"
+		},
+		"48862": {
+			"release_per_platform_id": "n64_6BC4A056",
+			"name": "WWGex Superstar",
+			"description": "Collect the Green Pawprint Key to unlock the Slappy Valley hub.",
+			"api_key": "48862",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49162.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49162_lock.png"
+		},
+		"48863": {
+			"release_per_platform_id": "n64_6BC4A056",
+			"name": "Lizard of Oz",
+			"description": "Collect the Blue Pawprint Key to unlock the Funky Town hub.",
+			"api_key": "48863",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49165.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49165_lock.png"
+		},
+		"48838": {
+			"release_per_platform_id": "n64_6BC4A056",
+			"name": "Lock And Load, Little Lizard",
+			"description": "Obtain all remotes and collectibles in Mission Control.",
+			"api_key": "48838",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49163.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49163_lock.png"
+		},
+		"48839": {
+			"release_per_platform_id": "n64_6BC4A056",
+			"name": "Flaccid Reflux",
+			"description": "Obtain all remotes and collectibles in Lake Flaccid.",
+			"api_key": "48839",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49156.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49156_lock.png"
+		},
+		"48848": {
+			"release_per_platform_id": "n64_6BC4A056",
+			"name": "Valley of the Gex",
+			"description": "Obtain all remotes and collectibles in Slappy Valley.",
+			"api_key": "48848",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49171.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49171_lock.png"
+		},
+		"48855": {
+			"release_per_platform_id": "n64_6BC4A056",
+			"name": "Won't You Take Me To",
+			"description": "Obtain all remotes and collectibles in Funky Town.",
+			"api_key": "48855",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49265.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49265_lock.png"
+		},
+		"48834": {
+			"release_per_platform_id": "n64_6BC4A056",
+			"name": "Jack Gexington",
+			"description": "Obtain all objective remotes in Totally Scrooged.",
+			"api_key": "48834",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49144.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49144_lock.png"
+		},
+		"48835": {
+			"release_per_platform_id": "n64_6BC4A056",
+			"name": "My Favorite Holiday, Halloween",
+			"description": "Obtain the fly remote and all collectibles in Totally Scrooged.",
+			"api_key": "48835",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49145.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49145_lock.png"
+		},
+		"48836": {
+			"release_per_platform_id": "n64_6BC4A056",
+			"name": "Goldfinger's Fortress, This Is Not",
+			"description": "Obtain all objective remotes in Clueless In Seattle.",
+			"api_key": "48836",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49146.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49146_lock.png"
+		},
+		"48837": {
+			"release_per_platform_id": "n64_6BC4A056",
+			"name": "All This Fancy Stuff And No TV?",
+			"description": "Obtain the fly remote and all collectibles in Clueless In Seattle.",
+			"api_key": "48837",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49147.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49147_lock.png"
+		},
+		"48840": {
+			"release_per_platform_id": "n64_6BC4A056",
+			"name": "I Am Selling This Hat",
+			"description": "Obtain all objective remotes in Holy Moses!",
+			"api_key": "48840",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49150.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49150_lock.png"
+		},
+		"48841": {
+			"release_per_platform_id": "n64_6BC4A056",
+			"name": "All The Clams I Can Eat",
+			"description": "Obtain the fly remote and all collectibles in Holy Moses!",
+			"api_key": "48841",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49151.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49151_lock.png"
+		},
+		"48842": {
+			"release_per_platform_id": "n64_6BC4A056",
+			"name": "Make Love, Not War",
+			"description": "Obtain all objective remotes in War Is Heck.",
+			"api_key": "48842",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49152.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49152_lock.png"
+		},
+		"48843": {
+			"release_per_platform_id": "n64_6BC4A056",
+			"name": "I Can Accessorize This",
+			"description": "Obtain the fly remote and all collectibles in War Is Heck.",
+			"api_key": "48843",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49153.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49153_lock.png"
+		},
+		"48844": {
+			"release_per_platform_id": "n64_6BC4A056",
+			"name": "Captain Scurvy Needs A Backrub",
+			"description": "Obtain all objective remotes in Cutcheese Island.",
+			"api_key": "48844",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49157.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49157_lock.png"
+		},
+		"48845": {
+			"release_per_platform_id": "n64_6BC4A056",
+			"name": "A Pirate's Life For Me",
+			"description": "Obtain the fly remote and all collectibles in Cutcheese Island.",
+			"api_key": "48845",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49158.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49158_lock.png"
+		},
+		"48846": {
+			"release_per_platform_id": "n64_6BC4A056",
+			"name": "Go Ahead, Make My Lunch...",
+			"description": "Obtain all objective remotes in the Organ Trail.",
+			"api_key": "48846",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49160.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49160_lock.png"
+		},
+		"48847": {
+			"release_per_platform_id": "n64_6BC4A056",
+			"name": "There's Gold Down There",
+			"description": "Obtain the fly remote and all collectibles in the Organ Trail.",
+			"api_key": "48847",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49161.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49161_lock.png"
+		},
+		"48849": {
+			"release_per_platform_id": "n64_6BC4A056",
+			"name": "It's All Greek To Me",
+			"description": "Obtain all objective remotes in Et Tu Gecko?",
+			"api_key": "48849",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49167.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49167_lock.png"
+		},
+		"48850": {
+			"release_per_platform_id": "n64_6BC4A056",
+			"name": "Here Comes The Gexonaut!",
+			"description": "Obtain the fly remote and all collectibles in Et Tu Gecko?",
+			"api_key": "48850",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49166.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49166_lock.png"
+		},
+		"48851": {
+			"release_per_platform_id": "n64_6BC4A056",
+			"name": "I'll Climb It, But I'm Not Gonna Like It",
+			"description": "Obtain all objective remotes in Bean Stalker.",
+			"api_key": "48851",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49186.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49186_lock.png"
+		},
+		"48852": {
+			"release_per_platform_id": "n64_6BC4A056",
+			"name": "Fee, Fi, Fo-get It",
+			"description": "Obtain the fly remote and all collectibles in Bean Stalker.",
+			"api_key": "48852",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49187.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49187_lock.png"
+		},
+		"48853": {
+			"release_per_platform_id": "n64_6BC4A056",
+			"name": "Take Me To Your Lizard",
+			"description": "Obtain all objective remotes in When Sushi Goes Bad.",
+			"api_key": "48853",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49188.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49188_lock.png"
+		},
+		"48854": {
+			"release_per_platform_id": "n64_6BC4A056",
+			"name": "A Chance For Some Cartoon Angst",
+			"description": "Obtain the fly remote and all collectibles in When Sushi Goes Bad.",
+			"api_key": "48854",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49189.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49189_lock.png"
+		},
+		"48856": {
+			"release_per_platform_id": "n64_6BC4A056",
+			"name": "Turn Left On Broadway",
+			"description": "Obtain all objective remotes in Superzeroes.",
+			"api_key": "48856",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49238.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49238_lock.png"
+		},
+		"48857": {
+			"release_per_platform_id": "n64_6BC4A056",
+			"name": "I'm Gecko Plisken",
+			"description": "Obtain the fly remote and all collectibles in Superzeroes.",
+			"api_key": "48857",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49239.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49239_lock.png"
+		},
+		"48858": {
+			"release_per_platform_id": "n64_6BC4A056",
+			"name": "This Whole Level's Out Of Order!",
+			"description": "Obtain all objective remotes in My Three Goons.",
+			"api_key": "48858",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49242.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49242_lock.png"
+		},
+		"48859": {
+			"release_per_platform_id": "n64_6BC4A056",
+			"name": "Play It Again, Sam",
+			"description": "Obtain the fly remote and all collectibles in My Three Goons.",
+			"api_key": "48859",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49243.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49243_lock.png"
+		},
+		"48860": {
+			"release_per_platform_id": "n64_6BC4A056",
+			"name": "Savior of the Media Dimension (Again)",
+			"description": "Defeat Rez and save Agent Xtra.",
+			"api_key": "48860",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49247.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49247_lock.png"
+		},
+		"48864": {
+			"release_per_platform_id": "n64_6BC4A056",
+			"name": "Original Character Do Not Steal",
+			"description": "Free Rex from his icy prison.",
+			"api_key": "48864",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49155.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49155_lock.png"
+		},
+		"48865": {
+			"release_per_platform_id": "n64_6BC4A056",
+			"name": "Just Cuz",
+			"description": "Free Cuz from his prison and get the remote for it.",
+			"api_key": "48865",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49246.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49246_lock.png"
+		},
+		"48872": {
+			"release_per_platform_id": "n64_6BC4A056",
+			"name": "Bonus Control",
+			"description": "Complete all bonuses in Mission Control.",
+			"api_key": "48872",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49248.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49248_lock.png"
+		},
+		"48873": {
+			"release_per_platform_id": "n64_6BC4A056",
+			"name": "Bonus Flaccidity",
+			"description": "Complete all bonuses in Lake Flaccid.",
+			"api_key": "48873",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49248.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49248_lock.png"
+		},
+		"48874": {
+			"release_per_platform_id": "n64_6BC4A056",
+			"name": "Bonus Valley",
+			"description": "Complete all bonuses in Slappy Valley.",
+			"api_key": "48874",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49248.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49248_lock.png"
+		},
+		"48875": {
+			"release_per_platform_id": "n64_6BC4A056",
+			"name": "Bonus Funk",
+			"description": "Complete all bonuses in Funky Town.",
+			"api_key": "48875",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49248.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49248_lock.png"
+		},
+		"48867": {
+			"release_per_platform_id": "n64_6BC4A056",
+			"name": "Peg Leg Polka",
+			"description": "Find the Shield inside the Pirate Ship.",
+			"api_key": "48867",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49192.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49192_lock.png"
+		},
+		"48868": {
+			"release_per_platform_id": "n64_6BC4A056",
+			"name": "Temple of Gloom",
+			"description": "Find the Skull inside the Temple of Gloom.",
+			"api_key": "48868",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49159.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49159_lock.png"
+		},
+		"48869": {
+			"release_per_platform_id": "n64_6BC4A056",
+			"name": "The Abyssmal",
+			"description": "Find the Starfish inside the Abyss.",
+			"api_key": "48869",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49168.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49168_lock.png"
+		},
+		"48870": {
+			"release_per_platform_id": "n64_6BC4A056",
+			"name": "Cheesy Rider",
+			"description": "Find the Biohazard at the beach.",
+			"api_key": "48870",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49244.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49244_lock.png"
+		},
+		"48871": {
+			"release_per_platform_id": "n64_6BC4A056",
+			"name": "Secrets In Secrets",
+			"description": "Find the bonus coin inside the Abyss.",
+			"api_key": "48871",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/00087.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/00087_lock.png"
+		},
+		"48885": {
+			"release_per_platform_id": "n64_6BC4A056",
+			"name": "Muscle Flexing 101",
+			"description": "Beat Rock Hard without taking damage.",
+			"api_key": "48885",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49534.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49534_lock.png"
+		},
+		"48886": {
+			"release_per_platform_id": "n64_6BC4A056",
+			"name": "Watch Out For Pesky Rezlings",
+			"description": "Beat the Lizard of Oz without taking damage.",
+			"api_key": "48886",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49595.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49595_lock.png"
+		},
+		"48887": {
+			"release_per_platform_id": "n64_6BC4A056",
+			"name": "Sins Of The Father",
+			"description": "Beat Rez without taking damage.",
+			"api_key": "48887",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49598.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49598_lock.png"
+		},
+		"48876": {
+			"release_per_platform_id": "n64_6BC4A056",
+			"name": "I'm Going Walkabout",
+			"description": "Complete Mission Control's Marsupial Madness bonus with at least 1m50s left.",
+			"api_key": "48876",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49519.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49519_lock.png"
+		},
+		"48877": {
+			"release_per_platform_id": "n64_6BC4A056",
+			"name": "Check Me Out, I'm Extreme",
+			"description": "Complete Mission Control's Gextreme Sports bonus with at least 1m50s left.",
+			"api_key": "48877",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49520.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49520_lock.png"
+		},
+		"48878": {
+			"release_per_platform_id": "n64_6BC4A056",
+			"name": "I Could Use A Siesta",
+			"description": "Complete Lake Flaccid's True Grits bonus with at least 1m15s left.",
+			"api_key": "48878",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49521.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49521_lock.png"
+		},
+		"48879": {
+			"release_per_platform_id": "n64_6BC4A056",
+			"name": "Reptile On Reptile Action",
+			"description": "Complete Lake Flaccid's What A Crock! bonus with at least 1m25s left",
+			"api_key": "48879",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49522.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49522_lock.png"
+		},
+		"48880": {
+			"release_per_platform_id": "n64_6BC4A056",
+			"name": "I Get Paid For This?",
+			"description": "Complete Lake Flaccid's War And Pieces bonus with at least 1m20s left.",
+			"api_key": "48880",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49524.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49524_lock.png"
+		},
+		"48881": {
+			"release_per_platform_id": "n64_6BC4A056",
+			"name": "Polka Folka",
+			"description": "Completeb Peg Leg Polka with at least 1m55s left.",
+			"api_key": "48881",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49544.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49544_lock.png"
+		},
+		"48882": {
+			"release_per_platform_id": "n64_6BC4A056",
+			"name": "Gexiana Jonesy",
+			"description": "Completeb Temple of Gloom with at least 1m45s left.",
+			"api_key": "48882",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49593.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49593_lock.png"
+		},
+		"48883": {
+			"release_per_platform_id": "n64_6BC4A056",
+			"name": "Abyssmal Performance",
+			"description": "Completeb The Abyssmal with at least 3m left.",
+			"api_key": "48883",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49594.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49594_lock.png"
+		},
+		"48884": {
+			"release_per_platform_id": "n64_6BC4A056",
+			"name": "Cheese Whiz",
+			"description": "Completeb Cheesy Rider with at least 2m20s left.",
+			"api_key": "48884",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49596.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49596_lock.png"
+		}
+	}
+}

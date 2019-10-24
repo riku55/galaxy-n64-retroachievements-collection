@@ -1,0 +1,164 @@
+{
+	"Achievements": {
+		"65504": {
+			"release_per_platform_id": "n64_6F6262CB",
+			"name": "Race - Los Angeles ",
+			"description": "Win a race in Los Angeles",
+			"api_key": "65504",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68786.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68786_lock.png"
+		},
+		"65505": {
+			"release_per_platform_id": "n64_6F6262CB",
+			"name": "Race - Mt. Sasha",
+			"description": "Win a race in Mount Sasha",
+			"api_key": "65505",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68787.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68787_lock.png"
+		},
+		"65506": {
+			"release_per_platform_id": "n64_6F6262CB",
+			"name": "Race - Yosemite",
+			"description": "Win a race in Yosemite",
+			"api_key": "65506",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68788.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68788_lock.png"
+		},
+		"65507": {
+			"release_per_platform_id": "n64_6F6262CB",
+			"name": "Race - Movaje Desert",
+			"description": "Win a race in Mojave Desert",
+			"api_key": "65507",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68789.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68789_lock.png"
+		},
+		"65508": {
+			"release_per_platform_id": "n64_6F6262CB",
+			"name": "Race - Monterrey",
+			"description": "Win a race in Monterrey",
+			"api_key": "65508",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68790.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68790_lock.png"
+		},
+		"65509": {
+			"release_per_platform_id": "n64_6F6262CB",
+			"name": "Race - Sillicon Valley",
+			"description": "Win a race in Sillicon Valley",
+			"api_key": "65509",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68791.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68791_lock.png"
+		},
+		"65510": {
+			"release_per_platform_id": "n64_6F6262CB",
+			"name": "Race - Highway",
+			"description": "Win a race in Highway 1",
+			"api_key": "65510",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68792.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68792_lock.png"
+		},
+		"65511": {
+			"release_per_platform_id": "n64_6F6262CB",
+			"name": "Race - San Fransisco",
+			"description": "Win a race in San Fransisco",
+			"api_key": "65511",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68793.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68793_lock.png"
+		},
+		"65512": {
+			"release_per_platform_id": "n64_6F6262CB",
+			"name": "Race - Central Valley",
+			"description": "Win a race in Central Valley",
+			"api_key": "65512",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68794.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68794_lock.png"
+		},
+		"65513": {
+			"release_per_platform_id": "n64_6F6262CB",
+			"name": "Race - Santa Cruz",
+			"description": "Win a race in Santa Cruz",
+			"api_key": "65513",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68795.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68795_lock.png"
+		},
+		"65514": {
+			"release_per_platform_id": "n64_6F6262CB",
+			"name": "Race - San Diego",
+			"description": "Win a race in San Diego",
+			"api_key": "65514",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68796.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68796_lock.png"
+		},
+		"65515": {
+			"release_per_platform_id": "n64_6F6262CB",
+			"name": "Mirror Race",
+			"description": "Win a race in Mirror Race",
+			"api_key": "65515",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68797.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68797_lock.png"
+		},
+		"65516": {
+			"release_per_platform_id": "n64_6F6262CB",
+			"name": "Light Race",
+			"description": "Win a race with Light Vehicle",
+			"api_key": "65516",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68798.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68798_lock.png"
+		},
+		"65517": {
+			"release_per_platform_id": "n64_6F6262CB",
+			"name": "Classic Race",
+			"description": "Win a race with Classic Vehicle",
+			"api_key": "65517",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68799.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68799_lock.png"
+		},
+		"65518": {
+			"release_per_platform_id": "n64_6F6262CB",
+			"name": "Sports Race",
+			"description": "Win a race with Sports Vehicle",
+			"api_key": "65518",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68800.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68800_lock.png"
+		},
+		"65519": {
+			"release_per_platform_id": "n64_6F6262CB",
+			"name": "Heavy Race",
+			"description": "Win a race with Heavy Vehicle",
+			"api_key": "65519",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68801.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68801_lock.png"
+		},
+		"65520": {
+			"release_per_platform_id": "n64_6F6262CB",
+			"name": "Super Race",
+			"description": "Win a race with 7 opponents and heave traffic",
+			"api_key": "65520",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68802.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68802_lock.png"
+		},
+		"65522": {
+			"release_per_platform_id": "n64_6F6262CB",
+			"name": "Light Series",
+			"description": "Complete Light Series",
+			"api_key": "65522",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68804.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68804_lock.png"
+		},
+		"65523": {
+			"release_per_platform_id": "n64_6F6262CB",
+			"name": "Sports Series",
+			"description": "Complete Sports Series",
+			"api_key": "65523",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68805.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68805_lock.png"
+		},
+		"65524": {
+			"release_per_platform_id": "n64_6F6262CB",
+			"name": "Heavy Series",
+			"description": "Complete Heavy Series",
+			"api_key": "65524",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68806.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68806_lock.png"
+		}
+	}
+}

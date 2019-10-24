@@ -1,0 +1,364 @@
+{
+	"Achievements": {
+		"66972": {
+			"release_per_platform_id": "n64_0F323D00",
+			"name": "Fatality MKT",
+			"description": "Perform a Fatality",
+			"api_key": "66972",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70498.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70498_lock.png"
+		},
+		"66973": {
+			"release_per_platform_id": "n64_0F323D00",
+			"name": "Tiny Baby Man",
+			"description": "Perform a Babality",
+			"api_key": "66973",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70499.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70499_lock.png"
+		},
+		"66974": {
+			"release_per_platform_id": "n64_0F323D00",
+			"name": "Friendship, Friendship, again?!",
+			"description": "Perform a Friendship",
+			"api_key": "66974",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70503.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70503_lock.png"
+		},
+		"66975": {
+			"release_per_platform_id": "n64_0F323D00",
+			"name": "RAWR! Animality!",
+			"description": "Perform an Animality",
+			"api_key": "66975",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70501.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70501_lock.png"
+		},
+		"66976": {
+			"release_per_platform_id": "n64_0F323D00",
+			"name": "Flying Bones Everywhere",
+			"description": "Perform a Brutality",
+			"api_key": "66976",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70502.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70502_lock.png"
+		},
+		"66982": {
+			"release_per_platform_id": "n64_0F323D00",
+			"name": "I Feel Pit For You",
+			"description": "Perform a Pit Fatality",
+			"api_key": "66982",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70505.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70505_lock.png"
+		},
+		"66981": {
+			"release_per_platform_id": "n64_0F323D00",
+			"name": "AW WHA!?",
+			"description": "Super-Mega-Ultra-Hidden cheat enabled",
+			"api_key": "66981",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70519.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70519_lock.png"
+		},
+		"66977": {
+			"release_per_platform_id": "n64_0F323D00",
+			"name": "Novice Ladder",
+			"description": "Complete 'Novice' Ladder on Normal difficulty (3 Rounds)",
+			"api_key": "66977",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70530.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70530_lock.png"
+		},
+		"66978": {
+			"release_per_platform_id": "n64_0F323D00",
+			"name": "Warrior Ladder",
+			"description": "Complete 'Warrior' Ladder on Hard Difficulty (3 Rounds)",
+			"api_key": "66978",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70529.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70529_lock.png"
+		},
+		"66979": {
+			"release_per_platform_id": "n64_0F323D00",
+			"name": "Master Ladder",
+			"description": "Complete 'Master' Ladder on Hard difficulty (3 Rounds)",
+			"api_key": "66979",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70532.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70532_lock.png"
+		},
+		"66980": {
+			"release_per_platform_id": "n64_0F323D00",
+			"name": "Champion Ladder",
+			"description": "Complete 'Champion' Ladder on Very Hard difficulty (3 Rounds)",
+			"api_key": "66980",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70531.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70531_lock.png"
+		},
+		"66983": {
+			"release_per_platform_id": "n64_0F323D00",
+			"name": "Flawless Victory MKT",
+			"description": "Win with a 'Flawless' against CPU",
+			"api_key": "66983",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70525.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70525_lock.png"
+		},
+		"66984": {
+			"release_per_platform_id": "n64_0F323D00",
+			"name": "Completality",
+			"description": "During an arcade playthrough, perform all finishing moves",
+			"api_key": "66984",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70553.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70553_lock.png"
+		},
+		"66944": {
+			"release_per_platform_id": "n64_0F323D00",
+			"name": "One Eye Champ",
+			"description": "Complete any Arcade Ladder as Kano (3 Rounds | Medium difficulty)",
+			"api_key": "66944",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70472.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70472_lock.png"
+		},
+		"66945": {
+			"release_per_platform_id": "n64_0F323D00",
+			"name": "General Blade",
+			"description": "Complete any Arcade Ladder as Sonya (3 Rounds | Medium difficulty)",
+			"api_key": "66945",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70473.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70473_lock.png"
+		},
+		"66946": {
+			"release_per_platform_id": "n64_0F323D00",
+			"name": "Major Jackson",
+			"description": "Complete any Arcade Ladder as Jax (3 Rounds | Medium difficulty)",
+			"api_key": "66946",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70474.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70474_lock.png"
+		},
+		"66947": {
+			"release_per_platform_id": "n64_0F323D00",
+			"name": "Nightdog",
+			"description": "Complete any Arcade Ladder as Nightwolf (3 Rounds | Medium difficulty)",
+			"api_key": "66947",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70475.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70475_lock.png"
+		},
+		"66948": {
+			"release_per_platform_id": "n64_0F323D00",
+			"name": "Johnny Bravo",
+			"description": "Complete any Arcade Ladder as Johnny Cage (3 Rounds | Medium difficulty)",
+			"api_key": "66948",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70476.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70476_lock.png"
+		},
+		"66949": {
+			"release_per_platform_id": "n64_0F323D00",
+			"name": "Donuts Eater",
+			"description": "Complete any Arcade Ladder as Striker (3 Rounds | Medium difficulty)",
+			"api_key": "66949",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70477.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70477_lock.png"
+		},
+		"66950": {
+			"release_per_platform_id": "n64_0F323D00",
+			"name": "Sinderella",
+			"description": "Complete any Arcade Ladder as Sindel (3 Rounds | Medium difficulty)",
+			"api_key": "66950",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70478.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70478_lock.png"
+		},
+		"66951": {
+			"release_per_platform_id": "n64_0F323D00",
+			"name": "Red Cyrax",
+			"description": "Complete any Arcade Ladder as Sektor (3 Rounds | Medium difficulty)",
+			"api_key": "66951",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70479.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70479_lock.png"
+		},
+		"66952": {
+			"release_per_platform_id": "n64_0F323D00",
+			"name": "Yellow Sektor",
+			"description": "Complete any Arcade Ladder as Cyrax (3 Rounds | Medium difficulty)",
+			"api_key": "66952",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70480.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70480_lock.png"
+		},
+		"66953": {
+			"release_per_platform_id": "n64_0F323D00",
+			"name": "Mycorobotium Tuberculosis",
+			"description": "Complete any Arcade Ladder as Smoke (3 Rounds | Medium difficulty)",
+			"api_key": "66953",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70481.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70481_lock.png"
+		},
+		"66954": {
+			"release_per_platform_id": "n64_0F323D00",
+			"name": "Kung Fu Lao",
+			"description": "Complete any Arcade Ladder as Kung Lao (3 Rounds | Medium difficulty)",
+			"api_key": "66954",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70482.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70482_lock.png"
+		},
+		"66955": {
+			"release_per_platform_id": "n64_0F323D00",
+			"name": "Pretty Face",
+			"description": "Complete any Arcade Ladder as Kabal (3 Rounds | Medium difficulty)",
+			"api_key": "66955",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70483.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70483_lock.png"
+		},
+		"66956": {
+			"release_per_platform_id": "n64_0F323D00",
+			"name": "Female Goro",
+			"description": "Complete any Arcade Ladder as Sheeva (3 Rounds | Medium difficulty)",
+			"api_key": "66956",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70484.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70484_lock.png"
+		},
+		"66957": {
+			"release_per_platform_id": "n64_0F323D00",
+			"name": "Soul Sucker",
+			"description": "Complete any Arcade Ladder as Shang Tsung (3 Rounds | Medium difficulty)",
+			"api_key": "66957",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70485.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70485_lock.png"
+		},
+		"66958": {
+			"release_per_platform_id": "n64_0F323D00",
+			"name": "Fei Long on Steroids",
+			"description": "Complete any Arcade Ladder as Liu Kang (3 Rounds | Medium difficulty)",
+			"api_key": "66958",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70486.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70486_lock.png"
+		},
+		"66959": {
+			"release_per_platform_id": "n64_0F323D00",
+			"name": "Edenia Princess",
+			"description": "Complete any Arcade Ladder as Kitana (3 Rounds | Medium difficulty)",
+			"api_key": "66959",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70487.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70487_lock.png"
+		},
+		"66960": {
+			"release_per_platform_id": "n64_0F323D00",
+			"name": "Poledancer",
+			"description": "Complete any Arcade Ladder as Jade (3 Rounds | Medium difficulty)",
+			"api_key": "66960",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70488.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70488_lock.png"
+		},
+		"66961": {
+			"release_per_platform_id": "n64_0F323D00",
+			"name": "Maneater",
+			"description": "Complete any Arcade Ladder as Mileena (3 Rounds | Medium difficulty)",
+			"api_key": "66961",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70489.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70489_lock.png"
+		},
+		"66962": {
+			"release_per_platform_id": "n64_0F323D00",
+			"name": "Get over...",
+			"description": "Complete any Arcade Ladder as Scorpion (3 Rounds | Medium difficulty)",
+			"api_key": "66962",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70490.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70490_lock.png"
+		},
+		"66963": {
+			"release_per_platform_id": "n64_0F323D00",
+			"name": "Definitely not a Reptile",
+			"description": "Complete any Arcade Ladder as Reptile (3 Rounds | Medium difficulty)",
+			"api_key": "66963",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70491.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70491_lock.png"
+		},
+		"66964": {
+			"release_per_platform_id": "n64_0F323D00",
+			"name": "Ermac OS",
+			"description": "Complete any Arcade Ladder as Ermac (3 Rounds | Medium difficulty)",
+			"api_key": "66964",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70492.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70492_lock.png"
+		},
+		"66965": {
+			"release_per_platform_id": "n64_0F323D00",
+			"name": "Ninja Sub-Zero",
+			"description": "Complete any Arcade Ladder as Sub-Zero (3 Rounds | Medium difficulty)",
+			"api_key": "66965",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70493.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70493_lock.png"
+		},
+		"66966": {
+			"release_per_platform_id": "n64_0F323D00",
+			"name": "SMOKE ALLOWED",
+			"description": "Complete any Arcade Ladder as H. Smoke (3 Rounds | Medium difficulty)",
+			"api_key": "66966",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70504.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70504_lock.png"
+		},
+		"66967": {
+			"release_per_platform_id": "n64_0F323D00",
+			"name": "Loser",
+			"description": "Complete any Arcade Ladder as Noob Saibot (3 Rounds | Medium difficulty)",
+			"api_key": "66967",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70494.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70494_lock.png"
+		},
+		"66968": {
+			"release_per_platform_id": "n64_0F323D00",
+			"name": "Thunder God",
+			"description": "Complete any Arcade Ladder as Raiden (3 Rounds | Medium difficulty)",
+			"api_key": "66968",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70495.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70495_lock.png"
+		},
+		"66969": {
+			"release_per_platform_id": "n64_0F323D00",
+			"name": "Crazy Alien",
+			"description": "Complete any Arcade Ladder as Baraka (3 Rounds | Medium difficulty)",
+			"api_key": "66969",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70496.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70496_lock.png"
+		},
+		"66970": {
+			"release_per_platform_id": "n64_0F323D00",
+			"name": "Rainy Ninja",
+			"description": "Complete any Arcade Ladder as Raiden (3 Rounds | Medium difficulty)",
+			"api_key": "66970",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70497.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70497_lock.png"
+		},
+		"66971": {
+			"release_per_platform_id": "n64_0F323D00",
+			"name": "Triple Sensuality",
+			"description": "Complete any Arcade Ladder as Khameleon (3 Rounds | Medium difficulty)",
+			"api_key": "66971",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70508.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70508_lock.png"
+		},
+		"66985": {
+			"release_per_platform_id": "n64_0F323D00",
+			"name": "Mere Mortal",
+			"description": "Reach 3 wins streak (3 Rounds | Medium difficulty)",
+			"api_key": "66985",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70537.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70537_lock.png"
+		},
+		"66986": {
+			"release_per_platform_id": "n64_0F323D00",
+			"name": "Fatal Mortal",
+			"description": "Reach 6 wins streak (3 Rounds | Medium difficulty)",
+			"api_key": "66986",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70470.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70470_lock.png"
+		},
+		"66987": {
+			"release_per_platform_id": "n64_0F323D00",
+			"name": "Supreme Mortal",
+			"description": "Reach 10 wins streak (3 Rounds | Medium difficulty)",
+			"api_key": "66987",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70520.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70520_lock.png"
+		},
+		"66988": {
+			"release_per_platform_id": "n64_0F323D00",
+			"name": "MK Trilogy Champion",
+			"description": "Complete 'Champion Ladder' on Endurance Mode (3 Rounds)",
+			"api_key": "66988",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70468.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70468_lock.png"
+		}
+	}
+}

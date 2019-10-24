@@ -1,0 +1,564 @@
+{
+	"Achievements": {
+		"59410": {
+			"release_per_platform_id": "n64_163C3C51",
+			"name": "Edo - Lost n Road",
+			"description": "Finish Lost n Road.",
+			"api_key": "59410",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62163.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62163_lock.png"
+		},
+		"59411": {
+			"release_per_platform_id": "n64_163C3C51",
+			"name": "Edo - Digadig Gold Mine",
+			"description": "Finish Digadig Gold Mine.",
+			"api_key": "59411",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62316.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62316_lock.png"
+		},
+		"59412": {
+			"release_per_platform_id": "n64_163C3C51",
+			"name": "Edo - Ringbell Pass",
+			"description": "Finish Ringbell Pass.",
+			"api_key": "59412",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62162.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62162_lock.png"
+		},
+		"59413": {
+			"release_per_platform_id": "n64_163C3C51",
+			"name": "Sasuke",
+			"description": "Find Sasuke, the ninja robot.",
+			"api_key": "59413",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62253.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62253_lock.png"
+		},
+		"59414": {
+			"release_per_platform_id": "n64_163C3C51",
+			"name": "Chain Pipe",
+			"description": "Give some money to the mysterious beauty at your home to receive the Chain Pipe.",
+			"api_key": "59414",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62311.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62311_lock.png"
+		},
+		"59415": {
+			"release_per_platform_id": "n64_163C3C51",
+			"name": "A mysterious encounter",
+			"description": "Wait at the well until nightfall and talk to Iguana Man.",
+			"api_key": "59415",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62164.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62164_lock.png"
+		},
+		"59416": {
+			"release_per_platform_id": "n64_163C3C51",
+			"name": "Music tools",
+			"description": "Lend a hand to Beat Mania, a clumsy DJ who lost his tools.",
+			"api_key": "59416",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62260.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62260_lock.png"
+		},
+		"59417": {
+			"release_per_platform_id": "n64_163C3C51",
+			"name": "The Mudtrotters",
+			"description": "Help the troubled old man and exterminate the Mudtrotters.",
+			"api_key": "59417",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62165.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62165_lock.png"
+		},
+		"59418": {
+			"release_per_platform_id": "n64_163C3C51",
+			"name": "Edo Castle",
+			"description": "Finish Edo Castle.",
+			"api_key": "59418",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62300.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62300_lock.png"
+		},
+		"59419": {
+			"release_per_platform_id": "n64_163C3C51",
+			"name": "Shishi Scarecrow",
+			"description": "Defeat the Brainwashing Machine, Shishi Scarecrow.",
+			"api_key": "59419",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62167.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62167_lock.png"
+		},
+		"59420": {
+			"release_per_platform_id": "n64_163C3C51",
+			"name": "Bismaru Elegant",
+			"description": "Defeat the Transformable robot, Bismaru Elegant.",
+			"api_key": "59420",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62166.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62166_lock.png"
+		},
+		"59421": {
+			"release_per_platform_id": "n64_163C3C51",
+			"name": "Ryugu - Kappa Road (Up)",
+			"description": "Finish Kappa Road (Up).",
+			"api_key": "59421",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62178.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62178_lock.png"
+		},
+		"59422": {
+			"release_per_platform_id": "n64_163C3C51",
+			"name": "Ryugu - Kappa Road (Down)",
+			"description": "Finish Kappa Road (Underwater).",
+			"api_key": "59422",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62257.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62257_lock.png"
+		},
+		"59423": {
+			"release_per_platform_id": "n64_163C3C51",
+			"name": "Ryugu - Frog Mountain",
+			"description": "Finish Frog Mountain.",
+			"api_key": "59423",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62179.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62179_lock.png"
+		},
+		"59424": {
+			"release_per_platform_id": "n64_163C3C51",
+			"name": "Ryugu - Naruto Road",
+			"description": "Finish Naruto Road.",
+			"api_key": "59424",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62195.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62195_lock.png"
+		},
+		"59425": {
+			"release_per_platform_id": "n64_163C3C51",
+			"name": "Yae",
+			"description": "Find Yae and equip Sasuke with the underwater device.",
+			"api_key": "59425",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62254.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62254_lock.png"
+		},
+		"59426": {
+			"release_per_platform_id": "n64_163C3C51",
+			"name": "Solid megaphone",
+			"description": "A nice girl is looking for her soul mate. Talk to her and receive the Solid megaphone.",
+			"api_key": "59426",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62250.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62250_lock.png"
+		},
+		"59427": {
+			"release_per_platform_id": "n64_163C3C51",
+			"name": "A remote place",
+			"description": "At Ryugu, Iguana Man lives in peace and quiet with frogs...",
+			"api_key": "59427",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62180.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62180_lock.png"
+		},
+		"59428": {
+			"release_per_platform_id": "n64_163C3C51",
+			"name": "Rivalry",
+			"description": "A challenge between similar foes. The first to the top of Frog Mountain is the winner.",
+			"api_key": "59428",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62247.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62247_lock.png"
+		},
+		"59429": {
+			"release_per_platform_id": "n64_163C3C51",
+			"name": "Octopus (Kappa)",
+			"description": "Dive into the ocean floor of Kappa Road and eliminate the giant octopus.",
+			"api_key": "59429",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62240.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62240_lock.png"
+		},
+		"59430": {
+			"release_per_platform_id": "n64_163C3C51",
+			"name": "Octopus (Naruto)",
+			"description": "In the depths of the sea off Naruto Road, another octopus holds a pass...",
+			"api_key": "59430",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62175.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62175_lock.png"
+		},
+		"59431": {
+			"release_per_platform_id": "n64_163C3C51",
+			"name": "Ryugu Castle",
+			"description": "Finish Ryugu Castle.",
+			"api_key": "59431",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62174.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62174_lock.png"
+		},
+		"59432": {
+			"release_per_platform_id": "n64_163C3C51",
+			"name": "Taisamba 3",
+			"description": "Defeat the Enchanting Mairmaid, Taisamba 3.",
+			"api_key": "59432",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62168.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62168_lock.png"
+		},
+		"59433": {
+			"release_per_platform_id": "n64_163C3C51",
+			"name": "Taisamba 4",
+			"description": "Defeat the Enchanting Mairmaid, Taisamba 4.",
+			"api_key": "59433",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62169.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62169_lock.png"
+		},
+		"59434": {
+			"release_per_platform_id": "n64_163C3C51",
+			"name": "Mafu Island - Kokeshi Road",
+			"description": "Finish Kokeshi Road.",
+			"api_key": "59434",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62181.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62181_lock.png"
+		},
+		"59435": {
+			"release_per_platform_id": "n64_163C3C51",
+			"name": "Mafu Island - Maneater Road (Up)",
+			"description": "Finish Maneater Road (Up).",
+			"api_key": "59435",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62317.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62317_lock.png"
+		},
+		"59436": {
+			"release_per_platform_id": "n64_163C3C51",
+			"name": "Mafu Island - Maneater Road (Down)",
+			"description": "Finish Maneater Road (Down).",
+			"api_key": "59436",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62313.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62313_lock.png"
+		},
+		"59437": {
+			"release_per_platform_id": "n64_163C3C51",
+			"name": "Mafu Island - Pochan Lake",
+			"description": "Finish Pochan Lake.",
+			"api_key": "59437",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62194.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62194_lock.png"
+		},
+		"59438": {
+			"release_per_platform_id": "n64_163C3C51",
+			"name": "Mafu Island - Tomb Pass (Up)",
+			"description": "Finish Tomb Pass (Up).",
+			"api_key": "59438",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62185.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62185_lock.png"
+		},
+		"59439": {
+			"release_per_platform_id": "n64_163C3C51",
+			"name": "Mafu Island - Tomb Pass (Down)",
+			"description": "Finish Tomb Pass (Down).",
+			"api_key": "59439",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62184.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62184_lock.png"
+		},
+		"59440": {
+			"release_per_platform_id": "n64_163C3C51",
+			"name": "Roadside guardian",
+			"description": "Place hats over the seven guardian statues.",
+			"api_key": "59440",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62259.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62259_lock.png"
+		},
+		"59441": {
+			"release_per_platform_id": "n64_163C3C51",
+			"name": "Mystery Mushrooms",
+			"description": "Gather some of the mystery mushrooms for an old woman.",
+			"api_key": "59441",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62243.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62243_lock.png"
+		},
+		"59442": {
+			"release_per_platform_id": "n64_163C3C51",
+			"name": "The firework",
+			"description": "Help Koji to launch the firework of the Spook Village.",
+			"api_key": "59442",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62186.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62186_lock.png"
+		},
+		"59443": {
+			"release_per_platform_id": "n64_163C3C51",
+			"name": "Lend and borrow",
+			"description": "Iguana Man living in Spook Village is a little shy.",
+			"api_key": "59443",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62190.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62190_lock.png"
+		},
+		"59444": {
+			"release_per_platform_id": "n64_163C3C51",
+			"name": "Majin Castle",
+			"description": "Finish Majin Castle.",
+			"api_key": "59444",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63547.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63547_lock.png"
+		},
+		"59445": {
+			"release_per_platform_id": "n64_163C3C51",
+			"name": "Gorotsuki",
+			"description": "Defeat the Gatekeeper of Hell, Gorotsuki.",
+			"api_key": "59445",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62170.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62170_lock.png"
+		},
+		"59446": {
+			"release_per_platform_id": "n64_163C3C51",
+			"name": "Gods of Wind and Thunder",
+			"description": "Defeat the Ukulele Hawaiian, Gods of Wind and Thunder.",
+			"api_key": "59446",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62171.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62171_lock.png"
+		},
+		"59447": {
+			"release_per_platform_id": "n64_163C3C51",
+			"name": "Underworld - Kaiware Road",
+			"description": "Finish Kaiware Road.",
+			"api_key": "59447",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62248.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62248_lock.png"
+		},
+		"59448": {
+			"release_per_platform_id": "n64_163C3C51",
+			"name": "Underworld - Mokeke Forest",
+			"description": "Finish Mokeke Forest.",
+			"api_key": "59448",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62312.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62312_lock.png"
+		},
+		"59449": {
+			"release_per_platform_id": "n64_163C3C51",
+			"name": "Underworld - Wonder Valley (Up)",
+			"description": "Finish Wonder Valley (Up).",
+			"api_key": "59449",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62197.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62197_lock.png"
+		},
+		"59450": {
+			"release_per_platform_id": "n64_163C3C51",
+			"name": "Underworld - Wonder Valley (Down)",
+			"description": "Finish Wonder Valley (Down).",
+			"api_key": "59450",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62302.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62302_lock.png"
+		},
+		"59451": {
+			"release_per_platform_id": "n64_163C3C51",
+			"name": "Hide and Seek",
+			"description": "Children like to play outdoors even in poor weather. Let them play in Tree Stump Village.",
+			"api_key": "59451",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62301.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62301_lock.png"
+		},
+		"59452": {
+			"release_per_platform_id": "n64_163C3C51",
+			"name": "The dish",
+			"description": "A lost soul needs to get a special dish. Look near Creep Village.",
+			"api_key": "59452",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62191.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62191_lock.png"
+		},
+		"59453": {
+			"release_per_platform_id": "n64_163C3C51",
+			"name": "Ghost Bomber",
+			"description": "Accept the request of the girl who wants rid of the ghosts.",
+			"api_key": "59453",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62200.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62200_lock.png"
+		},
+		"59454": {
+			"release_per_platform_id": "n64_163C3C51",
+			"name": "A scary debt",
+			"description": "A mysterious beauty is getting a little short of cash...",
+			"api_key": "59454",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62241.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62241_lock.png"
+		},
+		"59455": {
+			"release_per_platform_id": "n64_163C3C51",
+			"name": "Underworld Castle",
+			"description": "Finish Underworld Castle.",
+			"api_key": "59455",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62244.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62244_lock.png"
+		},
+		"59456": {
+			"release_per_platform_id": "n64_163C3C51",
+			"name": "Kabuki 64",
+			"description": "Defeat the Revenge Warrior, Kabuki 64.",
+			"api_key": "59456",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62172.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62172_lock.png"
+		},
+		"59457": {
+			"release_per_platform_id": "n64_163C3C51",
+			"name": "Kabuki Final",
+			"description": "Defeat the Ultra Fighting Machine, Kabuki Final.",
+			"api_key": "59457",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62173.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62173_lock.png"
+		},
+		"59458": {
+			"release_per_platform_id": "n64_163C3C51",
+			"name": "The secret village",
+			"description": "Discover Creep Village.",
+			"api_key": "59458",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62177.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62177_lock.png"
+		},
+		"59459": {
+			"release_per_platform_id": "n64_163C3C51",
+			"name": "Rice balls",
+			"description": "Satisfy the aches of an insatiable eater in Creep Village.",
+			"api_key": "59459",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62245.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62245_lock.png"
+		},
+		"59460": {
+			"release_per_platform_id": "n64_163C3C51",
+			"name": "Purification ritual",
+			"description": "Purify your body and your mind under the waterfall.",
+			"api_key": "59460",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62161.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62161_lock.png"
+		},
+		"59461": {
+			"release_per_platform_id": "n64_163C3C51",
+			"name": "A Little Gift",
+			"description": "Bad Tengus have been defeated. Break the news.",
+			"api_key": "59461",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62192.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62192_lock.png"
+		},
+		"59462": {
+			"release_per_platform_id": "n64_163C3C51",
+			"name": "Floating Castle - Cloud Fortress (Up)",
+			"description": "Finish Cloud Fortress (Up Path).",
+			"api_key": "59462",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62198.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62198_lock.png"
+		},
+		"59463": {
+			"release_per_platform_id": "n64_163C3C51",
+			"name": "Floating Castle - Cloud Fortress (Down)",
+			"description": "Finish Cloud Fortress (Down).",
+			"api_key": "59463",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62199.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62199_lock.png"
+		},
+		"59464": {
+			"release_per_platform_id": "n64_163C3C51",
+			"name": "Floating Castle - Wind Castle Wall",
+			"description": "Finish Wind Castle Wall.",
+			"api_key": "59464",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62314.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62314_lock.png"
+		},
+		"59465": {
+			"release_per_platform_id": "n64_163C3C51",
+			"name": "Floating Castle - Sky Garden",
+			"description": "Finish Sky Garden.",
+			"api_key": "59465",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62202.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62202_lock.png"
+		},
+		"59466": {
+			"release_per_platform_id": "n64_163C3C51",
+			"name": "A special job",
+			"description": "A weird man in a kerchief has a job, for the world for the people.",
+			"api_key": "59466",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62305.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62305_lock.png"
+		},
+		"59467": {
+			"release_per_platform_id": "n64_163C3C51",
+			"name": "Rematch",
+			"description": "The second bout between similar foes.",
+			"api_key": "59467",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62310.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62310_lock.png"
+		},
+		"59468": {
+			"release_per_platform_id": "n64_163C3C51",
+			"name": "The last ware",
+			"description": "A ghost is unable to quit this world. He needs to deal with someone.",
+			"api_key": "59468",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62303.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62303_lock.png"
+		},
+		"59469": {
+			"release_per_platform_id": "n64_163C3C51",
+			"name": "The messenger",
+			"description": "Take the lunch box of Omatsu and deliver it to her husband.",
+			"api_key": "59469",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62304.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62304_lock.png"
+		},
+		"59470": {
+			"release_per_platform_id": "n64_163C3C51",
+			"name": "Another job",
+			"description": "Try another job. Ease the problems of the kids.",
+			"api_key": "59470",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62189.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62189_lock.png"
+		},
+		"59471": {
+			"release_per_platform_id": "n64_163C3C51",
+			"name": "Dream Castle",
+			"description": "Finish Dream Castle.",
+			"api_key": "59471",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62187.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62187_lock.png"
+		},
+		"59472": {
+			"release_per_platform_id": "n64_163C3C51",
+			"name": "Devil Death God",
+			"description": "Defeat the Atrocious Machine, Devil Death God.",
+			"api_key": "59472",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62183.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62183_lock.png"
+		},
+		"59473": {
+			"release_per_platform_id": "n64_163C3C51",
+			"name": "Dochuki",
+			"description": "Defeat the King of Devils, Dochuki.",
+			"api_key": "59473",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62160.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62160_lock.png"
+		},
+		"59474": {
+			"release_per_platform_id": "n64_163C3C51",
+			"name": "Alternative costumes",
+			"description": "Buy all the alternative costumes in the general stores.",
+			"api_key": "59474",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62319.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/62319_lock.png"
+		},
+		"60536": {
+			"release_per_platform_id": "n64_163C3C51",
+			"name": "Edo Castle - Pacifist",
+			"description": "Finish the first part of Edo Castle without taking damage and killing any enemy (in case of failure, quit and re-enter).",
+			"api_key": "60536",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63543.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63543_lock.png"
+		},
+		"60537": {
+			"release_per_platform_id": "n64_163C3C51",
+			"name": "Ryugu Castle - Very fast",
+			"description": "Finish the first part of Ryugu Castle under 1'30 and without taking damage (in case of failure, quit and re-enter).",
+			"api_key": "60537",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63544.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63544_lock.png"
+		},
+		"60538": {
+			"release_per_platform_id": "n64_163C3C51",
+			"name": "Majin Castle - Determined",
+			"description": "Finish the first part of Majin Castle by killing all the enemies, without release the right direction and taking damage (see co",
+			"api_key": "60538",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63541.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63541_lock.png"
+		},
+		"60539": {
+			"release_per_platform_id": "n64_163C3C51",
+			"name": "Underworld Castle - Pacifist 2",
+			"description": "Finish the first two parts of Underworld Castle without taking damage and killing any enemy (in case of failure, quit and re-en",
+			"api_key": "60539",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63545.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63545_lock.png"
+		},
+		"60540": {
+			"release_per_platform_id": "n64_163C3C51",
+			"name": "Devil Death God - Impact Master",
+			"description": "Defeat the Atrocious Machine, Devil Death God, without taking damage.",
+			"api_key": "60540",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63546.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63546_lock.png"
+		}
+	}
+}

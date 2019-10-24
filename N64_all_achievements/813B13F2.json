@@ -1,0 +1,372 @@
+{
+	"Achievements": {
+		"53052": {
+			"release_per_platform_id": "n64_813B13F2",
+			"name": "Let No One Be More Cunning",
+			"description": "Achieve an S-Rank on the board Chilly Waters in Story Mode (normal or higher).",
+			"api_key": "53052",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54583.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54583_lock.png"
+		},
+		"53053": {
+			"release_per_platform_id": "n64_813B13F2",
+			"name": "Be the Kindest There Ever Was",
+			"description": "Achieve an S-Rank on the board Deep Bloober Sea in Story Mode (normal or higher",
+			"api_key": "53053",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54584.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54584_lock.png"
+		},
+		"53054": {
+			"release_per_platform_id": "n64_813B13F2",
+			"name": "Out-Power Anyone",
+			"description": "Achieve an S-Rank on the board Spiny Desert in Story Mode (normal or higher).",
+			"api_key": "53054",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54585.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54585_lock.png"
+		},
+		"53055": {
+			"release_per_platform_id": "n64_813B13F2",
+			"name": "Love Everyone and Everything",
+			"description": "Achieve an S-Rank on the board Woody Woods in Story Mode (normal or higher).",
+			"api_key": "53055",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54586.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54586_lock.png"
+		},
+		"53056": {
+			"release_per_platform_id": "n64_813B13F2",
+			"name": "Let No One Match Your Courage",
+			"description": "Achieve an S-Rank on the board Creepy Cavern in Story Mode (normal or higher).",
+			"api_key": "53056",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54587.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54587_lock.png"
+		},
+		"53057": {
+			"release_per_platform_id": "n64_813B13F2",
+			"name": "The Mischief Star is Here!",
+			"description": "Achieve an S-Rank on the board Waluigi's Island in Story Mode (normal or higher",
+			"api_key": "53057",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54588.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54588_lock.png"
+		},
+		"53058": {
+			"release_per_platform_id": "n64_813B13F2",
+			"name": "Chilly Chilly Lake",
+			"description": "Complete the board Chilly Waters in Story Mode on Super Hard difficulty.",
+			"api_key": "53058",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54669.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54669_lock.png"
+		},
+		"53059": {
+			"release_per_platform_id": "n64_813B13F2",
+			"name": "Bubble Bubble Ocean",
+			"description": "Complete the board Deep Bloober Sea in Story Mode on Super Hard difficulty.",
+			"api_key": "53059",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54670.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54670_lock.png"
+		},
+		"53060": {
+			"release_per_platform_id": "n64_813B13F2",
+			"name": "Scorch Scorch Desert",
+			"description": "Complete the board Spiny Desert in Story Mode on Super Hard difficulty.",
+			"api_key": "53060",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54671.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54671_lock.png"
+		},
+		"53061": {
+			"release_per_platform_id": "n64_813B13F2",
+			"name": "Round 'n' Round Forest",
+			"description": "Complete the board Woody Woods in Story Mode on Super Hard difficulty.",
+			"api_key": "53061",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54672.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54672_lock.png"
+		},
+		"53062": {
+			"release_per_platform_id": "n64_813B13F2",
+			"name": "Pitter Patter Cavern",
+			"description": "Complete the board Creepy Cavern in Story Mode on Super Hard difficulty.",
+			"api_key": "53062",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54673.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54673_lock.png"
+		},
+		"53063": {
+			"release_per_platform_id": "n64_813B13F2",
+			"name": "Heeeere's Waluigi!",
+			"description": "Complete the board Waluigi's Island in Story Mode on Super Hard difficulty.",
+			"api_key": "53063",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54674.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54674_lock.png"
+		},
+		"53088": {
+			"release_per_platform_id": "n64_813B13F2",
+			"name": "Tread Carefully",
+			"description": "Win against 3 Super Hard CPUs in the Mini-Game Treadmill Grill.",
+			"api_key": "53088",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54884.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54884_lock.png"
+		},
+		"53086": {
+			"release_per_platform_id": "n64_813B13F2",
+			"name": "Frugal Freefall",
+			"description": "Collect 25 or more Coins in the Mini-Game Parasol Plummet.",
+			"api_key": "53086",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54831.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54831_lock.png"
+		},
+		"53084": {
+			"release_per_platform_id": "n64_813B13F2",
+			"name": "Mushroom Mosh Pit",
+			"description": "Win against 3 Super Hard CPUs in the Mini-Game Toadstool Titan.",
+			"api_key": "53084",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54833.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54833_lock.png"
+		},
+		"53067": {
+			"release_per_platform_id": "n64_813B13F2",
+			"name": "Mission Accomplished",
+			"description": "From Mini-Game Room, defeat 3 Hard CPUs without being harmed in Aces High.",
+			"api_key": "53067",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54834.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54834_lock.png"
+		},
+		"53083": {
+			"release_per_platform_id": "n64_813B13F2",
+			"name": "Bounceless Trounce",
+			"description": "From Mini-Game Room, beat 3 Hard CPUs in Bounce n Trounce without pressing A.",
+			"api_key": "53083",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54908.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54908_lock.png"
+		},
+		"53072": {
+			"release_per_platform_id": "n64_813B13F2",
+			"name": "Wedge Over the Competition",
+			"description": "From the Mini-Game Room, score a hole-in-one as P1 in Chip Shot Challenge.",
+			"api_key": "53072",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54885.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54885_lock.png"
+		},
+		"53066": {
+			"release_per_platform_id": "n64_813B13F2",
+			"name": "Awful Achievement",
+			"description": "Collect 5 bonus Coins while facing 3 Hard CPUs in the Mini-Game Awful Tower.",
+			"api_key": "53066",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54883.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54883_lock.png"
+		},
+		"53071": {
+			"release_per_platform_id": "n64_813B13F2",
+			"name": "Plumbing Perfection",
+			"description": "Hit all 30 Baby Bowsers in the Mini-Game Pipe Cleaners.",
+			"api_key": "53071",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54915.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54915_lock.png"
+		},
+		"53073": {
+			"release_per_platform_id": "n64_813B13F2",
+			"name": "Slot Colt Derby",
+			"description": "Win in under 0'43\"00 in the Mini-Game Rockin' Raceway.",
+			"api_key": "53073",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54909.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54909_lock.png"
+		},
+		"53068": {
+			"release_per_platform_id": "n64_813B13F2",
+			"name": "Hovercar Havoc",
+			"description": "Finish in under 0'18\"00 in the Mini-Game Cosmic Coaster.",
+			"api_key": "53068",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54913.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54913_lock.png"
+		},
+		"53065": {
+			"release_per_platform_id": "n64_813B13F2",
+			"name": "Stomp Rocket",
+			"description": "Launch your rocket over 400 yards in the Mini-Game Pump, Pump and Away.",
+			"api_key": "53065",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54835.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54835_lock.png"
+		},
+		"53070": {
+			"release_per_platform_id": "n64_813B13F2",
+			"name": "Fruitful Effort",
+			"description": "Collect 30 or more cherries and win in the Mini-Game Picking Panic.",
+			"api_key": "53070",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54886.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54886_lock.png"
+		},
+		"53078": {
+			"release_per_platform_id": "n64_813B13F2",
+			"name": "In-Sync Instinct",
+			"description": "Get 20 or more points and win in the Mini-Game Slot Synch.",
+			"api_key": "53078",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54916.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54916_lock.png"
+		},
+		"52950": {
+			"release_per_platform_id": "n64_813B13F2",
+			"name": "Computer Characters Can't Conk",
+			"description": "Win against 3 Super Hard CPUs in the Mini-Game Coconut Conk.",
+			"api_key": "52950",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54836.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54836_lock.png"
+		},
+		"53077": {
+			"release_per_platform_id": "n64_813B13F2",
+			"name": "Rocky Road",
+			"description": "Win against 3 Super Hard CPUs in the Mini-Game Boulder Ball.",
+			"api_key": "53077",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54910.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54910_lock.png"
+		},
+		"53090": {
+			"release_per_platform_id": "n64_813B13F2",
+			"name": "First in Vine",
+			"description": "Win in under 0'25\"00 in the Mini-Game Vine With Me.",
+			"api_key": "53090",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54837.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54837_lock.png"
+		},
+		"53087": {
+			"release_per_platform_id": "n64_813B13F2",
+			"name": "Put a Cork in It",
+			"description": "Score over 90 points and win in the Mini-Game Popgun Pickoff.",
+			"api_key": "53087",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54875.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54875_lock.png"
+		},
+		"53074": {
+			"release_per_platform_id": "n64_813B13F2",
+			"name": "So Long, Eh Bowser?",
+			"description": "Toss the Bowser doll over 90 yards and win in the Mini-Game Bowser Toss.",
+			"api_key": "53074",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54887.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54887_lock.png"
+		},
+		"53085": {
+			"release_per_platform_id": "n64_813B13F2",
+			"name": "Shell Insulated",
+			"description": "From the Mini-Game Room, win in Motor Rooter against a Super Hard CPU.",
+			"api_key": "53085",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54911.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54911_lock.png"
+		},
+		"53064": {
+			"release_per_platform_id": "n64_813B13F2",
+			"name": "Bow Down",
+			"description": "Pop the balloon farthest away from you in the Mini-Game Bobbing Bow-loons.",
+			"api_key": "53064",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54912.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54912_lock.png"
+		},
+		"53069": {
+			"release_per_platform_id": "n64_813B13F2",
+			"name": "Roll Out the Barrels",
+			"description": "Land on the barrel farthest away from you in the Mini-Game Swinging with Sharks",
+			"api_key": "53069",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54888.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54888_lock.png"
+		},
+		"53051": {
+			"release_per_platform_id": "n64_813B13F2",
+			"name": "The Smackdown of the Millennium",
+			"description": "Clear the Mini-Game Stardust Battle in under 1'30\"00.",
+			"api_key": "53051",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54589.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54589_lock.png"
+		},
+		"53089": {
+			"release_per_platform_id": "n64_813B13F2",
+			"name": "Mushroom Mixup",
+			"description": "Buy a Star while moving in reverse.",
+			"api_key": "53089",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54874.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54874_lock.png"
+		},
+		"53080": {
+			"release_per_platform_id": "n64_813B13F2",
+			"name": "Key to Success",
+			"description": "Own three Skeleton Keys at any time during a Battle Royale match.",
+			"api_key": "53080",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54873.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54873_lock.png"
+		},
+		"53081": {
+			"release_per_platform_id": "n64_813B13F2",
+			"name": "Specter Protector",
+			"description": "Own three Boo Repellants at any time during a Battle Royale match.",
+			"api_key": "53081",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54872.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54872_lock.png"
+		},
+		"53082": {
+			"release_per_platform_id": "n64_813B13F2",
+			"name": "In-My-Way Robbery",
+			"description": "Use a Bowser Suit to steal a total of 30 or more Coins in one turn.",
+			"api_key": "53082",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54839.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54839_lock.png"
+		},
+		"53079": {
+			"release_per_platform_id": "n64_813B13F2",
+			"name": "Chump Charity",
+			"description": "Receive an oddly generous surprise by talking to Bowser with no Coins.",
+			"api_key": "53079",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54871.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54871_lock.png"
+		},
+		"53091": {
+			"release_per_platform_id": "n64_813B13F2",
+			"name": "Boo Two You - Waters",
+			"description": "Visit Boo twice in the same turn on the board Chilly Waters.",
+			"api_key": "53091",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54870.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54870_lock.png"
+		},
+		"53092": {
+			"release_per_platform_id": "n64_813B13F2",
+			"name": "Boo Two You - Desert",
+			"description": "Visit Boo twice in the same turn on the board Spiny Desert.",
+			"api_key": "53092",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54869.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54869_lock.png"
+		},
+		"53075": {
+			"release_per_platform_id": "n64_813B13F2",
+			"name": "Alike Allies",
+			"description": "Make a combination of two of the same partners in Duel Mode.",
+			"api_key": "53075",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54881.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54881_lock.png"
+		},
+		"53076": {
+			"release_per_platform_id": "n64_813B13F2",
+			"name": "Staying Power",
+			"description": "In Duel Mode, power up both your partners and keep them that way for 3 turns.",
+			"api_key": "53076",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54882.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54882_lock.png"
+		},
+		"53093": {
+			"release_per_platform_id": "n64_813B13F2",
+			"name": "Coin Miracle Star",
+			"description": "In one Battle Royale match, achieve a Coin Star of 250 or more.",
+			"api_key": "53093",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54841.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54841_lock.png"
+		},
+		"53094": {
+			"release_per_platform_id": "n64_813B13F2",
+			"name": "Mini-Game Miracle Star",
+			"description": "In one Battle Royale match, achieve a Mini-Game Star of 150 or more.",
+			"api_key": "53094",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54842.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54842_lock.png"
+		},
+		"53095": {
+			"release_per_platform_id": "n64_813B13F2",
+			"name": "Game Guy's Greedy Gala",
+			"description": "Amass a total of 1000 or more Coins in Game Guy's Room.",
+			"api_key": "53095",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54582.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54582_lock.png"
+		}
+	}
+}

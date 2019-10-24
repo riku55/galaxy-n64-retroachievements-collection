@@ -1,0 +1,124 @@
+{
+	"Achievements": {
+		"76733": {
+			"release_per_platform_id": "n64_64370749",
+			"name": "Tensuns",
+			"description": "Force Virtua Circus to leave Planet Tensuns",
+			"api_key": "76733",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/82185.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/82185_lock.png"
+		},
+		"76734": {
+			"release_per_platform_id": "n64_64370749",
+			"name": "Killer Expo",
+			"description": "Find a Detection System on Planet Killer Expo",
+			"api_key": "76734",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/82186.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/82186_lock.png"
+		},
+		"76735": {
+			"release_per_platform_id": "n64_64370749",
+			"name": "Primitron",
+			"description": "Find the Surprise-Laying Bird on Planet Primitron",
+			"api_key": "76735",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/82190.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/82190_lock.png"
+		},
+		"76736": {
+			"release_per_platform_id": "n64_64370749",
+			"name": "Ultima Crash",
+			"description": "Bring back Laika the ghost dog from Planet Ultima Crash",
+			"api_key": "76736",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/82187.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/82187_lock.png"
+		},
+		"76737": {
+			"release_per_platform_id": "n64_64370749",
+			"name": "Earth",
+			"description": "Bring back the last Earthling Survivor from Planet Earth",
+			"api_key": "76737",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/82188.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/82188_lock.png"
+		},
+		"76738": {
+			"release_per_platform_id": "n64_64370749",
+			"name": "Techno Mummy",
+			"description": "Bring back the Malfunction Machine from Planet Techno Mummy",
+			"api_key": "76738",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/82189.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/82189_lock.png"
+		},
+		"76739": {
+			"release_per_platform_id": "n64_64370749",
+			"name": "Virtua Circus",
+			"description": "Destroy the Interior Commands on Virtua Circus",
+			"api_key": "76739",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/82191.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/82191_lock.png"
+		},
+		"76740": {
+			"release_per_platform_id": "n64_64370749",
+			"name": "Lounging at the Beach",
+			"description": "Have found and bring back to the spaceship every Mega Fuel of Planet Tensuns",
+			"api_key": "76740",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/82194.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/82194_lock.png"
+		},
+		"76741": {
+			"release_per_platform_id": "n64_64370749",
+			"name": "General Starshot",
+			"description": "Have found and bring back to the spaceship every Mega Fuel of Planet Killer Expo",
+			"api_key": "76741",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/82195.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/82195_lock.png"
+		},
+		"76742": {
+			"release_per_platform_id": "n64_64370749",
+			"name": "Primo-Safari",
+			"description": "Have found and bring back to the spaceship every Mega Fuel of Planet Primitron",
+			"api_key": "76742",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/82196.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/82196_lock.png"
+		},
+		"76743": {
+			"release_per_platform_id": "n64_64370749",
+			"name": "Seeking Ghostbuster",
+			"description": "Have found and bring back to the spaceship every Mega Fuel of Planet Ultima Crash",
+			"api_key": "76743",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/82197.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/82197_lock.png"
+		},
+		"76744": {
+			"release_per_platform_id": "n64_64370749",
+			"name": "Malfunction Technology",
+			"description": "Have found and bring back to the spaceship every Mega Fuel of Planet Techno Mummy",
+			"api_key": "76744",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/82198.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/82198_lock.png"
+		},
+		"76745": {
+			"release_per_platform_id": "n64_64370749",
+			"name": "Shooting Star",
+			"description": "Have 50 Blue Bonuses",
+			"api_key": "76745",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/82193.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/82193_lock.png"
+		},
+		"76746": {
+			"release_per_platform_id": "n64_64370749",
+			"name": "Rocket Acrobatics",
+			"description": "Have 40 Yellow Bonuses",
+			"api_key": "76746",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/82192.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/82192_lock.png"
+		},
+		"76747": {
+			"release_per_platform_id": "n64_64370749",
+			"name": "Mega Fuel Collector",
+			"description": "Have found and bring back to the spaceship every Mega Fuel of the game",
+			"api_key": "76747",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/82199.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/82199_lock.png"
+		}
+	}
+}

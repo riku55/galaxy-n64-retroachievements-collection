@@ -1,0 +1,548 @@
+{
+	"Achievements": {
+		"74062": {
+			"release_per_platform_id": "n64_090F3018",
+			"name": "Europe Zone Complete",
+			"description": "Secure all regular stages in Europe Zone",
+			"api_key": "74062",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79329.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79329_lock.png"
+		},
+		"74214": {
+			"release_per_platform_id": "n64_090F3018",
+			"name": "Ice Zone Complete",
+			"description": "Secure all regular stages in Ice Zone",
+			"api_key": "74214",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79526.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79526_lock.png"
+		},
+		"74226": {
+			"release_per_platform_id": "n64_090F3018",
+			"name": "Jungle Zone Complete",
+			"description": "Secure all regular stages in Jungle Zone",
+			"api_key": "74226",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79537.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79537_lock.png"
+		},
+		"74371": {
+			"release_per_platform_id": "n64_090F3018",
+			"name": "Desert Zone Complete",
+			"description": "Secure all regular stages in Desert Zone",
+			"api_key": "74371",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79700.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79700_lock.png"
+		},
+		"74416": {
+			"release_per_platform_id": "n64_090F3018",
+			"name": "At Long Last",
+			"description": "Complete the final stage",
+			"api_key": "74416",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79721.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79721_lock.png"
+		},
+		"74063": {
+			"release_per_platform_id": "n64_090F3018",
+			"name": "Powered Up - A Smashing Start",
+			"description": "Obtain all power cells in A Smashing Start and complete the stage",
+			"api_key": "74063",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79332.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79332_lock.png"
+		},
+		"74064": {
+			"release_per_platform_id": "n64_090F3018",
+			"name": "Powered Up - Have a Nice Day!",
+			"description": "Obtain all power cells in Have a Nice Day! and complete the stage",
+			"api_key": "74064",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79333.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79333_lock.png"
+		},
+		"74065": {
+			"release_per_platform_id": "n64_090F3018",
+			"name": "Powered Up - Honeymoon Lagoon",
+			"description": "Obtain all power cells in Honeymoon Lagoon and complete the stage",
+			"api_key": "74065",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79334.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79334_lock.png"
+		},
+		"74066": {
+			"release_per_platform_id": "n64_090F3018",
+			"name": "Powered Up - The Battery Farm",
+			"description": "Obtain all power cells in The Battery Farm and complete the stage",
+			"api_key": "74066",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79335.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79335_lock.png"
+		},
+		"74067": {
+			"release_per_platform_id": "n64_090F3018",
+			"name": "Powered Up - The Engine Room",
+			"description": "Obtain all power cells in The Engine Room and complete the stage",
+			"api_key": "74067",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79336.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79336_lock.png"
+		},
+		"74068": {
+			"release_per_platform_id": "n64_090F3018",
+			"name": "Powered Up - Fat Bear Mountain",
+			"description": "Obtain all power cells in Fat Bear Mountain and complete the stage",
+			"api_key": "74068",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79337.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79337_lock.png"
+		},
+		"74069": {
+			"release_per_platform_id": "n64_090F3018",
+			"name": "Powered Up - Rocky Hard Place",
+			"description": "Obtain all power cells in Rocky Hard Place and complete the stage",
+			"api_key": "74069",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79338.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79338_lock.png"
+		},
+		"74070": {
+			"release_per_platform_id": "n64_090F3018",
+			"name": "Powered Up - Stinky Sewers",
+			"description": "Obtain all power cells in Stinky Sewers and complete the stage",
+			"api_key": "74070",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79339.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79339_lock.png"
+		},
+		"74071": {
+			"release_per_platform_id": "n64_090F3018",
+			"name": "Powered Up - Rat-o-Matic",
+			"description": "Obtain all power cells in Rat-o-Matic and complete the stage",
+			"api_key": "74071",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79340.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79340_lock.png"
+		},
+		"74215": {
+			"release_per_platform_id": "n64_090F3018",
+			"name": "Powered Up - Snow Joke",
+			"description": "Obtain all power cells in Snow Joke and complete the stage",
+			"api_key": "74215",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79527.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79527_lock.png"
+		},
+		"74216": {
+			"release_per_platform_id": "n64_090F3018",
+			"name": "Powered Up - Ice n' Easy, Does it?",
+			"description": "Obtain all power cells in Ice n' Easy, Does it and complete the stage",
+			"api_key": "74216",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79528.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79528_lock.png"
+		},
+		"74217": {
+			"release_per_platform_id": "n64_090F3018",
+			"name": "Powered Up - Penguin Playpen",
+			"description": "Obtain all power cells in Penguin Playpen and complete the stage",
+			"api_key": "74217",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79529.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79529_lock.png"
+		},
+		"74218": {
+			"release_per_platform_id": "n64_090F3018",
+			"name": "Powered Up - Pinball Blizzard",
+			"description": "Obtain all power cells in Pinball Blizzard and complete the stage",
+			"api_key": "74218",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79530.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79530_lock.png"
+		},
+		"74219": {
+			"release_per_platform_id": "n64_090F3018",
+			"name": "Powered Up - Hoppa Choppa",
+			"description": "Obtain all power cells in Hoppa Choppa and complete the stage",
+			"api_key": "74219",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79531.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79531_lock.png"
+		},
+		"74220": {
+			"release_per_platform_id": "n64_090F3018",
+			"name": "Powered Up - Something Fishy",
+			"description": "Obtain all power cells in Something Fishy and complete the stage",
+			"api_key": "74220",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79532.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79532_lock.png"
+		},
+		"74227": {
+			"release_per_platform_id": "n64_090F3018",
+			"name": "Powered Up - Jungle Japes",
+			"description": "Obtain all power cells in Jungle Japes and complete the stage",
+			"api_key": "74227",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79538.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79538_lock.png"
+		},
+		"74228": {
+			"release_per_platform_id": "n64_090F3018",
+			"name": "Powered Up - Jungle Doldrums",
+			"description": "Obtain all power cells in Jungle Japes and complete the stage",
+			"api_key": "74228",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79539.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79539_lock.png"
+		},
+		"74229": {
+			"release_per_platform_id": "n64_090F3018",
+			"name": "Powered Up - Swamp of Eternal Stench",
+			"description": "Obtain all power cells in Swamp of Eternal Stench and complete the stage",
+			"api_key": "74229",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79540.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79540_lock.png"
+		},
+		"74230": {
+			"release_per_platform_id": "n64_090F3018",
+			"name": "Powered Up - Weight for It!",
+			"description": "Obtain all power cells in Weight for It! and complete the stage",
+			"api_key": "74230",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79541.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79541_lock.png"
+		},
+		"74231": {
+			"release_per_platform_id": "n64_090F3018",
+			"name": "Powered Up - Jungle Jumps",
+			"description": "Obtain all power cells in Jungle Jumps and complete the stage",
+			"api_key": "74231",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79542.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79542_lock.png"
+		},
+		"74372": {
+			"release_per_platform_id": "n64_090F3018",
+			"name": "Powered Up - Fun in the Sun",
+			"description": "Obtain all power cells in Fun in the Sun and complete the stage",
+			"api_key": "74372",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79702.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79702_lock.png"
+		},
+		"74373": {
+			"release_per_platform_id": "n64_090F3018",
+			"name": "Powered Up - Hot Cross Buns",
+			"description": "Obtain all power cells in Hot Cross Buns",
+			"api_key": "74373",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79703.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79703_lock.png"
+		},
+		"74374": {
+			"release_per_platform_id": "n64_090F3018",
+			"name": "Powered Up - Sting in the Tail",
+			"description": "Obtain all power cells in Sting in the Tail and complete the stage",
+			"api_key": "74374",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79704.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79704_lock.png"
+		},
+		"74375": {
+			"release_per_platform_id": "n64_090F3018",
+			"name": "Powered Up - Borassic Park",
+			"description": "Obtain all power cells in Borassic Park and complete the stage",
+			"api_key": "74375",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79705.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79705_lock.png"
+		},
+		"74376": {
+			"release_per_platform_id": "n64_090F3018",
+			"name": "Powered Up - Whirlwind Tour",
+			"description": "Obtain all power cells in Whirlwind Tour and complete the stage",
+			"api_key": "74376",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79706.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79706_lock.png"
+		},
+		"74377": {
+			"release_per_platform_id": "n64_090F3018",
+			"name": "Powered Up - Shifting Sands",
+			"description": "Obtain all power cells in Shifting Sands and complete the stage",
+			"api_key": "74377",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79707.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79707_lock.png"
+		},
+		"74017": {
+			"release_per_platform_id": "n64_090F3018",
+			"name": "Sorry, Flossy",
+			"description": "A Smashing Start - You lured Flossy to her death and collected the souvenir. ",
+			"api_key": "74017",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79301.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79301_lock.png"
+		},
+		"74054": {
+			"release_per_platform_id": "n64_090F3018",
+			"name": "Mighty Mouse",
+			"description": "Have a Nice Day! - As the mouse, beat the dog in a race and collect the souvenier. ",
+			"api_key": "74054",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79322.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79322_lock.png"
+		},
+		"74055": {
+			"release_per_platform_id": "n64_090F3018",
+			"name": "Blue Ringer",
+			"description": "Honeymoon Lagoon - Use a sheep to float through all the rings and collect the souvenir.",
+			"api_key": "74055",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79323.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79323_lock.png"
+		},
+		"74056": {
+			"release_per_platform_id": "n64_090F3018",
+			"name": "Sheep Slayer",
+			"description": "The Battery Farm - Kill all the sheep and collect the souvenir. ",
+			"api_key": "74056",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79324.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79324_lock.png"
+		},
+		"74057": {
+			"release_per_platform_id": "n64_090F3018",
+			"name": "Machine Slayer",
+			"description": "The Engine Room - Destroy all the machines and collect the souvenir.",
+			"api_key": "74057",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79325.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79325_lock.png"
+		},
+		"74058": {
+			"release_per_platform_id": "n64_090F3018",
+			"name": "The Ol' Switcharoo",
+			"description": "Fat Bear Mountain - Activate all three switches and collect the souvenir",
+			"api_key": "74058",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79326.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79326_lock.png"
+		},
+		"74059": {
+			"release_per_platform_id": "n64_090F3018",
+			"name": "Rocky Hard Trophy",
+			"description": "Rocky Hard Place - Elevate the asteroid chunks and collect the souvenir. ",
+			"api_key": "74059",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79327.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79327_lock.png"
+		},
+		"74060": {
+			"release_per_platform_id": "n64_090F3018",
+			"name": "Spoiled Rotten",
+			"description": "Stinky Sewers - Eat all the rotten meat as the rat and collect the souvenir. ",
+			"api_key": "74060",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79328.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79328_lock.png"
+		},
+		"74061": {
+			"release_per_platform_id": "n64_090F3018",
+			"name": "Explosive Gas",
+			"description": "Rat-o-Matic - Destroy the gas containers and collect the souvenir. ",
+			"api_key": "74061",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79330.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79330_lock.png"
+		},
+		"74208": {
+			"release_per_platform_id": "n64_090F3018",
+			"name": "Lights Off",
+			"description": "Snow Joke - Turn off the light and collect the souvenir. ",
+			"api_key": "74208",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79516.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79516_lock.png"
+		},
+		"74209": {
+			"release_per_platform_id": "n64_090F3018",
+			"name": "Walrus Destroyer",
+			"description": "Ice n' Easy, Does it? - Kill all the walruses with a heli-rabbit and collect the souvenir  ",
+			"api_key": "74209",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79515.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79515_lock.png"
+		},
+		"74210": {
+			"release_per_platform_id": "n64_090F3018",
+			"name": "Cool Cod Destroyer",
+			"description": "Penguin Playpen - Kill all the cool cods, then collect the souvenir",
+			"api_key": "74210",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79518.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79518_lock.png"
+		},
+		"74211": {
+			"release_per_platform_id": "n64_090F3018",
+			"name": "Desire a Choir? ",
+			"description": "Pinball Blizzard - Get the penguins to sing, then collect the souvenir. ",
+			"api_key": "74211",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79520.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79520_lock.png"
+		},
+		"74212": {
+			"release_per_platform_id": "n64_090F3018",
+			"name": "Rabbit Destroyer",
+			"description": "Hoppa Choppa - Kill all the rabbits near the exit and collect the souvenir",
+			"api_key": "74212",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79524.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79524_lock.png"
+		},
+		"74213": {
+			"release_per_platform_id": "n64_090F3018",
+			"name": "Blue Ringer Revisted",
+			"description": "Something Fishy - Race through the blue rings and collect the souvenir",
+			"api_key": "74213",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79525.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79525_lock.png"
+		},
+		"74221": {
+			"release_per_platform_id": "n64_090F3018",
+			"name": "Rockin' Slots",
+			"description": "Jungle Japes - Put the rocks in the slots and collect the souvenir",
+			"api_key": "74221",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79533.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79533_lock.png"
+		},
+		"74222": {
+			"release_per_platform_id": "n64_090F3018",
+			"name": "Parrots Are Useful",
+			"description": "Jungle Doldrums - Reach new heights and collect the souvenir",
+			"api_key": "74222",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79534.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79534_lock.png"
+		},
+		"74223": {
+			"release_per_platform_id": "n64_090F3018",
+			"name": "Behind Bars",
+			"description": "Swamp of Eternal Stench - Put yourself behind bars and collect the souvenir",
+			"api_key": "74223",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79535.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79535_lock.png"
+		},
+		"74224": {
+			"release_per_platform_id": "n64_090F3018",
+			"name": "Throwin' a Fit",
+			"description": "Weight For It! - Throw all the boulders at the red rings and collect the souvenir",
+			"api_key": "74224",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79536.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79536_lock.png"
+		},
+		"74225": {
+			"release_per_platform_id": "n64_090F3018",
+			"name": "Blue Ringer III",
+			"description": "Jungle Jumps - Race through the blue rings and collect the souvenir",
+			"api_key": "74225",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79543.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79543_lock.png"
+		},
+		"74365": {
+			"release_per_platform_id": "n64_090F3018",
+			"name": "No Fun in the Sun",
+			"description": "Fun in the Sun - Kill all the Armed Desert Foxes with an Armed Desert Fox and collect the souvenir",
+			"api_key": "74365",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79689.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79689_lock.png"
+		},
+		"74366": {
+			"release_per_platform_id": "n64_090F3018",
+			"name": "Scorpion Slayer",
+			"description": "Hot Cross Buns - Throw the dead scorpions into the black whirlpool and collect the souvenir",
+			"api_key": "74366",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79695.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79695_lock.png"
+		},
+		"74367": {
+			"release_per_platform_id": "n64_090F3018",
+			"name": "Scorpion Slayer II",
+			"description": "Sting in the Tail - Kill all the scorpions and collect the souvenir",
+			"api_key": "74367",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79696.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79696_lock.png"
+		},
+		"74368": {
+			"release_per_platform_id": "n64_090F3018",
+			"name": "Prehistoric Dentistry",
+			"description": "Borassic Park - Destroy the dinosaur skull's teeth and collect the souvenir",
+			"api_key": "74368",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79697.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79697_lock.png"
+		},
+		"74369": {
+			"release_per_platform_id": "n64_090F3018",
+			"name": "Scorpion Slayer III",
+			"description": "Whirlwind Tour - Destroy all three scorpions and collect the souvenir",
+			"api_key": "74369",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79698.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79698_lock.png"
+		},
+		"74370": {
+			"release_per_platform_id": "n64_090F3018",
+			"name": "Making an Entrance",
+			"description": "Shifting Sands - Enter the tent and collect the souvenir. ",
+			"api_key": "74370",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79699.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79699_lock.png"
+		},
+		"74378": {
+			"release_per_platform_id": "n64_090F3018",
+			"name": "Shellsuit Collection I",
+			"description": "Get your body back in Give A Dog A Bonus",
+			"api_key": "74378",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79708.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79708_lock.png"
+		},
+		"74379": {
+			"release_per_platform_id": "n64_090F3018",
+			"name": "Shellsuit Collection II",
+			"description": "Get your head back in Walrace 64",
+			"api_key": "74379",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79709.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79709_lock.png"
+		},
+		"74380": {
+			"release_per_platform_id": "n64_090F3018",
+			"name": "Shellsuit Collection III",
+			"description": "Get your arms back in Evo's Escape.",
+			"api_key": "74380",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79710.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79710_lock.png"
+		},
+		"74381": {
+			"release_per_platform_id": "n64_090F3018",
+			"name": "Shellsuit Collection IV",
+			"description": "Get your legs back in Punch up Pyramid",
+			"api_key": "74381",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79710.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79710_lock.png"
+		},
+		"74383": {
+			"release_per_platform_id": "n64_090F3018",
+			"name": "Give A Dog A Bonus Master",
+			"description": "Complete Give A Dog A Bonus in under 4 minutes",
+			"api_key": "74383",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79716.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79716_lock.png"
+		},
+		"74382": {
+			"release_per_platform_id": "n64_090F3018",
+			"name": "Walrace 64 Master",
+			"description": "Complete the Walrus 64 race in 1:20 or under",
+			"api_key": "74382",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79714.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79714_lock.png"
+		},
+		"74384": {
+			"release_per_platform_id": "n64_090F3018",
+			"name": "Evo's Escape Master",
+			"description": "Get at least 14,000 points in Evo's Escape. ",
+			"api_key": "74384",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79715.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79715_lock.png"
+		},
+		"74385": {
+			"release_per_platform_id": "n64_090F3018",
+			"name": "Punch Up Pyramid Master",
+			"description": "Complete Punch Up Pyramid in 6 rounds or less",
+			"api_key": "74385",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79718.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79718_lock.png"
+		},
+		"74414": {
+			"release_per_platform_id": "n64_090F3018",
+			"name": "Triple Shot!",
+			"description": "Obtain a second weapon upgrade in the secret bonus game. ",
+			"api_key": "74414",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79719.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79719_lock.png"
+		},
+		"74415": {
+			"release_per_platform_id": "n64_090F3018",
+			"name": "That's It? ",
+			"description": "Obtain 10,000 points  in the secret bonus game. ",
+			"api_key": "74415",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79719.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79719_lock.png"
+		},
+		"74417": {
+			"release_per_platform_id": "n64_090F3018",
+			"name": "At Long Last... Quicker",
+			"description": "Complete the final stage with a record of 8:30",
+			"api_key": "74417",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79722.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/79722_lock.png"
+		}
+	}
+}

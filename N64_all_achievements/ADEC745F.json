@@ -1,0 +1,348 @@
+{
+	"Achievements": {
+		"66446": {
+			"release_per_platform_id": "n64_ADEC745F",
+			"name": "Think of the children",
+			"description": "Complete Port of Adia (On normal or higher)",
+			"api_key": "66446",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/69913.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/69913_lock.png"
+		},
+		"66447": {
+			"release_per_platform_id": "n64_ADEC745F",
+			"name": "Undead Nightmare",
+			"description": "Complete River of Souls (On normal or higher, Blood option must be activated)",
+			"api_key": "66447",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/69914.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/69914_lock.png"
+		},
+		"66448": {
+			"release_per_platform_id": "n64_ADEC745F",
+			"name": "It's called the gorillas level",
+			"description": "Complete Death Marshes (On normal or higher)",
+			"api_key": "66448",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/69915.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/69915_lock.png"
+		},
+		"66449": {
+			"release_per_platform_id": "n64_ADEC745F",
+			"name": "Eye equals weak point",
+			"description": "Defeat the Blind One Boss (On normal or higher)",
+			"api_key": "66449",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/69916.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/69916_lock.png"
+		},
+		"66450": {
+			"release_per_platform_id": "n64_ADEC745F",
+			"name": "Nobody likes bugs",
+			"description": "Defeat the Queen Boss (On normal or higher)",
+			"api_key": "66450",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/69917.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/69917_lock.png"
+		},
+		"66451": {
+			"release_per_platform_id": "n64_ADEC745F",
+			"name": "What does it have to do with machines?",
+			"description": "Defeat the Mother Boss (On normal or higher)",
+			"api_key": "66451",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/69918.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/69918_lock.png"
+		},
+		"66452": {
+			"release_per_platform_id": "n64_ADEC745F",
+			"name": "Half head are better than one",
+			"description": "Defeat the final boss (On normal or higher)",
+			"api_key": "66452",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/69919.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/69919_lock.png"
+		},
+		"66453": {
+			"release_per_platform_id": "n64_ADEC745F",
+			"name": "The seagull code",
+			"description": "In Port of Adia open the secret door to the Ultra Health",
+			"api_key": "66453",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/69920.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/69920_lock.png"
+		},
+		"66454": {
+			"release_per_platform_id": "n64_ADEC745F",
+			"name": "That's why they are called 'of despair'",
+			"description": "In River of Souls kill a sister using only the talon (Blood option must be activated)",
+			"api_key": "66454",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/69921.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/69921_lock.png"
+		},
+		"66455": {
+			"release_per_platform_id": "n64_ADEC745F",
+			"name": "Styracosaurus albertensis",
+			"description": "In River of Souls, open the secret door (Triceratops Sequence)",
+			"api_key": "66455",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/69922.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/69922_lock.png"
+		},
+		"66456": {
+			"release_per_platform_id": "n64_ADEC745F",
+			"name": "Not the Wasps!",
+			"description": "In Death Marshes destroy all the honeycombs wasp in a single run (On normal or higher)",
+			"api_key": "66456",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/69923.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/69923_lock.png"
+		},
+		"66457": {
+			"release_per_platform_id": "n64_ADEC745F",
+			"name": "Hello good old ASCII walkthrough",
+			"description": "Beat Lair of the Blind Ones without using your map in a single run",
+			"api_key": "66457",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/69924.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/69924_lock.png"
+		},
+		"66458": {
+			"release_per_platform_id": "n64_ADEC745F",
+			"name": "Those things sleep below my pillow?!",
+			"description": "In Hive of the Mantids deactivate all Mites hives in the secret water corridor and surroundings (On normal or higher)",
+			"api_key": "66458",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/69925.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/69925_lock.png"
+		},
+		"66459": {
+			"release_per_platform_id": "n64_ADEC745F",
+			"name": "Warmaster",
+			"description": "Kill 25 enemies using the Talon or War Blade (Might need take out the weapon one more time)",
+			"api_key": "66459",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/69926.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/69926_lock.png"
+		},
+		"66460": {
+			"release_per_platform_id": "n64_ADEC745F",
+			"name": "Remember to point to the head",
+			"description": "Kill 40 enemies using the Bow or Tek Bow in a single run (Might need take out the weapon one more time)",
+			"api_key": "66460",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/69927.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/69927_lock.png"
+		},
+		"66461": {
+			"release_per_platform_id": "n64_ADEC745F",
+			"name": "The old reliable",
+			"description": "Kill 30 enemies using the Pistol or Mag 60 in a single run (Might need take out the weapon one more time)",
+			"api_key": "66461",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/69929.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/69929_lock.png"
+		},
+		"66462": {
+			"release_per_platform_id": "n64_ADEC745F",
+			"name": "The favorite of papa",
+			"description": "Kill 35 enemies using the Shotgun or Shredder in a single run (Might need take out the weapon one more time)",
+			"api_key": "66462",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/69930.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/69930_lock.png"
+		},
+		"66463": {
+			"release_per_platform_id": "n64_ADEC745F",
+			"name": "The Jack's combo",
+			"description": "Kill 20 electrified enemies using the Charge Dart Rifle in a single run (Might need take out the weapon one more time)",
+			"api_key": "66463",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70008.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70008_lock.png"
+		},
+		"66464": {
+			"release_per_platform_id": "n64_ADEC745F",
+			"name": "Revive me, I have a ray gun",
+			"description": "Kill 30 enemies using the Plasma Rifle in a single run (Might need take out the weapon one more time)",
+			"api_key": "66464",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/69932.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/69932_lock.png"
+		},
+		"66465": {
+			"release_per_platform_id": "n64_ADEC745F",
+			"name": "The Scavenger killer",
+			"description": "Kill 30 enemies using the PFM Layer in a single run (Might need take out the weapon one more time)",
+			"api_key": "66465",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/69933.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/69933_lock.png"
+		},
+		"66466": {
+			"release_per_platform_id": "n64_ADEC745F",
+			"name": "Grenade Launcher",
+			"description": "Kill 25 enemies using the Grenade Launcher in a single run (Might need take out the weapon one more time)",
+			"api_key": "66466",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/69934.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/69934_lock.png"
+		},
+		"66467": {
+			"release_per_platform_id": "n64_ADEC745F",
+			"name": "Heavy Machine Gun",
+			"description": "Kill 35 enemies using the Firestorm Cannon in a single run (Might need take out the weapon one more time)",
+			"api_key": "66467",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/69935.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/69935_lock.png"
+		},
+		"66468": {
+			"release_per_platform_id": "n64_ADEC745F",
+			"name": "BALD! MY EYES!",
+			"description": "Kill 25 enemies using the Sunfire Pod in a single run (Might need take out the weapon one more time)",
+			"api_key": "66468",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/69936.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/69936_lock.png"
+		},
+		"66469": {
+			"release_per_platform_id": "n64_ADEC745F",
+			"name": "One of the most gruesome in gaming",
+			"description": "Kill 20 enemies using the Cerebral Bore in a single run (Might need take out the weapon one more time)",
+			"api_key": "66469",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/69937.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/69937_lock.png"
+		},
+		"66470": {
+			"release_per_platform_id": "n64_ADEC745F",
+			"name": "The Scorpion",
+			"description": "Kill 25 enemies using the Scorpion Launcher in a single run (Might need take out the weapon one more time)",
+			"api_key": "66470",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/69941.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/69941_lock.png"
+		},
+		"66471": {
+			"release_per_platform_id": "n64_ADEC745F",
+			"name": "Banned in America",
+			"description": "Kill 30 enemies using the Flamethrower in a single run (Might need take out the weapon one more time)",
+			"api_key": "66471",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/69942.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/69942_lock.png"
+		},
+		"66472": {
+			"release_per_platform_id": "n64_ADEC745F",
+			"name": "Razor Wind",
+			"description": "Kill 40 enemies using the Razor Wind in a single run (Might need take out the weapon one more time)",
+			"api_key": "66472",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/69943.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/69943_lock.png"
+		},
+		"66474": {
+			"release_per_platform_id": "n64_ADEC745F",
+			"name": "Half-Nuke",
+			"description": "Get the first three parts of the Nuke Weapon (On normal or higher)",
+			"api_key": "66474",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/69945.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/69945_lock.png"
+		},
+		"66475": {
+			"release_per_platform_id": "n64_ADEC745F",
+			"name": "So much for this?",
+			"description": "Get the Nuke (On normal or higher)",
+			"api_key": "66475",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/69946.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/69946_lock.png"
+		},
+		"66476": {
+			"release_per_platform_id": "n64_ADEC745F",
+			"name": "Leap of Faith",
+			"description": "Get the Leap of Faith Talisman (On normal or higher)",
+			"api_key": "66476",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/69947.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/69947_lock.png"
+		},
+		"66477": {
+			"release_per_platform_id": "n64_ADEC745F",
+			"name": "Breath of the Life",
+			"description": "Get the Breath of Life Talisman (On normal or higher)",
+			"api_key": "66477",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/69948.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/69948_lock.png"
+		},
+		"66478": {
+			"release_per_platform_id": "n64_ADEC745F",
+			"name": "Heart of Fire",
+			"description": "Get the Heart of Fire Talisman (On normal or higher)",
+			"api_key": "66478",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/69949.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/69949_lock.png"
+		},
+		"66479": {
+			"release_per_platform_id": "n64_ADEC745F",
+			"name": "Whispers of the muse",
+			"description": "Get the Whispers Talisman (On normal or higher)",
+			"api_key": "66479",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/69950.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/69950_lock.png"
+		},
+		"66480": {
+			"release_per_platform_id": "n64_ADEC745F",
+			"name": "Eye of Truth",
+			"description": "Get the Eye of Truth Talisman (On normal or higher)",
+			"api_key": "66480",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/69951.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/69951_lock.png"
+		},
+		"66481": {
+			"release_per_platform_id": "n64_ADEC745F",
+			"name": "Half-Keys",
+			"description": "Get half of all level keys (On normal or higher)",
+			"api_key": "66481",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/69952.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/69952_lock.png"
+		},
+		"66482": {
+			"release_per_platform_id": "n64_ADEC745F",
+			"name": "Just like the first game",
+			"description": " Get all of the levels keys (On normal or higher)",
+			"api_key": "66482",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/69953.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/69953_lock.png"
+		},
+		"66483": {
+			"release_per_platform_id": "n64_ADEC745F",
+			"name": "Half-Primagen",
+			"description": "Get the first three Primagen Keys (On normal or higher)",
+			"api_key": "66483",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/69954.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/69954_lock.png"
+		},
+		"66484": {
+			"release_per_platform_id": "n64_ADEC745F",
+			"name": "If you are the queen, I'm the King!",
+			"description": "Defeat the Queen Boss using only your bows (On normal or higher)",
+			"api_key": "66484",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/69955.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/69955_lock.png"
+		},
+		"66485": {
+			"release_per_platform_id": "n64_ADEC745F",
+			"name": "Only for this time",
+			"description": "In the final battle destroy more than 15 drones using only your bows (On normal or higher)",
+			"api_key": "66485",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/69956.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/69956_lock.png"
+		},
+		"66486": {
+			"release_per_platform_id": "n64_ADEC745F",
+			"name": "Just me and my bow",
+			"description": "Complete Port of Adia using only your bows in a single run (Can't use tek arrows. on normal or higher)",
+			"api_key": "66486",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/69957.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/69957_lock.png"
+		},
+		"66487": {
+			"release_per_platform_id": "n64_ADEC745F",
+			"name": "Coup de grace",
+			"description": "Defeat the final boss while he is in the air (On normal or higher)",
+			"api_key": "66487",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/69958.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/69958_lock.png"
+		},
+		"66667": {
+			"release_per_platform_id": "n64_ADEC745F",
+			"name": "One left, Two more",
+			"description": "Do your first task on Turok 2",
+			"api_key": "66667",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70140.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70140_lock.png"
+		},
+		"66668": {
+			"release_per_platform_id": "n64_ADEC745F",
+			"name": "I AM TUROK!",
+			"description": "Get 100 Life force units",
+			"api_key": "66668",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70139.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70139_lock.png"
+		}
+	}
+}

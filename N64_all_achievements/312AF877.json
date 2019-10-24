@@ -1,0 +1,420 @@
+{
+	"Achievements": {
+		"50584": {
+			"release_per_platform_id": "n64_312AF877",
+			"name": "The Hub Ruins",
+			"description": "In Level 1, obtain all 6 keys, Normal or Hard Difficulty.",
+			"api_key": "50584",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51244.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51244_lock.png"
+		},
+		"50585": {
+			"release_per_platform_id": "n64_312AF877",
+			"name": "The Jungle",
+			"description": "In Level 2, obtain all 3 keys, Normal or Hard Difficulty.",
+			"api_key": "50585",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51245.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51245_lock.png"
+		},
+		"50586": {
+			"release_per_platform_id": "n64_312AF877",
+			"name": "The Ancient City",
+			"description": "In Level 3, obtain all 3 keys, Normal or Hard Difficulty.",
+			"api_key": "50586",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51246.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51246_lock.png"
+		},
+		"50587": {
+			"release_per_platform_id": "n64_312AF877",
+			"name": "The Ruins",
+			"description": "In Level 4, obtain all 3 keys, Normal or Hard Difficulty.",
+			"api_key": "50587",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51247.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51247_lock.png"
+		},
+		"50588": {
+			"release_per_platform_id": "n64_312AF877",
+			"name": "The Catacombs",
+			"description": "In Level 5, obtain all 3 keys, Normal or Hard Difficulty.",
+			"api_key": "50588",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51248.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51248_lock.png"
+		},
+		"50589": {
+			"release_per_platform_id": "n64_312AF877",
+			"name": "Treetop Village",
+			"description": "In Level 6, obtain all 3 keys, Normal or Hard Difficulty.",
+			"api_key": "50589",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51249.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51249_lock.png"
+		},
+		"50590": {
+			"release_per_platform_id": "n64_312AF877",
+			"name": "The Lost Lands",
+			"description": "In Level 7, obtain both keys, Normal or Hard Difficulty.",
+			"api_key": "50590",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51250.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51250_lock.png"
+		},
+		"50591": {
+			"release_per_platform_id": "n64_312AF877",
+			"name": "Unleash Jumanji",
+			"description": "In Hard Mode, get all of the keys for Level 2.",
+			"api_key": "50591",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51251.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51251_lock.png"
+		},
+		"50592": {
+			"release_per_platform_id": "n64_312AF877",
+			"name": "The Key to the City",
+			"description": "In Hard Mode, get all of the keys for Level 3.",
+			"api_key": "50592",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51251.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51251_lock.png"
+		},
+		"50593": {
+			"release_per_platform_id": "n64_312AF877",
+			"name": "Excavating the Ruins",
+			"description": "In Hard Mode, get all of the keys for Level 4.",
+			"api_key": "50593",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51251.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51251_lock.png"
+		},
+		"50594": {
+			"release_per_platform_id": "n64_312AF877",
+			"name": "Unlocking the Catacombs",
+			"description": "In Hard Mode, get all of the keys for Level 5.",
+			"api_key": "50594",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51251.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51251_lock.png"
+		},
+		"50595": {
+			"release_per_platform_id": "n64_312AF877",
+			"name": "Climbing into the Treetops",
+			"description": "In Hard Mode, get all of the keys for Level 6.",
+			"api_key": "50595",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51251.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51251_lock.png"
+		},
+		"50596": {
+			"release_per_platform_id": "n64_312AF877",
+			"name": "The Found Lands",
+			"description": "In Hard Mode, get all of the keys for Level 7.",
+			"api_key": "50596",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51251.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51251_lock.png"
+		},
+		"50597": {
+			"release_per_platform_id": "n64_312AF877",
+			"name": "The Final Confrontation",
+			"description": "In Hard Mode, get all of the keys for Level 8.",
+			"api_key": "50597",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51251.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51251_lock.png"
+		},
+		"50598": {
+			"release_per_platform_id": "n64_312AF877",
+			"name": "Basic Survival Tactics",
+			"description": "Obtain the weapon \"Pistol\".",
+			"api_key": "50598",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51252.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51252_lock.png"
+		},
+		"50599": {
+			"release_per_platform_id": "n64_312AF877",
+			"name": "Wide Angle Weaponry",
+			"description": "Obtain the weapon \"Shotgun\".",
+			"api_key": "50599",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51253.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51253_lock.png"
+		},
+		"50600": {
+			"release_per_platform_id": "n64_312AF877",
+			"name": "Turok's Own Bomb-Arrows",
+			"description": "Obtain the special ammunition \"Tek Arrows\".",
+			"api_key": "50600",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51254.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51254_lock.png"
+		},
+		"50601": {
+			"release_per_platform_id": "n64_312AF877",
+			"name": "The Ammunition Has Been Doubled",
+			"description": "Obtain the \"Backpack\" to increase your ammunition.",
+			"api_key": "50601",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51255.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51255_lock.png"
+		},
+		"50602": {
+			"release_per_platform_id": "n64_312AF877",
+			"name": "Somewhat-Automatic Three Round Burst",
+			"description": "Obtain the weapon \"Assault Rifle\".",
+			"api_key": "50602",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51256.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51256_lock.png"
+		},
+		"50603": {
+			"release_per_platform_id": "n64_312AF877",
+			"name": "No More Ammos",
+			"description": "Obtain the weapon \"Automatic Shotgun\".",
+			"api_key": "50603",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51257.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51257_lock.png"
+		},
+		"50604": {
+			"release_per_platform_id": "n64_312AF877",
+			"name": "They Call Me MISTER Fusion",
+			"description": "Obtain the weapon \"Fusion Cannon\".",
+			"api_key": "50604",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51258.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51258_lock.png"
+		},
+		"50605": {
+			"release_per_platform_id": "n64_312AF877",
+			"name": "Mr. Gatling's Special Made Face-Pizza",
+			"description": "Obtain the weapon \"Mini Gun\".",
+			"api_key": "50605",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51259.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51259_lock.png"
+		},
+		"50606": {
+			"release_per_platform_id": "n64_312AF877",
+			"name": "Because Turok Can't Throw Grenades",
+			"description": "Obtain the weapon \"Grenade Launcher\".",
+			"api_key": "50606",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51260.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51260_lock.png"
+		},
+		"50607": {
+			"release_per_platform_id": "n64_312AF877",
+			"name": "The Personal Compact Particle Accelerator",
+			"description": "Obtain the weapon \"Shockwave Weapon\".",
+			"api_key": "50607",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51261.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51261_lock.png"
+		},
+		"50608": {
+			"release_per_platform_id": "n64_312AF877",
+			"name": "Future Weapon Tech Enthusiast",
+			"description": "Obtain the weapon \"Pulse Rifle\".",
+			"api_key": "50608",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51262.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51262_lock.png"
+		},
+		"50609": {
+			"release_per_platform_id": "n64_312AF877",
+			"name": "Plasma Powered Alien Crossbow",
+			"description": "Obtain the weapon \"Alien Weapon\".",
+			"api_key": "50609",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51263.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51263_lock.png"
+		},
+		"50610": {
+			"release_per_platform_id": "n64_312AF877",
+			"name": "Color A Dinosaur - Easy Mode",
+			"description": "Obtain the weapon \"Quad Rocket Launcher\".",
+			"api_key": "50610",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51264.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51264_lock.png"
+		},
+		"50611": {
+			"release_per_platform_id": "n64_312AF877",
+			"name": "There's A Time And Space for Everything",
+			"description": "Complete the ultimate weapon, the \"Chronoscepter\".",
+			"api_key": "50611",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51265.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51265_lock.png"
+		},
+		"50612": {
+			"release_per_platform_id": "n64_312AF877",
+			"name": "Wake Up, Crono!",
+			"description": "In Hard Mode, collect the Chronoscepter Piece from Level 01.",
+			"api_key": "50612",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51266.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51266_lock.png"
+		},
+		"50613": {
+			"release_per_platform_id": "n64_312AF877",
+			"name": "Secret of the Forest",
+			"description": "In Hard Mode, collect the Chronoscepter Piece from Level 02.",
+			"api_key": "50613",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51266.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51266_lock.png"
+		},
+		"50614": {
+			"release_per_platform_id": "n64_312AF877",
+			"name": "Guardia Castle, Courage and Pride",
+			"description": "In Hard Mode, collect the Chronoscepter Piece from Level 03.",
+			"api_key": "50614",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51266.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51266_lock.png"
+		},
+		"50615": {
+			"release_per_platform_id": "n64_312AF877",
+			"name": "Beyond the Ruins",
+			"description": "In Hard Mode, collect the Chronoscepter Piece from Level 04.",
+			"api_key": "50615",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51266.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51266_lock.png"
+		},
+		"50616": {
+			"release_per_platform_id": "n64_312AF877",
+			"name": "Magus' Castle",
+			"description": "In Hard Mode, collect the Chronoscepter Piece from Level 05.",
+			"api_key": "50616",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51266.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51266_lock.png"
+		},
+		"50617": {
+			"release_per_platform_id": "n64_312AF877",
+			"name": "Break the Seal!",
+			"description": "In Hard Mode, collect the Chronoscepter Piece from Level 06.",
+			"api_key": "50617",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51266.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51266_lock.png"
+		},
+		"50618": {
+			"release_per_platform_id": "n64_312AF877",
+			"name": "What Lies Beyond?",
+			"description": "In Hard Mode, collect the Chronoscepter Piece from Level 07.",
+			"api_key": "50618",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51266.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51266_lock.png"
+		},
+		"50619": {
+			"release_per_platform_id": "n64_312AF877",
+			"name": "Lavos Beckons",
+			"description": "In Hard Mode, collect the Chronoscepter Piece from Level 08.",
+			"api_key": "50619",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51266.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51266_lock.png"
+		},
+		"50620": {
+			"release_per_platform_id": "n64_312AF877",
+			"name": "Not So Rusty Tyrano",
+			"description": "Defeat the T-Rex of Level 08 on Hard Mode.",
+			"api_key": "50620",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51267.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51267_lock.png"
+		},
+		"50621": {
+			"release_per_platform_id": "n64_312AF877",
+			"name": "He Might Be Okay",
+			"description": "Defeat the Campaigner on any difficulty.",
+			"api_key": "50621",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51268.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51268_lock.png"
+		},
+		"50622": {
+			"release_per_platform_id": "n64_312AF877",
+			"name": "The Battle of Castle Grayskull",
+			"description": "Defeat the Campaigner on Hard Difficulty.",
+			"api_key": "50622",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51269.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51269_lock.png"
+		},
+		"50623": {
+			"release_per_platform_id": "n64_312AF877",
+			"name": "Actual Dinosaur Hunting Season",
+			"description": "Start Level 1, place all 6 keys in pedestals without picking up ANY new weapons",
+			"api_key": "50623",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51270.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51270_lock.png"
+		},
+		"50624": {
+			"release_per_platform_id": "n64_312AF877",
+			"name": "Dinosaur Predator",
+			"description": "Enter Level 2 and grab all 3 keys without collecting ANY new weapons.",
+			"api_key": "50624",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51271.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51271_lock.png"
+		},
+		"50625": {
+			"release_per_platform_id": "n64_312AF877",
+			"name": "Longhunter VS Licensed Dinosaur Hunter",
+			"description": "Enter Level 3 and grab all 3 keys without collecting ANY new weapons.",
+			"api_key": "50625",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51272.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51272_lock.png"
+		},
+		"50626": {
+			"release_per_platform_id": "n64_312AF877",
+			"name": "Poacher Season",
+			"description": "Enter Level 4 and grab all 3 keys without collecting ANY new weapons.",
+			"api_key": "50626",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51273.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51273_lock.png"
+		},
+		"50627": {
+			"release_per_platform_id": "n64_312AF877",
+			"name": "Giant Mutant Praying Mantis Season",
+			"description": "Enter Level 5 and grab all 3 keys without collecting ANY new weapons.",
+			"api_key": "50627",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51274.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51274_lock.png"
+		},
+		"50628": {
+			"release_per_platform_id": "n64_312AF877",
+			"name": "Tree Viewing Season",
+			"description": "Enter Level 6 and grab all 3 keys without collecting ANY new weapons.",
+			"api_key": "50628",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51275.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51275_lock.png"
+		},
+		"50629": {
+			"release_per_platform_id": "n64_312AF877",
+			"name": "Sleestak Season",
+			"description": "Enter Level 7 and grab both keys without collecting ANY new weapons.",
+			"api_key": "50629",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51276.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51276_lock.png"
+		},
+		"50630": {
+			"release_per_platform_id": "n64_312AF877",
+			"name": "Dino, Crisis of Fun",
+			"description": "Defeat Campaigner's T-Rex without collecting ANY new weapons.",
+			"api_key": "50630",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51277.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51277_lock.png"
+		},
+		"50631": {
+			"release_per_platform_id": "n64_312AF877",
+			"name": "How Do You Like those Triumph Forks, Small Fry?",
+			"description": "Gain an extra life from earning 100 life force pieces.",
+			"api_key": "50631",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51278.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51278_lock.png"
+		},
+		"50632": {
+			"release_per_platform_id": "n64_312AF877",
+			"name": "Almost Nearly Invincible",
+			"description": "While in Hard Mode, acquire up to 250 HP.",
+			"api_key": "50632",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51279.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51279_lock.png"
+		},
+		"50633": {
+			"release_per_platform_id": "n64_312AF877",
+			"name": "Majora Wound's Mask",
+			"description": "In Easy or Normal, obtain four Mortal Wounds in Level 01.",
+			"api_key": "50633",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51280.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51280_lock.png"
+		},
+		"50634": {
+			"release_per_platform_id": "n64_312AF877",
+			"name": "Dinosaurs VS the Human Race",
+			"description": "Finish the Tutorial Timed challenge in less than 3' 30\".",
+			"api_key": "50634",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51281.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51281_lock.png"
+		},
+		"50635": {
+			"release_per_platform_id": "n64_312AF877",
+			"name": "You Bread, Raptors?",
+			"description": "Kill the first raptor in the game with a shining arrow.",
+			"api_key": "50635",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51282.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51282_lock.png"
+		}
+	}
+}

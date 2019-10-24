@@ -1,0 +1,204 @@
+{
+	"Achievements": {
+		"49311": {
+			"release_per_platform_id": "n64_75E8C2AD",
+			"name": "Destroying North America",
+			"description": "Destroy New York City.",
+			"api_key": "49311",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50754.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50754_lock.png"
+		},
+		"49312": {
+			"release_per_platform_id": "n64_75E8C2AD",
+			"name": "North American Tour",
+			"description": "Destroy New York City on Medium or higher.",
+			"api_key": "49312",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50755.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50755_lock.png"
+		},
+		"49313": {
+			"release_per_platform_id": "n64_75E8C2AD",
+			"name": "Rampaging Through North America",
+			"description": "Destroy New York City on Hard.",
+			"api_key": "49313",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50756.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50756_lock.png"
+		},
+		"49314": {
+			"release_per_platform_id": "n64_75E8C2AD",
+			"name": "Destroying Europe",
+			"description": "Destroy London.",
+			"api_key": "49314",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50757.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50757_lock.png"
+		},
+		"49315": {
+			"release_per_platform_id": "n64_75E8C2AD",
+			"name": "European Tour",
+			"description": "Destroy London on Medium or higher.",
+			"api_key": "49315",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50758.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50758_lock.png"
+		},
+		"49316": {
+			"release_per_platform_id": "n64_75E8C2AD",
+			"name": "Rampaging Through Europe",
+			"description": "Destroy London on Hard.",
+			"api_key": "49316",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50759.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50759_lock.png"
+		},
+		"49317": {
+			"release_per_platform_id": "n64_75E8C2AD",
+			"name": "Destroying Asia",
+			"description": "Destroy Tokyo.",
+			"api_key": "49317",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50760.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50760_lock.png"
+		},
+		"49318": {
+			"release_per_platform_id": "n64_75E8C2AD",
+			"name": "Asian Tour",
+			"description": "Destroy Tokyo on Medium or higher.",
+			"api_key": "49318",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50761.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50761_lock.png"
+		},
+		"49319": {
+			"release_per_platform_id": "n64_75E8C2AD",
+			"name": "Rampaging Through Asia",
+			"description": "Destroy Tokyo on Hard.",
+			"api_key": "49319",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50762.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50762_lock.png"
+		},
+		"49320": {
+			"release_per_platform_id": "n64_75E8C2AD",
+			"name": "Destroying The World",
+			"description": "Destroy Area 51.",
+			"api_key": "49320",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50763.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50763_lock.png"
+		},
+		"49321": {
+			"release_per_platform_id": "n64_75E8C2AD",
+			"name": "World Tour",
+			"description": "Destroy Area 51 on Medium or higher.",
+			"api_key": "49321",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50764.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50764_lock.png"
+		},
+		"49322": {
+			"release_per_platform_id": "n64_75E8C2AD",
+			"name": "Rampaging Through The World",
+			"description": "Destroy Area 51 on Hard.",
+			"api_key": "49322",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50765.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50765_lock.png"
+		},
+		"49323": {
+			"release_per_platform_id": "n64_75E8C2AD",
+			"name": "Destroying The Universe",
+			"description": "Destroy Flatchulas.",
+			"api_key": "49323",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50766.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50766_lock.png"
+		},
+		"49324": {
+			"release_per_platform_id": "n64_75E8C2AD",
+			"name": "Universal Tour",
+			"description": "Destroy Flatchulas on Medium or higher.",
+			"api_key": "49324",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50767.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50767_lock.png"
+		},
+		"49325": {
+			"release_per_platform_id": "n64_75E8C2AD",
+			"name": "Rampaging Through The Universe",
+			"description": "Destroy Flatchulas on Hard.",
+			"api_key": "49325",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50768.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50768_lock.png"
+		},
+		"49326": {
+			"release_per_platform_id": "n64_75E8C2AD",
+			"name": "King George",
+			"description": "Destroy New York City as George.",
+			"api_key": "49326",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50769.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50769_lock.png"
+		},
+		"49327": {
+			"release_per_platform_id": "n64_75E8C2AD",
+			"name": "Foggy Werewolf",
+			"description": "Destroy London as Ralph.",
+			"api_key": "49327",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50770.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50770_lock.png"
+		},
+		"49328": {
+			"release_per_platform_id": "n64_75E8C2AD",
+			"name": "Queen of Monsters",
+			"description": "Destroy Tokyo as Lizzie.",
+			"api_key": "49328",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50771.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50771_lock.png"
+		},
+		"49329": {
+			"release_per_platform_id": "n64_75E8C2AD",
+			"name": "It Came From Outer Space",
+			"description": "Destroy Area 51 as Myukus, Big Al or Noobus.",
+			"api_key": "49329",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50772.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50772_lock.png"
+		},
+		"49330": {
+			"release_per_platform_id": "n64_75E8C2AD",
+			"name": "Fear the Noobus",
+			"description": "Destroy Flatchulas on Hard as Noobus.",
+			"api_key": "49330",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50773.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50773_lock.png"
+		},
+		"49331": {
+			"release_per_platform_id": "n64_75E8C2AD",
+			"name": "Mmmm... Tasty",
+			"description": "Eat some Mega Food while needing both health and energy. (May have issues in mu",
+			"api_key": "49331",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50774.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50774_lock.png"
+		},
+		"49332": {
+			"release_per_platform_id": "n64_75E8C2AD",
+			"name": "Safety First",
+			"description": "Obtain the Safety Power Up.",
+			"api_key": "49332",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50775.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50775_lock.png"
+		},
+		"49333": {
+			"release_per_platform_id": "n64_75E8C2AD",
+			"name": "One Monster Wrecking Crew",
+			"description": "Deal a large amount of damage to the buildings in a single level.",
+			"api_key": "49333",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50776.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50776_lock.png"
+		},
+		"49334": {
+			"release_per_platform_id": "n64_75E8C2AD",
+			"name": "Vehicular Manslaughter",
+			"description": "Destroy at least 15 vehicles in a single level.",
+			"api_key": "49334",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50777.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50777_lock.png"
+		},
+		"49335": {
+			"release_per_platform_id": "n64_75E8C2AD",
+			"name": "Purple People Eaters",
+			"description": "Eat at least 20 people in a single level.",
+			"api_key": "49335",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50778.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50778_lock.png"
+		}
+	}
+}

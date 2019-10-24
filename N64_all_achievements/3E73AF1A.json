@@ -1,0 +1,348 @@
+{
+	"Achievements": {
+		"56105": {
+			"release_per_platform_id": "n64_3E73AF1A",
+			"name": "Nitros Wars I - The Nitros Menace",
+			"description": "Defeat Nitros",
+			"api_key": "56105",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56956.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56956_lock.png"
+		},
+		"56110": {
+			"release_per_platform_id": "n64_3E73AF1A",
+			"name": "Conquered the Catfish",
+			"description": "Defeat Endol",
+			"api_key": "56110",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58639.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58639_lock.png"
+		},
+		"56106": {
+			"release_per_platform_id": "n64_3E73AF1A",
+			"name": "Nitros Wars II - Attack of the Nitros",
+			"description": "Defeat Nitros...again",
+			"api_key": "56106",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58634.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58634_lock.png"
+		},
+		"56111": {
+			"release_per_platform_id": "n64_3E73AF1A",
+			"name": "Blasted the Bird",
+			"description": "Defeat Baruda",
+			"api_key": "56111",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58640.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58640_lock.png"
+		},
+		"56107": {
+			"release_per_platform_id": "n64_3E73AF1A",
+			"name": "Nitros Wars III - Revenge of the Nitros",
+			"description": "Defeat Nitros...a third time",
+			"api_key": "56107",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58636.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58636_lock.png"
+		},
+		"56112": {
+			"release_per_platform_id": "n64_3E73AF1A",
+			"name": "Faced the Feline",
+			"description": "Defeat Bolban",
+			"api_key": "56112",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58641.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58641_lock.png"
+		},
+		"56108": {
+			"release_per_platform_id": "n64_3E73AF1A",
+			"name": "Nitros Wars IV - A New Hope",
+			"description": "Defeat Ni- yeah, you know the drill by now",
+			"api_key": "56108",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58637.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58637_lock.png"
+		},
+		"56113": {
+			"release_per_platform_id": "n64_3E73AF1A",
+			"name": "Defeated the Duo",
+			"description": "Defeat Natia and Cronus",
+			"api_key": "56113",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58642.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58642_lock.png"
+		},
+		"56109": {
+			"release_per_platform_id": "n64_3E73AF1A",
+			"name": "Nitros Wars V - Nitros Strikes Back",
+			"description": "Defeat Nitros for the fifth and final time",
+			"api_key": "56109",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58638.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58638_lock.png"
+		},
+		"56114": {
+			"release_per_platform_id": "n64_3E73AF1A",
+			"name": "Vanquished the Villain",
+			"description": "Defeat Bagular and complete the game...or is there still something left to do?",
+			"api_key": "56114",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58643.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58643_lock.png"
+		},
+		"56115": {
+			"release_per_platform_id": "n64_3E73AF1A",
+			"name": "Mastered the Mastermind",
+			"description": "Defeat the true final boss",
+			"api_key": "56115",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58644.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58644_lock.png"
+		},
+		"54384": {
+			"release_per_platform_id": "n64_3E73AF1A",
+			"name": "I DID IT!",
+			"description": "Collect 5 Clear Points in the first level of the game",
+			"api_key": "54384",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56363.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56363_lock.png"
+		},
+		"54575": {
+			"release_per_platform_id": "n64_3E73AF1A",
+			"name": "Quite The Training Exercise",
+			"description": "Collect every Clear Point in Bomber Base on Planet Bomber",
+			"api_key": "54575",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56577.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56577_lock.png"
+		},
+		"54741": {
+			"release_per_platform_id": "n64_3E73AF1A",
+			"name": "A Sea of 5s",
+			"description": "Collect every Clear Point in Sea of Trees on Planet Bomber",
+			"api_key": "54741",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56726.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56726_lock.png"
+		},
+		"54873": {
+			"release_per_platform_id": "n64_3E73AF1A",
+			"name": "Not So Peaceful Now",
+			"description": "Collect every Clear Point in Peace Mountains on Planet Bomber",
+			"api_key": "54873",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56777.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56777_lock.png"
+		},
+		"56038": {
+			"release_per_platform_id": "n64_3E73AF1A",
+			"name": "Esuslammed",
+			"description": "Collect every Clear Point in the Woods of Esuram on Primus",
+			"api_key": "56038",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56960.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56960_lock.png"
+		},
+		"56039": {
+			"release_per_platform_id": "n64_3E73AF1A",
+			"name": "Rockin' the Casbah",
+			"description": "Collect every Clear Point in Primus Castle on Primus",
+			"api_key": "56039",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58565.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58565_lock.png"
+		},
+		"56040": {
+			"release_per_platform_id": "n64_3E73AF1A",
+			"name": "Did You Happen To See A Man With Scissors On Your Way Up?",
+			"description": "Collect every Clear Point in the Clock Tower on Primus",
+			"api_key": "56040",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58566.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58566_lock.png"
+		},
+		"56041": {
+			"release_per_platform_id": "n64_3E73AF1A",
+			"name": "Explosive Attention To Detail",
+			"description": "Collect every Clear Point in Lavana Volcano on Kanatia",
+			"api_key": "56041",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58567.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58567_lock.png"
+		},
+		"56042": {
+			"release_per_platform_id": "n64_3E73AF1A",
+			"name": "Death of a Bomberman",
+			"description": "Collect every Clear Point in the Death Pyramid on Kanatia",
+			"api_key": "56042",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58568.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58568_lock.png"
+		},
+		"56043": {
+			"release_per_platform_id": "n64_3E73AF1A",
+			"name": "Enshrined in 5s",
+			"description": "Collect every Clear Point in Kanatia Shrine on Kanatia",
+			"api_key": "56043",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58569.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58569_lock.png"
+		},
+		"56045": {
+			"release_per_platform_id": "n64_3E73AF1A",
+			"name": "This Is My Jungle Now",
+			"description": "Collect every Clear Point in Louie's Jungle on Mazone",
+			"api_key": "56045",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58573.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58573_lock.png"
+		},
+		"56046": {
+			"release_per_platform_id": "n64_3E73AF1A",
+			"name": "Slush Surmounted",
+			"description": "Collect every Clear Point in Slush Mountains on Mazone",
+			"api_key": "56046",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58574.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58574_lock.png"
+		},
+		"56047": {
+			"release_per_platform_id": "n64_3E73AF1A",
+			"name": "Ma'zowned",
+			"description": "Collect every Clear Point in the Mazone Dome on Mazone",
+			"api_key": "56047",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58576.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58576_lock.png"
+		},
+		"56048": {
+			"release_per_platform_id": "n64_3E73AF1A",
+			"name": "One In A Million",
+			"description": "Collect every Clear Point on Garaden Star",
+			"api_key": "56048",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58578.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58578_lock.png"
+		},
+		"56049": {
+			"release_per_platform_id": "n64_3E73AF1A",
+			"name": "In A Galaxy Far, Far Away...",
+			"description": "Collect every Clear Point on Gossick Star",
+			"api_key": "56049",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58579.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58579_lock.png"
+		},
+		"56116": {
+			"release_per_platform_id": "n64_3E73AF1A",
+			"name": "Zoomin' On Past",
+			"description": "Complete Sky Room in less than 42 seconds",
+			"api_key": "56116",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58645.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58645_lock.png"
+		},
+		"54740": {
+			"release_per_platform_id": "n64_3E73AF1A",
+			"name": "PETA Would Be Proud",
+			"description": "Complete Hole Lake in less than 80 seconds",
+			"api_key": "54740",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56725.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56725_lock.png"
+		},
+		"54875": {
+			"release_per_platform_id": "n64_3E73AF1A",
+			"name": "Just Clowning Around",
+			"description": "Complete Clown Valley in less than 18 seconds",
+			"api_key": "54875",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56951.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56951_lock.png"
+		},
+		"56117": {
+			"release_per_platform_id": "n64_3E73AF1A",
+			"name": "Slip 'n Slide",
+			"description": "Complete Water Slider in less than 28 seconds",
+			"api_key": "56117",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58646.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58646_lock.png"
+		},
+		"56118": {
+			"release_per_platform_id": "n64_3E73AF1A",
+			"name": "Isn't That A Bit Redundant?",
+			"description": "Complete Water Pool in less than 30 seconds",
+			"api_key": "56118",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58647.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58647_lock.png"
+		},
+		"56121": {
+			"release_per_platform_id": "n64_3E73AF1A",
+			"name": "How To Kill A Gate 101",
+			"description": "Complete Killer Gate in less than 65 seconds",
+			"api_key": "56121",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58648.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58648_lock.png"
+		},
+		"56122": {
+			"release_per_platform_id": "n64_3E73AF1A",
+			"name": "Tis But A Burn Wound",
+			"description": "Complete Magma Lake in less than 29 seconds",
+			"api_key": "56122",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58649.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58649_lock.png"
+		},
+		"56123": {
+			"release_per_platform_id": "n64_3E73AF1A",
+			"name": "World's Speediest Jailbreak",
+			"description": "Complete Death Temple in less than 24 seconds",
+			"api_key": "56123",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58650.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58650_lock.png"
+		},
+		"56124": {
+			"release_per_platform_id": "n64_3E73AF1A",
+			"name": "Where, Oh Where, Could The Exit Be?",
+			"description": "Complete Dark Maze in less than 13 seconds",
+			"api_key": "56124",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58651.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58651_lock.png"
+		},
+		"56125": {
+			"release_per_platform_id": "n64_3E73AF1A",
+			"name": "Hoppin' Around",
+			"description": "Complete Hopper Land in less than 33 seconds",
+			"api_key": "56125",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58652.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58652_lock.png"
+		},
+		"56126": {
+			"release_per_platform_id": "n64_3E73AF1A",
+			"name": "Rainbow Road",
+			"description": "Complete Eye Snake in less than 40 seconds",
+			"api_key": "56126",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58653.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58653_lock.png"
+		},
+		"56127": {
+			"release_per_platform_id": "n64_3E73AF1A",
+			"name": "How Can Mirrors Be Real If Our Eyes Aren't Real?",
+			"description": "Complete Mirror Room in less than 46 seconds",
+			"api_key": "56127",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58654.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58654_lock.png"
+		},
+		"56128": {
+			"release_per_platform_id": "n64_3E73AF1A",
+			"name": "Soarin' Over Gossick",
+			"description": "Complete Inner Road in less than 27 seconds",
+			"api_key": "56128",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58655.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58655_lock.png"
+		},
+		"56129": {
+			"release_per_platform_id": "n64_3E73AF1A",
+			"name": "The Lap of Luxury",
+			"description": "Complete all three Golden Bomber levels",
+			"api_key": "56129",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58658.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58658_lock.png"
+		},
+		"56140": {
+			"release_per_platform_id": "n64_3E73AF1A",
+			"name": "Ooh, What's This?",
+			"description": "Complete three particularly secret levels",
+			"api_key": "56140",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58672.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58672_lock.png"
+		},
+		"56130": {
+			"release_per_platform_id": "n64_3E73AF1A",
+			"name": "You've Got A Lot Of Guts, Kid",
+			"description": "Defeat the snowman and get a time of less than 42 seconds in Slider Race",
+			"api_key": "56130",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58659.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58659_lock.png"
+		},
+		"56131": {
+			"release_per_platform_id": "n64_3E73AF1A",
+			"name": "Wah!",
+			"description": "Wah! Wah! Wah! Wah! Wah! ",
+			"api_key": "56131",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58664.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58664_lock.png"
+		}
+	}
+}

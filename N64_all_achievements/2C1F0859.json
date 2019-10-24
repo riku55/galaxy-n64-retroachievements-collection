@@ -1,0 +1,500 @@
+{
+	"Achievements": {
+		"60289": {
+			"release_per_platform_id": "n64_2C1F0859",
+			"name": "Rally Days 1",
+			"description": "Win the Rally Days championship race",
+			"api_key": "60289",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63165.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63165_lock.png"
+		},
+		"60290": {
+			"release_per_platform_id": "n64_2C1F0859",
+			"name": "Rally Days 2",
+			"description": "Win the Rally Days 2 championship race",
+			"api_key": "60290",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63166.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63166_lock.png"
+		},
+		"60291": {
+			"release_per_platform_id": "n64_2C1F0859",
+			"name": "Cow Days",
+			"description": "Win the Cow Days championship race",
+			"api_key": "60291",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63167.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63167_lock.png"
+		},
+		"60292": {
+			"release_per_platform_id": "n64_2C1F0859",
+			"name": "Valentine's Day",
+			"description": "Win the Valentine's Day championship race",
+			"api_key": "60292",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63168.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63168_lock.png"
+		},
+		"60293": {
+			"release_per_platform_id": "n64_2C1F0859",
+			"name": "Spring Cleaning",
+			"description": "Win the Spring Cleaning championship race",
+			"api_key": "60293",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63169.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63169_lock.png"
+		},
+		"60294": {
+			"release_per_platform_id": "n64_2C1F0859",
+			"name": "Read-a-Book Day",
+			"description": "Win the Read-a-Book Day championship race",
+			"api_key": "60294",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63170.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63170_lock.png"
+		},
+		"60295": {
+			"release_per_platform_id": "n64_2C1F0859",
+			"name": "Easter",
+			"description": "Win the Easter championship race",
+			"api_key": "60295",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63171.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63171_lock.png"
+		},
+		"60296": {
+			"release_per_platform_id": "n64_2C1F0859",
+			"name": "Pink Lemonade",
+			"description": "Win the Pink Lemonade championship race",
+			"api_key": "60296",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63172.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63172_lock.png"
+		},
+		"60297": {
+			"release_per_platform_id": "n64_2C1F0859",
+			"name": "Memorial Day",
+			"description": "Win the Memorial Day championship race",
+			"api_key": "60297",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63173.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63173_lock.png"
+		},
+		"60298": {
+			"release_per_platform_id": "n64_2C1F0859",
+			"name": "Independance Day",
+			"description": "Win the 4th of July championship race",
+			"api_key": "60298",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63174.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63174_lock.png"
+		},
+		"60299": {
+			"release_per_platform_id": "n64_2C1F0859",
+			"name": "Halloween",
+			"description": "Win the Halloween championship race",
+			"api_key": "60299",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63175.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63175_lock.png"
+		},
+		"60300": {
+			"release_per_platform_id": "n64_2C1F0859",
+			"name": "Thanksgiving",
+			"description": "Win the Thanksgiving championship race",
+			"api_key": "60300",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63176.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63176_lock.png"
+		},
+		"60301": {
+			"release_per_platform_id": "n64_2C1F0859",
+			"name": "Christmas",
+			"description": "Win the Christmas championship race",
+			"api_key": "60301",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63177.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63177_lock.png"
+		},
+		"60302": {
+			"release_per_platform_id": "n64_2C1F0859",
+			"name": "New Year's Eve",
+			"description": "Win the New Year's Eve championship race",
+			"api_key": "60302",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63178.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63178_lock.png"
+		},
+		"60303": {
+			"release_per_platform_id": "n64_2C1F0859",
+			"name": "Extra Credit - Rally Days 1",
+			"description": "Find the extra credit coin in the Rally Days 1 championship race",
+			"api_key": "60303",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63179.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63179_lock.png"
+		},
+		"60304": {
+			"release_per_platform_id": "n64_2C1F0859",
+			"name": "Extra Credit - Rally Days 2",
+			"description": "Find the extra credit coin in the Rally Days 2 championship race",
+			"api_key": "60304",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63180.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63180_lock.png"
+		},
+		"60305": {
+			"release_per_platform_id": "n64_2C1F0859",
+			"name": "Extra Credit - Cow Days",
+			"description": "Find the extra credit coin in the Cow Days championship race",
+			"api_key": "60305",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63181.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63181_lock.png"
+		},
+		"60306": {
+			"release_per_platform_id": "n64_2C1F0859",
+			"name": "Extra Credit - Valentine's Day",
+			"description": "Find the extra credit coin in the Valentine's Day championship race",
+			"api_key": "60306",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63182.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63182_lock.png"
+		},
+		"60307": {
+			"release_per_platform_id": "n64_2C1F0859",
+			"name": "Extra Credit - Spring Cleaning",
+			"description": "Find the extra credit coin in the Spring Cleaning championship race",
+			"api_key": "60307",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63183.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63183_lock.png"
+		},
+		"60308": {
+			"release_per_platform_id": "n64_2C1F0859",
+			"name": "Extra Credit - Read-a-Book Day",
+			"description": "Find the extra credit coin in the Read-a-Book Day championship race",
+			"api_key": "60308",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63184.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63184_lock.png"
+		},
+		"60309": {
+			"release_per_platform_id": "n64_2C1F0859",
+			"name": "Extra Credit - Easter",
+			"description": "Find the extra credit coin in the Easter championship race",
+			"api_key": "60309",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63185.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63185_lock.png"
+		},
+		"60310": {
+			"release_per_platform_id": "n64_2C1F0859",
+			"name": "Extra Credit - Pink Lemonade",
+			"description": "Find the extra credit coin in the Pink Lemonade championship race",
+			"api_key": "60310",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63186.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63186_lock.png"
+		},
+		"60311": {
+			"release_per_platform_id": "n64_2C1F0859",
+			"name": "Extra Credit - Memorial Day",
+			"description": "Find the extra credit coin in the Memorial Day championship race",
+			"api_key": "60311",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63187.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63187_lock.png"
+		},
+		"60350": {
+			"release_per_platform_id": "n64_2C1F0859",
+			"name": "Extra Credit - 4th of July",
+			"description": "Find the extra credit coin in the 4th of July championship race",
+			"api_key": "60350",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63212.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63212_lock.png"
+		},
+		"60312": {
+			"release_per_platform_id": "n64_2C1F0859",
+			"name": "Extra Credit - Halloween",
+			"description": "Find the extra credit coin in the Halloween championship race",
+			"api_key": "60312",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63188.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63188_lock.png"
+		},
+		"60313": {
+			"release_per_platform_id": "n64_2C1F0859",
+			"name": "Extra Credit - Thanksgiving",
+			"description": "Find the extra credit coin in the Thanksgiving championship race",
+			"api_key": "60313",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63189.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63189_lock.png"
+		},
+		"60314": {
+			"release_per_platform_id": "n64_2C1F0859",
+			"name": "Extra Credit - Christmas",
+			"description": "Find the extra credit coin in the Christmas championship race",
+			"api_key": "60314",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63190.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63190_lock.png"
+		},
+		"60315": {
+			"release_per_platform_id": "n64_2C1F0859",
+			"name": "Extra Credit - New Year's Eve",
+			"description": "Find the extra credit coin in the New Year's Eve championship race",
+			"api_key": "60315",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63191.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63191_lock.png"
+		},
+		"60316": {
+			"release_per_platform_id": "n64_2C1F0859",
+			"name": "Pinkeye - Farm",
+			"description": "Collect the Pinkeye item at the farm",
+			"api_key": "60316",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63264.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63264_lock.png"
+		},
+		"60317": {
+			"release_per_platform_id": "n64_2C1F0859",
+			"name": "Pinkeye - Big Gay Al's",
+			"description": "Collect the Pinkeye item at Big Gay Al's",
+			"api_key": "60317",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63265.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63265_lock.png"
+		},
+		"60318": {
+			"release_per_platform_id": "n64_2C1F0859",
+			"name": "Pinkeye - Sewers",
+			"description": "Collect the Pinkeye item in the sewers",
+			"api_key": "60318",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63267.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63267_lock.png"
+		},
+		"60319": {
+			"release_per_platform_id": "n64_2C1F0859",
+			"name": "Pinkeye - Mountain",
+			"description": "Collect the Pinkeye item at the mountain",
+			"api_key": "60319",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63266.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63266_lock.png"
+		},
+		"60320": {
+			"release_per_platform_id": "n64_2C1F0859",
+			"name": "Unlockables Checklist",
+			"description": "Win the Rally Days 1 championship race without driving over a single item or boost box",
+			"api_key": "60320",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63213.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63213_lock.png"
+		},
+		"60321": {
+			"release_per_platform_id": "n64_2C1F0859",
+			"name": "Mr. Garrison",
+			"description": "Be the only racer to activate all four checkpoints in the Rally Days 2 championship race",
+			"api_key": "60321",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63192.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63192_lock.png"
+		},
+		"60322": {
+			"release_per_platform_id": "n64_2C1F0859",
+			"name": "Pip",
+			"description": "Activate only checkpoints 1 and 4 in the Rally Days 2 championship race",
+			"api_key": "60322",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63193.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63193_lock.png"
+		},
+		"60323": {
+			"release_per_platform_id": "n64_2C1F0859",
+			"name": "Bebe",
+			"description": "Lose the Cow Days championship race without touching the cure",
+			"api_key": "60323",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63194.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63194_lock.png"
+		},
+		"60324": {
+			"release_per_platform_id": "n64_2C1F0859",
+			"name": "Shelly",
+			"description": "Find the three golden cows in the Valentine's Day championship race",
+			"api_key": "60324",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63195.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63195_lock.png"
+		},
+		"60325": {
+			"release_per_platform_id": "n64_2C1F0859",
+			"name": "Mr. Mackey",
+			"description": "Win the Spring Cleaning championship race without continuing",
+			"api_key": "60325",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63196.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63196_lock.png"
+		},
+		"60326": {
+			"release_per_platform_id": "n64_2C1F0859",
+			"name": "Tweek",
+			"description": "Get five caffeine pick-ups in the Spring Cleaning championship race",
+			"api_key": "60326",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63197.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63197_lock.png"
+		},
+		"60327": {
+			"release_per_platform_id": "n64_2C1F0859",
+			"name": "Cartman Cop",
+			"description": "Hit the Read-a-Book Day truck with salty balls five times",
+			"api_key": "60327",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63198.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63198_lock.png"
+		},
+		"60328": {
+			"release_per_platform_id": "n64_2C1F0859",
+			"name": "Big Gay Al",
+			"description": "Win the Pink Lemonade championship race without continuing",
+			"api_key": "60328",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63199.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63199_lock.png"
+		},
+		"60329": {
+			"release_per_platform_id": "n64_2C1F0859",
+			"name": "Ike",
+			"description": "Find the golden cow in the Memorial Day championship race",
+			"api_key": "60329",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63200.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63200_lock.png"
+		},
+		"60330": {
+			"release_per_platform_id": "n64_2C1F0859",
+			"name": "Visitor",
+			"description": "Collect both pot pies in the Memorial Day championship race",
+			"api_key": "60330",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63201.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63201_lock.png"
+		},
+		"60331": {
+			"release_per_platform_id": "n64_2C1F0859",
+			"name": "Mephesto",
+			"description": "Win the 4th of July championship race without continuing",
+			"api_key": "60331",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63202.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63202_lock.png"
+		},
+		"60332": {
+			"release_per_platform_id": "n64_2C1F0859",
+			"name": "Ned",
+			"description": "Collect twelve speed boost power-ups in the 4th of July championship race",
+			"api_key": "60332",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63203.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63203_lock.png"
+		},
+		"60333": {
+			"release_per_platform_id": "n64_2C1F0859",
+			"name": "Grandpa",
+			"description": "Win the Halloween championship race without continuing",
+			"api_key": "60333",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63204.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63204_lock.png"
+		},
+		"60334": {
+			"release_per_platform_id": "n64_2C1F0859",
+			"name": "Death",
+			"description": "Win the Halloween championship race by dropping off four candies at a time",
+			"api_key": "60334",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63205.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63205_lock.png"
+		},
+		"60335": {
+			"release_per_platform_id": "n64_2C1F0859",
+			"name": "Marvin",
+			"description": "Lose the Thanksgiving championship race without collecting any turkeys",
+			"api_key": "60335",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63206.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63206_lock.png"
+		},
+		"60336": {
+			"release_per_platform_id": "n64_2C1F0859",
+			"name": "Jesus",
+			"description": "Win the Christmas championship race without continuing",
+			"api_key": "60336",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63207.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63207_lock.png"
+		},
+		"60337": {
+			"release_per_platform_id": "n64_2C1F0859",
+			"name": "Terrance and Phillip",
+			"description": "Find all four golden cows in the Christmas championship race",
+			"api_key": "60337",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63208.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63208_lock.png"
+		},
+		"60338": {
+			"release_per_platform_id": "n64_2C1F0859",
+			"name": "Damien",
+			"description": "Be the only player to hold the key in the New Year's Eve championship race",
+			"api_key": "60338",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63210.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63210_lock.png"
+		},
+		"60339": {
+			"release_per_platform_id": "n64_2C1F0859",
+			"name": "Satan",
+			"description": "Win the New Years Eve championship race without continuing",
+			"api_key": "60339",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63209.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63209_lock.png"
+		},
+		"60340": {
+			"release_per_platform_id": "n64_2C1F0859",
+			"name": "Pig and Elephant DNA Just Don't Splice",
+			"description": "Have the rat, cow, and dog items in your inventory at the same time during the Rally Days 1 championship race",
+			"api_key": "60340",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63214.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63214_lock.png"
+		},
+		"60341": {
+			"release_per_platform_id": "n64_2C1F0859",
+			"name": "Drugs Are Bad, Mmmkay?",
+			"description": "Win the Rally Days 2 championship race without picking up any items",
+			"api_key": "60341",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63215.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63215_lock.png"
+		},
+		"60342": {
+			"release_per_platform_id": "n64_2C1F0859",
+			"name": "I'm Super! Thanks for Asking",
+			"description": "Win the Cow Days championship race at least 80% ahead of everyone else",
+			"api_key": "60342",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63216.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63216_lock.png"
+		},
+		"60343": {
+			"release_per_platform_id": "n64_2C1F0859",
+			"name": "They're Coming Right For Us!",
+			"description": "Hit all five opponents in the Valentine's Day championship race without losing the bow and arrow",
+			"api_key": "60343",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63217.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63217_lock.png"
+		},
+		"60344": {
+			"release_per_platform_id": "n64_2C1F0859",
+			"name": "Phase 3 - Profit",
+			"description": "Hold all three pairs of underpants in the Spring Cleaning championship race",
+			"api_key": "60344",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63218.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63218_lock.png"
+		},
+		"60345": {
+			"release_per_platform_id": "n64_2C1F0859",
+			"name": "No Kitty! This is My Pot-Pie",
+			"description": "Collect a pot pie in the Memorial Day championship race while having a kitty in your inventory",
+			"api_key": "60345",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63268.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63268_lock.png"
+		},
+		"60346": {
+			"release_per_platform_id": "n64_2C1F0859",
+			"name": "Hello There, Children",
+			"description": "Deliver at least 15 candies during the Halloween championsip race",
+			"api_key": "60346",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63261.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63261_lock.png"
+		},
+		"60347": {
+			"release_per_platform_id": "n64_2C1F0859",
+			"name": "Respect Mah Authoritah!",
+			"description": "Have at least 10 credits",
+			"api_key": "60347",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63219.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63219_lock.png"
+		},
+		"60348": {
+			"release_per_platform_id": "n64_2C1F0859",
+			"name": "Screw You Guys, I'm Going Home",
+			"description": "Quit the championship after winning a race",
+			"api_key": "60348",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63263.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63263_lock.png"
+		},
+		"60349": {
+			"release_per_platform_id": "n64_2C1F0859",
+			"name": "And Meet Some Friends of Mine",
+			"description": "Watch the complete theme song",
+			"api_key": "60349",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63211.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63211_lock.png"
+		}
+	}
+}

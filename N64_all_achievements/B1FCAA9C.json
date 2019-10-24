@@ -1,0 +1,420 @@
+{
+	"Achievements": {
+		"49031": {
+			"release_per_platform_id": "n64_B1FCAA9C",
+			"name": "TR - Air Force Training Ribbon",
+			"description": "Get max ring combo in the training (100)",
+			"api_key": "49031",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51193.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51193_lock.png"
+		},
+		"49035": {
+			"release_per_platform_id": "n64_B1FCAA9C",
+			"name": "TR - Combat Flight School Graduate",
+			"description": "Get 100 hits in training and then destroy a Wolfen fighter",
+			"api_key": "49035",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51195.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51195_lock.png"
+		},
+		"48717": {
+			"release_per_platform_id": "n64_B1FCAA9C",
+			"name": "TR - Do a barrel roll",
+			"description": "Deflect shots when Peppy says \"Do a barrel roll\" in Corneria",
+			"api_key": "48717",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50987.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50987_lock.png"
+		},
+		"49347": {
+			"release_per_platform_id": "n64_B1FCAA9C",
+			"name": "TR - Do a wet barrel roll",
+			"description": "Deflect shots when Peppy says \"Do a barrel roll\" on Aquas",
+			"api_key": "49347",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51346.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51346_lock.png"
+		},
+		"49026": {
+			"release_per_platform_id": "n64_B1FCAA9C",
+			"name": "TR - Locked and Loaded",
+			"description": "Weapon Maxed, Lifbar extended, max bombs (9)",
+			"api_key": "49026",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51192.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51192_lock.png"
+		},
+		"48894": {
+			"release_per_platform_id": "n64_B1FCAA9C",
+			"name": "M1 - Legion of Merit",
+			"description": "Defeat Andross going through Bolse",
+			"api_key": "48894",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50997.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50997_lock.png"
+		},
+		"48895": {
+			"release_per_platform_id": "n64_B1FCAA9C",
+			"name": "M1 - Air Force Cross",
+			"description": "Defeat Andross going through Area 6",
+			"api_key": "48895",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50996.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50996_lock.png"
+		},
+		"49264": {
+			"release_per_platform_id": "n64_B1FCAA9C",
+			"name": "M1 - Bronze Star Medal",
+			"description": "Earn a medal on any stage (normal)",
+			"api_key": "49264",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50990.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50990_lock.png"
+		},
+		"49268": {
+			"release_per_platform_id": "n64_B1FCAA9C",
+			"name": "M1 - Cornerian Defense Service Award",
+			"description": "Earn a medal on 5 stages (normal)",
+			"api_key": "49268",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51235.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51235_lock.png"
+		},
+		"49269": {
+			"release_per_platform_id": "n64_B1FCAA9C",
+			"name": "M1 - Distinguished Service Award",
+			"description": "Earn a medal on 10 stages (normal)",
+			"api_key": "49269",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50994.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50994_lock.png"
+		},
+		"49265": {
+			"release_per_platform_id": "n64_B1FCAA9C",
+			"name": "M1 - Superior Service Award",
+			"description": "Earn all medals and unlock Expert (normal) (wait until rank in)",
+			"api_key": "49265",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50991.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50991_lock.png"
+		},
+		"49273": {
+			"release_per_platform_id": "n64_B1FCAA9C",
+			"name": "M1 - Just like dad",
+			"description": "Complete the Game on Expert",
+			"api_key": "49273",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51184.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51184_lock.png"
+		},
+		"49271": {
+			"release_per_platform_id": "n64_B1FCAA9C",
+			"name": "M1 - Outstanding Airman",
+			"description": "Earn a medal on 5 stages (Expert)",
+			"api_key": "49271",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51179.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51179_lock.png"
+		},
+		"49270": {
+			"release_per_platform_id": "n64_B1FCAA9C",
+			"name": "M1 - Distinguished Flying Cross",
+			"description": "Earn a medal on 10 stages (Expert)",
+			"api_key": "49270",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50995.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50995_lock.png"
+		},
+		"49267": {
+			"release_per_platform_id": "n64_B1FCAA9C",
+			"name": "M1 - Medal of Honor",
+			"description": "Earn all medals (Expert) (wait until rank in)",
+			"api_key": "49267",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50993.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50993_lock.png"
+		},
+		"49348": {
+			"release_per_platform_id": "n64_B1FCAA9C",
+			"name": "M2 - Warp Speed",
+			"description": "Enter the secret Warp Zone in Metos",
+			"api_key": "49348",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51196.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51196_lock.png"
+		},
+		"49450": {
+			"release_per_platform_id": "n64_B1FCAA9C",
+			"name": "M2 - Don't touch my friends",
+			"description": "Prevent Slippy from geting knocked down by the boss of Sector X",
+			"api_key": "49450",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51173.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51173_lock.png"
+		},
+		"49259": {
+			"release_per_platform_id": "n64_B1FCAA9C",
+			"name": "M2 - Deploy the Blue-Marine",
+			"description": "Get in the Blue Marine for the first time",
+			"api_key": "49259",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50988.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50988_lock.png"
+		},
+		"49260": {
+			"release_per_platform_id": "n64_B1FCAA9C",
+			"name": "M2 - Deploy the Landmaster",
+			"description": "Get in the Landmaster for the first time",
+			"api_key": "49260",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51239.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51239_lock.png"
+		},
+		"49689": {
+			"release_per_platform_id": "n64_B1FCAA9C",
+			"name": "M2 - Train without brakes",
+			"description": "Shoot 8 switches and the switcher in Macbeth",
+			"api_key": "49689",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51167.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51167_lock.png"
+		},
+		"49349": {
+			"release_per_platform_id": "n64_B1FCAA9C",
+			"name": "M2 - Warp Gate",
+			"description": "Enter the secret Warp Zone on Sector X",
+			"api_key": "49349",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51194.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51194_lock.png"
+		},
+		"49351": {
+			"release_per_platform_id": "n64_B1FCAA9C",
+			"name": "M2 - An ally in the Waste",
+			"description": "Get a visit by Katt on Zoness",
+			"api_key": "49351",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51343.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51343_lock.png"
+		},
+		"50069": {
+			"release_per_platform_id": "n64_B1FCAA9C",
+			"name": "M2 - Lights out",
+			"description": "Destroy all the Searchlights on Zoness and pass undetected",
+			"api_key": "50069",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51198.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51198_lock.png"
+		},
+		"49025": {
+			"release_per_platform_id": "n64_B1FCAA9C",
+			"name": "M2 - Just cruising",
+			"description": "Take the easy route to Venom",
+			"api_key": "49025",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51190.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51190_lock.png"
+		},
+		"49017": {
+			"release_per_platform_id": "n64_B1FCAA9C",
+			"name": "M2 - You're as tough as they come!",
+			"description": "take the hardest route to Venom",
+			"api_key": "49017",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51183.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51183_lock.png"
+		},
+		"50198": {
+			"release_per_platform_id": "n64_B1FCAA9C",
+			"name": "M2 - He's Alive!",
+			"description": "Get help from someone special",
+			"api_key": "50198",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51344.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51344_lock.png"
+		},
+		"49274": {
+			"release_per_platform_id": "n64_B1FCAA9C",
+			"name": "M2 - A Steep bill, but worth it",
+			"description": "Get paid $50k to $70k by the Cornerian Army",
+			"api_key": "49274",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51186.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51186_lock.png"
+		},
+		"49275": {
+			"release_per_platform_id": "n64_B1FCAA9C",
+			"name": "M2 - One Rich Fox",
+			"description": "Get paid $70k or more by the Cornerian Army",
+			"api_key": "49275",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51188.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51188_lock.png"
+		},
+		"49266": {
+			"release_per_platform_id": "n64_B1FCAA9C",
+			"name": "C1 - Air and Space Campaign Medal",
+			"description": "Earn a medal on every level in one playthrough",
+			"api_key": "49266",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50992.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50992_lock.png"
+		},
+		"49350": {
+			"release_per_platform_id": "n64_B1FCAA9C",
+			"name": "C1 - Nebulophiliac",
+			"description": "Visit sector X, Y, and Z in one run",
+			"api_key": "49350",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51191.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51191_lock.png"
+		},
+		"49272": {
+			"release_per_platform_id": "n64_B1FCAA9C",
+			"name": "C1 - Lylat System complete tour",
+			"description": "Complete each stage once on normal",
+			"api_key": "49272",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51182.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51182_lock.png"
+		},
+		"49276": {
+			"release_per_platform_id": "n64_B1FCAA9C",
+			"name": "C1 - Air Force Meritorious Unit Award",
+			"description": "Complete the game (Normal) without losing wingmen or a life",
+			"api_key": "49276",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51236.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51236_lock.png"
+		},
+		"49277": {
+			"release_per_platform_id": "n64_B1FCAA9C",
+			"name": "C1 - Gallant Unit Citation",
+			"description": "Complete the game (Expert) without losing a wingman, can retry stages",
+			"api_key": "49277",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51009.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51009_lock.png"
+		},
+		"49340": {
+			"release_per_platform_id": "n64_B1FCAA9C",
+			"name": "C1 - Wright Brothers Master Pilot Award",
+			"description": "Complete the game on Expert without ever dying",
+			"api_key": "49340",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51234.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51234_lock.png"
+		},
+		"48716": {
+			"release_per_platform_id": "n64_B1FCAA9C",
+			"name": "C2 - Cornerian Flyby",
+			"description": "Complete Corneria destroying no enemies except the boss and not taking any hits",
+			"api_key": "48716",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50999.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50999_lock.png"
+		},
+		"50033": {
+			"release_per_platform_id": "n64_B1FCAA9C",
+			"name": "C2 - Flies over a sitting duck",
+			"description": "Fighting Granga (Corneria All-range boss) Destoy 5 inessential parts",
+			"api_key": "50033",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51177.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51177_lock.png"
+		},
+		"50031": {
+			"release_per_platform_id": "n64_B1FCAA9C",
+			"name": "C2 - Hey, He was Mine!",
+			"description": "Steal 1 kill from every wingman in Fichina",
+			"api_key": "50031",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51004.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51004_lock.png"
+		},
+		"49620": {
+			"release_per_platform_id": "n64_B1FCAA9C",
+			"name": "C2 - Katina Outstanding Service Medal",
+			"description": "Get \"Mission Acomplished\" without killing any of Bill's ships",
+			"api_key": "49620",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51237.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51237_lock.png"
+		},
+		"49595": {
+			"release_per_platform_id": "n64_B1FCAA9C",
+			"name": "C2 - Landmaster Item Hunter",
+			"description": "Collect 31 items in Titania - guide available on game page",
+			"api_key": "49595",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51014.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51014_lock.png"
+		},
+		"49619": {
+			"release_per_platform_id": "n64_B1FCAA9C",
+			"name": "C2 - \"Friendly\" Fire",
+			"description": "Kill 80 of the Bulldog and Husky Squadron's (ally ships) on Katina",
+			"api_key": "49619",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51189.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51189_lock.png"
+		},
+		"49452": {
+			"release_per_platform_id": "n64_B1FCAA9C",
+			"name": "C2 - The Great Defender",
+			"description": "Deflect 200 shots in Sector X before reaching Spyborg or warping",
+			"api_key": "49452",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51175.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51175_lock.png"
+		},
+		"49688": {
+			"release_per_platform_id": "n64_B1FCAA9C",
+			"name": "C2 - Train Totaller",
+			"description": "Destroy every part of the train in Macbeth, and boss without switches",
+			"api_key": "49688",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51166.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51166_lock.png"
+		},
+		"50192": {
+			"release_per_platform_id": "n64_B1FCAA9C",
+			"name": "C2 - Defender of the Deep",
+			"description": "Deflect 250 shots on Aquas before reaching the boss",
+			"api_key": "50192",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51164.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51164_lock.png"
+		},
+		"50089": {
+			"release_per_platform_id": "n64_B1FCAA9C",
+			"name": "C2 - Quick Finish",
+			"description": "Complete Sector Z as quickly as is possible",
+			"api_key": "50089",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51001.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51001_lock.png"
+		},
+		"50030": {
+			"release_per_platform_id": "n64_B1FCAA9C",
+			"name": "C2 - Slippy's Savior",
+			"description": "Save Slippy 5 times in Bolse",
+			"api_key": "50030",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51176.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51176_lock.png"
+		},
+		"50085": {
+			"release_per_platform_id": "n64_B1FCAA9C",
+			"name": "C2 - Power Path",
+			"description": "On Venom II on the way to andross take that path gives 3 gold rings",
+			"api_key": "50085",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51013.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51013_lock.png"
+		},
+		"49285": {
+			"release_per_platform_id": "n64_B1FCAA9C",
+			"name": "SP - Where'd it go?",
+			"description": "Get the 64 off screen on the title screen",
+			"api_key": "49285",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51010.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51010_lock.png"
+		},
+		"49341": {
+			"release_per_platform_id": "n64_B1FCAA9C",
+			"name": "SP - Purple Heart",
+			"description": "Complete any mission without wings",
+			"api_key": "49341",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50998.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50998_lock.png"
+		},
+		"50088": {
+			"release_per_platform_id": "n64_B1FCAA9C",
+			"name": "SP - Pit Stop",
+			"description": "Repair a broken wing in the Great Fox repair bay",
+			"api_key": "50088",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51207.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51207_lock.png"
+		},
+		"49691": {
+			"release_per_platform_id": "n64_B1FCAA9C",
+			"name": "SP - Dev Creds",
+			"description": "Rank the initals KDK or TNJ into the 1st rank record",
+			"api_key": "49691",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51169.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51169_lock.png"
+		},
+		"57568": {
+			"release_per_platform_id": "n64_B1FCAA9C",
+			"name": "SP - Tanks for the Memories",
+			"description": "Using the Landmaster get 15 kills in the VS. time trial",
+			"api_key": "57568",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60580.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60580_lock.png"
+		},
+		"57569": {
+			"release_per_platform_id": "n64_B1FCAA9C",
+			"name": "SP - Doing the Foxtrot",
+			"description": "On foot get 15 kills in the VS. time trail",
+			"api_key": "57569",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60581.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60581_lock.png"
+		}
+	}
+}

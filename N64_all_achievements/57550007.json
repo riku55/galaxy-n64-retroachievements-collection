@@ -1,0 +1,404 @@
+{
+	"Achievements": {
+		"49395": {
+			"release_per_platform_id": "n64_57550007",
+			"name": "Lost Planet Alcatraz",
+			"description": "Free Alcatraz from the grip of the BHB Army.",
+			"api_key": "49395",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50022.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50022_lock.png"
+		},
+		"49396": {
+			"release_per_platform_id": "n64_57550007",
+			"name": "Ocean Planet Aquanet",
+			"description": "Free Aquanet from the grip of the BHB Army.",
+			"api_key": "49396",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50034.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50034_lock.png"
+		},
+		"49397": {
+			"release_per_platform_id": "n64_57550007",
+			"name": "Sky Planet Horizon",
+			"description": "Free Horizon from the grip of the BHB Army.",
+			"api_key": "49397",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50032.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50032_lock.png"
+		},
+		"49398": {
+			"release_per_platform_id": "n64_57550007",
+			"name": "Game Planet Starlight",
+			"description": "Free Starlight from the grip of the BHB Army.",
+			"api_key": "49398",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50033.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50033_lock.png"
+		},
+		"49399": {
+			"release_per_platform_id": "n64_57550007",
+			"name": "Nature Planet Neverland",
+			"description": "Free Neverland from the grip of the BHB Army.",
+			"api_key": "49399",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50035.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50035_lock.png"
+		},
+		"49400": {
+			"release_per_platform_id": "n64_57550007",
+			"name": "Amusement Planet Epikyur",
+			"description": "Free Epikyur from the grip of the BHB Army.",
+			"api_key": "49400",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50060.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50060_lock.png"
+		},
+		"49401": {
+			"release_per_platform_id": "n64_57550007",
+			"name": "Prison Planet Thantos",
+			"description": "Free Thantos from the grip of the BHB Army.",
+			"api_key": "49401",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50059.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50059_lock.png"
+		},
+		"49402": {
+			"release_per_platform_id": "n64_57550007",
+			"name": "Warship Noah",
+			"description": "Destroy Warship Noah and escape from the Galaxy.",
+			"api_key": "49402",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50092.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50092_lock.png"
+		},
+		"49403": {
+			"release_per_platform_id": "n64_57550007",
+			"name": "The Second Attack",
+			"description": "Save the universe from recreation.",
+			"api_key": "49403",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50134.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50134_lock.png"
+		},
+		"49404": {
+			"release_per_platform_id": "n64_57550007",
+			"name": "Bested Baelfael",
+			"description": "Defeat Baelfael without taking damage.",
+			"api_key": "49404",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50019.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50019_lock.png"
+		},
+		"49405": {
+			"release_per_platform_id": "n64_57550007",
+			"name": "Big Bomb Behemos",
+			"description": "Defeat Behemos using only big bombs.",
+			"api_key": "49405",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50021.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50021_lock.png"
+		},
+		"49406": {
+			"release_per_platform_id": "n64_57550007",
+			"name": "So Long, Ashtarth",
+			"description": "Throw Ashtarth off the edge three times.",
+			"api_key": "49406",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50029.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50029_lock.png"
+		},
+		"49407": {
+			"release_per_platform_id": "n64_57550007",
+			"name": "Wail on Zhael",
+			"description": "Hit Zhael twice in a single blast.",
+			"api_key": "49407",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50057.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50057_lock.png"
+		},
+		"49408": {
+			"release_per_platform_id": "n64_57550007",
+			"name": "Lumbering Giants",
+			"description": "Defeat Molok with minimum walking speed.",
+			"api_key": "49408",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50058.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50058_lock.png"
+		},
+		"49409": {
+			"release_per_platform_id": "n64_57550007",
+			"name": "Zapped Zoniha",
+			"description": "Defeat Zoniha in under 1 minute.",
+			"api_key": "49409",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50062.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50062_lock.png"
+		},
+		"49410": {
+			"release_per_platform_id": "n64_57550007",
+			"name": "Eclipse",
+			"description": "Defeat Bulzeeb using only Light Bombs.",
+			"api_key": "49410",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50070.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50070_lock.png"
+		},
+		"49411": {
+			"release_per_platform_id": "n64_57550007",
+			"name": "Rebuke Rukifellth",
+			"description": "Survive Rukifellth's attacks without laying a single bomb for 2 minutes.",
+			"api_key": "49411",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50124.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50124_lock.png"
+		},
+		"49412": {
+			"release_per_platform_id": "n64_57550007",
+			"name": "The Purist",
+			"description": "Defeat Mihaele using only unpumped Fire Bombs, no kicking or throwing.",
+			"api_key": "49412",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50082.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50082_lock.png"
+		},
+		"49413": {
+			"release_per_platform_id": "n64_57550007",
+			"name": "Master of the Elements",
+			"description": "Defeat the final boss using every type of bomb, pumped and unpumped.",
+			"api_key": "49413",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50125.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50125_lock.png"
+		},
+		"49414": {
+			"release_per_platform_id": "n64_57550007",
+			"name": "Heart Bomber",
+			"description": "Buy all life upgrades at the shop.",
+			"api_key": "49414",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50085.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50085_lock.png"
+		},
+		"49415": {
+			"release_per_platform_id": "n64_57550007",
+			"name": "Techno Bomber",
+			"description": "Collect all pieces of the Guardian Armor.",
+			"api_key": "49415",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50213.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50213_lock.png"
+		},
+		"49416": {
+			"release_per_platform_id": "n64_57550007",
+			"name": "Martial Artist",
+			"description": "Buy and view every Secret File in the shop.",
+			"api_key": "49416",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50127.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50127_lock.png"
+		},
+		"49417": {
+			"release_per_platform_id": "n64_57550007",
+			"name": "Spice of Life",
+			"description": "Collect every custom part in the game.",
+			"api_key": "49417",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50126.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50126_lock.png"
+		},
+		"49418": {
+			"release_per_platform_id": "n64_57550007",
+			"name": "Hamstered",
+			"description": "Get Hamstered.",
+			"api_key": "49418",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50135.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50135_lock.png"
+		},
+		"49419": {
+			"release_per_platform_id": "n64_57550007",
+			"name": "Interior Decoration",
+			"description": "In the room where you fought Baelfael, place a Fire Bomb on top of each pillar.",
+			"api_key": "49419",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50218.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50218_lock.png"
+		},
+		"49420": {
+			"release_per_platform_id": "n64_57550007",
+			"name": "World Class",
+			"description": "Get on top of your ship in Horizon.",
+			"api_key": "49420",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50214.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50214_lock.png"
+		},
+		"49421": {
+			"release_per_platform_id": "n64_57550007",
+			"name": "Spooked Ya",
+			"description": "Get on the Haunted Hall Entrance in Epikyur, then open it.",
+			"api_key": "49421",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50215.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50215_lock.png"
+		},
+		"49422": {
+			"release_per_platform_id": "n64_57550007",
+			"name": "Think Fast",
+			"description": "Destroy the Warship Noah Main Computer without raising the lava level.",
+			"api_key": "49422",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50217.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50217_lock.png"
+		},
+		"49423": {
+			"release_per_platform_id": "n64_57550007",
+			"name": "Parkour",
+			"description": "Get from the entrance to the roof of Starlight Casino without going inside.",
+			"api_key": "49423",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50216.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50216_lock.png"
+		},
+		"49424": {
+			"release_per_platform_id": "n64_57550007",
+			"name": "Lemme at 'em",
+			"description": "Evolve Pommy into Knuckle Pommy.",
+			"api_key": "49424",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50020.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50020_lock.png"
+		},
+		"49425": {
+			"release_per_platform_id": "n64_57550007",
+			"name": "Get Wild",
+			"description": "Evolve Pommy into Animal Pommy",
+			"api_key": "49425",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50069.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50069_lock.png"
+		},
+		"49426": {
+			"release_per_platform_id": "n64_57550007",
+			"name": "Myu Softly, and Carry a Big Hammer",
+			"description": "Evolve Knuckle Pommy into Hammer Pommy.",
+			"api_key": "49426",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50036.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50036_lock.png"
+		},
+		"49427": {
+			"release_per_platform_id": "n64_57550007",
+			"name": "Those Aren't Whiskers",
+			"description": "Evolve Knuckle Pommy into Claw Pommy.",
+			"api_key": "49427",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50074.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50074_lock.png"
+		},
+		"49428": {
+			"release_per_platform_id": "n64_57550007",
+			"name": "Yay, a Penguin",
+			"description": "Evolve Animal Pommy into Penguin Pommy",
+			"api_key": "49428",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50068.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50068_lock.png"
+		},
+		"49429": {
+			"release_per_platform_id": "n64_57550007",
+			"name": "Release the Beast",
+			"description": "Evolve Animal Pommy into Beast Pommy",
+			"api_key": "49429",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50072.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50072_lock.png"
+		},
+		"49430": {
+			"release_per_platform_id": "n64_57550007",
+			"name": "Black Myugic",
+			"description": "Evolve Hammer Pommy into Knight Pommy.",
+			"api_key": "49430",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50067.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50067_lock.png"
+		},
+		"49431": {
+			"release_per_platform_id": "n64_57550007",
+			"name": "Tiny Knight",
+			"description": "Evolve Hammer Pommy into Knight Pommy.",
+			"api_key": "49431",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50061.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50061_lock.png"
+		},
+		"49432": {
+			"release_per_platform_id": "n64_57550007",
+			"name": "Little Devil",
+			"description": "Evolve Claw Pommy into Devil Pommy.",
+			"api_key": "49432",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50075.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50075_lock.png"
+		},
+		"49433": {
+			"release_per_platform_id": "n64_57550007",
+			"name": "A Cat is Fine Too",
+			"description": "Evolve Claw Pommy into Cat Pommy.",
+			"api_key": "49433",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50076.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50076_lock.png"
+		},
+		"49434": {
+			"release_per_platform_id": "n64_57550007",
+			"name": "Beak Yourself",
+			"description": "Evolve Penguin Pommy into Bird Pommy.",
+			"api_key": "49434",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50073.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50073_lock.png"
+		},
+		"49435": {
+			"release_per_platform_id": "n64_57550007",
+			"name": "Are You Serious",
+			"description": "Evolve Penguin Pommy into Chicken Pommy.",
+			"api_key": "49435",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50077.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50077_lock.png"
+		},
+		"49436": {
+			"release_per_platform_id": "n64_57550007",
+			"name": "How to Train Your Pommy",
+			"description": "Evolve Beast Pommy into Dragon Pommy.",
+			"api_key": "49436",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50078.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50078_lock.png"
+		},
+		"49437": {
+			"release_per_platform_id": "n64_57550007",
+			"name": "Get the Point",
+			"description": "Evolve Beast Pommy into Dinosaur Pommy.",
+			"api_key": "49437",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50079.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50079_lock.png"
+		},
+		"49438": {
+			"release_per_platform_id": "n64_57550007",
+			"name": "Achilles Heal",
+			"description": "Evolve Hammer or Claw Pommy into Pixie Pommy.",
+			"api_key": "49438",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50080.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50080_lock.png"
+		},
+		"49439": {
+			"release_per_platform_id": "n64_57550007",
+			"name": "Dark Myu",
+			"description": "Evolve Penguin or Beast Pommy into Shadow Pommy.",
+			"api_key": "49439",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50081.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50081_lock.png"
+		},
+		"49440": {
+			"release_per_platform_id": "n64_57550007",
+			"name": "Everlasting",
+			"description": "Collect all 5 challenge cups in Survival.",
+			"api_key": "49440",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50129.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50129_lock.png"
+		},
+		"49441": {
+			"release_per_platform_id": "n64_57550007",
+			"name": "Executioner",
+			"description": "Collect all 5 challenge cups in Battle Royal.",
+			"api_key": "49441",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50130.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50130_lock.png"
+		},
+		"49442": {
+			"release_per_platform_id": "n64_57550007",
+			"name": "Enforcer",
+			"description": "Collect all 5 challenge cups in King and Knights.",
+			"api_key": "49442",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50131.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50131_lock.png"
+		},
+		"49443": {
+			"release_per_platform_id": "n64_57550007",
+			"name": "Enumerator",
+			"description": "Collect all 5 challenge cups in Key Trial.",
+			"api_key": "49443",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50132.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50132_lock.png"
+		},
+		"49444": {
+			"release_per_platform_id": "n64_57550007",
+			"name": "Exceptional",
+			"description": "Collect all 5 challenge cups in Score Attack.",
+			"api_key": "49444",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50133.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50133_lock.png"
+		}
+	}
+}

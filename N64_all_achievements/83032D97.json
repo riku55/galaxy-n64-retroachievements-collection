@@ -1,0 +1,292 @@
+{
+	"Achievements": {
+		"64693": {
+			"release_per_platform_id": "n64_83032D97",
+			"name": "Left Tower Key",
+			"description": "Get left tower key in Castle Wall",
+			"api_key": "64693",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68622.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68622_lock.png"
+		},
+		"64711": {
+			"release_per_platform_id": "n64_83032D97",
+			"name": "Now It's Night",
+			"description": "Use a Moon Card",
+			"api_key": "64711",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/67990.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/67990_lock.png"
+		},
+		"64712": {
+			"release_per_platform_id": "n64_83032D97",
+			"name": "A dawn with a card",
+			"description": "Use a Sun Card",
+			"api_key": "64712",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/67991.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/67991_lock.png"
+		},
+		"64713": {
+			"release_per_platform_id": "n64_83032D97",
+			"name": "We'll meet again...",
+			"description": "Defeat Skeleton for the first time in Forest of Silence.",
+			"api_key": "64713",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/67993.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/67993_lock.png"
+		},
+		"64716": {
+			"release_per_platform_id": "n64_83032D97",
+			"name": "Remember me",
+			"description": "Use the White Jewel to save",
+			"api_key": "64716",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68635.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68635_lock.png"
+		},
+		"64737": {
+			"release_per_platform_id": "n64_83032D97",
+			"name": "Vampire Slayer",
+			"description": "Kill the vampire after entering the house",
+			"api_key": "64737",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68009.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68009_lock.png"
+		},
+		"64738": {
+			"release_per_platform_id": "n64_83032D97",
+			"name": "Storeroom Key",
+			"description": "Get Storeroom Key",
+			"api_key": "64738",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68010.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68010_lock.png"
+		},
+		"64744": {
+			"release_per_platform_id": "n64_83032D97",
+			"name": "Open the door for Frank!",
+			"description": "Find Garden Key",
+			"api_key": "64744",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68630.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68630_lock.png"
+		},
+		"64745": {
+			"release_per_platform_id": "n64_83032D97",
+			"name": "After the run.",
+			"description": "Find Copper Key",
+			"api_key": "64745",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68620.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68620_lock.png"
+		},
+		"64877": {
+			"release_per_platform_id": "n64_83032D97",
+			"name": "C'mon, dance like a vampire",
+			"description": "Kill the bosses of Villa",
+			"api_key": "64877",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68106.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68106_lock.png"
+		},
+		"64959": {
+			"release_per_platform_id": "n64_83032D97",
+			"name": "Don't jump",
+			"description": "Get Magical Nitro",
+			"api_key": "64959",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68141.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68141_lock.png"
+		},
+		"64960": {
+			"release_per_platform_id": "n64_83032D97",
+			"name": "Screaming...",
+			"description": "Obtain Mandragora",
+			"api_key": "64960",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68142.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68142_lock.png"
+		},
+		"64962": {
+			"release_per_platform_id": "n64_83032D97",
+			"name": "Break the seal",
+			"description": "Find the combination of statues",
+			"api_key": "64962",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68143.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68143_lock.png"
+		},
+		"64975": {
+			"release_per_platform_id": "n64_83032D97",
+			"name": "Biigger and faster than i remember",
+			"description": "Kill Behemoth in Castle Center",
+			"api_key": "64975",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68168.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68168_lock.png"
+		},
+		"64976": {
+			"release_per_platform_id": "n64_83032D97",
+			"name": "Medical Kit",
+			"description": "Get a Healing Kit",
+			"api_key": "64976",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68633.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68633_lock.png"
+		},
+		"64978": {
+			"release_per_platform_id": "n64_83032D97",
+			"name": "I love your..... blood",
+			"description": "Defeat Rosa",
+			"api_key": "64978",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68170.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68170_lock.png"
+		},
+		"65122": {
+			"release_per_platform_id": "n64_83032D97",
+			"name": "Bags of money",
+			"description": "Get $20000",
+			"api_key": "65122",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68631.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68631_lock.png"
+		},
+		"65212": {
+			"release_per_platform_id": "n64_83032D97",
+			"name": "Too late",
+			"description": "Defeat Vincent",
+			"api_key": "65212",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68307.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68307_lock.png"
+		},
+		"65246": {
+			"release_per_platform_id": "n64_83032D97",
+			"name": "Not actually an salesman",
+			"description": "Defeat Renon",
+			"api_key": "65246",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68267.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68267_lock.png"
+		},
+		"65247": {
+			"release_per_platform_id": "n64_83032D97",
+			"name": "Flying sickles",
+			"description": "Defeat Death",
+			"api_key": "65247",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68329.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68329_lock.png"
+		},
+		"65248": {
+			"release_per_platform_id": "n64_83032D97",
+			"name": "Desire of darkness",
+			"description": "Defeat Dracula",
+			"api_key": "65248",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68331.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68331_lock.png"
+		},
+		"65249": {
+			"release_per_platform_id": "n64_83032D97",
+			"name": "I will return",
+			"description": "Get bad ending as Reinhardt",
+			"api_key": "65249",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68332.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68332_lock.png"
+		},
+		"65250": {
+			"release_per_platform_id": "n64_83032D97",
+			"name": "The Final - Part I",
+			"description": "Defet Dracula first form at top ",
+			"api_key": "65250",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68333.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68333_lock.png"
+		},
+		"65251": {
+			"release_per_platform_id": "n64_83032D97",
+			"name": "The Final - Part II",
+			"description": "Defeat second form of Dracula",
+			"api_key": "65251",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68334.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68334_lock.png"
+		},
+		"65252": {
+			"release_per_platform_id": "n64_83032D97",
+			"name": "Castle in ruins",
+			"description": "Get the good ending as Reinhardt",
+			"api_key": "65252",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68335.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68335_lock.png"
+		},
+		"65281": {
+			"release_per_platform_id": "n64_83032D97",
+			"name": "Surprise, i'm back",
+			"description": "Defeat Giant Skeleton for second time",
+			"api_key": "65281",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68358.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68358_lock.png"
+		},
+		"65333": {
+			"release_per_platform_id": "n64_83032D97",
+			"name": "Flaming blue is the new fashion",
+			"description": "Defeat White Dragon",
+			"api_key": "65333",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68524.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68524_lock.png"
+		},
+		"65370": {
+			"release_per_platform_id": "n64_83032D97",
+			"name": "Epic battle of lighting ball",
+			"description": "Defeat Camilla",
+			"api_key": "65370",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68554.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68554_lock.png"
+		},
+		"65405": {
+			"release_per_platform_id": "n64_83032D97",
+			"name": "Crystal witch",
+			"description": "Defeat Actrise",
+			"api_key": "65405",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68603.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68603_lock.png"
+		},
+		"65406": {
+			"release_per_platform_id": "n64_83032D97",
+			"name": "Red Jewel Collector",
+			"description": "Get 99 Red Jewel",
+			"api_key": "65406",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68636.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68636_lock.png"
+		},
+		"65407": {
+			"release_per_platform_id": "n64_83032D97",
+			"name": "Dracula's plan",
+			"description": "Get bad ending as carrie",
+			"api_key": "65407",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68617.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68617_lock.png"
+		},
+		"65408": {
+			"release_per_platform_id": "n64_83032D97",
+			"name": "For my dear",
+			"description": "Get Carrie good ending",
+			"api_key": "65408",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68618.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68618_lock.png"
+		},
+		"65409": {
+			"release_per_platform_id": "n64_83032D97",
+			"name": "Carrie Costume",
+			"description": "Find Special 2 as Carrie",
+			"api_key": "65409",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68623.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68623_lock.png"
+		},
+		"65410": {
+			"release_per_platform_id": "n64_83032D97",
+			"name": "Hard Mode",
+			"description": "Find Special 1 (Reinhardt or Carrie)",
+			"api_key": "65410",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68624.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68624_lock.png"
+		},
+		"65411": {
+			"release_per_platform_id": "n64_83032D97",
+			"name": "Reinhardt Costume",
+			"description": "Get Special 2 as Reinhardt",
+			"api_key": "65411",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68625.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68625_lock.png"
+		},
+		"65412": {
+			"release_per_platform_id": "n64_83032D97",
+			"name": "Hardvania",
+			"description": "Complete the game in hard mode (Reinhardt or Carrie)",
+			"api_key": "65412",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68626.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68626_lock.png"
+		}
+	}
+}

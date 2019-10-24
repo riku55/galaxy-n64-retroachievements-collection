@@ -1,0 +1,364 @@
+{
+	"Achievements": {
+		"51967": {
+			"release_per_platform_id": "n64_8C0C8BEC",
+			"name": "Western Land",
+			"description": "Defeat Bowser the Brash on Western Land.",
+			"api_key": "51967",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53521.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53521_lock.png"
+		},
+		"51968": {
+			"release_per_platform_id": "n64_8C0C8BEC",
+			"name": "Western Land S-Rank",
+			"description": "Win by more than one Star on this board against 3 Hard CPUs (no reloading).",
+			"api_key": "51968",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53522.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53522_lock.png"
+		},
+		"51969": {
+			"release_per_platform_id": "n64_8C0C8BEC",
+			"name": "Pirate Land",
+			"description": "Defeat Cap'n Bowser on Pirate Land.",
+			"api_key": "51969",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53523.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53523_lock.png"
+		},
+		"51970": {
+			"release_per_platform_id": "n64_8C0C8BEC",
+			"name": "Pirate Land S-Rank",
+			"description": "Win by more than one Star on this board against 3 Hard CPUs (no reloading).",
+			"api_key": "51970",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53524.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53524_lock.png"
+		},
+		"51971": {
+			"release_per_platform_id": "n64_8C0C8BEC",
+			"name": "Space Land",
+			"description": "Defeat Black Hole Bowser on the board Space Land.",
+			"api_key": "51971",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53526.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53526_lock.png"
+		},
+		"51972": {
+			"release_per_platform_id": "n64_8C0C8BEC",
+			"name": "Space Land S-Rank",
+			"description": "Win by more than one Star on this board against 3 Hard CPUs (no reloading).",
+			"api_key": "51972",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53528.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53528_lock.png"
+		},
+		"51973": {
+			"release_per_platform_id": "n64_8C0C8BEC",
+			"name": "Mystery Land",
+			"description": "Defeat the Bowser Sphinx on Mystery Land.",
+			"api_key": "51973",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53529.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53529_lock.png"
+		},
+		"51974": {
+			"release_per_platform_id": "n64_8C0C8BEC",
+			"name": "Mystery Land S-Rank",
+			"description": "Win by more than one Star on this board against 3 Hard CPUs (no reloading).",
+			"api_key": "51974",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53530.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53530_lock.png"
+		},
+		"51975": {
+			"release_per_platform_id": "n64_8C0C8BEC",
+			"name": "Horror Land",
+			"description": "Defeat Wizard Bowser on Horror Land.",
+			"api_key": "51975",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53531.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53531_lock.png"
+		},
+		"51976": {
+			"release_per_platform_id": "n64_8C0C8BEC",
+			"name": "Horror Land S-Rank",
+			"description": "Win by more than one Star on this board against 3 Hard CPUs (no reloading).",
+			"api_key": "51976",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53532.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53532_lock.png"
+		},
+		"51977": {
+			"release_per_platform_id": "n64_8C0C8BEC",
+			"name": "Bowser Land",
+			"description": "Defeat Bowser on his home turf.",
+			"api_key": "51977",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53533.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53533_lock.png"
+		},
+		"51978": {
+			"release_per_platform_id": "n64_8C0C8BEC",
+			"name": "Bowser Land S-Rank",
+			"description": "Win by more than one Star on this board against 3 Hard CPUs (no reloading).",
+			"api_key": "51978",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53534.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53534_lock.png"
+		},
+		"51979": {
+			"release_per_platform_id": "n64_8C0C8BEC",
+			"name": "Mini-Game Coaster World 1",
+			"description": "Clear Slot Car Derby in the Mini-Game Coaster mode.",
+			"api_key": "51979",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53536.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53536_lock.png"
+		},
+		"51980": {
+			"release_per_platform_id": "n64_8C0C8BEC",
+			"name": "Mini-Game Coaster World 2",
+			"description": "Clear Speed Hockey in the Mini-Game Coaster mode.",
+			"api_key": "51980",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53537.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53537_lock.png"
+		},
+		"51981": {
+			"release_per_platform_id": "n64_8C0C8BEC",
+			"name": "Mini-Game Coaster World 3",
+			"description": "Clear Bowl Over in the Mini-Game Coaster mode.",
+			"api_key": "51981",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53538.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53538_lock.png"
+		},
+		"51982": {
+			"release_per_platform_id": "n64_8C0C8BEC",
+			"name": "Mini-Game Coaster World 4",
+			"description": "Clear Shell Shocked in the Mini-Game Coaster mode.",
+			"api_key": "51982",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53540.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53540_lock.png"
+		},
+		"51983": {
+			"release_per_platform_id": "n64_8C0C8BEC",
+			"name": "Mini-Game Coaster World 5",
+			"description": "Clear TOAD Bandstand in the Mini-Game Coaster mode.",
+			"api_key": "51983",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53541.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53541_lock.png"
+		},
+		"51984": {
+			"release_per_platform_id": "n64_8C0C8BEC",
+			"name": "Mini-Game Coaster World 6",
+			"description": "Clear BOB-OMB Barrage in the Mini-Game Coaster mode.",
+			"api_key": "51984",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53542.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53542_lock.png"
+		},
+		"51985": {
+			"release_per_platform_id": "n64_8C0C8BEC",
+			"name": "Mini-Game Coaster World 7",
+			"description": "Clear Platform Peril in the Mini-Game Coaster mode.",
+			"api_key": "51985",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53543.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53543_lock.png"
+		},
+		"51986": {
+			"release_per_platform_id": "n64_8C0C8BEC",
+			"name": "Mini-Game Coaster World 8",
+			"description": "Clear Bombs Away in the Mini-Game Coaster mode.",
+			"api_key": "51986",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53544.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53544_lock.png"
+		},
+		"51987": {
+			"release_per_platform_id": "n64_8C0C8BEC",
+			"name": "Slight Overestimate",
+			"description": "In the Mini-Game Roll Call, count all the way to 99 at any point and still win.",
+			"api_key": "51987",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53545.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53545_lock.png"
+		},
+		"51988": {
+			"release_per_platform_id": "n64_8C0C8BEC",
+			"name": "Never Go Down Without Your Cash",
+			"description": "Collect every bonus Coin in the Mini-Game Abandon Ship.",
+			"api_key": "51988",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53546.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53546_lock.png"
+		},
+		"51989": {
+			"release_per_platform_id": "n64_8C0C8BEC",
+			"name": "6 Golden Coins",
+			"description": "Collect 6 bonus Coins and win in the Mini-Game Platform Peril.",
+			"api_key": "51989",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53547.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53547_lock.png"
+		},
+		"51990": {
+			"release_per_platform_id": "n64_8C0C8BEC",
+			"name": "Tipping Point",
+			"description": "Win the Mini-Game Tipsy Tourney with 18 or more seconds left on the clock.",
+			"api_key": "51990",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53548.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53548_lock.png"
+		},
+		"51991": {
+			"release_per_platform_id": "n64_8C0C8BEC",
+			"name": "Slot Car Dash 3",
+			"description": "Complete the Mini-Game Slot Car Derby 3 in under 37 seconds.",
+			"api_key": "51991",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53549.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53549_lock.png"
+		},
+		"51992": {
+			"release_per_platform_id": "n64_8C0C8BEC",
+			"name": "Spare Some Change",
+			"description": "Knock over every pin in the Mini-Game Bowl Over.",
+			"api_key": "51992",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53550.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53550_lock.png"
+		},
+		"51993": {
+			"release_per_platform_id": "n64_8C0C8BEC",
+			"name": "A-Okay",
+			"description": "From Mini-Game Park, win against 3 Hard CPUs in Lights Out without using B.",
+			"api_key": "51993",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53572.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53572_lock.png"
+		},
+		"51994": {
+			"release_per_platform_id": "n64_8C0C8BEC",
+			"name": "Arrow Dynamic",
+			"description": "Shoot every target in the Mini-Game Archer-ival.",
+			"api_key": "51994",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53554.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53554_lock.png"
+		},
+		"51995": {
+			"release_per_platform_id": "n64_8C0C8BEC",
+			"name": "Aces High",
+			"description": "Complete the Mini-Game Sky Pilots in under 52 seconds.",
+			"api_key": "51995",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53555.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53555_lock.png"
+		},
+		"51996": {
+			"release_per_platform_id": "n64_8C0C8BEC",
+			"name": "Prompt Pastry Production",
+			"description": "Build 15 or more cakes in the Mini-Game Cake Factory.",
+			"api_key": "51996",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53556.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53556_lock.png"
+		},
+		"51997": {
+			"release_per_platform_id": "n64_8C0C8BEC",
+			"name": "Destruction Derby",
+			"description": "From Mini-Game Park end Type 2 of Destruction Duet in 12 or fewer seconds.",
+			"api_key": "51997",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53557.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53557_lock.png"
+		},
+		"51998": {
+			"release_per_platform_id": "n64_8C0C8BEC",
+			"name": "Key to Victory",
+			"description": "From Mini-Game Park, recieve a Skeleton Key in every Item Mini-Game.",
+			"api_key": "51998",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53558.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53558_lock.png"
+		},
+		"51999": {
+			"release_per_platform_id": "n64_8C0C8BEC",
+			"name": "Contraband Dancing Technique",
+			"description": "This achievement can be earned in the Mini-Game Move to the Music.",
+			"api_key": "51999",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53559.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53559_lock.png"
+		},
+		"52000": {
+			"release_per_platform_id": "n64_8C0C8BEC",
+			"name": "Complete Your Training",
+			"description": "Catch a ride on all three stations in one match on the board Western Land.",
+			"api_key": "52000",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53560.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53560_lock.png"
+		},
+		"52001": {
+			"release_per_platform_id": "n64_8C0C8BEC",
+			"name": "Toll Atoll",
+			"description": "On the board Pirate Land, increase both Thwomps' tolls to 50 Coins or more.",
+			"api_key": "52001",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53561.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53561_lock.png"
+		},
+		"52002": {
+			"release_per_platform_id": "n64_8C0C8BEC",
+			"name": "Beam Team",
+			"description": "Count the laser down fully in one turn on the board Space Land.",
+			"api_key": "52002",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53562.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53562_lock.png"
+		},
+		"52003": {
+			"release_per_platform_id": "n64_8C0C8BEC",
+			"name": "Not a Mystery Anymore",
+			"description": "As a team, walk across every space on the board Mystery Land in 20 turns.",
+			"api_key": "52003",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53563.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53563_lock.png"
+		},
+		"52004": {
+			"release_per_platform_id": "n64_8C0C8BEC",
+			"name": "Go on a Ghost Hunt",
+			"description": "Visit all five Boo graves in one match on the board Horror Land.",
+			"api_key": "52004",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53564.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53564_lock.png"
+		},
+		"52005": {
+			"release_per_platform_id": "n64_8C0C8BEC",
+			"name": "On the House",
+			"description": "Use a Bowser Suit to get a free item on the board Bowser Land.",
+			"api_key": "52005",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53565.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53565_lock.png"
+		},
+		"52006": {
+			"release_per_platform_id": "n64_8C0C8BEC",
+			"name": "Party Foul",
+			"description": "Be the obnoxious guy at the party by taunting a lot during other turns.",
+			"api_key": "52006",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53566.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53566_lock.png"
+		},
+		"52007": {
+			"release_per_platform_id": "n64_8C0C8BEC",
+			"name": "Star Transfer Complete",
+			"description": "Steal a Magic Lamp using a Plunder Chest.",
+			"api_key": "52007",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53567.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53567_lock.png"
+		},
+		"52008": {
+			"release_per_platform_id": "n64_8C0C8BEC",
+			"name": "Superstar Sweep 2",
+			"description": "Have one player take home all three Bonus Stars in one game.",
+			"api_key": "52008",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53568.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53568_lock.png"
+		},
+		"52009": {
+			"release_per_platform_id": "n64_8C0C8BEC",
+			"name": "Stadium Superstar",
+			"description": "Finish with 200 Coins in MGS Trial Mode. 3 Hard CPUs, 20 turns, no handicaps.",
+			"api_key": "52009",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53569.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53569_lock.png"
+		},
+		"52010": {
+			"release_per_platform_id": "n64_8C0C8BEC",
+			"name": "No Contest",
+			"description": "Beat a Hard CPU 7-0 in the Mini-Game Stadium Duel Mode.",
+			"api_key": "52010",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53570.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53570_lock.png"
+		},
+		"52011": {
+			"release_per_platform_id": "n64_8C0C8BEC",
+			"name": "Perfect Partier",
+			"description": "Achieve the highest multiplier in the Mini-Game Coaster mode (saving allowed).",
+			"api_key": "52011",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53571.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/53571_lock.png"
+		}
+	}
+}

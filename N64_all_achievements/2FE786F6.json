@@ -1,0 +1,356 @@
+{
+	"Achievements": {
+		"54877": {
+			"release_per_platform_id": "n64_2FE786F6",
+			"name": "Level-1 (Attack)",
+			"description": "Complete Level 1",
+			"api_key": "54877",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57139.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57139_lock.png"
+		},
+		"54878": {
+			"release_per_platform_id": "n64_2FE786F6",
+			"name": "Level-2 (Spy Blue)",
+			"description": "Complete Level 2",
+			"api_key": "54878",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57144.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57144_lock.png"
+		},
+		"54879": {
+			"release_per_platform_id": "n64_2FE786F6",
+			"name": "Level-3 (Bathroom)",
+			"description": "Complete Level 3",
+			"api_key": "54879",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57141.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57141_lock.png"
+		},
+		"54880": {
+			"release_per_platform_id": "n64_2FE786F6",
+			"name": "Level-4 (Riff Mission)",
+			"description": "Complete Level 4",
+			"api_key": "54880",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57142.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57142_lock.png"
+		},
+		"54881": {
+			"release_per_platform_id": "n64_2FE786F6",
+			"name": "Level-5 (Forest)",
+			"description": "Complete Level 5",
+			"api_key": "54881",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57143.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57143_lock.png"
+		},
+		"54882": {
+			"release_per_platform_id": "n64_2FE786F6",
+			"name": "Level-6 (Hoover Mission)",
+			"description": "Complete Level 6.",
+			"api_key": "54882",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57145.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57145_lock.png"
+		},
+		"54883": {
+			"release_per_platform_id": "n64_2FE786F6",
+			"name": "Level-7 (Thick)",
+			"description": "Complete Level 7",
+			"api_key": "54883",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57146.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57146_lock.png"
+		},
+		"54884": {
+			"release_per_platform_id": "n64_2FE786F6",
+			"name": "Level-8 (Snow Mission)",
+			"description": "Complete Level 8",
+			"api_key": "54884",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57147.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57147_lock.png"
+		},
+		"54885": {
+			"release_per_platform_id": "n64_2FE786F6",
+			"name": "Level-9 (Shrap Mission)",
+			"description": "Complete Level 9",
+			"api_key": "54885",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57148.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57148_lock.png"
+		},
+		"54886": {
+			"release_per_platform_id": "n64_2FE786F6",
+			"name": "Level-10 (Fort Plastro)",
+			"description": "Complete Level 10",
+			"api_key": "54886",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57149.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57149_lock.png"
+		},
+		"54887": {
+			"release_per_platform_id": "n64_2FE786F6",
+			"name": "Level-11 (Scorch Mission)",
+			"description": "Complete Level 11",
+			"api_key": "54887",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57150.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57150_lock.png"
+		},
+		"54888": {
+			"release_per_platform_id": "n64_2FE786F6",
+			"name": "Level-12 (Showdown)",
+			"description": "Complete Level 12",
+			"api_key": "54888",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57151.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57151_lock.png"
+		},
+		"54889": {
+			"release_per_platform_id": "n64_2FE786F6",
+			"name": "Level-13 (Sandbox)",
+			"description": "Complete Level 13",
+			"api_key": "54889",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57152.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57152_lock.png"
+		},
+		"54890": {
+			"release_per_platform_id": "n64_2FE786F6",
+			"name": "Level-14 (Kitchen)",
+			"description": "Complete Level 14",
+			"api_key": "54890",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57153.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57153_lock.png"
+		},
+		"54891": {
+			"release_per_platform_id": "n64_2FE786F6",
+			"name": "Level-15 (Living Room) ",
+			"description": "Complete Level 15",
+			"api_key": "54891",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57154.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57154_lock.png"
+		},
+		"54892": {
+			"release_per_platform_id": "n64_2FE786F6",
+			"name": "Level-16 (The Way Home)  ",
+			"description": "Complete Level 16",
+			"api_key": "54892",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57155.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57155_lock.png"
+		},
+		"54893": {
+			"release_per_platform_id": "n64_2FE786F6",
+			"name": "Grimm (Attack)",
+			"description": "Find and Rescue Grimm",
+			"api_key": "54893",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57156.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57156_lock.png"
+		},
+		"54894": {
+			"release_per_platform_id": "n64_2FE786F6",
+			"name": "Blue Man Group (Bathroom)",
+			"description": "Find the Blue Spy",
+			"api_key": "54894",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57157.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57157_lock.png"
+		},
+		"54895": {
+			"release_per_platform_id": "n64_2FE786F6",
+			"name": "Plastic Recon (Riff Mission)",
+			"description": "Sneak into Tan Base",
+			"api_key": "54895",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57158.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57158_lock.png"
+		},
+		"54896": {
+			"release_per_platform_id": "n64_2FE786F6",
+			"name": "Hoover Dam (Hoover Mission)",
+			"description": "Locate and Rescue Hoover",
+			"api_key": "54896",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57201.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57201_lock.png"
+		},
+		"54897": {
+			"release_per_platform_id": "n64_2FE786F6",
+			"name": "Garden Thickets (Thick Mission)",
+			"description": "Locate and Rescue Thick",
+			"api_key": "54897",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57200.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57200_lock.png"
+		},
+		"54898": {
+			"release_per_platform_id": "n64_2FE786F6",
+			"name": "Stay Frosty (Snow Mission)",
+			"description": "Cross the Bridge",
+			"api_key": "54898",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57168.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57168_lock.png"
+		},
+		"54899": {
+			"release_per_platform_id": "n64_2FE786F6",
+			"name": "Shrap (Shrap Mission)",
+			"description": "Find and Rescue Shrap",
+			"api_key": "54899",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57199.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57199_lock.png"
+		},
+		"54900": {
+			"release_per_platform_id": "n64_2FE786F6",
+			"name": "Dont Pee on the Fence (Fort Plastro)",
+			"description": "Disable the Electric Fence",
+			"api_key": "54900",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57202.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57202_lock.png"
+		},
+		"54901": {
+			"release_per_platform_id": "n64_2FE786F6",
+			"name": "Scorched (Scorch Mission)",
+			"description": "Locate and Rescue Scorch",
+			"api_key": "54901",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57204.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57204_lock.png"
+		},
+		"54902": {
+			"release_per_platform_id": "n64_2FE786F6",
+			"name": "Dont Pee Part 2 (Showdown)",
+			"description": "Disable yet another Electric Fence",
+			"api_key": "54902",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57205.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57205_lock.png"
+		},
+		"54903": {
+			"release_per_platform_id": "n64_2FE786F6",
+			"name": "Sandy Tears (Sandbox)",
+			"description": "Secure Heartbreak Pass",
+			"api_key": "54903",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57206.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57206_lock.png"
+		},
+		"54904": {
+			"release_per_platform_id": "n64_2FE786F6",
+			"name": "Puffs and 3DO's (Kitchen)",
+			"description": "Climb Down to the Floor",
+			"api_key": "54904",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57207.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57207_lock.png"
+		},
+		"54905": {
+			"release_per_platform_id": "n64_2FE786F6",
+			"name": "Christmas! (Living Room)",
+			"description": "Secure the Couch",
+			"api_key": "54905",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57211.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57211_lock.png"
+		},
+		"54906": {
+			"release_per_platform_id": "n64_2FE786F6",
+			"name": "Dont fall in the Toilet! (The Way Home)",
+			"description": "Climb Up To the Sink",
+			"api_key": "54906",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57212.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57212_lock.png"
+		},
+		"54939": {
+			"release_per_platform_id": "n64_2FE786F6",
+			"name": "Machine Gun",
+			"description": "Find and Equip a Machine Gun",
+			"api_key": "54939",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57214.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57214_lock.png"
+		},
+		"54940": {
+			"release_per_platform_id": "n64_2FE786F6",
+			"name": "Sniper",
+			"description": "Find and Equip a Sniper",
+			"api_key": "54940",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57215.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57215_lock.png"
+		},
+		"54941": {
+			"release_per_platform_id": "n64_2FE786F6",
+			"name": "Shotgun",
+			"description": "Find and Equip a Shotgun",
+			"api_key": "54941",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57216.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57216_lock.png"
+		},
+		"54942": {
+			"release_per_platform_id": "n64_2FE786F6",
+			"name": "Bazooka",
+			"description": "Find and Equip a Bazooka",
+			"api_key": "54942",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57217.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57217_lock.png"
+		},
+		"54943": {
+			"release_per_platform_id": "n64_2FE786F6",
+			"name": "Morter",
+			"description": "Find and Equip a Morter",
+			"api_key": "54943",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57218.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57218_lock.png"
+		},
+		"54944": {
+			"release_per_platform_id": "n64_2FE786F6",
+			"name": "Grenade Launcher",
+			"description": "Find and Equip a Grenade Launcher",
+			"api_key": "54944",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57219.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57219_lock.png"
+		},
+		"54945": {
+			"release_per_platform_id": "n64_2FE786F6",
+			"name": "Flame Thrower",
+			"description": "Find and Equip a Flame Thrower",
+			"api_key": "54945",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57220.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57220_lock.png"
+		},
+		"54946": {
+			"release_per_platform_id": "n64_2FE786F6",
+			"name": "Grenade",
+			"description": "Find and Equip a Grenade",
+			"api_key": "54946",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57221.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57221_lock.png"
+		},
+		"54947": {
+			"release_per_platform_id": "n64_2FE786F6",
+			"name": "Minesweeper",
+			"description": "Find and Equip a Minesweeper",
+			"api_key": "54947",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57222.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57222_lock.png"
+		},
+		"54949": {
+			"release_per_platform_id": "n64_2FE786F6",
+			"name": "Save Yourself!! (Kitchen)",
+			"description": "Complete Level 14 as Vikki ",
+			"api_key": "54949",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57236.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57236_lock.png"
+		},
+		"54950": {
+			"release_per_platform_id": "n64_2FE786F6",
+			"name": "Evil vs. Evil (The Way Home)",
+			"description": "Complete Level 16 as Plastro",
+			"api_key": "54950",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57235.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57235_lock.png"
+		},
+		"54979": {
+			"release_per_platform_id": "n64_2FE786F6",
+			"name": "Land Mine",
+			"description": "Find and Equip a Land Mine",
+			"api_key": "54979",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57237.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57237_lock.png"
+		},
+		"54998": {
+			"release_per_platform_id": "n64_2FE786F6",
+			"name": "Training Plastic (Boot Camp)",
+			"description": "Complete Boot Camp",
+			"api_key": "54998",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57238.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57238_lock.png"
+		},
+		"54999": {
+			"release_per_platform_id": "n64_2FE786F6",
+			"name": "Olymic Plastic (Boot Camp)",
+			"description": "Pass the Onstacle Course",
+			"api_key": "54999",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57239.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57239_lock.png"
+		}
+	}
+}

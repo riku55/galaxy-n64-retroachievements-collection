@@ -1,0 +1,276 @@
+{
+	"Achievements": {
+		"79614": {
+			"release_per_platform_id": "n64_E0399F23",
+			"name": "Slam Jam!",
+			"description": "Gain the Slam Move",
+			"api_key": "79614",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85636.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85636_lock.png"
+		},
+		"79615": {
+			"release_per_platform_id": "n64_E0399F23",
+			"name": "Living Up To The Name!",
+			"description": "Gain the Double Jump Move",
+			"api_key": "79615",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85637.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85637_lock.png"
+		},
+		"79616": {
+			"release_per_platform_id": "n64_E0399F23",
+			"name": "Cold Calculations",
+			"description": "Gain the Freeze Ray Move",
+			"api_key": "79616",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85638.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85638_lock.png"
+		},
+		"79617": {
+			"release_per_platform_id": "n64_E0399F23",
+			"name": "Reach For The Sky!",
+			"description": "Gain the Grapple Move (not to be confused with your default Grab move)",
+			"api_key": "79617",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85639.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85639_lock.png"
+		},
+		"79618": {
+			"release_per_platform_id": "n64_E0399F23",
+			"name": "Humerous Ex Machina",
+			"description": "Expand Clowney Island by completing and activating the machine",
+			"api_key": "79618",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85634.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85634_lock.png"
+		},
+		"79619": {
+			"release_per_platform_id": "n64_E0399F23",
+			"name": "Colored Cogs",
+			"description": "Expand Paint Misbehaving by completing and activating the machine",
+			"api_key": "79619",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85635.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85635_lock.png"
+		},
+		"79620": {
+			"release_per_platform_id": "n64_E0399F23",
+			"name": "Explosive Device",
+			"description": "Expand Mine Blowing by completing and activating the machine",
+			"api_key": "79620",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85640.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85640_lock.png"
+		},
+		"79621": {
+			"release_per_platform_id": "n64_E0399F23",
+			"name": "Coded Carpetry",
+			"description": "Expand Arabian Flights by completing and activating the machine",
+			"api_key": "79621",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85641.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85641_lock.png"
+		},
+		"79622": {
+			"release_per_platform_id": "n64_E0399F23",
+			"name": "Incan Electronics",
+			"description": "Expand Pyramid Scheme by completing and activating the machine",
+			"api_key": "79622",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85642.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85642_lock.png"
+		},
+		"79623": {
+			"release_per_platform_id": "n64_E0399F23",
+			"name": "Spooky Circuitry",
+			"description": "Expand Food Fright by completing and activating the machine",
+			"api_key": "79623",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85643.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85643_lock.png"
+		},
+		"79624": {
+			"release_per_platform_id": "n64_E0399F23",
+			"name": "Aqueduct Access",
+			"description": "Unlock Paint Misbehaving's second half, and immediately grab the resulting Ticket",
+			"api_key": "79624",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85660.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85660_lock.png"
+		},
+		"79625": {
+			"release_per_platform_id": "n64_E0399F23",
+			"name": "Fully Charged!",
+			"description": "Increase your life bar to the max",
+			"api_key": "79625",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85659.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85659_lock.png"
+		},
+		"79626": {
+			"release_per_platform_id": "n64_E0399F23",
+			"name": "A Token Effort",
+			"description": "Collect all 200 Tokens in any world",
+			"api_key": "79626",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85632.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85632_lock.png"
+		},
+		"79627": {
+			"release_per_platform_id": "n64_E0399F23",
+			"name": "Central Currency",
+			"description": "Collect all the Tokens from Whoopie World",
+			"api_key": "79627",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85652.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85652_lock.png"
+		},
+		"79628": {
+			"release_per_platform_id": "n64_E0399F23",
+			"name": "Coins For Clowns",
+			"description": "Collect all the Tokens from Clowney Island",
+			"api_key": "79628",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85653.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85653_lock.png"
+		},
+		"79630": {
+			"release_per_platform_id": "n64_E0399F23",
+			"name": "Colored Coinage",
+			"description": "Collect all the Tokens in Paint Misbehaving",
+			"api_key": "79630",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85654.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85654_lock.png"
+		},
+		"79629": {
+			"release_per_platform_id": "n64_E0399F23",
+			"name": "Combustible Credits",
+			"description": "Collect all the Tokens in Mine Blowing",
+			"api_key": "79629",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85655.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85655_lock.png"
+		},
+		"79631": {
+			"release_per_platform_id": "n64_E0399F23",
+			"name": "Ali Baba's Hoard",
+			"description": "Collect all the Tokens in Arabian Flights",
+			"api_key": "79631",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85656.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85656_lock.png"
+		},
+		"79632": {
+			"release_per_platform_id": "n64_E0399F23",
+			"name": "Mayan Moolah",
+			"description": "Collect all the Tokens in Pyramid Scheme",
+			"api_key": "79632",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85657.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85657_lock.png"
+		},
+		"79633": {
+			"release_per_platform_id": "n64_E0399F23",
+			"name": "Boo Bucks",
+			"description": "Collect all the Tokens in Food Fright",
+			"api_key": "79633",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85658.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85658_lock.png"
+		},
+		"79634": {
+			"release_per_platform_id": "n64_E0399F23",
+			"name": "Token Totality!",
+			"description": "Collect all the Tokens in the entire game",
+			"api_key": "79634",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85633.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85633_lock.png"
+		},
+		"79635": {
+			"release_per_platform_id": "n64_E0399F23",
+			"name": "Theme Park Enthusiast!",
+			"description": "Collect enough Tickets to access Mine Blowing",
+			"api_key": "79635",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85661.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85661_lock.png"
+		},
+		"79636": {
+			"release_per_platform_id": "n64_E0399F23",
+			"name": "Theme Park Trainee!",
+			"description": "Collect enough Tickets to access Arabian Flights",
+			"api_key": "79636",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85662.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85662_lock.png"
+		},
+		"79637": {
+			"release_per_platform_id": "n64_E0399F23",
+			"name": "Theme Park Employee!",
+			"description": "Collect enough Tickets to access Whoopie World's upper floor",
+			"api_key": "79637",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85663.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85663_lock.png"
+		},
+		"79638": {
+			"release_per_platform_id": "n64_E0399F23",
+			"name": "Theme Park Technician!",
+			"description": "Collect enough Tickets to access Jojo's World",
+			"api_key": "79638",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85664.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85664_lock.png"
+		},
+		"79639": {
+			"release_per_platform_id": "n64_E0399F23",
+			"name": "Jojo's Bizarre Venture",
+			"description": "Defeat Jojo and collect the resulting Ticket (must be the 66th total Ticket collected)",
+			"api_key": "79639",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85644.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85644_lock.png"
+		},
+		"79640": {
+			"release_per_platform_id": "n64_E0399F23",
+			"name": "Main Attraction",
+			"description": "Collect all the Tickets in Whoopie World",
+			"api_key": "79640",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85645.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85645_lock.png"
+		},
+		"79641": {
+			"release_per_platform_id": "n64_E0399F23",
+			"name": "Going To The Circus",
+			"description": "Collect all the Tickets in Clowney Island",
+			"api_key": "79641",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85646.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85646_lock.png"
+		},
+		"79642": {
+			"release_per_platform_id": "n64_E0399F23",
+			"name": "Museum Admittance",
+			"description": "Collect all the Tickets in Paint Misbehaving",
+			"api_key": "79642",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85648.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85648_lock.png"
+		},
+		"79643": {
+			"release_per_platform_id": "n64_E0399F23",
+			"name": "Fireworks Festival",
+			"description": "Collect all the Tickets in Mine Blowing",
+			"api_key": "79643",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85647.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85647_lock.png"
+		},
+		"79644": {
+			"release_per_platform_id": "n64_E0399F23",
+			"name": "1001 Arabian Rides",
+			"description": "Collect all the Tickets in Arabian Flights",
+			"api_key": "79644",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85649.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85649_lock.png"
+		},
+		"79645": {
+			"release_per_platform_id": "n64_E0399F23",
+			"name": "Aztec Acquisition",
+			"description": "Collect all the Tickets in Pyramid Scheme",
+			"api_key": "79645",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85650.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85650_lock.png"
+		},
+		"79646": {
+			"release_per_platform_id": "n64_E0399F23",
+			"name": "Spooks Scared Senseless",
+			"description": "Collect all the Tickets in Food Fright",
+			"api_key": "79646",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85651.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85651_lock.png"
+		},
+		"79647": {
+			"release_per_platform_id": "n64_E0399F23",
+			"name": "Theme Park Tycoon!",
+			"description": "Collect every Ticket in the game",
+			"api_key": "79647",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85630.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85630_lock.png"
+		}
+	}
+}

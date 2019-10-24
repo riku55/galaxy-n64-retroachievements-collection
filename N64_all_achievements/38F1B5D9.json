@@ -1,0 +1,356 @@
+{
+	"Achievements": {
+		"48424": {
+			"release_per_platform_id": "n64_38F1B5D9",
+			"name": "Street Rocket",
+			"description": "Unlock the Street Rocket",
+			"api_key": "48424",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49249.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49249_lock.png"
+		},
+		"48425": {
+			"release_per_platform_id": "n64_38F1B5D9",
+			"name": "Taxi",
+			"description": "Unlock the Taxi",
+			"api_key": "48425",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49250.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49250_lock.png"
+		},
+		"48426": {
+			"release_per_platform_id": "n64_38F1B5D9",
+			"name": "Pickup",
+			"description": "Unlock the Pickup",
+			"api_key": "48426",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49251.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49251_lock.png"
+		},
+		"48427": {
+			"release_per_platform_id": "n64_38F1B5D9",
+			"name": "Ambulance",
+			"description": "Unlock the Ambulance",
+			"api_key": "48427",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49252.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49252_lock.png"
+		},
+		"48428": {
+			"release_per_platform_id": "n64_38F1B5D9",
+			"name": "Blue Demon",
+			"description": "Unlock the Blue Demon",
+			"api_key": "48428",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49253.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49253_lock.png"
+		},
+		"48429": {
+			"release_per_platform_id": "n64_38F1B5D9",
+			"name": "Low Rider",
+			"description": "Unlock the Low Rider",
+			"api_key": "48429",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49254.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49254_lock.png"
+		},
+		"48430": {
+			"release_per_platform_id": "n64_38F1B5D9",
+			"name": "Hatchback",
+			"description": "Unlock the Hatchback",
+			"api_key": "48430",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49256.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49256_lock.png"
+		},
+		"48431": {
+			"release_per_platform_id": "n64_38F1B5D9",
+			"name": "Baja Buggy",
+			"description": "Unlock the Baja Buggy",
+			"api_key": "48431",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49257.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49257_lock.png"
+		},
+		"48432": {
+			"release_per_platform_id": "n64_38F1B5D9",
+			"name": "Police Car",
+			"description": "Unlock the Police Car",
+			"api_key": "48432",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49258.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49258_lock.png"
+		},
+		"48433": {
+			"release_per_platform_id": "n64_38F1B5D9",
+			"name": "Woody Wagon",
+			"description": "Unlock the Woody Wagon",
+			"api_key": "48433",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49259.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49259_lock.png"
+		},
+		"48434": {
+			"release_per_platform_id": "n64_38F1B5D9",
+			"name": "Rag Top",
+			"description": "Unlock the Rag Top",
+			"api_key": "48434",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49260.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49260_lock.png"
+		},
+		"48435": {
+			"release_per_platform_id": "n64_38F1B5D9",
+			"name": "Hot Rod",
+			"description": "Unlock the Hot Rod",
+			"api_key": "48435",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49261.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49261_lock.png"
+		},
+		"48436": {
+			"release_per_platform_id": "n64_38F1B5D9",
+			"name": "Gearhead",
+			"description": "Unlock every Vehicle",
+			"api_key": "48436",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49263.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49263_lock.png"
+		},
+		"48437": {
+			"release_per_platform_id": "n64_38F1B5D9",
+			"name": "Flying Like a Rocket",
+			"description": "Get a score of at least 450 in a race or arena with the Street Rocket",
+			"api_key": "48437",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49272.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49272_lock.png"
+		},
+		"48438": {
+			"release_per_platform_id": "n64_38F1B5D9",
+			"name": "Only Playing Fare",
+			"description": "Get a score of at least 650 in a race or arena with the Taxi",
+			"api_key": "48438",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49270.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49270_lock.png"
+		},
+		"48439": {
+			"release_per_platform_id": "n64_38F1B5D9",
+			"name": "Coming To Pick You Up",
+			"description": "Get a score of at least 550 in a race or arena with the Pickup",
+			"api_key": "48439",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49266.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49266_lock.png"
+		},
+		"48440": {
+			"release_per_platform_id": "n64_38F1B5D9",
+			"name": "Did Somebody Call The Wahbulance",
+			"description": "Get a score of at least 650 in a race or arena with the Ambulance",
+			"api_key": "48440",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49268.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49268_lock.png"
+		},
+		"48441": {
+			"release_per_platform_id": "n64_38F1B5D9",
+			"name": "I'm a Little Demon",
+			"description": "Get a score of at least 450 in a race or arena with the Blue Demon",
+			"api_key": "48441",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49273.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49273_lock.png"
+		},
+		"48442": {
+			"release_per_platform_id": "n64_38F1B5D9",
+			"name": "Riding Low, Hitting Hard",
+			"description": "Get a score of at least 500 in a race or arena with the Low Rider",
+			"api_key": "48442",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49274.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49274_lock.png"
+		},
+		"48443": {
+			"release_per_platform_id": "n64_38F1B5D9",
+			"name": "Get Off My Back",
+			"description": "Get a score of at least 450 in a race or arena Hatchback",
+			"api_key": "48443",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49275.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49275_lock.png"
+		},
+		"48444": {
+			"release_per_platform_id": "n64_38F1B5D9",
+			"name": "Bugging Around",
+			"description": "Get a score of at least 500 in a race or arena with the Baja Buggy",
+			"api_key": "48444",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49276.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49276_lock.png"
+		},
+		"48445": {
+			"release_per_platform_id": "n64_38F1B5D9",
+			"name": "Stop In The Name Of The Law",
+			"description": "Get a score of at least 600 in a race or arena with the Police Car",
+			"api_key": "48445",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49269.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49269_lock.png"
+		},
+		"48446": {
+			"release_per_platform_id": "n64_38F1B5D9",
+			"name": "Hitting Hard With My Woody",
+			"description": "Get a score of at least 400 in a race or arena Woody Wagon",
+			"api_key": "48446",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49278.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49278_lock.png"
+		},
+		"48447": {
+			"release_per_platform_id": "n64_38F1B5D9",
+			"name": "Nothing Left But Rags",
+			"description": "Get a score of at least 450 in a race or arena with the Rag Top",
+			"api_key": "48447",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49279.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49279_lock.png"
+		},
+		"48448": {
+			"release_per_platform_id": "n64_38F1B5D9",
+			"name": "Riding Hot",
+			"description": "Get a score of at least 750 in a race or arena with the Hot Rod",
+			"api_key": "48448",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49280.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49280_lock.png"
+		},
+		"48449": {
+			"release_per_platform_id": "n64_38F1B5D9",
+			"name": "Top Of My Class",
+			"description": "Win 1st in every race_arena in Novice",
+			"api_key": "48449",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49312.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49312_lock.png"
+		},
+		"48450": {
+			"release_per_platform_id": "n64_38F1B5D9",
+			"name": "More Than an Amateur",
+			"description": "Win 1st in every race_arena in Amateur",
+			"api_key": "48450",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49311.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49311_lock.png"
+		},
+		"48451": {
+			"release_per_platform_id": "n64_38F1B5D9",
+			"name": "They Call Me a Pro",
+			"description": "Win 1st in every race_arena in Professional",
+			"api_key": "48451",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49309.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49309_lock.png"
+		},
+		"48452": {
+			"release_per_platform_id": "n64_38F1B5D9",
+			"name": "I am Legend",
+			"description": "Win 1st in every race_arena in Legend",
+			"api_key": "48452",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49310.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49310_lock.png"
+		},
+		"48453": {
+			"release_per_platform_id": "n64_38F1B5D9",
+			"name": "Sprinted Along The Seascape",
+			"description": "Set a new High Score for Seascape Sprint",
+			"api_key": "48453",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49294.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49294_lock.png"
+		},
+		"48454": {
+			"release_per_platform_id": "n64_38F1B5D9",
+			"name": "No Challenge At All",
+			"description": "Set a new High Score for Metro Challenge",
+			"api_key": "48454",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49295.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49295_lock.png"
+		},
+		"48455": {
+			"release_per_platform_id": "n64_38F1B5D9",
+			"name": "Nothing But Junk",
+			"description": "Set a new High Score for The Junkyard",
+			"api_key": "48455",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49296.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49296_lock.png"
+		},
+		"48456": {
+			"release_per_platform_id": "n64_38F1B5D9",
+			"name": "Major Impact",
+			"description": "Set a new High Score for Terminal Impact",
+			"api_key": "48456",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49297.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49297_lock.png"
+		},
+		"48457": {
+			"release_per_platform_id": "n64_38F1B5D9",
+			"name": "Total Destruction",
+			"description": "Set a new High Score for Destruction Junction",
+			"api_key": "48457",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49299.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49299_lock.png"
+		},
+		"48458": {
+			"release_per_platform_id": "n64_38F1B5D9",
+			"name": "Totally Ruined",
+			"description": "Set a new High Score for Aztec Ruins",
+			"api_key": "48458",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49300.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49300_lock.png"
+		},
+		"48459": {
+			"release_per_platform_id": "n64_38F1B5D9",
+			"name": "Rumbling in the Dark",
+			"description": "Set a new High Score for Midnyte Rumble",
+			"api_key": "48459",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49301.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49301_lock.png"
+		},
+		"48460": {
+			"release_per_platform_id": "n64_38F1B5D9",
+			"name": "Run Bayou, Run!",
+			"description": "Set a new High Score for Bayou Run",
+			"api_key": "48460",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49302.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49302_lock.png"
+		},
+		"48461": {
+			"release_per_platform_id": "n64_38F1B5D9",
+			"name": "Mayhem in The City",
+			"description": "Set a new High Score for Urban Mayhem",
+			"api_key": "48461",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49303.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49303_lock.png"
+		},
+		"48462": {
+			"release_per_platform_id": "n64_38F1B5D9",
+			"name": "Fresh Mountain Air",
+			"description": "Set a new High Score for Alpine Ridge",
+			"api_key": "48462",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49304.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49304_lock.png"
+		},
+		"48463": {
+			"release_per_platform_id": "n64_38F1B5D9",
+			"name": "Not so Grand",
+			"description": "Set a new High Score for Sunset Canyon",
+			"api_key": "48463",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49305.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49305_lock.png"
+		},
+		"48464": {
+			"release_per_platform_id": "n64_38F1B5D9",
+			"name": "Buried in the Ground",
+			"description": "Set a new High Score for Ground Zero",
+			"api_key": "48464",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49306.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49306_lock.png"
+		},
+		"48465": {
+			"release_per_platform_id": "n64_38F1B5D9",
+			"name": "Checking In",
+			"description": "Get a total of 200 points from Check Points in any race",
+			"api_key": "48465",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49271.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49271_lock.png"
+		},
+		"48466": {
+			"release_per_platform_id": "n64_38F1B5D9",
+			"name": "Brutalizer",
+			"description": "Destroy atleast 7 vehicles in any Arena",
+			"api_key": "48466",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49293.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49293_lock.png"
+		},
+		"48517": {
+			"release_per_platform_id": "n64_38F1B5D9",
+			"name": "I Hope You Got Collision On That",
+			"description": "Get 500 or more collision points",
+			"api_key": "48517",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49339.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49339_lock.png"
+		}
+	}
+}

@@ -1,0 +1,684 @@
+{
+	"Achievements": {
+		"55974": {
+			"release_per_platform_id": "n64_283E7641",
+			"name": "Quick Attack",
+			"description": "Defeat Pokemon Trainer Cal in Battle Now! on Hard",
+			"api_key": "55974",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56365.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56365_lock.png"
+		},
+		"55975": {
+			"release_per_platform_id": "n64_283E7641",
+			"name": "A-Poke Play",
+			"description": "Win the Poke Ball Poke Cup ",
+			"api_key": "55975",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56304.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56304_lock.png"
+		},
+		"55976": {
+			"release_per_platform_id": "n64_283E7641",
+			"name": "Do the Hokey Poke",
+			"description": "Win the Great Ball Poke Cup",
+			"api_key": "55976",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56305.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56305_lock.png"
+		},
+		"55977": {
+			"release_per_platform_id": "n64_283E7641",
+			"name": "Golden Poketime",
+			"description": "Win the Ultra Ball Poke Cup",
+			"api_key": "55977",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56306.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56306_lock.png"
+		},
+		"55978": {
+			"release_per_platform_id": "n64_283E7641",
+			"name": "Poke Diem",
+			"description": "Win the Master Ball Poke Cup",
+			"api_key": "55978",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56307.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56307_lock.png"
+		},
+		"55979": {
+			"release_per_platform_id": "n64_283E7641",
+			"name": "Johto Journey",
+			"description": "Win the Poke Ball Challenge Cup",
+			"api_key": "55979",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56308.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56308_lock.png"
+		},
+		"55980": {
+			"release_per_platform_id": "n64_283E7641",
+			"name": "Born to Be a Winner",
+			"description": "Win the Great Ball Challenge Cup",
+			"api_key": "55980",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56309.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56309_lock.png"
+		},
+		"55981": {
+			"release_per_platform_id": "n64_283E7641",
+			"name": "Believe in Me",
+			"description": "Win the Ultra Ball Challenge Cup",
+			"api_key": "55981",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56310.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56310_lock.png"
+		},
+		"55982": {
+			"release_per_platform_id": "n64_283E7641",
+			"name": "Master Quest",
+			"description": "Win the Master Ball Challenge Cup",
+			"api_key": "55982",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56311.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56311_lock.png"
+		},
+		"55983": {
+			"release_per_platform_id": "n64_283E7641",
+			"name": "In Your Prime",
+			"description": "Win the Prime Cup",
+			"api_key": "55983",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56349.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56349_lock.png"
+		},
+		"55984": {
+			"release_per_platform_id": "n64_283E7641",
+			"name": "One Little Step for Man",
+			"description": "Win the Little Cup",
+			"api_key": "55984",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56350.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56350_lock.png"
+		},
+		"55985": {
+			"release_per_platform_id": "n64_283E7641",
+			"name": "Zephyr Than Nothing",
+			"description": "Defeat Gym Leader Falkner",
+			"api_key": "55985",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56333.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56333_lock.png"
+		},
+		"55986": {
+			"release_per_platform_id": "n64_283E7641",
+			"name": "Mind the Hive",
+			"description": "Defeat Gym Leader Bugsy",
+			"api_key": "55986",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56334.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56334_lock.png"
+		},
+		"55987": {
+			"release_per_platform_id": "n64_283E7641",
+			"name": "Pretty in Plain",
+			"description": "Defeat Gym Leader Whitney",
+			"api_key": "55987",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56335.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56335_lock.png"
+		},
+		"55988": {
+			"release_per_platform_id": "n64_283E7641",
+			"name": "Fog of War",
+			"description": "Defeat Gym Leader Morty",
+			"api_key": "55988",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56336.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56336_lock.png"
+		},
+		"55989": {
+			"release_per_platform_id": "n64_283E7641",
+			"name": "Storm on the Horizon",
+			"description": "Defeat Gym Leader Chuck",
+			"api_key": "55989",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56337.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56337_lock.png"
+		},
+		"55990": {
+			"release_per_platform_id": "n64_283E7641",
+			"name": "Mineral Effort",
+			"description": "Defeat Gym Leader Jasmine",
+			"api_key": "55990",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56340.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56340_lock.png"
+		},
+		"55991": {
+			"release_per_platform_id": "n64_283E7641",
+			"name": "Blasting Off at the Speed of Light",
+			"description": "Defeat Team Rocket",
+			"api_key": "55991",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56364.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56364_lock.png"
+		},
+		"55992": {
+			"release_per_platform_id": "n64_283E7641",
+			"name": "Glacier Pace",
+			"description": "Defeat Gym Leader Pryce",
+			"api_key": "55992",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56339.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56339_lock.png"
+		},
+		"55993": {
+			"release_per_platform_id": "n64_283E7641",
+			"name": "Rising Star",
+			"description": "Defeat Gym Leader Clair",
+			"api_key": "55993",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56341.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56341_lock.png"
+		},
+		"55994": {
+			"release_per_platform_id": "n64_283E7641",
+			"name": "Quadrumvirate Quarrel",
+			"description": "Defeat the Elite Four",
+			"api_key": "55994",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56379.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56379_lock.png"
+		},
+		"55995": {
+			"release_per_platform_id": "n64_283E7641",
+			"name": "Dragon Dance",
+			"description": "Defeat Champion Lance",
+			"api_key": "55995",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56375.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56375_lock.png"
+		},
+		"55996": {
+			"release_per_platform_id": "n64_283E7641",
+			"name": "An Onixpected Development",
+			"description": "Defeat Gym Leader Brock",
+			"api_key": "55996",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56367.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56367_lock.png"
+		},
+		"55997": {
+			"release_per_platform_id": "n64_283E7641",
+			"name": "The Starmie Night",
+			"description": "Defeat Gym Leader Misty",
+			"api_key": "55997",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56368.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56368_lock.png"
+		},
+		"55998": {
+			"release_per_platform_id": "n64_283E7641",
+			"name": "Raichu a Check",
+			"description": "Defeat Gym Leader Lt. Surge",
+			"api_key": "55998",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56369.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56369_lock.png"
+		},
+		"55999": {
+			"release_per_platform_id": "n64_283E7641",
+			"name": "Bellossom Forth",
+			"description": "Defeat Gym Leader Erika",
+			"api_key": "55999",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56370.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56370_lock.png"
+		},
+		"56000": {
+			"release_per_platform_id": "n64_283E7641",
+			"name": "Eating Crobat",
+			"description": "Defeat Gym Leader Janine",
+			"api_key": "56000",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56371.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56371_lock.png"
+		},
+		"56001": {
+			"release_per_platform_id": "n64_283E7641",
+			"name": "I Am Alakazam",
+			"description": "Defeat Gym Leader Sabrina",
+			"api_key": "56001",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56372.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56372_lock.png"
+		},
+		"56002": {
+			"release_per_platform_id": "n64_283E7641",
+			"name": "Mad Rapidash to the Finish",
+			"description": "Defeat Gym Leader Blaine",
+			"api_key": "56002",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56373.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56373_lock.png"
+		},
+		"56003": {
+			"release_per_platform_id": "n64_283E7641",
+			"name": "Just a Pidgeot",
+			"description": "Defeat Gym Leader Blue",
+			"api_key": "56003",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56374.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56374_lock.png"
+		},
+		"56004": {
+			"release_per_platform_id": "n64_283E7641",
+			"name": "Red Like a Book",
+			"description": "Defeat Pokemon Trainer Red",
+			"api_key": "56004",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56398.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56398_lock.png"
+		},
+		"56005": {
+			"release_per_platform_id": "n64_283E7641",
+			"name": "Power Play",
+			"description": "Defeat your rival",
+			"api_key": "56005",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56399.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56399_lock.png"
+		},
+		"56006": {
+			"release_per_platform_id": "n64_283E7641",
+			"name": "Extreme Speed",
+			"description": "Defeat Pokemon Trainer Cal in Battle Now! on Hard in Round 2",
+			"api_key": "56006",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56290.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56290_lock.png"
+		},
+		"56007": {
+			"release_per_platform_id": "n64_283E7641",
+			"name": "Forgot About Poke",
+			"description": "Win the Poke Ball Poke Cup in Round 2",
+			"api_key": "56007",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58559.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58559_lock.png"
+		},
+		"56008": {
+			"release_per_platform_id": "n64_283E7641",
+			"name": "You Drive Me Pokezy",
+			"description": "Win the Great Ball Poke Cup in Round 2",
+			"api_key": "56008",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58560.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58560_lock.png"
+		},
+		"56009": {
+			"release_per_platform_id": "n64_283E7641",
+			"name": "Go Ahead, Make My Poke",
+			"description": "Win the Ultra Ball Poke Cup in Round 2",
+			"api_key": "56009",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58553.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58553_lock.png"
+		},
+		"56010": {
+			"release_per_platform_id": "n64_283E7641",
+			"name": "Apokelypse Now",
+			"description": "Win the Master Ball Poke Cup in Round 2",
+			"api_key": "56010",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58554.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58554_lock.png"
+		},
+		"56011": {
+			"release_per_platform_id": "n64_283E7641",
+			"name": "Be a Master",
+			"description": "Win the Poke Ball Challenge Cup in Round 2",
+			"api_key": "56011",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58557.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58557_lock.png"
+		},
+		"56012": {
+			"release_per_platform_id": "n64_283E7641",
+			"name": "Show Your Skills",
+			"description": "Win the Great Ball Challenge Cup in Round 2",
+			"api_key": "56012",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58558.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58558_lock.png"
+		},
+		"56013": {
+			"release_per_platform_id": "n64_283E7641",
+			"name": "Get There Faster",
+			"description": "Win the Ultra Ball Challenge Cup in Round 2",
+			"api_key": "56013",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58555.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58555_lock.png"
+		},
+		"56014": {
+			"release_per_platform_id": "n64_283E7641",
+			"name": "Top of the Hill",
+			"description": "Win the Master Ball Challenge Cup in Round 2",
+			"api_key": "56014",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58556.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/58556_lock.png"
+		},
+		"56015": {
+			"release_per_platform_id": "n64_283E7641",
+			"name": "Primal Force",
+			"description": "Win the Prime Cup in Round 2",
+			"api_key": "56015",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56295.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56295_lock.png"
+		},
+		"56016": {
+			"release_per_platform_id": "n64_283E7641",
+			"name": "Too Little to Congratulate",
+			"description": "Win the Little Cup in Round 2",
+			"api_key": "56016",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56296.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56296_lock.png"
+		},
+		"56017": {
+			"release_per_platform_id": "n64_283E7641",
+			"name": "The Elegant Master",
+			"description": "Defeat Gym Leader Falkner in Round 2",
+			"api_key": "56017",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56271.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56271_lock.png"
+		},
+		"56018": {
+			"release_per_platform_id": "n64_283E7641",
+			"name": "The Walking Bug Encyclopedia",
+			"description": "Defeat Gym Leader Bugsy in Round 2",
+			"api_key": "56018",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56272.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56272_lock.png"
+		},
+		"56019": {
+			"release_per_platform_id": "n64_283E7641",
+			"name": "The Incredibly Pretty Girl",
+			"description": "Defeat Gym Leader Whitney in Round 2",
+			"api_key": "56019",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56273.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56273_lock.png"
+		},
+		"56020": {
+			"release_per_platform_id": "n64_283E7641",
+			"name": "The Mystic Seer of the Future",
+			"description": "Defeat Gym Leader Morty in Round 2",
+			"api_key": "56020",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56274.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56274_lock.png"
+		},
+		"56021": {
+			"release_per_platform_id": "n64_283E7641",
+			"name": "His Roaring Fists Do the Talking",
+			"description": "Defeat Gym Leader Chuck in Round 2",
+			"api_key": "56021",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56275.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56275_lock.png"
+		},
+		"56022": {
+			"release_per_platform_id": "n64_283E7641",
+			"name": "The Steel-Clad Defense Girl",
+			"description": "Defeat Gym Leader Jasmine in Round 2",
+			"api_key": "56022",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56276.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56276_lock.png"
+		},
+		"56023": {
+			"release_per_platform_id": "n64_283E7641",
+			"name": "Blasting Off Again",
+			"description": "Defeat Team Rocket in Round 2",
+			"api_key": "56023",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56277.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56277_lock.png"
+		},
+		"56024": {
+			"release_per_platform_id": "n64_283E7641",
+			"name": "The Teacher of Winter's Harshness",
+			"description": "Defeat Gym Leader Pryce in Round 2",
+			"api_key": "56024",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56278.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56278_lock.png"
+		},
+		"56025": {
+			"release_per_platform_id": "n64_283E7641",
+			"name": "The Blessed User",
+			"description": "Defeat Gym Leader Clair in Round 2",
+			"api_key": "56025",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56279.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56279_lock.png"
+		},
+		"56026": {
+			"release_per_platform_id": "n64_283E7641",
+			"name": "Fourmer Elites",
+			"description": "Defeat the Elite Four in Round 2",
+			"api_key": "56026",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56314.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56314_lock.png"
+		},
+		"56027": {
+			"release_per_platform_id": "n64_283E7641",
+			"name": "Chump",
+			"description": "Defeat Champion Lance in Round 2",
+			"api_key": "56027",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56280.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56280_lock.png"
+		},
+		"56028": {
+			"release_per_platform_id": "n64_283E7641",
+			"name": "The Rock-Solid",
+			"description": "Defeat Gym Leader Brock in Round 2",
+			"api_key": "56028",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56281.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56281_lock.png"
+		},
+		"56029": {
+			"release_per_platform_id": "n64_283E7641",
+			"name": "The Tomboyish Mermaid",
+			"description": "Defeat Gym Leader Misty in Round 2",
+			"api_key": "56029",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56282.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56282_lock.png"
+		},
+		"56030": {
+			"release_per_platform_id": "n64_283E7641",
+			"name": "The Lightning American",
+			"description": "Defeat Gym Leader Lt. Surge in Round 2",
+			"api_key": "56030",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56283.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56283_lock.png"
+		},
+		"56031": {
+			"release_per_platform_id": "n64_283E7641",
+			"name": "The Nature-Loving Princess",
+			"description": "Defeat Gym Leader Erika in Round 2",
+			"api_key": "56031",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56284.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56284_lock.png"
+		},
+		"56032": {
+			"release_per_platform_id": "n64_283E7641",
+			"name": "The Poisonous Ninja Master",
+			"description": "Defeat Gym Leader Janine in Round 2",
+			"api_key": "56032",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56285.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56285_lock.png"
+		},
+		"56033": {
+			"release_per_platform_id": "n64_283E7641",
+			"name": "The Master of Psychic",
+			"description": "Defeat Gym Leader Sabrina in Round 2",
+			"api_key": "56033",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56286.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56286_lock.png"
+		},
+		"56034": {
+			"release_per_platform_id": "n64_283E7641",
+			"name": "The Hotheaded Quiz Master",
+			"description": "Defeat Gym Leader Blaine in Round 2",
+			"api_key": "56034",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56288.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56288_lock.png"
+		},
+		"56035": {
+			"release_per_platform_id": "n64_283E7641",
+			"name": "Smell Ya Later",
+			"description": "Defeat Gym Leader Blue in Round 2",
+			"api_key": "56035",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56289.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56289_lock.png"
+		},
+		"56036": {
+			"release_per_platform_id": "n64_283E7641",
+			"name": "Red in the Face",
+			"description": "Defeat Pokemon Trainer Red in Round 2",
+			"api_key": "56036",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56287.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56287_lock.png"
+		},
+		"56037": {
+			"release_per_platform_id": "n64_283E7641",
+			"name": "Unrivaled",
+			"description": "Defeat your rival in Round 2",
+			"api_key": "56037",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56294.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56294_lock.png"
+		},
+		"58690": {
+			"release_per_platform_id": "n64_283E7641",
+			"name": "Hearty Meal",
+			"description": "On Hard, win with 15 hearts or more in Gutsy Golbat",
+			"api_key": "58690",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56063.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56063_lock.png"
+		},
+		"56203": {
+			"release_per_platform_id": "n64_283E7641",
+			"name": "Let it Rip",
+			"description": "On Hard, win by ringing out the same Hitmontop five times in Topsy-Turvy",
+			"api_key": "56203",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56064.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56064_lock.png"
+		},
+		"56201": {
+			"release_per_platform_id": "n64_283E7641",
+			"name": "A Cut Above the Rest",
+			"description": "On Hard, get a perfect score of 100 in Clear Cut Challenge",
+			"api_key": "56201",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56058.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56058_lock.png"
+		},
+		"58689": {
+			"release_per_platform_id": "n64_283E7641",
+			"name": "Balls to Your Hall",
+			"description": "On Hard, shoot 12 balls into your goal in Furret's Frolic",
+			"api_key": "58689",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56062.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56062_lock.png"
+		},
+		"58691": {
+			"release_per_platform_id": "n64_283E7641",
+			"name": "Mime over Matter",
+			"description": "On Hard, win without ever losing a point in Barrier Ball",
+			"api_key": "58691",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56065.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56065_lock.png"
+		},
+		"58687": {
+			"release_per_platform_id": "n64_283E7641",
+			"name": "Shock and Awe",
+			"description": "On Hard, get a time of 00'10\"00 or less in Pichu's Power Plant",
+			"api_key": "58687",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56057.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56057_lock.png"
+		},
+		"58688": {
+			"release_per_platform_id": "n64_283E7641",
+			"name": "Let the Good Tires Roll",
+			"description": "On Hard, win without ever leaving the ground in Rampage Rollout",
+			"api_key": "58688",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56060.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56060_lock.png"
+		},
+		"56202": {
+			"release_per_platform_id": "n64_283E7641",
+			"name": "Count Me In",
+			"description": "On Hard, get a perfect score of 100 in Streaming Stampede",
+			"api_key": "56202",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56059.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56059_lock.png"
+		},
+		"58692": {
+			"release_per_platform_id": "n64_283E7641",
+			"name": "Baby Got Track",
+			"description": "On Hard, win without ever stumbling in Tumbling Togepi",
+			"api_key": "58692",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56066.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56066_lock.png"
+		},
+		"56200": {
+			"release_per_platform_id": "n64_283E7641",
+			"name": "Priority Mail",
+			"description": "On Hard, get a score of 7500 or more in Delibird's Delivery",
+			"api_key": "56200",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56056.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56056_lock.png"
+		},
+		"56199": {
+			"release_per_platform_id": "n64_283E7641",
+			"name": "I'm Eggscellent",
+			"description": "On Hard, get a perfect score of 100 in Egg Emergency",
+			"api_key": "56199",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56055.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56055_lock.png"
+		},
+		"58627": {
+			"release_per_platform_id": "n64_283E7641",
+			"name": "Fruitful Endeavor",
+			"description": "On Hard, get a score of 4000 or more in Eager Eevee",
+			"api_key": "58627",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56061.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56061_lock.png"
+		},
+		"56381": {
+			"release_per_platform_id": "n64_283E7641",
+			"name": "You Are the Superstar!",
+			"description": "Become the Mini-Game Champion by winning 9 tokens before 3 Very Hard CPUs",
+			"api_key": "56381",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56067.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56067_lock.png"
+		},
+		"56380": {
+			"release_per_platform_id": "n64_283E7641",
+			"name": "P.K.M.N.I.Q.",
+			"description": "Answer 20 questions correctly in the Hard level Pokemon Quiz Challenge",
+			"api_key": "56380",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56069.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56069_lock.png"
+		},
+		"56528": {
+			"release_per_platform_id": "n64_283E7641",
+			"name": "Teacher's Pocket Monster",
+			"description": "Pass all of Pokemon Academy's Trainer Class in a single session",
+			"api_key": "56528",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56302.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56302_lock.png"
+		},
+		"56529": {
+			"release_per_platform_id": "n64_283E7641",
+			"name": "On a Roll",
+			"description": "Pass all of Pokemon Academy's Gym Leader Class in a single session",
+			"api_key": "56529",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59028.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59028_lock.png"
+		},
+		"56530": {
+			"release_per_platform_id": "n64_283E7641",
+			"name": "PokehD",
+			"description": "Pass all of Pokemon Academy's Elite Four Class in a single session",
+			"api_key": "56530",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59029.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59029_lock.png"
+		},
+		"57436": {
+			"release_per_platform_id": "n64_283E7641",
+			"name": "I Am Rubber, You Are Glue",
+			"description": "Win a battle using only Counter and Mirror Coat",
+			"api_key": "57436",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60247.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60247_lock.png"
+		},
+		"58542": {
+			"release_per_platform_id": "n64_283E7641",
+			"name": "No Mon Left Behind",
+			"description": "Win a cup without letting a single pokemon faint",
+			"api_key": "58542",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60908.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60908_lock.png"
+		},
+		"57435": {
+			"release_per_platform_id": "n64_283E7641",
+			"name": "It's Hip 2.B.A. Square",
+			"description": "Win a cup using only Normal types (no Ditto)",
+			"api_key": "57435",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60244.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60244_lock.png"
+		},
+		"58543": {
+			"release_per_platform_id": "n64_283E7641",
+			"name": "The Very Best",
+			"description": "Win a cup using a copy of Red's GSC team",
+			"api_key": "58543",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59283.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59283_lock.png"
+		}
+	}
+}

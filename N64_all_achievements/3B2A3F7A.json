@@ -1,0 +1,156 @@
+{
+	"Achievements": {
+		"78832": {
+			"release_per_platform_id": "n64_3B2A3F7A",
+			"name": "A new Challenger",
+			"description": "Win the Pokeball Tournament. [Level 1-30]",
+			"api_key": "78832",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/84878.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/84878_lock.png"
+		},
+		"78833": {
+			"release_per_platform_id": "n64_3B2A3F7A",
+			"name": "Next Class Fighters",
+			"description": "Win the Superball Tournament. [Level 1-30]",
+			"api_key": "78833",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/84880.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/84880_lock.png"
+		},
+		"78834": {
+			"release_per_platform_id": "n64_3B2A3F7A",
+			"name": "One of the Best",
+			"description": "Win the Ultraball Tournament. [Level 1-30]",
+			"api_key": "78834",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/84881.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/84881_lock.png"
+		},
+		"78835": {
+			"release_per_platform_id": "n64_3B2A3F7A",
+			"name": "Best Trainer in the Stadium",
+			"description": "Win the Masterball Tournament. [Level 1-30]",
+			"api_key": "78835",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/84882.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/84882_lock.png"
+		},
+		"78836": {
+			"release_per_platform_id": "n64_3B2A3F7A",
+			"name": "Do you teach me Surf now?",
+			"description": "Win the Masterball Tournament with a Pikachu in your party. [L1-30]",
+			"api_key": "78836",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/84916.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/84916_lock.png"
+		},
+		"78837": {
+			"release_per_platform_id": "n64_3B2A3F7A",
+			"name": "Real Winner of the Nintendo Cup '97",
+			"description": "Win the Nintendo Cup '97 Tournament. [Level 50-55]",
+			"api_key": "78837",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/84883.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/84883_lock.png"
+		},
+		"78838": {
+			"release_per_platform_id": "n64_3B2A3F7A",
+			"name": "In Memory of a Legend",
+			"description": "Win a Tournament Battle by using Pikachu, Venusaur, Charizard, Blastoise, Lapras and Snorlax.",
+			"api_key": "78838",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/84934.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/84934_lock.png"
+		},
+		"78839": {
+			"release_per_platform_id": "n64_3B2A3F7A",
+			"name": "Looking for a Rival of their Own",
+			"description": "Win a Tournament Battle by using Alakazam, Aerodactyl, Arcanine, Gyarados, Machamp and Exeggutor.",
+			"api_key": "78839",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/84886.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/84886_lock.png"
+		},
+		"78840": {
+			"release_per_platform_id": "n64_3B2A3F7A",
+			"name": "An unknown Team from a known Person",
+			"description": "Win a Tournament Battle by using Tauros, Exeggutor, Arcanine, Gyarados and two evolved Starters.",
+			"api_key": "78840",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/84915.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/84915_lock.png"
+		},
+		"78841": {
+			"release_per_platform_id": "n64_3B2A3F7A",
+			"name": "I don't need Continues",
+			"description": "Win a Tournament Battle without fainted Pokemon.",
+			"api_key": "78841",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/84892.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/84892_lock.png"
+		},
+		"78842": {
+			"release_per_platform_id": "n64_3B2A3F7A",
+			"name": "Pokemon's Best Friend",
+			"description": "Win a Tournament Battle without get one of your Pokemon hurt.",
+			"api_key": "78842",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/84890.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/84890_lock.png"
+		},
+		"78843": {
+			"release_per_platform_id": "n64_3B2A3F7A",
+			"name": "Let's take a Picnic",
+			"description": "Win a Free Battle with the Picnicker Team against a COM with the same team.",
+			"api_key": "78843",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/84901.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/84901_lock.png"
+		},
+		"78844": {
+			"release_per_platform_id": "n64_3B2A3F7A",
+			"name": "More than just Bugs",
+			"description": "Win a Free Battle with the Bug Catcher Team against a COM with the same team.",
+			"api_key": "78844",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/84907.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/84907_lock.png"
+		},
+		"78845": {
+			"release_per_platform_id": "n64_3B2A3F7A",
+			"name": "Nerd Battle",
+			"description": "Win a Free Battle with the Super Nerd Team against a COM with the same team.",
+			"api_key": "78845",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/84904.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/84904_lock.png"
+		},
+		"78846": {
+			"release_per_platform_id": "n64_3B2A3F7A",
+			"name": "Steal the Victory",
+			"description": "Win a Free Battle with the Burglar Team against a COM with the same team.",
+			"api_key": "78846",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/84905.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/84905_lock.png"
+		},
+		"78847": {
+			"release_per_platform_id": "n64_3B2A3F7A",
+			"name": "The Best in the Playground",
+			"description": "Win a Free Battle with the Youngster Team against a COM with the same team.",
+			"api_key": "78847",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/84906.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/84906_lock.png"
+		},
+		"78848": {
+			"release_per_platform_id": "n64_3B2A3F7A",
+			"name": "The better rebuilded Team",
+			"description": "Win a Free Battle with the Camper Team against a COM with the same team.",
+			"api_key": "78848",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/84909.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/84909_lock.png"
+		},
+		"78849": {
+			"release_per_platform_id": "n64_3B2A3F7A",
+			"name": "I'm done arguing",
+			"description": "Win a Free Battle with the Lass Team against a COM with the same team.",
+			"api_key": "78849",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/84910.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/84910_lock.png"
+		},
+		"78850": {
+			"release_per_platform_id": "n64_3B2A3F7A",
+			"name": "A Legendary Fight",
+			"description": "Win a Free Battle with the Bird Keeper Team against a COM with the same team.",
+			"api_key": "78850",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/84911.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/84911_lock.png"
+		}
+	}
+}

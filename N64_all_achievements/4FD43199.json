@@ -1,0 +1,340 @@
+{
+	"Achievements": {
+		"51073": {
+			"release_per_platform_id": "n64_4FD43199",
+			"name": "Spiral Mountain",
+			"description": "Get all Honeycomb Pieces in Spiral Mountain.",
+			"api_key": "51073",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52389.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52389_lock.png"
+		},
+		"48919": {
+			"release_per_platform_id": "n64_4FD43199",
+			"name": "Banjo the Termite",
+			"description": "Transform into Termite Banjo at Mumbo's Mountain.",
+			"api_key": "48919",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49649.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49649_lock.png"
+		},
+		"50808": {
+			"release_per_platform_id": "n64_4FD43199",
+			"name": "Mumbo's Mountain",
+			"description": "Fully Complete Mumbo's Mountain.",
+			"api_key": "50808",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52113.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52113_lock.png"
+		},
+		"51072": {
+			"release_per_platform_id": "n64_4FD43199",
+			"name": "To infinity and beyond!",
+			"description": "Reach the top of Treasure Trove Cove.",
+			"api_key": "51072",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52388.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52388_lock.png"
+		},
+		"50861": {
+			"release_per_platform_id": "n64_4FD43199",
+			"name": "Treasure Trove Cove",
+			"description": "Fully Complete Treasure Trove Cove.",
+			"api_key": "50861",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52187.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52187_lock.png"
+		},
+		"51229": {
+			"release_per_platform_id": "n64_4FD43199",
+			"name": "Steel Lungs",
+			"description": "Release Clanker without breathing or using bubble after talking with her.",
+			"api_key": "51229",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52592.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52592_lock.png"
+		},
+		"50862": {
+			"release_per_platform_id": "n64_4FD43199",
+			"name": "Clanker's Cavern",
+			"description": "Fully Complete Clanker's Cavern",
+			"api_key": "50862",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52188.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52188_lock.png"
+		},
+		"48920": {
+			"release_per_platform_id": "n64_4FD43199",
+			"name": "Banjo the Crocodile",
+			"description": "Transform into Crocodile Banjo at Blubblegloop Swamp.",
+			"api_key": "48920",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49650.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49650_lock.png"
+		},
+		"51083": {
+			"release_per_platform_id": "n64_4FD43199",
+			"name": "God Tier",
+			"description": "Win Mr. Vile's second challenge without using Turbo Trainers.",
+			"api_key": "51083",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52437.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52437_lock.png"
+		},
+		"50865": {
+			"release_per_platform_id": "n64_4FD43199",
+			"name": "Bubblegloop Swamp",
+			"description": "Fully Complete Bubblegloop Swamp.",
+			"api_key": "50865",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52194.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52194_lock.png"
+		},
+		"48921": {
+			"release_per_platform_id": "n64_4FD43199",
+			"name": "Banjo the Cute Walrus",
+			"description": "Tranform into Walrus Banjo at Freezeezy Peak.",
+			"api_key": "48921",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49651.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49651_lock.png"
+		},
+		"50940": {
+			"release_per_platform_id": "n64_4FD43199",
+			"name": "Freezeezy Peak",
+			"description": "Fully Complete Freezeezy Peak.",
+			"api_key": "50940",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52294.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52294_lock.png"
+		},
+		"50939": {
+			"release_per_platform_id": "n64_4FD43199",
+			"name": "Gobi's Valley",
+			"description": "Fully Complete Gobi's Valley.",
+			"api_key": "50939",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52297.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52297_lock.png"
+		},
+		"49036": {
+			"release_per_platform_id": "n64_4FD43199",
+			"name": "Banjo the Pumpkin",
+			"description": "Transform into Pumpkin Banjo at Mad Monster Mansion.",
+			"api_key": "49036",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49860.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49860_lock.png"
+		},
+		"50941": {
+			"release_per_platform_id": "n64_4FD43199",
+			"name": "Mad Monster Mansion",
+			"description": "Fully Complete Mad Monster Mansion.",
+			"api_key": "50941",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52295.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52295_lock.png"
+		},
+		"50943": {
+			"release_per_platform_id": "n64_4FD43199",
+			"name": "Rusty Bucket Bay",
+			"description": "Fully Complete Rusty Bucket Bay",
+			"api_key": "50943",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52296.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52296_lock.png"
+		},
+		"49445": {
+			"release_per_platform_id": "n64_4FD43199",
+			"name": "Banjo wants honey",
+			"description": "Transform into Bee Banjo at Click Clock Wood.",
+			"api_key": "49445",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50137.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50137_lock.png"
+		},
+		"50942": {
+			"release_per_platform_id": "n64_4FD43199",
+			"name": "Click Clock Wood",
+			"description": "Fully Complete Click Clock Wood",
+			"api_key": "50942",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52298.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52298_lock.png"
+		},
+		"51062": {
+			"release_per_platform_id": "n64_4FD43199",
+			"name": "Show me the honey!",
+			"description": "Collect all 24 of the extra honeycomb pieces. Yes! Every single one! It's character-building.",
+			"api_key": "51062",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/67856.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/67856_lock.png"
+		},
+		"50809": {
+			"release_per_platform_id": "n64_4FD43199",
+			"name": "Grunty's Lair",
+			"description": "Collect all 10 Jiggies in Grunty's Lair.",
+			"api_key": "50809",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52114.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52114_lock.png"
+		},
+		"51068": {
+			"release_per_platform_id": "n64_4FD43199",
+			"name": "Pieces of a puzzle",
+			"description": "Collect all Jiggiesaw Pieces.",
+			"api_key": "51068",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52383.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52383_lock.png"
+		},
+		"51081": {
+			"release_per_platform_id": "n64_4FD43199",
+			"name": "Witch Exterminator",
+			"description": "Defeat Grunty without taking damage.",
+			"api_key": "51081",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52434.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52434_lock.png"
+		},
+		"51082": {
+			"release_per_platform_id": "n64_4FD43199",
+			"name": "Jinjonatored",
+			"description": "Fear the Jinjonator. If you're a witch, that is. The Jinjonator lays the smack down on witches.",
+			"api_key": "51082",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/67860.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/67860_lock.png"
+		},
+		"50863": {
+			"release_per_platform_id": "n64_4FD43199",
+			"name": "What's a Hollow Honeycomb?",
+			"description": "Complete the game without extending the Life Bar.",
+			"api_key": "50863",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52190.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52190_lock.png"
+		},
+		"51093": {
+			"release_per_platform_id": "n64_4FD43199",
+			"name": "I just wanted to save...",
+			"description": "Get Monster Tooty Ending.",
+			"api_key": "51093",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52455.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52455_lock.png"
+		},
+		"50681": {
+			"release_per_platform_id": "n64_4FD43199",
+			"name": "The Quiz Master",
+			"description": "Complete Grunty's Furnace Fun quiz show and win the Star Prize. Been paying attention?",
+			"api_key": "50681",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/67857.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/67857_lock.png"
+		},
+		"51070": {
+			"release_per_platform_id": "n64_4FD43199",
+			"name": "Mystery Unsolved",
+			"description": "Get the secret ending in Banjo Kazooie.",
+			"api_key": "51070",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52386.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52386_lock.png"
+		},
+		"51061": {
+			"release_per_platform_id": "n64_4FD43199",
+			"name": "Jigsaw Maker",
+			"description": "Bet you thought jigsaws were boring! Bottles disagrees, and has seven of them to be solved.",
+			"api_key": "51061",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/67858.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/67858_lock.png"
+		},
+		"51094": {
+			"release_per_platform_id": "n64_4FD43199",
+			"name": "Move Master",
+			"description": "Discover and master all Banjo's moves_ and Kazooie's_ but nobody else's. Unless you insist.",
+			"api_key": "51094",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/67855.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/67855_lock.png"
+		},
+		"51084": {
+			"release_per_platform_id": "n64_4FD43199",
+			"name": "I'm the Egg Cheater",
+			"description": "Fully Upgrade your Blue Eggs.",
+			"api_key": "51084",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52438.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52438_lock.png"
+		},
+		"51085": {
+			"release_per_platform_id": "n64_4FD43199",
+			"name": "Fine Feathered Cheat",
+			"description": "Fully Upgrade your Red Feathers.",
+			"api_key": "51085",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52439.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52439_lock.png"
+		},
+		"51086": {
+			"release_per_platform_id": "n64_4FD43199",
+			"name": "The Last Cheat",
+			"description": "Fully Upgrade your Golden Feathers.",
+			"api_key": "51086",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52440.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52440_lock.png"
+		},
+		"51069": {
+			"release_per_platform_id": "n64_4FD43199",
+			"name": "Bright Skull",
+			"description": "Collect all Mumbo tokens in the game.",
+			"api_key": "51069",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52384.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52384_lock.png"
+		},
+		"50032": {
+			"release_per_platform_id": "n64_4FD43199",
+			"name": "Stoped and Swoped",
+			"description": "Get all Stop'n'Swop items.",
+			"api_key": "50032",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49986.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49986_lock.png"
+		},
+		"50807": {
+			"release_per_platform_id": "n64_4FD43199",
+			"name": "Lives Collector",
+			"description": "Get 9 lives.",
+			"api_key": "50807",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52103.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52103_lock.png"
+		},
+		"49565": {
+			"release_per_platform_id": "n64_4FD43199",
+			"name": "Banjo the Washer",
+			"description": "Transform into Washer Banjo.",
+			"api_key": "49565",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50299.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50299_lock.png"
+		},
+		"51076": {
+			"release_per_platform_id": "n64_4FD43199",
+			"name": "They're just codes, lass!",
+			"description": "Make Grunty erase your Game Pak.",
+			"api_key": "51076",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52400.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52400_lock.png"
+		},
+		"50801": {
+			"release_per_platform_id": "n64_4FD43199",
+			"name": "Big Head Banjo",
+			"description": "Enter bottlesbonusone in the sandcastle.",
+			"api_key": "50801",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52051.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52051_lock.png"
+		},
+		"50797": {
+			"release_per_platform_id": "n64_4FD43199",
+			"name": "Big Hands and Feets",
+			"description": "Enter bottlesbonustwo in the sandcastle.",
+			"api_key": "50797",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52026.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52026_lock.png"
+		},
+		"50798": {
+			"release_per_platform_id": "n64_4FD43199",
+			"name": "Big Kazooie",
+			"description": "Enter bottlesbonusthree in the sandcastle.",
+			"api_key": "50798",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52027.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52027_lock.png"
+		},
+		"50799": {
+			"release_per_platform_id": "n64_4FD43199",
+			"name": "Slim Banjo",
+			"description": "Enter bottlesbonusfour in the sandcastle.",
+			"api_key": "50799",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52028.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52028_lock.png"
+		},
+		"50800": {
+			"release_per_platform_id": "n64_4FD43199",
+			"name": "Strange Banjo",
+			"description": "Enter bottlesbonusfive in the sandscastle.",
+			"api_key": "50800",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52050.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52050_lock.png"
+		}
+	}
+}

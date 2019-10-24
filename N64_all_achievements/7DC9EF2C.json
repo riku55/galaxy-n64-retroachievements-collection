@@ -1,0 +1,148 @@
+{
+	"Achievements": {
+		"64143": {
+			"release_per_platform_id": "n64_7DC9EF2C",
+			"name": "Add the F1 World Champion",
+			"description": "Know your 1997 History",
+			"api_key": "64143",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/67542.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/67542_lock.png"
+		},
+		"64398": {
+			"release_per_platform_id": "n64_7DC9EF2C",
+			"name": "Aloha",
+			"description": "Use cheats to unlock the Hawaiian track",
+			"api_key": "64398",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/67715.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/67715_lock.png"
+		},
+		"64399": {
+			"release_per_platform_id": "n64_7DC9EF2C",
+			"name": "Offense A - Olivier Panis",
+			"description": "Get on the podium with Panis in Challenge Offense A",
+			"api_key": "64399",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/67716.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/67716_lock.png"
+		},
+		"64400": {
+			"release_per_platform_id": "n64_7DC9EF2C",
+			"name": "Defense A - David Coulthard",
+			"description": "Stay 1st with Coulthard with a gigantic lead",
+			"api_key": "64400",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/67643.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/67643_lock.png"
+		},
+		"64401": {
+			"release_per_platform_id": "n64_7DC9EF2C",
+			"name": "Trouble A - Michael Schumacher",
+			"description": "Save your tyres for a not so rainy day in Belgium",
+			"api_key": "64401",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/67717.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/67717_lock.png"
+		},
+		"64402": {
+			"release_per_platform_id": "n64_7DC9EF2C",
+			"name": "Offense B - Giancarlo Fisichella",
+			"description": "Win the Canadian race on bad tyres",
+			"api_key": "64402",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/67718.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/67718_lock.png"
+		},
+		"64403": {
+			"release_per_platform_id": "n64_7DC9EF2C",
+			"name": "Defense B - Gerhard Berger",
+			"description": "This one's for you, dad - Win in Germany with a huge lead",
+			"api_key": "64403",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/67719.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/67719_lock.png"
+		},
+		"64404": {
+			"release_per_platform_id": "n64_7DC9EF2C",
+			"name": "Trouble B - Ukyo Katayama",
+			"description": "Who needs brakes?",
+			"api_key": "64404",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/67720.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/67720_lock.png"
+		},
+		"64405": {
+			"release_per_platform_id": "n64_7DC9EF2C",
+			"name": "Trouble E - Damon Hill",
+			"description": "Who needs gears?",
+			"api_key": "64405",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/67721.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/67721_lock.png"
+		},
+		"64468": {
+			"release_per_platform_id": "n64_7DC9EF2C",
+			"name": "Offense B - Shinji Nakano",
+			"description": "Pass the Schumi Bros. and take the podium",
+			"api_key": "64468",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/67775.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/67775_lock.png"
+		},
+		"64469": {
+			"release_per_platform_id": "n64_7DC9EF2C",
+			"name": "Defense C - Michael Schumacher",
+			"description": "Brotherly Love",
+			"api_key": "64469",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/67717.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/67717_lock.png"
+		},
+		"64470": {
+			"release_per_platform_id": "n64_7DC9EF2C",
+			"name": "Trouble C - Giancarlo Fisichella",
+			"description": "Who needs tyres?",
+			"api_key": "64470",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/67718.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/67718_lock.png"
+		},
+		"64471": {
+			"release_per_platform_id": "n64_7DC9EF2C",
+			"name": "Offense D - David Coulthard",
+			"description": "Win in Monza by beating Jean Alesi",
+			"api_key": "64471",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/67643.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/67643_lock.png"
+		},
+		"64475": {
+			"release_per_platform_id": "n64_7DC9EF2C",
+			"name": "Defense D - Heinz Harald Frentzen",
+			"description": "Lap Jossy Verstappen, Mika Salo, Jarno Trulli and Shinji Nakano",
+			"api_key": "64475",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/67781.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/67781_lock.png"
+		},
+		"64476": {
+			"release_per_platform_id": "n64_7DC9EF2C",
+			"name": "Trouble D - Heinz Harald Frentzen",
+			"description": "Who needs sun?",
+			"api_key": "64476",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/67780.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/67780_lock.png"
+		},
+		"64478": {
+			"release_per_platform_id": "n64_7DC9EF2C",
+			"name": "Offense E - Michael Schumacher",
+			"description": "Ram Villeneuve properly and win the championship",
+			"api_key": "64478",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/67717.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/67717_lock.png"
+		},
+		"64486": {
+			"release_per_platform_id": "n64_7DC9EF2C",
+			"name": "Defense E - Mika Hakkinen",
+			"description": "Keep Villeneuve at a distance in Great Britain",
+			"api_key": "64486",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/67790.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/67790_lock.png"
+		},
+		"64488": {
+			"release_per_platform_id": "n64_7DC9EF2C",
+			"name": "Ultimate - Eddie Irvine",
+			"description": "Be a good team mate and let your teammate win",
+			"api_key": "64488",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/67795.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/67795_lock.png"
+		}
+	}
+}

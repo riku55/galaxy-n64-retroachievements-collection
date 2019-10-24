@@ -1,0 +1,500 @@
+{
+	"Achievements": {
+		"57105": {
+			"release_per_platform_id": "n64_1BFC71F0",
+			"name": "The Rusty Reaverbot",
+			"description": "Defeat Hanmuro Doll in the Ruins",
+			"api_key": "57105",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59469.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59469_lock.png"
+		},
+		"57109": {
+			"release_per_platform_id": "n64_1BFC71F0",
+			"name": "Mechanic Genius",
+			"description": "Defeat Feldynaughtl and The Blumbears in Downtown.",
+			"api_key": "57109",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59478.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59478_lock.png"
+		},
+		"57110": {
+			"release_per_platform_id": "n64_1BFC71F0",
+			"name": "Baby Mech",
+			"description": "Defeat Bon Bonne in City Hall.",
+			"api_key": "57110",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59484.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59484_lock.png"
+		},
+		"57107": {
+			"release_per_platform_id": "n64_1BFC71F0",
+			"name": "Mole Mech",
+			"description": "Defeat Marlwolf in Clozer Woods",
+			"api_key": "57107",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59492.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59492_lock.png"
+		},
+		"57119": {
+			"release_per_platform_id": "n64_1BFC71F0",
+			"name": "Amphibious Machine",
+			"description": "Defeat Balkon Gelede in Lake Jyun",
+			"api_key": "57119",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59494.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59494_lock.png"
+		},
+		"57121": {
+			"release_per_platform_id": "n64_1BFC71F0",
+			"name": "Hardened Reaverbot",
+			"description": "Defeat Garudoriten in Lake Jyun Sub-Gate",
+			"api_key": "57121",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59500.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59500_lock.png"
+		},
+		"57138": {
+			"release_per_platform_id": "n64_1BFC71F0",
+			"name": "Dog-Like Reaverbots",
+			"description": "Defeat the 3 Karumuna Bash in Clozer Woods Sub-Gate",
+			"api_key": "57138",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59577.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59577_lock.png"
+		},
+		"57140": {
+			"release_per_platform_id": "n64_1BFC71F0",
+			"name": "Heavenly Power",
+			"description": "Win the Aerial Battle",
+			"api_key": "57140",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59581.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59581_lock.png"
+		},
+		"57145": {
+			"release_per_platform_id": "n64_1BFC71F0",
+			"name": "Armour of God",
+			"description": "Defeat Theodore Bruno in Old City",
+			"api_key": "57145",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59585.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59585_lock.png"
+		},
+		"57153": {
+			"release_per_platform_id": "n64_1BFC71F0",
+			"name": "The Huge Train-like Reaverbot",
+			"description": "Defeat Gai-nee Tooren in Uptown Sub-Cities",
+			"api_key": "57153",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59910.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59910_lock.png"
+		},
+		"57157": {
+			"release_per_platform_id": "n64_1BFC71F0",
+			"name": "The Bureaucratic Mega Man",
+			"description": "Save Kattelox Iisland from extinction",
+			"api_key": "57157",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59918.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59918_lock.png"
+		},
+		"57108": {
+			"release_per_platform_id": "n64_1BFC71F0",
+			"name": "You Drink the Drink... I Kick the Can for Money",
+			"description": "Kick the Can into the bakery",
+			"api_key": "57108",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59489.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59489_lock.png"
+		},
+		"57169": {
+			"release_per_platform_id": "n64_1BFC71F0",
+			"name": "Gimme That!!!",
+			"description": "Grab the key from the Blumbear Mecs fight by destroying only one of them.",
+			"api_key": "57169",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59923.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59923_lock.png"
+		},
+		"57167": {
+			"release_per_platform_id": "n64_1BFC71F0",
+			"name": "Murderer",
+			"description": "Destroy the KTOX Blimp",
+			"api_key": "57167",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59921.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59921_lock.png"
+		},
+		"57166": {
+			"release_per_platform_id": "n64_1BFC71F0",
+			"name": "My Blue Hero",
+			"description": "Don't let the enemy destroy any building in City Hall ",
+			"api_key": "57166",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59482.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59482_lock.png"
+		},
+		"57143": {
+			"release_per_platform_id": "n64_1BFC71F0",
+			"name": "A Present for You",
+			"description": "Gift to Roll all presents",
+			"api_key": "57143",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59632.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59632_lock.png"
+		},
+		"57142": {
+			"release_per_platform_id": "n64_1BFC71F0",
+			"name": "LEWD Man",
+			"description": "Whoops!...",
+			"api_key": "57142",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59483.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59483_lock.png"
+		},
+		"57117": {
+			"release_per_platform_id": "n64_1BFC71F0",
+			"name": "Nobody Touches My Boat",
+			"description": "Reach to the boss without being damaged in Lake Jyun.",
+			"api_key": "57117",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59633.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59633_lock.png"
+		},
+		"57139": {
+			"release_per_platform_id": "n64_1BFC71F0",
+			"name": "No Scratch on My flutter",
+			"description": "Win the Aerial Battle without the boat being damaged",
+			"api_key": "57139",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59579.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59579_lock.png"
+		},
+		"57152": {
+			"release_per_platform_id": "n64_1BFC71F0",
+			"name": "Cut Down Your Fears!",
+			"description": "Defeat Gai-nee Tooren without being damaged only using blade arm",
+			"api_key": "57152",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59902.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59902_lock.png"
+		},
+		"57147": {
+			"release_per_platform_id": "n64_1BFC71F0",
+			"name": "Felidae Family Invasion",
+			"description": "Get 11 cats in the flutter",
+			"api_key": "57147",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59640.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59640_lock.png"
+		},
+		"57168": {
+			"release_per_platform_id": "n64_1BFC71F0",
+			"name": "Hope PETA isn't watching",
+			"description": "Kick all dogs in Old City (Sometimes not all appear)",
+			"api_key": "57168",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59922.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59922_lock.png"
+		},
+		"57114": {
+			"release_per_platform_id": "n64_1BFC71F0",
+			"name": "Don't Mess with Mega Bro",
+			"description": "Be a bad guy and become in black mega man.",
+			"api_key": "57114",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59634.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59634_lock.png"
+		},
+		"57170": {
+			"release_per_platform_id": "n64_1BFC71F0",
+			"name": "Cardon Collector",
+			"description": "Collect all the treasure at the Cardon Forest Sub-Gate.",
+			"api_key": "57170",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59924.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59924_lock.png"
+		},
+		"57171": {
+			"release_per_platform_id": "n64_1BFC71F0",
+			"name": "Jyun Collector",
+			"description": "Collect all the treasure at the Lake Jyun Sub-Gate.",
+			"api_key": "57171",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59925.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59925_lock.png"
+		},
+		"57172": {
+			"release_per_platform_id": "n64_1BFC71F0",
+			"name": "Clozer Collector",
+			"description": "Collect all the treasure at the Clozer Woods Sub-Gate.",
+			"api_key": "57172",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59926.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59926_lock.png"
+		},
+		"57213": {
+			"release_per_platform_id": "n64_1BFC71F0",
+			"name": "Treasure Hunter",
+			"description": "Open all chest, garbage, hole and box.",
+			"api_key": "57213",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59927.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59927_lock.png"
+		},
+		"57154": {
+			"release_per_platform_id": "n64_1BFC71F0",
+			"name": "My Buster Beefed Up",
+			"description": "Get All Buster Parts",
+			"api_key": "57154",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59913.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59913_lock.png"
+		},
+		"57151": {
+			"release_per_platform_id": "n64_1BFC71F0",
+			"name": "Armed To The Teeth",
+			"description": "Fully enhanced all special weapons",
+			"api_key": "57151",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59912.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59912_lock.png"
+		},
+		"57115": {
+			"release_per_platform_id": "n64_1BFC71F0",
+			"name": "Blue Suit",
+			"description": "Get all armor pieces",
+			"api_key": "57115",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59486.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59486_lock.png"
+		},
+		"57144": {
+			"release_per_platform_id": "n64_1BFC71F0",
+			"name": "Healthy Mega Man",
+			"description": "Fully upgraded your life and get 18 energy canteen",
+			"api_key": "57144",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59582.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59582_lock.png"
+		},
+		"57122": {
+			"release_per_platform_id": "n64_1BFC71F0",
+			"name": "Come Back Again, Onii-chan",
+			"description": "Complete the hospital side-quest",
+			"api_key": "57122",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59553.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59553_lock.png"
+		},
+		"57123": {
+			"release_per_platform_id": "n64_1BFC71F0",
+			"name": "Jim's Hideout",
+			"description": "Complete the Jim's side-quest",
+			"api_key": "57123",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59554.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59554_lock.png"
+		},
+		"57149": {
+			"release_per_platform_id": "n64_1BFC71F0",
+			"name": "Baby is Coming",
+			"description": "Complete the pregnant Woman side-quest",
+			"api_key": "57149",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59644.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59644_lock.png"
+		},
+		"57150": {
+			"release_per_platform_id": "n64_1BFC71F0",
+			"name": "Exhibits of Reaverbot's",
+			"description": "Complete the museum duties side-quest",
+			"api_key": "57150",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59840.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59840_lock.png"
+		},
+		"57135": {
+			"release_per_platform_id": "n64_1BFC71F0",
+			"name": "Police Duties #1",
+			"description": "Complete police duties #1 side-quest",
+			"api_key": "57135",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59576.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59576_lock.png"
+		},
+		"57136": {
+			"release_per_platform_id": "n64_1BFC71F0",
+			"name": "Police Duties #2",
+			"description": "Complete police duties #2 side-quest",
+			"api_key": "57136",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59571.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59571_lock.png"
+		},
+		"57148": {
+			"release_per_platform_id": "n64_1BFC71F0",
+			"name": "Blue  Boy Foils Bank Robbery",
+			"description": "Complete the Robbery side-quest",
+			"api_key": "57148",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59643.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59643_lock.png"
+		},
+		"57124": {
+			"release_per_platform_id": "n64_1BFC71F0",
+			"name": "Beast Hunter",
+			"description": "Beat the beast hunter minigame",
+			"api_key": "57124",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59555.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59555_lock.png"
+		},
+		"57125": {
+			"release_per_platform_id": "n64_1BFC71F0",
+			"name": "Beast Hunter Best Scoring",
+			"description": "Beat the record in beast hunter minigame",
+			"api_key": "57125",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59556.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59556_lock.png"
+		},
+		"57126": {
+			"release_per_platform_id": "n64_1BFC71F0",
+			"name": "Balloon Fantasy",
+			"description": "Beat the balloon fantasy minigame",
+			"api_key": "57126",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59557.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59557_lock.png"
+		},
+		"57134": {
+			"release_per_platform_id": "n64_1BFC71F0",
+			"name": "Balloon Fantasy Record",
+			"description": "Beat the record in balloon fantasy minigame",
+			"api_key": "57134",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59558.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59558_lock.png"
+		},
+		"57127": {
+			"release_per_platform_id": "n64_1BFC71F0",
+			"name": "Straight Course Race",
+			"description": "Beat the straight course race minigame",
+			"api_key": "57127",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59564.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59564_lock.png"
+		},
+		"57129": {
+			"release_per_platform_id": "n64_1BFC71F0",
+			"name": "Straight Course Race Record",
+			"description": "Beat the record in straight course race minigame",
+			"api_key": "57129",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59565.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59565_lock.png"
+		},
+		"57130": {
+			"release_per_platform_id": "n64_1BFC71F0",
+			"name": "Technical Course Race",
+			"description": "Beat the technical course race minigame",
+			"api_key": "57130",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59566.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59566_lock.png"
+		},
+		"57131": {
+			"release_per_platform_id": "n64_1BFC71F0",
+			"name": "Technical Course Race Record",
+			"description": "Beat the record in technical course race minigame",
+			"api_key": "57131",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59567.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59567_lock.png"
+		},
+		"57132": {
+			"release_per_platform_id": "n64_1BFC71F0",
+			"name": "Left Curve Course Race",
+			"description": "Beat the left curve course race minigame",
+			"api_key": "57132",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59568.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59568_lock.png"
+		},
+		"57133": {
+			"release_per_platform_id": "n64_1BFC71F0",
+			"name": "Left Curve Course Record",
+			"description": "Beat the record in left curve course race minigame",
+			"api_key": "57133",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59569.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59569_lock.png"
+		},
+		"57106": {
+			"release_per_platform_id": "n64_1BFC71F0",
+			"name": "Too Old Rusty Reaverbot",
+			"description": "Defeat Hanmuro Doll without being damaged in Ocean Ruins [HARD]",
+			"api_key": "57106",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59479.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59479_lock.png"
+		},
+		"57111": {
+			"release_per_platform_id": "n64_1BFC71F0",
+			"name": "Hi-Spec Machines",
+			"description": "Defeat the Blumear Mecs and the Draches without being damaged in Donwtown [HARD",
+			"api_key": "57111",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59463.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59463_lock.png"
+		},
+		"57112": {
+			"release_per_platform_id": "n64_1BFC71F0",
+			"name": "The Recklessness Machine",
+			"description": "Defeat Feldynaughtl without being damaged in Downtown [HARD]",
+			"api_key": "57112",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59472.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59472_lock.png"
+		},
+		"57113": {
+			"release_per_platform_id": "n64_1BFC71F0",
+			"name": "Babuu",
+			"description": "Defeat Bon Bonne without being damaged in City Hall [HARD]",
+			"api_key": "57113",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59485.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59485_lock.png"
+		},
+		"57116": {
+			"release_per_platform_id": "n64_1BFC71F0",
+			"name": "Digging The Mech",
+			"description": "Defeat Marlwolf  without being damaged in Clozer Woods [HARD]",
+			"api_key": "57116",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59491.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59491_lock.png"
+		},
+		"57118": {
+			"release_per_platform_id": "n64_1BFC71F0",
+			"name": "No Fear, Let's Go!",
+			"description": "Reach to the Lake Jyun Island without retreat [HARD].",
+			"api_key": "57118",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59496.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59496_lock.png"
+		},
+		"57120": {
+			"release_per_platform_id": "n64_1BFC71F0",
+			"name": "Settle The Hardened Reaverbot",
+			"description": "Defeat Garudoriten without being damaged in Lake Jyun Sub-Gate [HARD]",
+			"api_key": "57120",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59501.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59501_lock.png"
+		},
+		"57137": {
+			"release_per_platform_id": "n64_1BFC71F0",
+			"name": "Taming a Trio",
+			"description": "Defeat the 3 Karumuna Bash without being damaged in Clozer Woods Sub-Gate [HARD",
+			"api_key": "57137",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59573.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59573_lock.png"
+		},
+		"57141": {
+			"release_per_platform_id": "n64_1BFC71F0",
+			"name": "Battle In the Skies",
+			"description": "Win the Aerial Battle with at least 90% or more HP [HARD]",
+			"api_key": "57141",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59637.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59637_lock.png"
+		},
+		"57146": {
+			"release_per_platform_id": "n64_1BFC71F0",
+			"name": "The Fall of War Machine",
+			"description": "Defeat Theodore Bruno without being damaged in Old City [HARD]",
+			"api_key": "57146",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59584.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59584_lock.png"
+		},
+		"57155": {
+			"release_per_platform_id": "n64_1BFC71F0",
+			"name": "Take Off That Smile",
+			"description": "Defeat Juno 1st form without being damaged in Main Gate [HARD]",
+			"api_key": "57155",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59917.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59917_lock.png"
+		},
+		"57156": {
+			"release_per_platform_id": "n64_1BFC71F0",
+			"name": "That Smile is Over",
+			"description": "Defeat Juno 2nd form without being damaged in Main Gate [HARD]",
+			"api_key": "57156",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59915.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59915_lock.png"
+		},
+		"57158": {
+			"release_per_platform_id": "n64_1BFC71F0",
+			"name": "As Fast as The Wind",
+			"description": "Complete the game in less than 3 hours",
+			"api_key": "57158",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59920.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59920_lock.png"
+		},
+		"57159": {
+			"release_per_platform_id": "n64_1BFC71F0",
+			"name": "Hardcore Mega Man",
+			"description": "Beat the game on Hard",
+			"api_key": "57159",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59919.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59919_lock.png"
+		}
+	}
+}

@@ -1,0 +1,964 @@
+{
+	"Achievements": {
+		"62885": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "Whole City Infested with Zombies (Claire A-1)",
+			"description": "Meet with Robert",
+			"api_key": "62885",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70385.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70385_lock.png"
+		},
+		"62886": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "This Incident (Claire A-2)",
+			"description": "Meet with Marvin for the first time",
+			"api_key": "62886",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70386.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70386_lock.png"
+		},
+		"62888": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "Oh My... (Claire A-3)",
+			"description": "Encounter the Licker",
+			"api_key": "62888",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70388.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70388_lock.png"
+		},
+		"62889": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "Phenomenal Academic Standing (Claire A-4)",
+			"description": "Recieve a fax",
+			"api_key": "62889",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70397.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70397_lock.png"
+		},
+		"62890": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "You've Made It! (Claire A-5)",
+			"description": "Meet with Leon",
+			"api_key": "62890",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70398.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70398_lock.png"
+		},
+		"62891": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "No Retirement (Claire A-6)",
+			"description": "Meet with Marvin for the second time",
+			"api_key": "62891",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70400.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70400_lock.png"
+		},
+		"62892": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "She Was a True Beauty (Claire A-7)",
+			"description": "Meet with Brian for the first time",
+			"api_key": "62892",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70401.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70401_lock.png"
+		},
+		"62893": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "It's Comming After Me (Claire A-8)",
+			"description": "Meet with Sherry for the first time",
+			"api_key": "62893",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70402.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70402_lock.png"
+		},
+		"62894": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "I Can Take Care of Myself! (Claire A-9)",
+			"description": "Try to find Sherry's daddy",
+			"api_key": "62894",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70548.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70548_lock.png"
+		},
+		"62895": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "So You Have Made It This Far (Claire A-10)",
+			"description": "Meet with Brian for the second time",
+			"api_key": "62895",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70550.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70550_lock.png"
+		},
+		"62896": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "Eghhh... (Claire A-11)",
+			"description": "Reunite Sherry with her father",
+			"api_key": "62896",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70552.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70552_lock.png"
+		},
+		"62897": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "No One Will Ever Take You Away From Me (Claire A-12)",
+			"description": "Meet with Annette for the first time",
+			"api_key": "62897",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70554.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70554_lock.png"
+		},
+		"62898": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "Don't Worry, You Will By Fine (Claire A-13)",
+			"description": "Meet with Sherry for the second time",
+			"api_key": "62898",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70560.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70560_lock.png"
+		},
+		"62899": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "I'm Sure It Will Keep You Safe (Claire A-14)",
+			"description": "Give Sherry your jacket",
+			"api_key": "62899",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70567.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70567_lock.png"
+		},
+		"62901": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "Tell Her I love Her (Claire A-15)",
+			"description": "Meet with Annette for the second time",
+			"api_key": "62901",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70569.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70569_lock.png"
+		},
+		"62902": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "It Will Always Be With You (Claire A-16)",
+			"description": "Finish Claire Scenario A",
+			"api_key": "62902",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71333.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71333_lock.png"
+		},
+		"62921": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "Equivocal Safety (Leon A-1)",
+			"description": "Unlock the door in Police Station Main Hall",
+			"api_key": "62921",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70885.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70885_lock.png"
+		},
+		"62922": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "Four of R.P.D. Kind I (Leon A-2)",
+			"description": "Unlock all Spade locks in same session (missable)",
+			"api_key": "62922",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70897.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70897_lock.png"
+		},
+		"62923": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "The Flaming Wreckage (Leon A-3)",
+			"description": "Extinguish a fire",
+			"api_key": "62923",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70888.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70888_lock.png"
+		},
+		"62924": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "Four of R.P.D. Kind II (Leon A-4)",
+			"description": "Unlock all Diamond locks in same session (missable)",
+			"api_key": "62924",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70889.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70889_lock.png"
+		},
+		"62925": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "Four of R.P.D. Kind III (Leon A-5)",
+			"description": "Unlock the Heart lock",
+			"api_key": "62925",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70892.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70892_lock.png"
+		},
+		"62926": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "Dungeon Janitor (Leon A-6)",
+			"description": "Restore power in the basement (missable)",
+			"api_key": "62926",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70893.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70893_lock.png"
+		},
+		"62928": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "Four of R.P.D. Kind IV (Leon A-7)",
+			"description": "Unlock all Club locks in same session (missable)",
+			"api_key": "62928",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70896.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70896_lock.png"
+		},
+		"62930": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "Circuit Gambit (Leon A-8)",
+			"description": "Collect all Chess Plugs",
+			"api_key": "62930",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70902.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70902_lock.png"
+		},
+		"62931": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "The Cronenbergian Incident (Leon A-9)",
+			"description": "Defeat G-Type Adult",
+			"api_key": "62931",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70901.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70901_lock.png"
+		},
+		"62933": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "How Swat the Little Crocodile (Leon A-10)",
+			"description": "Defeat the Aligator (missable)",
+			"api_key": "62933",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70906.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70906_lock.png"
+		},
+		"62934": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "Light at the End of the Tunnel (Leon A-11)",
+			"description": "Fire a Flare (missable)",
+			"api_key": "62934",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70907.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70907_lock.png"
+		},
+		"62935": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "Dance Plague (Leon A-12)",
+			"description": "Defeat the second form of G",
+			"api_key": "62935",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70908.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70908_lock.png"
+		},
+		"62936": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "High-techy Janitor (Leon A-13)",
+			"description": "Restore power in the Laboratory",
+			"api_key": "62936",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70909.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70909_lock.png"
+		},
+		"62938": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "Silence of the Lamps (Leon A-14)",
+			"description": "Kill the Moth",
+			"api_key": "62938",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70910.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70910_lock.png"
+		},
+		"62939": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "Tartarus (Leon A-15)",
+			"description": "Use MO Disk to unlock the large door",
+			"api_key": "62939",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70911.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70911_lock.png"
+		},
+		"62941": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "It's Over (Leon A-17)",
+			"description": "Finish Leon Scenario A",
+			"api_key": "62941",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71340.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71340_lock.png"
+		},
+		"62943": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "This Is My Nest (Claire B-1)",
+			"description": "Meet the crows",
+			"api_key": "62943",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70955.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70955_lock.png"
+		},
+		"62944": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "Wandering Alone (Claire B-2)",
+			"description": "Defeat Mr. X (first appearance - missable)",
+			"api_key": "62944",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70956.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70956_lock.png"
+		},
+		"62945": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "Hope Against Hope (Claire B-3)",
+			"description": "Reach S.T.A.R.S. Office",
+			"api_key": "62945",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70957.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70957_lock.png"
+		},
+		"62947": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "Nothing More To Do Here (Claire B-4)",
+			"description": "Clean your pathway using an explosive charge",
+			"api_key": "62947",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70960.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70960_lock.png"
+		},
+		"62948": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "Weapons Don't Give Us Relief (Claire B-5)",
+			"description": "Visit a morgue (missable)",
+			"api_key": "62948",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70961.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70961_lock.png"
+		},
+		"62946": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "Now in Two Pieces (Claire B-6)",
+			"description": "Recieve a piece of a clock",
+			"api_key": "62946",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70962.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70962_lock.png"
+		},
+		"62949": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "Antique Connoisseur (Claire B-7)",
+			"description": "Bring all 3 stone tablets to their proper destinations",
+			"api_key": "62949",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70963.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70963_lock.png"
+		},
+		"62950": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "Evil Eye (Claire B-8)",
+			"description": "Defeat the first form of G",
+			"api_key": "62950",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70964.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70964_lock.png"
+		},
+		"62932": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "Numismatist (Claire B-9)",
+			"description": "Bring all 3 medals to their proper destinations",
+			"api_key": "62932",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70905.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70905_lock.png"
+		},
+		"62952": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "Dance Opaque (Claire B-10)",
+			"description": "Defeat the third form of G",
+			"api_key": "62952",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70965.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70965_lock.png"
+		},
+		"62953": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "Under Cover of Darkness (Claire B-11)",
+			"description": "Build a fuse",
+			"api_key": "62953",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70966.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70966_lock.png"
+		},
+		"62954": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "Maximize Your Survival Instinct (Claire B-12)",
+			"description": "Turn on gas to make the enemy weaker (missable)",
+			"api_key": "62954",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70967.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70967_lock.png"
+		},
+		"62955": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "To Another Nightmare (Claire B-13)",
+			"description": "Use the name of a monster to make your way",
+			"api_key": "62955",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70968.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70968_lock.png"
+		},
+		"62957": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "Escape From Laboratory (Claire B-14)",
+			"description": "Obtain the Master Key",
+			"api_key": "62957",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70969.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70969_lock.png"
+		},
+		"62958": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "The Ultimate Bio Weapon (Claire B-15)",
+			"description": "Defeat mutated T-103",
+			"api_key": "62958",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70970.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70970_lock.png"
+		},
+		"62959": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "Dance Macabre (Claire B-16)",
+			"description": "Defeat fifth form of G",
+			"api_key": "62959",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70971.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70971_lock.png"
+		},
+		"62960": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "Dawn Never Fails to Come (Claire B-17)",
+			"description": "Finish Claire Scenario B",
+			"api_key": "62960",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70972.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70972_lock.png"
+		},
+		"62904": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "Stay Back! Don't Come Any Closer (Leon B-1)",
+			"description": "Witness a catastrophe (missable, don't skip the video too quick)",
+			"api_key": "62904",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70765.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70765_lock.png"
+		},
+		"62905": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "Mr. X (Leon B-2)",
+			"description": "See the arrival of shady stranger (missable, don't skip the video too quick)",
+			"api_key": "62905",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70764.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70764_lock.png"
+		},
+		"62906": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "That Way We Can Keep in Touch (Leon B-3)",
+			"description": "Give Claire the radio",
+			"api_key": "62906",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70766.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70766_lock.png"
+		},
+		"62907": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "I'm not Leaving This Cell (Leon B-4)",
+			"description": "Meet with Ada and then Ben for the first time",
+			"api_key": "62907",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70767.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70767_lock.png"
+		},
+		"62908": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "I Will Catch Up With You Later (Leon B-5)",
+			"description": "With Ada try to find a way through sewers",
+			"api_key": "62908",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70768.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70768_lock.png"
+		},
+		"62909": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "Bitter Irony (Leon B-6)",
+			"description": "Meet with Ben for the second time",
+			"api_key": "62909",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70769.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70769_lock.png"
+		},
+		"62910": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "Alright, We Will Do This Your Way (Leon B-7)",
+			"description": "Meet with Ada for the second time",
+			"api_key": "62910",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70771.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70771_lock.png"
+		},
+		"62911": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "Ada? (Leon B-8)",
+			"description": "Regain consciousness",
+			"api_key": "62911",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70772.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70772_lock.png"
+		},
+		"62912": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "There Must Be Something Hidden Here (Leon B-9)",
+			"description": "Reach the Chemical Plant",
+			"api_key": "62912",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70774.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70774_lock.png"
+		},
+		"62913": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "We'll Leave This Place Together (Leon B-10) ",
+			"description": "Reach the Underground Lab",
+			"api_key": "62913",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70776.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70776_lock.png"
+		},
+		"62914": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "You Really Don't Know Anything, Do You? (Leon B-11)",
+			"description": "Talk with Annette about Ada",
+			"api_key": "62914",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70777.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70777_lock.png"
+		},
+		"62915": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "I'm Just a Woman (Leon B-12)",
+			"description": "Meet with Ada for the third time",
+			"api_key": "62915",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70778.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70778_lock.png"
+		},
+		"62916": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "Claire Should Be Back Soon (Leon B-13)",
+			"description": "Take care of Sherry",
+			"api_key": "62916",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70779.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70779_lock.png"
+		},
+		"62917": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "Here! Use This! (Leon B-14)",
+			"description": "Recieve a weapon from mysterious person",
+			"api_key": "62917",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70786.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70786_lock.png"
+		},
+		"62918": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "It Worked! (Leon B-15)",
+			"description": "Reunite with Claire and Sherry",
+			"api_key": "62918",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70789.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70789_lock.png"
+		},
+		"62919": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "It's Up to Us to Take Out Umbrella (Leon B-16)",
+			"description": "Finish Leon Scenario B",
+			"api_key": "62919",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70800.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70800_lock.png"
+		},
+		"62940": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "Dance Grotesque (Leon A-16)",
+			"description": "Defeat G the fourth form of G",
+			"api_key": "62940",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70912.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70912_lock.png"
+		},
+		"62903": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "Biohazard Saga Vol. 2 C-A",
+			"description": "Finish Claire Scenario A on Normal difficulty",
+			"api_key": "62903",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71438.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71438_lock.png"
+		},
+		"62920": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "Biohazard Saga Vol. 2 L-B",
+			"description": "Finish Leon Scenario B on Normal difficulty",
+			"api_key": "62920",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70749.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70749_lock.png"
+		},
+		"62942": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "Biohazard Saga Vol. 2 L-A",
+			"description": "Finish Leon Scenario A on Normal difficulty",
+			"api_key": "62942",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71332.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71332_lock.png"
+		},
+		"62961": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "Biohazard Saga Vol. 2 C-B",
+			"description": "Finish Claire Scenario B on Normal difficulty",
+			"api_key": "62961",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70994.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70994_lock.png"
+		},
+		"67430": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "Grade A Survivor C-A",
+			"description": "Finish Claire Scenario A with A Rank",
+			"api_key": "67430",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70992.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70992_lock.png"
+		},
+		"67432": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "Grade A Survivor L-A",
+			"description": "Finish Leon Scenario A with A Rank",
+			"api_key": "67432",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70993.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70993_lock.png"
+		},
+		"67433": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "Grade A Survivor C-B",
+			"description": "Finish Claire Scenario B with A Rank",
+			"api_key": "67433",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70748.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70748_lock.png"
+		},
+		"67431": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "Grade A Survivor L-B",
+			"description": "Finish Leon Scenario B with A Rank",
+			"api_key": "67431",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70750.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70750_lock.png"
+		},
+		"67429": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "Hurried Horror A",
+			"description": "Finish Scenario A under 3 hours",
+			"api_key": "67429",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70990.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70990_lock.png"
+		},
+		"67066": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "Hurried Horror B",
+			"description": "Finish Scenario B under 3 hours",
+			"api_key": "67066",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70991.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70991_lock.png"
+		},
+		"67027": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "Randominator A",
+			"description": "Finish Scenario A in Randomizer mode",
+			"api_key": "67027",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70904.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70904_lock.png"
+		},
+		"67028": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "Randominator B",
+			"description": "Finish Scenario B in Randomizer mode",
+			"api_key": "67028",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70903.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70903_lock.png"
+		},
+		"66942": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "Scavanger's Friend",
+			"description": "Put on the side pack",
+			"api_key": "66942",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70549.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70549_lock.png"
+		},
+		"62966": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "Human Body Experiment",
+			"description": "Develop Film A",
+			"api_key": "62966",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70371.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70371_lock.png"
+		},
+		"62967": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "Regressed Tailor",
+			"description": "Develop Film B",
+			"api_key": "62967",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70370.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70370_lock.png"
+		},
+		"62968": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "T-103",
+			"description": "Develop Film C",
+			"api_key": "62968",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70372.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70372_lock.png"
+		},
+		"62969": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "Small Dunk",
+			"description": "Develop Film D",
+			"api_key": "62969",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70373.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70373_lock.png"
+		},
+		"62964": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "Racoon City Female Fashion",
+			"description": "Get alternative costume for Claire",
+			"api_key": "62964",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70392.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70392_lock.png"
+		},
+		"62965": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "Racoon City Male Fashion",
+			"description": "Get alternative costume for Leon",
+			"api_key": "62965",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70886.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70886_lock.png"
+		},
+		"62887": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "Enmity at the Gates",
+			"description": "Staying on screen kill one by one 3 invaders who are trying to use the \"secret\" entrance",
+			"api_key": "62887",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70387.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70387_lock.png"
+		},
+		"62962": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "Here's Johnny",
+			"description": "Wait for 30 seconds unpaused at the scene to unlock",
+			"api_key": "62962",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70399.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70399_lock.png"
+		},
+		"62963": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "The Hunter Became the Hunted",
+			"description": "Wait for 30 seconds unpaused at the scene to unlock",
+			"api_key": "62963",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70974.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70974_lock.png"
+		},
+		"62929": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "Umbrella Security Service Elite",
+			"description": "Finish the 4th Survivor scenario",
+			"api_key": "62929",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70811.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70811_lock.png"
+		},
+		"62927": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "Grim Reaper",
+			"description": "Finish the 4th Survivor scenario with Rank A",
+			"api_key": "62927",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70810.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70810_lock.png"
+		},
+		"62937": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "Soybean Banquet",
+			"description": "Reach Basement Stairway playing as Tofu",
+			"api_key": "62937",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70887.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70887_lock.png"
+		},
+		"67466": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "Undead Cohorts",
+			"description": "Kill a 115 of zombies in scenario A (first sequence only)",
+			"api_key": "67466",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70594.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70594_lock.png"
+		},
+		"62971": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "Army of Darkness",
+			"description": "Kill 230 of zombies in scenario A and B (first sequence only)",
+			"api_key": "62971",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70595.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70595_lock.png"
+		},
+		"67100": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "Picture Claire",
+			"description": "Pick 4 different locks in one session as Claire",
+			"api_key": "67100",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70816.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70816_lock.png"
+		},
+		"67099": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "Leon the Proffesional",
+			"description": "In one session equip all 3 custom weapons as Leon",
+			"api_key": "67099",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70806.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70806_lock.png"
+		},
+		"67101": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "The EX Files",
+			"description": "Collect all 16 EX Files",
+			"api_key": "67101",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70807.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70807_lock.png"
+		},
+		"67098": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "Spoils of Gore",
+			"description": "Collect all items from Mr. X after defeating him playing as Leon",
+			"api_key": "67098",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70801.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70801_lock.png"
+		},
+		"66943": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "Ultimate Survivor I",
+			"description": "Defeat G-Type Adult without taking damage and not using special weapons* (Normal Only)",
+			"api_key": "66943",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70551.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70551_lock.png"
+		},
+		"62976": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "Ultimate Survivor II",
+			"description": "Let the Aligator run away without giving you any damage (Normal Only)",
+			"api_key": "62976",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70561.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70561_lock.png"
+		},
+		"66992": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "Ultimate Survivor III",
+			"description": "Defeat 2nd form of G in Turntable Yard without taking damage and not using special weapons* (Normal Only)",
+			"api_key": "66992",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70565.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70565_lock.png"
+		},
+		"67009": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "Ultimate Survivor IV",
+			"description": "Defeat 3rd form of G in Laboratory Cargo Room without taking damage and not using special weapons* (Normal Only)",
+			"api_key": "67009",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70590.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70590_lock.png"
+		},
+		"67010": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "Ultimate Survivor V",
+			"description": "Defeat 4th form of G without taking damage and not using special weapons* (Normal Only)",
+			"api_key": "67010",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70589.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70589_lock.png"
+		},
+		"62951": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "Ultimate Survivor VI",
+			"description": "Defeat 1st form of G without taking damage and not using special weapons* (Normal only)",
+			"api_key": "62951",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70770.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70770_lock.png"
+		},
+		"62977": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "Ultimate Survivor VII",
+			"description": "Kill the Aligator without using the gas tank or taking damage (Normal Only, entering Service Tunel for the first time)",
+			"api_key": "62977",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70566.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70566_lock.png"
+		},
+		"62956": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "Ultimate Survivor VIII",
+			"description": "Defeat 3rd form of G in in Turntable Yard without taking damage and not using special weapons* (Normal only)",
+			"api_key": "62956",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70775.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70775_lock.png"
+		},
+		"67067": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "Ultimate Survivor IX",
+			"description": "Don't get hit fighting T-103 until the cutscene without taking damage and not using special weapons* (Normal only)",
+			"api_key": "67067",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70783.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70783_lock.png"
+		},
+		"67068": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "Ultimate Survivor X",
+			"description": "Defeat 5th form of G wthout taking damage and not using special weapons* (Normal only)",
+			"api_key": "67068",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70793.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70793_lock.png"
+		},
+		"67021": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "Night of Living Dead A",
+			"description": "Finish Scenario A in one session (don't reset, don't select a save slot other than first)",
+			"api_key": "67021",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70898.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70898_lock.png"
+		},
+		"67022": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "Night of Living Dead B",
+			"description": "Finish Scenario B in one session (don't reset, don't select a save slot other than first)",
+			"api_key": "67022",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70900.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70900_lock.png"
+		},
+		"67102": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "This Game Contains Scenes of Explicit Voilence and Gore",
+			"description": "In 1 session end Scenario A not using - police E stairway, m-hall ladder, sewer w-houses, cord, red ID card, W.B. key (Normal)",
+			"api_key": "67102",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70805.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70805_lock.png"
+		},
+		"67059": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "(St)Ink Ribbon A",
+			"description": "Finish Scenario A in one session without saving (don't reset)",
+			"api_key": "67059",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70751.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70751_lock.png"
+		},
+		"67060": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "(St)Ink Ribbon B",
+			"description": "Finish Scenario B in one session without saving",
+			"api_key": "67060",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70752.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70752_lock.png"
+		},
+		"67023": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "Judgment Night A",
+			"description": "Finish Scenario A in one session without dying (don't reset)",
+			"api_key": "67023",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70894.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70894_lock.png"
+		},
+		"67024": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "Judgment Night B",
+			"description": "Finish Scenario B in one session without dying (don't reset)",
+			"api_key": "67024",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70895.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70895_lock.png"
+		},
+		"67063": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "Go Raw A",
+			"description": "Finish Scenario A in one session without using FA Sprays or mix herbs (don't reset, don't select a save slot other than first)",
+			"api_key": "67063",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70755.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70755_lock.png"
+		},
+		"67064": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "Go Raw B",
+			"description": "Finish Scenario B in one session without using FA Sprays or mix herbs (don't reset, don't select a save slot other than first)",
+			"api_key": "67064",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70756.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70756_lock.png"
+		},
+		"67025": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "Living Dead of the Night A",
+			"description": "Finish Scenario A in one session without killing any zombie (don't reset)",
+			"api_key": "67025",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70890.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70890_lock.png"
+		},
+		"67026": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "Living Dead of the Night B",
+			"description": "Finish Scenario B in one session without killing any zombie (don't reset)",
+			"api_key": "67026",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70891.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70891_lock.png"
+		},
+		"67061": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "Pandora's Box A",
+			"description": "Finish Scenario A in one session without using the item box (don't reset, don't select a save slot other than first)",
+			"api_key": "67061",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70753.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70753_lock.png"
+		},
+		"67062": {
+			"release_per_platform_id": "n64_848FBC0D",
+			"name": "Pandora's Box B",
+			"description": "Finish Scenario B in one session without using the item box (don't reset, don't select a save slot other than first)",
+			"api_key": "67062",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70754.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/70754_lock.png"
+		}
+	}
+}

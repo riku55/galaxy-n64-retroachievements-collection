@@ -1,0 +1,476 @@
+{
+	"Achievements": {
+		"60531": {
+			"release_per_platform_id": "n64_96972D67",
+			"name": "[Jump Up Super Star]",
+			"description": "Grab the rainbow coin on top of the Angry Aztec lobby before making Diddy's Rocket Barrel appear on DK Isles (Change areas).",
+			"api_key": "60531",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63362.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63362_lock.png"
+		},
+		"60529": {
+			"release_per_platform_id": "n64_96972D67",
+			"name": "[I Believe I Can Fly]",
+			"description": "Capture the fairy on top of King K. Rool's ship before learning Monkyport (might need to change areas).",
+			"api_key": "60529",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63461.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63461_lock.png"
+		},
+		"60530": {
+			"release_per_platform_id": "n64_96972D67",
+			"name": "[Jane, Stop This Crazy Thing!]",
+			"description": "Win Minecart Mayhem (Fungi Forest or Creepy Castle) without letting go of the Z button (start holding during the explanation).",
+			"api_key": "60530",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63455.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63455_lock.png"
+		},
+		"60527": {
+			"release_per_platform_id": "n64_96972D67",
+			"name": "[Where the Lights Are]",
+			"description": "Grab the golden banana in the barn's attic without playing your instrument.",
+			"api_key": "60527",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63459.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63459_lock.png"
+		},
+		"60498": {
+			"release_per_platform_id": "n64_96972D67",
+			"name": "[Maze in Ice]",
+			"description": "Grab the Golden Banana in the ice maze without getting hurt or using your instument.",
+			"api_key": "60498",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63370.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63370_lock.png"
+		},
+		"60534": {
+			"release_per_platform_id": "n64_96972D67",
+			"name": "[The Tortoise and the Hare]",
+			"description": "Get your revenge on the rabbit from Fungi Forest by letting him blow up.",
+			"api_key": "60534",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63534.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63534_lock.png"
+		},
+		"60507": {
+			"release_per_platform_id": "n64_96972D67",
+			"name": "[Raindrops Keep Falling on My Head]",
+			"description": "Grab everything needed for 101% in Crystal Caves without killing the giant Kosha. (Might need to enter a new area to activate)",
+			"api_key": "60507",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63369.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63369_lock.png"
+		},
+		"60509": {
+			"release_per_platform_id": "n64_96972D67",
+			"name": "[Lay Down Your Arms]",
+			"description": "Grab the crown in Shockwave Showdown without killing a single enemy.",
+			"api_key": "60509",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63446.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63446_lock.png"
+		},
+		"60511": {
+			"release_per_platform_id": "n64_96972D67",
+			"name": "[Castle Island]",
+			"description": "Grab everything needed for 101% in Hideout Helm. (Might need to enter a new area to activate)",
+			"api_key": "60511",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63416.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63416_lock.png"
+		},
+		"60497": {
+			"release_per_platform_id": "n64_96972D67",
+			"name": "DK Rap",
+			"description": "Listen to the best videogame song ever.",
+			"api_key": "60497",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63443.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63443_lock.png"
+		},
+		"60474": {
+			"release_per_platform_id": "n64_96972D67",
+			"name": "Petite Ecolier",
+			"description": "Free Diddy from his prison cell.",
+			"api_key": "60474",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63363.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63363_lock.png"
+		},
+		"60475": {
+			"release_per_platform_id": "n64_96972D67",
+			"name": "Hey Armadillo",
+			"description": "Beat Armydillo in Jungle Japes without getting hurt.",
+			"api_key": "60475",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63366.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63366_lock.png"
+		},
+		"60476": {
+			"release_per_platform_id": "n64_96972D67",
+			"name": "Welcome to the Jungle",
+			"description": "Obtain the key for beating the boss of Jungle Japes.",
+			"api_key": "60476",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63365.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63365_lock.png"
+		},
+		"60503": {
+			"release_per_platform_id": "n64_96972D67",
+			"name": "Ruff in the Jungle Bizness",
+			"description": "Grab everything needed for 101% in Jungle Japes. (Might need to enter a new area to activate)",
+			"api_key": "60503",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63400.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63400_lock.png"
+		},
+		"60477": {
+			"release_per_platform_id": "n64_96972D67",
+			"name": "Folsom Prison Blues",
+			"description": "Free Lanky from his prison cell.",
+			"api_key": "60477",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63388.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63388_lock.png"
+		},
+		"60478": {
+			"release_per_platform_id": "n64_96972D67",
+			"name": "Le Portrait de la Petite Cosette",
+			"description": "Free Tiny from her prison cell.",
+			"api_key": "60478",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63381.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63381_lock.png"
+		},
+		"60479": {
+			"release_per_platform_id": "n64_96972D67",
+			"name": "D-D-D-Dragonfly",
+			"description": "Beat Dogadon in Angry Aztec without getting hurt.",
+			"api_key": "60479",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63368.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63368_lock.png"
+		},
+		"60480": {
+			"release_per_platform_id": "n64_96972D67",
+			"name": "Temblores de Tenochtitlan",
+			"description": "Obtain the key for beating the boss of Angry Aztec.",
+			"api_key": "60480",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63380.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63380_lock.png"
+		},
+		"60504": {
+			"release_per_platform_id": "n64_96972D67",
+			"name": "The Flower Songs of Nezahualcoyotl",
+			"description": "Grab everything needed for 101% in Angry Aztec. (Might need to enter a new area to activate)",
+			"api_key": "60504",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63441.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63441_lock.png"
+		},
+		"60481": {
+			"release_per_platform_id": "n64_96972D67",
+			"name": "Rusty Cage",
+			"description": "Free Chunky from his prison cell.",
+			"api_key": "60481",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63389.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63389_lock.png"
+		},
+		"60533": {
+			"release_per_platform_id": "n64_96972D67",
+			"name": "The Floor is Lava",
+			"description": "Starting from the inside of DK's house make it to the top of Cranky's Hut without touching the ground.",
+			"api_key": "60533",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63361.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63361_lock.png"
+		},
+		"60513": {
+			"release_per_platform_id": "n64_96972D67",
+			"name": "Expand Kong",
+			"description": "Use Lanky's Baboon Balloon.",
+			"api_key": "60513",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63371.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63371_lock.png"
+		},
+		"60524": {
+			"release_per_platform_id": "n64_96972D67",
+			"name": "Der Flohwalzer",
+			"description": "Learn to play the piano with Lanky.",
+			"api_key": "60524",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63451.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63451_lock.png"
+		},
+		"60517": {
+			"release_per_platform_id": "n64_96972D67",
+			"name": "This is the Savanna",
+			"description": "Score 175 points in the Rambi Arena.",
+			"api_key": "60517",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/64033.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/64033_lock.png"
+		},
+		"60519": {
+			"release_per_platform_id": "n64_96972D67",
+			"name": "Somewhere Beyond The Sea",
+			"description": "Score 200 points in the Enguarde Arena.",
+			"api_key": "60519",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63468.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63468_lock.png"
+		},
+		"60482": {
+			"release_per_platform_id": "n64_96972D67",
+			"name": "It's on Like Donkey Kong",
+			"description": "Save your beloved Nintendo Coin from Donkey Kong.",
+			"api_key": "60482",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63509.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63509_lock.png"
+		},
+		"60514": {
+			"release_per_platform_id": "n64_96972D67",
+			"name": "Kong the Destroyer",
+			"description": "Finish a game of Donkey Kong with a score of 30,000 in adventure mode.",
+			"api_key": "60514",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63463.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63463_lock.png"
+		},
+		"60485": {
+			"release_per_platform_id": "n64_96972D67",
+			"name": "Life on the Nickel",
+			"description": "Grab the Rareware Coin during a game of Jetpac.",
+			"api_key": "60485",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63392.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63392_lock.png"
+		},
+		"60516": {
+			"release_per_platform_id": "n64_96972D67",
+			"name": "Rocket Man",
+			"description": "Get a score of 15,000 in Jetpac on adventure mode.",
+			"api_key": "60516",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63467.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63467_lock.png"
+		},
+		"60523": {
+			"release_per_platform_id": "n64_96972D67",
+			"name": "Jewel in the Crown",
+			"description": "Earn 4 crowns from the kong battle arenas.",
+			"api_key": "60523",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63447.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63447_lock.png"
+		},
+		"60483": {
+			"release_per_platform_id": "n64_96972D67",
+			"name": "Jumpin' Jack Flash",
+			"description": "Beat Mad Jack in Frantic Factory without getting hurt.",
+			"api_key": "60483",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63391.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63391_lock.png"
+		},
+		"60484": {
+			"release_per_platform_id": "n64_96972D67",
+			"name": "Life in the Factory",
+			"description": "Obtain the key for beating the boss of Frantic Factory",
+			"api_key": "60484",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63390.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63390_lock.png"
+		},
+		"60499": {
+			"release_per_platform_id": "n64_96972D67",
+			"name": "In the Toymakers Workshop",
+			"description": "Grab everything needed for 101% in Frantic Factory. (Might need to enter a new area to activate)",
+			"api_key": "60499",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63376.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63376_lock.png"
+		},
+		"60522": {
+			"release_per_platform_id": "n64_96972D67",
+			"name": "Thirty Thousand Pounds of Bananas",
+			"description": "Earn 100 Golden Bananas throughout the game.",
+			"api_key": "60522",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63460.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63460_lock.png"
+		},
+		"60486": {
+			"release_per_platform_id": "n64_96972D67",
+			"name": "Too Many Fish in the Sea",
+			"description": "Beat Puftoss in Gloomy Galleon without getting hurt.",
+			"api_key": "60486",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63440.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63440_lock.png"
+		},
+		"60487": {
+			"release_per_platform_id": "n64_96972D67",
+			"name": "Sea Within a Sea",
+			"description": "Obtain the key for beating the boss of Gloomy Galleon.",
+			"api_key": "60487",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63386.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63386_lock.png"
+		},
+		"60505": {
+			"release_per_platform_id": "n64_96972D67",
+			"name": "Sunleth Waterscape",
+			"description": "Grab everything needed for 101% in Gloomy Galleon. (Might need to enter a new area to activate)",
+			"api_key": "60505",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63364.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63364_lock.png"
+		},
+		"60502": {
+			"release_per_platform_id": "n64_96972D67",
+			"name": "No Quarter",
+			"description": "It took close to 20-years for this coin to be found, hopefully it doesn't take you that long to find it.",
+			"api_key": "60502",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63444.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63444_lock.png"
+		},
+		"60488": {
+			"release_per_platform_id": "n64_96972D67",
+			"name": "Dragonfly's Outro",
+			"description": "Beat Dogadon in Fungi Forest without getting hurt.",
+			"api_key": "60488",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63367.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63367_lock.png"
+		},
+		"60489": {
+			"release_per_platform_id": "n64_96972D67",
+			"name": "The Three Mushrooms",
+			"description": "Obtain the key for beating the boss of Fungi Forest.",
+			"api_key": "60489",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63393.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63393_lock.png"
+		},
+		"60506": {
+			"release_per_platform_id": "n64_96972D67",
+			"name": "Rainy Day Mushroom Pillow",
+			"description": "Grab everything needed for 101% in Fungi Forest. (Might need to enter a new area to activate)",
+			"api_key": "60506",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63394.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63394_lock.png"
+		},
+		"60490": {
+			"release_per_platform_id": "n64_96972D67",
+			"name": "Burnt Ice",
+			"description": "Beat Armydillo in Crystal Caves without getting hurt.",
+			"api_key": "60490",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63401.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63401_lock.png"
+		},
+		"60491": {
+			"release_per_platform_id": "n64_96972D67",
+			"name": "Victims of the Ice Brigade",
+			"description": "Obtain the key for beating the boss of Crystal Caves.",
+			"api_key": "60491",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63377.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63377_lock.png"
+		},
+		"60518": {
+			"release_per_platform_id": "n64_96972D67",
+			"name": "A Hazy Shade of Winter",
+			"description": "Grab everything needed for 101% in Crystal Caves. (Might need to enter a new area to activate)",
+			"api_key": "60518",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63442.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63442_lock.png"
+		},
+		"60528": {
+			"release_per_platform_id": "n64_96972D67",
+			"name": "Upgrade U",
+			"description": "Obtain every upgrade in the game.",
+			"api_key": "60528",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63448.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63448_lock.png"
+		},
+		"60494": {
+			"release_per_platform_id": "n64_96972D67",
+			"name": "My Favorite Things",
+			"description": "Collect every single colored banana in the game.",
+			"api_key": "60494",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63373.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63373_lock.png"
+		},
+		"60500": {
+			"release_per_platform_id": "n64_96972D67",
+			"name": "Nickels and Dimes",
+			"description": "Collect every coin in the game and have every upgrade purchased.",
+			"api_key": "60500",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63372.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63372_lock.png"
+		},
+		"60492": {
+			"release_per_platform_id": "n64_96972D67",
+			"name": "Madman Across the Water",
+			"description": "Beat King Kut Out in Creepy Castle without getting hurt or losing a Kong.",
+			"api_key": "60492",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63382.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63382_lock.png"
+		},
+		"60493": {
+			"release_per_platform_id": "n64_96972D67",
+			"name": "Protect Ya Neck",
+			"description": "Obtain the key for beating the boss of Creepy Castle.",
+			"api_key": "60493",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63387.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63387_lock.png"
+		},
+		"60508": {
+			"release_per_platform_id": "n64_96972D67",
+			"name": "Spooky Scary Skeletons",
+			"description": "Grab everything needed for 101% in Creepy Castle (Might need to enter a new area to activate)",
+			"api_key": "60508",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63395.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63395_lock.png"
+		},
+		"60515": {
+			"release_per_platform_id": "n64_96972D67",
+			"name": "The Secret Place",
+			"description": "Access the super secret test room and the spoils that come with it.",
+			"api_key": "60515",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63449.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63449_lock.png"
+		},
+		"60525": {
+			"release_per_platform_id": "n64_96972D67",
+			"name": "Penny Slots",
+			"description": "Beat Batty Barrel Bandit at Snide's HQ.",
+			"api_key": "60525",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63452.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63452_lock.png"
+		},
+		"60526": {
+			"release_per_platform_id": "n64_96972D67",
+			"name": "Luck Be a Lady",
+			"description": "Beat Krazy Kong Klamour at Snide's HQ.",
+			"api_key": "60526",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63453.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63453_lock.png"
+		},
+		"60510": {
+			"release_per_platform_id": "n64_96972D67",
+			"name": "Hacking to the Gate",
+			"description": "Shut Down the Blast-o-Matic",
+			"api_key": "60510",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63397.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63397_lock.png"
+		},
+		"60495": {
+			"release_per_platform_id": "n64_96972D67",
+			"name": "Fairies' Lamentation And Dance",
+			"description": "Receive your reward for capturing all the fairys.",
+			"api_key": "60495",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63378.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63378_lock.png"
+		},
+		"60512": {
+			"release_per_platform_id": "n64_96972D67",
+			"name": "Homeland",
+			"description": "Grab everything needed for 101% in DK Isles. (Might need to enter a new area to activate)",
+			"api_key": "60512",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63396.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63396_lock.png"
+		},
+		"60501": {
+			"release_per_platform_id": "n64_96972D67",
+			"name": "The Champ is Here",
+			"description": "Beat King K. Rool without getting hurt.",
+			"api_key": "60501",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63374.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63374_lock.png"
+		},
+		"60520": {
+			"release_per_platform_id": "n64_96972D67",
+			"name": "Returns a King",
+			"description": "Beat King K. Rool and view the normal ending.",
+			"api_key": "60520",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63450.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63450_lock.png"
+		},
+		"60521": {
+			"release_per_platform_id": "n64_96972D67",
+			"name": "Don't Rain on My Parade",
+			"description": "Get 101% and view the secret ending.",
+			"api_key": "60521",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63462.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63462_lock.png"
+		}
+	}
+}

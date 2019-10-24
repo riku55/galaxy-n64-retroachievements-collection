@@ -1,0 +1,508 @@
+{
+	"Achievements": {
+		"81939": {
+			"release_per_platform_id": "n64_B9570841",
+			"name": "Clean house",
+			"description": "Collect all tokens in Andy House",
+			"api_key": "81939",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89195.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89195_lock.png"
+		},
+		"81940": {
+			"release_per_platform_id": "n64_B9570841",
+			"name": "Juggernaut",
+			"description": "Obtain the Cosmic Shield",
+			"api_key": "81940",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89197.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89197_lock.png"
+		},
+		"81941": {
+			"release_per_platform_id": "n64_B9570841",
+			"name": "Home Alone",
+			"description": "Collect all tokens in Andy Neighbourhood",
+			"api_key": "81941",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89199.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89199_lock.png"
+		},
+		"81942": {
+			"release_per_platform_id": "n64_B9570841",
+			"name": "Bravo Zulu",
+			"description": "Destroy the Bomber Airplane",
+			"api_key": "81942",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89201.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89201_lock.png"
+		},
+		"81943": {
+			"release_per_platform_id": "n64_B9570841",
+			"name": "Bob the Builder",
+			"description": "Collect all tokens in Construction Yard",
+			"api_key": "81943",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89204.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89204_lock.png"
+		},
+		"81944": {
+			"release_per_platform_id": "n64_B9570841",
+			"name": "PFM Layer",
+			"description": "Obtain the Disk Launcher",
+			"api_key": "81944",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89216.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89216_lock.png"
+		},
+		"81945": {
+			"release_per_platform_id": "n64_B9570841",
+			"name": "Top Cat",
+			"description": "Collect all tokens in Alleys and Gullies",
+			"api_key": "81945",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89218.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89218_lock.png"
+		},
+		"81946": {
+			"release_per_platform_id": "n64_B9570841",
+			"name": "Biohazard",
+			"description": "Defeat the Slime Monster",
+			"api_key": "81946",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89220.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89220_lock.png"
+		},
+		"81947": {
+			"release_per_platform_id": "n64_B9570841",
+			"name": "Come back soon",
+			"description": "Collect all tokens in Al's Toy Barn",
+			"api_key": "81947",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89222.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89222_lock.png"
+		},
+		"81948": {
+			"release_per_platform_id": "n64_B9570841",
+			"name": "Astro-Boy",
+			"description": "Obtain the Rocket Boots",
+			"api_key": "81948",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89225.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89225_lock.png"
+		},
+		"81949": {
+			"release_per_platform_id": "n64_B9570841",
+			"name": "One giant leap for mankind",
+			"description": "Collect all tokens in Al's Space Land",
+			"api_key": "81949",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89227.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89227_lock.png"
+		},
+		"81950": {
+			"release_per_platform_id": "n64_B9570841",
+			"name": "Torkdrift",
+			"description": "Defeat the Giant Spaceship",
+			"api_key": "81950",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89229.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89229_lock.png"
+		},
+		"81951": {
+			"release_per_platform_id": "n64_B9570841",
+			"name": "Maintenance Call",
+			"description": "Collect all tokens in Elevator Hop",
+			"api_key": "81951",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89231.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89231_lock.png"
+		},
+		"81952": {
+			"release_per_platform_id": "n64_B9570841",
+			"name": "Hookshot",
+			"description": "Obtain the Grappling Hook",
+			"api_key": "81952",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89233.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89233_lock.png"
+		},
+		"81953": {
+			"release_per_platform_id": "n64_B9570841",
+			"name": "Trivago",
+			"description": "Collect all tokens in Al's Penthouse",
+			"api_key": "81953",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89235.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89235_lock.png"
+		},
+		"81954": {
+			"release_per_platform_id": "n64_B9570841",
+			"name": "I Am your father",
+			"description": "Defeat Emperor Zurg",
+			"api_key": "81954",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89236.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89236_lock.png"
+		},
+		"81955": {
+			"release_per_platform_id": "n64_B9570841",
+			"name": "Colonel, do you read me?",
+			"description": "Collect all tokens in Airport Infiltration",
+			"api_key": "81955",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89237.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89237_lock.png"
+		},
+		"81956": {
+			"release_per_platform_id": "n64_B9570841",
+			"name": "X-Boots",
+			"description": "Obtain the Hover Boots",
+			"api_key": "81956",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89238.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89238_lock.png"
+		},
+		"81957": {
+			"release_per_platform_id": "n64_B9570841",
+			"name": "Asphalt Solutions",
+			"description": "Collect all tokens in Tarmac Trouble",
+			"api_key": "81957",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89239.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89239_lock.png"
+		},
+		"81958": {
+			"release_per_platform_id": "n64_B9570841",
+			"name": "There's a snake in my boot",
+			"description": "Rescue Woody",
+			"api_key": "81958",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89240.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89240_lock.png"
+		},
+		"81959": {
+			"release_per_platform_id": "n64_B9570841",
+			"name": "To infinity and beyond!",
+			"description": "Get 10 Pizza Planet Tokens (only at Level Select)",
+			"api_key": "81959",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89241.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89241_lock.png"
+		},
+		"81960": {
+			"release_per_platform_id": "n64_B9570841",
+			"name": "Space Ranger",
+			"description": "Get 25 Pizza Planet Tokens (only at Level Select)",
+			"api_key": "81960",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89242.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89242_lock.png"
+		},
+		"81961": {
+			"release_per_platform_id": "n64_B9570841",
+			"name": "I am proud of you Cowboy",
+			"description": "Get 50 Pizza Planet Tokens (only at Level Select)",
+			"api_key": "81961",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89243.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89243_lock.png"
+		},
+		"81962": {
+			"release_per_platform_id": "n64_B9570841",
+			"name": "Box-boy*",
+			"description": "Get the Token at Andy House basement before obtaining the Cosmic Shield",
+			"api_key": "81962",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89244.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89244_lock.png"
+		},
+		"81963": {
+			"release_per_platform_id": "n64_B9570841",
+			"name": "I am more about jumping",
+			"description": "Get the sheep at Andy House basement without using the rope",
+			"api_key": "81963",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89245.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89245_lock.png"
+		},
+		"81964": {
+			"release_per_platform_id": "n64_B9570841",
+			"name": "Grandmother's Armchair",
+			"description": "At Andy House, get the Extra Live at the wall shelfs without using the armchair jump boost",
+			"api_key": "81964",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89246.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89246_lock.png"
+		},
+		"81965": {
+			"release_per_platform_id": "n64_B9570841",
+			"name": "Live Messenger",
+			"description": "Get the pool token at Andy Neighbourhood without filling the rubber duck",
+			"api_key": "81965",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89247.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89247_lock.png"
+		},
+		"81966": {
+			"release_per_platform_id": "n64_B9570841",
+			"name": "Falling with Style",
+			"description": "At Andy Neighbourhood do a dive falling from the highest point from the tree",
+			"api_key": "81966",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89248.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89248_lock.png"
+		},
+		"81967": {
+			"release_per_platform_id": "n64_B9570841",
+			"name": "Lightning Mcqueen*",
+			"description": "Win the race against RC in Andy Neighbourhood before obtaining the Rocket Boots",
+			"api_key": "81967",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89249.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89249_lock.png"
+		},
+		"81968": {
+			"release_per_platform_id": "n64_B9570841",
+			"name": "Safety First",
+			"description": "Collect the Extra Live at Construction Yard",
+			"api_key": "81968",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89250.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89250_lock.png"
+		},
+		"81969": {
+			"release_per_platform_id": "n64_B9570841",
+			"name": "Hi Georgie",
+			"description": "Get the balloon Token in Alleys and Gullies without activating the Fan",
+			"api_key": "81969",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89251.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89251_lock.png"
+		},
+		"81970": {
+			"release_per_platform_id": "n64_B9570841",
+			"name": "Kinder Egg",
+			"description": "Get the chick on the gum machine in Al Toy Barn before obtaining the Rocket Boots",
+			"api_key": "81970",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89252.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89252_lock.png"
+		},
+		"81971": {
+			"release_per_platform_id": "n64_B9570841",
+			"name": "Saucer of Peril",
+			"description": "Win the race against the Flying Saucer in Al Space Land double jumping only 6 times",
+			"api_key": "81971",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89253.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89253_lock.png"
+		},
+		"81972": {
+			"release_per_platform_id": "n64_B9570841",
+			"name": "Standing on the Shoulders of Giants",
+			"description": "Solve the elevator puzzle in Elevator Hop with only two moves",
+			"api_key": "81972",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89254.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89254_lock.png"
+		},
+		"81973": {
+			"release_per_platform_id": "n64_B9570841",
+			"name": "Thomas and Friends",
+			"description": "Get the train Token in Al Penthouse without changing any railroad",
+			"api_key": "81973",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89255.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89255_lock.png"
+		},
+		"81974": {
+			"release_per_platform_id": "n64_B9570841",
+			"name": "Sir Francis Drake*",
+			"description": "Get the broken airplane Token in Airport Infiltration before obtaining the Hover Boots",
+			"api_key": "81974",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89256.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89256_lock.png"
+		},
+		"81975": {
+			"release_per_platform_id": "n64_B9570841",
+			"name": "Fear of Heights",
+			"description": "Get the Extra Live on the green conveyor belt in Tarmac Trouble without riding the airplane",
+			"api_key": "81975",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89257.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89257_lock.png"
+		},
+		"82183": {
+			"release_per_platform_id": "n64_B9570841",
+			"name": "Bullseye",
+			"description": "Defeat Tin Robot without missing a shot (Only red laser)",
+			"api_key": "82183",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89183.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89183_lock.png"
+		},
+		"82184": {
+			"release_per_platform_id": "n64_B9570841",
+			"name": "Treehouse Trouble",
+			"description": "Defeat the Zurg Kite without spinning",
+			"api_key": "82184",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89184.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89184_lock.png"
+		},
+		"82185": {
+			"release_per_platform_id": "n64_B9570841",
+			"name": "The Crimson Haybaler",
+			"description": "Defeat Bomber Airplane without jumping",
+			"api_key": "82185",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89185.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89185_lock.png"
+		},
+		"82186": {
+			"release_per_platform_id": "n64_B9570841",
+			"name": "Always wear a helmet",
+			"description": "Defeat Jackhammer without falling down from the arena",
+			"api_key": "82186",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89186.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89186_lock.png"
+		},
+		"82187": {
+			"release_per_platform_id": "n64_B9570841",
+			"name": "Chuckles the Clown",
+			"description": "Defeat Clown Top without shooting and taking damage",
+			"api_key": "82187",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89187.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89187_lock.png"
+		},
+		"82188": {
+			"release_per_platform_id": "n64_B9570841",
+			"name": "This boss is garbage!",
+			"description": "Defeat Slime Monster without picking up the green laser",
+			"api_key": "82188",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89188.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89188_lock.png"
+		},
+		"82189": {
+			"release_per_platform_id": "n64_B9570841",
+			"name": "How do you spell FBI?",
+			"description": "Defeat Toy Dinosaur without taking damage using only disks",
+			"api_key": "82189",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89189.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89189_lock.png"
+		},
+		"82190": {
+			"release_per_platform_id": "n64_B9570841",
+			"name": "AWOL Space Ranger",
+			"description": "Defeat Buzz Lightyear Buggy without taking damage",
+			"api_key": "82190",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89190.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89190_lock.png"
+		},
+		"82191": {
+			"release_per_platform_id": "n64_B9570841",
+			"name": "Millennium Falcon",
+			"description": "Defeat Mothership without using charged laser",
+			"api_key": "82191",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89191.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89191_lock.png"
+		},
+		"82192": {
+			"release_per_platform_id": "n64_B9570841",
+			"name": "Babyface",
+			"description": "Defeat Spider Gunro without letting the fans activate",
+			"api_key": "82192",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89192.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89192_lock.png"
+		},
+		"82193": {
+			"release_per_platform_id": "n64_B9570841",
+			"name": "Lucky Luke",
+			"description": "Defeat Gunslinger without jumping and taking damage",
+			"api_key": "82193",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89193.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89193_lock.png"
+		},
+		"82194": {
+			"release_per_platform_id": "n64_B9570841",
+			"name": "Sworn Enemy of the Galactic Alliance",
+			"description": "Defeat Evil Emperor Zurg without taking damage",
+			"api_key": "82194",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89194.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89194_lock.png"
+		},
+		"82195": {
+			"release_per_platform_id": "n64_B9570841",
+			"name": "That Silly Buzz Lightweight...",
+			"description": "Defeat Stinky Pete without shooting or spinning and taking damage",
+			"api_key": "82195",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89196.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89196_lock.png"
+		},
+		"82196": {
+			"release_per_platform_id": "n64_B9570841",
+			"name": "Aerosmith",
+			"description": "Defeat Blacksmith without taking damage",
+			"api_key": "82196",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89198.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89198_lock.png"
+		},
+		"82197": {
+			"release_per_platform_id": "n64_B9570841",
+			"name": "You've got a friend in me",
+			"description": "Defeat the bosses in the Prospector Showdown without taking damage",
+			"api_key": "82197",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89200.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89200_lock.png"
+		},
+		"82198": {
+			"release_per_platform_id": "n64_B9570841",
+			"name": "Return Postage",
+			"description": "Reflect Slime Monster's projectiles 25 times in a row (counter resets if damage is taken)",
+			"api_key": "82198",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89203.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89203_lock.png"
+		},
+		"82199": {
+			"release_per_platform_id": "n64_B9570841",
+			"name": "Money Money Money!",
+			"description": "Collect 90 coins in Andy House",
+			"api_key": "82199",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89215.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89215_lock.png"
+		},
+		"82200": {
+			"release_per_platform_id": "n64_B9570841",
+			"name": "Oh, picky, picky, picky.",
+			"description": "Collect 95 coins in Andy Neighbourhood",
+			"api_key": "82200",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89217.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89217_lock.png"
+		},
+		"82201": {
+			"release_per_platform_id": "n64_B9570841",
+			"name": "Quit your whining and pay up!",
+			"description": "Collect 70 coins in Construction Yard",
+			"api_key": "82201",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89219.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89219_lock.png"
+		},
+		"82202": {
+			"release_per_platform_id": "n64_B9570841",
+			"name": "Why did the toys cross the road?",
+			"description": "Collect 99 coins in Alleys and Gullies",
+			"api_key": "82202",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89224.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89224_lock.png"
+		},
+		"82203": {
+			"release_per_platform_id": "n64_B9570841",
+			"name": "To get to the chicken on the other side",
+			"description": "Collect 70 coins in Al Toy Barn",
+			"api_key": "82203",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89223.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89223_lock.png"
+		},
+		"82204": {
+			"release_per_platform_id": "n64_B9570841",
+			"name": "Where did you get that cool belt, Buzz?",
+			"description": "Collect 85 coins in Al Space Land",
+			"api_key": "82204",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89226.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89226_lock.png"
+		},
+		"82205": {
+			"release_per_platform_id": "n64_B9570841",
+			"name": "Uh, Buzz, why not just take the elevator?",
+			"description": "Collect 60 coins in Elevator Hop",
+			"api_key": "82205",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89228.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89228_lock.png"
+		},
+		"82206": {
+			"release_per_platform_id": "n64_B9570841",
+			"name": "This is weirdin' me out",
+			"description": "Collect 70 coins in Al Penthouse",
+			"api_key": "82206",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89230.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89230_lock.png"
+		},
+		"82207": {
+			"release_per_platform_id": "n64_B9570841",
+			"name": "Nice flash, though",
+			"description": "Collect 70 coins in Airport Infiltration",
+			"api_key": "82207",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89232.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89232_lock.png"
+		},
+		"82208": {
+			"release_per_platform_id": "n64_B9570841",
+			"name": "Let's see how much we're going on eBay",
+			"description": "Collect 85 coins in Tarmac Trouble",
+			"api_key": "82208",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89234.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89234_lock.png"
+		}
+	}
+}

@@ -1,0 +1,484 @@
+{
+	"Achievements": {
+		"60687": {
+			"release_per_platform_id": "n64_BA50E354",
+			"name": "Practice Makes Perfect",
+			"description": "Get over 3000 points in Practice mode.",
+			"api_key": "60687",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63716.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63716_lock.png"
+		},
+		"60688": {
+			"release_per_platform_id": "n64_BA50E354",
+			"name": "This is a baby game. For babies.",
+			"description": "Beat 1-1, 1-2, 1-3, or 1-4 in Story mode.",
+			"api_key": "60688",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63717.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63717_lock.png"
+		},
+		"60689": {
+			"release_per_platform_id": "n64_BA50E354",
+			"name": "Just kidding, now I have to change my pants.",
+			"description": "Beat 2-1, 2-2, 2-3, or 2-4 in Story mode.",
+			"api_key": "60689",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63718.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63718_lock.png"
+		},
+		"60690": {
+			"release_per_platform_id": "n64_BA50E354",
+			"name": "What A Breeze",
+			"description": "Beat 3-1, 3-2, 3-3, or 3-4 in Story mode.",
+			"api_key": "60690",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63719.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63719_lock.png"
+		},
+		"60691": {
+			"release_per_platform_id": "n64_BA50E354",
+			"name": "Welcome To The Jungle",
+			"description": "Beat 4-1, 4-2, 4-3, or 4-4 in Story mode.",
+			"api_key": "60691",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63724.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63724_lock.png"
+		},
+		"60692": {
+			"release_per_platform_id": "n64_BA50E354",
+			"name": "Under The Sea",
+			"description": "Beat 5-1, 5-2, 5-3, or 5-4 in Story mode.",
+			"api_key": "60692",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63721.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63721_lock.png"
+		},
+		"60693": {
+			"release_per_platform_id": "n64_BA50E354",
+			"name": "Every Story Has An Ending",
+			"description": "Beat 6-1, 6-2, 6-3, or 6-4 in Story mode.",
+			"api_key": "60693",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63722.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63722_lock.png"
+		},
+		"60694": {
+			"release_per_platform_id": "n64_BA50E354",
+			"name": "Hunting For Melons",
+			"description": "Collect all 30 melons in level 1-1, Treasure Hunt.",
+			"api_key": "60694",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63723.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63723_lock.png"
+		},
+		"60695": {
+			"release_per_platform_id": "n64_BA50E354",
+			"name": "Surprise! Just Kidding, It's More Melons",
+			"description": "Collect all 30 melons in level 1-2, Surprise!!",
+			"api_key": "60695",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63725.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63725_lock.png"
+		},
+		"60696": {
+			"release_per_platform_id": "n64_BA50E354",
+			"name": "Lifting Melons",
+			"description": "Collect all 30 melons in level 1-3, Rail Lift.",
+			"api_key": "60696",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63726.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63726_lock.png"
+		},
+		"60697": {
+			"release_per_platform_id": "n64_BA50E354",
+			"name": "The Eternal Melon Climb",
+			"description": "Collect all 30 melons in level 1-4, Tower Climb.",
+			"api_key": "60697",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63727.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63727_lock.png"
+		},
+		"60698": {
+			"release_per_platform_id": "n64_BA50E354",
+			"name": "Melon Bones",
+			"description": "Collect all 30 melons in level 2-1, Bone Dragon Pit.",
+			"api_key": "60698",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63731.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63731_lock.png"
+		},
+		"60699": {
+			"release_per_platform_id": "n64_BA50E354",
+			"name": "Boiling Melons",
+			"description": "Collect all 30 melons in level 2-2, Blargg's Boiler.",
+			"api_key": "60699",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63733.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63733_lock.png"
+		},
+		"60700": {
+			"release_per_platform_id": "n64_BA50E354",
+			"name": "Squishy Melons",
+			"description": "Collect all 30 melons in level 2-3, Jelly Pipe.",
+			"api_key": "60700",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63734.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63734_lock.png"
+		},
+		"60701": {
+			"release_per_platform_id": "n64_BA50E354",
+			"name": "You Wouldn't Torrent A Melon, Would You?",
+			"description": "Collect all 30 melons in level 2-4, Torrential Maze.",
+			"api_key": "60701",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63735.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63735_lock.png"
+		},
+		"60702": {
+			"release_per_platform_id": "n64_BA50E354",
+			"name": "Melons Cruising On By",
+			"description": "Collect all 30 melons in level 3-1, Cloud Cruising.",
+			"api_key": "60702",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63736.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63736_lock.png"
+		},
+		"60703": {
+			"release_per_platform_id": "n64_BA50E354",
+			"name": "A Tower Of Melons",
+			"description": "Collect all 30 melons in level 3-2, The Tall Tower.",
+			"api_key": "60703",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63737.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63737_lock.png"
+		},
+		"60704": {
+			"release_per_platform_id": "n64_BA50E354",
+			"name": "Cantaloupe And Melon",
+			"description": "Collect all 30 melons in level 3-3, Poochy and Nippy.",
+			"api_key": "60704",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63738.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63738_lock.png"
+		},
+		"60705": {
+			"release_per_platform_id": "n64_BA50E354",
+			"name": "Frustrating Melons",
+			"description": "Collect all 30 melons in level 3-4, Frustration.",
+			"api_key": "60705",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63739.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63739_lock.png"
+		},
+		"60706": {
+			"release_per_platform_id": "n64_BA50E354",
+			"name": "A Hut Full Of Melons",
+			"description": "Collect all 30 melons in level 4-1, Jungle Hut.",
+			"api_key": "60706",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63740.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63740_lock.png"
+		},
+		"60707": {
+			"release_per_platform_id": "n64_BA50E354",
+			"name": "Moist Melons",
+			"description": "Collect all 30 melons in level 4-2, Jungle Puddle.",
+			"api_key": "60707",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63741.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63741_lock.png"
+		},
+		"60708": {
+			"release_per_platform_id": "n64_BA50E354",
+			"name": "Fishy Melons",
+			"description": "Collect all 30 melons in level 4-3, Piranha Grove.",
+			"api_key": "60708",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63742.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63742_lock.png"
+		},
+		"60709": {
+			"release_per_platform_id": "n64_BA50E354",
+			"name": "Melon Synapses",
+			"description": "Collect all 30 melons in level 4-4, Neuron Jungle.",
+			"api_key": "60709",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63743.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63743_lock.png"
+		},
+		"60710": {
+			"release_per_platform_id": "n64_BA50E354",
+			"name": "Lots O' Melons",
+			"description": "Collect all 30 melons in level 5-1, Lots o' Jelly Fish!",
+			"api_key": "60710",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63744.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63744_lock.png"
+		},
+		"60711": {
+			"release_per_platform_id": "n64_BA50E354",
+			"name": "Lots O'......Melons, Part II",
+			"description": "Collect all 30 melons in level 5-2, Lots o' Fish!",
+			"api_key": "60711",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63745.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63745_lock.png"
+		},
+		"60712": {
+			"release_per_platform_id": "n64_BA50E354",
+			"name": "How Low Can Your Melons Go?",
+			"description": "Collect all 30 melons in level 5-3, Shy Guy Limbo.",
+			"api_key": "60712",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63746.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63746_lock.png"
+		},
+		"60713": {
+			"release_per_platform_id": "n64_BA50E354",
+			"name": "A Melon x Shy Guy Ship",
+			"description": "Collect all 30 melons in level 5-4, Shy Guy's Ship.",
+			"api_key": "60713",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63747.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63747_lock.png"
+		},
+		"60714": {
+			"release_per_platform_id": "n64_BA50E354",
+			"name": "Get In The Melon, Shinji!",
+			"description": "Collect all 30 melons in level 6-1, Mecha Castle.",
+			"api_key": "60714",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63748.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63748_lock.png"
+		},
+		"60715": {
+			"release_per_platform_id": "n64_BA50E354",
+			"name": "Yeah, I Lift Melons, So What?",
+			"description": "Collect all 30 melons in level 6-2, Lift Castle",
+			"api_key": "60715",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63749.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63749_lock.png"
+		},
+		"60716": {
+			"release_per_platform_id": "n64_BA50E354",
+			"name": "Spooky Ghost Melons",
+			"description": "Collect all 30 melons in level 6-3, Ghost Castle",
+			"api_key": "60716",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63750.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63750_lock.png"
+		},
+		"60717": {
+			"release_per_platform_id": "n64_BA50E354",
+			"name": "Spicy Melons",
+			"description": "Collect all 30 melons in level 6-4, Magma Castle.",
+			"api_key": "60717",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63751.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63751_lock.png"
+		},
+		"60718": {
+			"release_per_platform_id": "n64_BA50E354",
+			"name": "Raking In The Treasure",
+			"description": "Get at least 4500 points in Treasure Hunt in Trial Mode.",
+			"api_key": "60718",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63752.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63752_lock.png"
+		},
+		"60719": {
+			"release_per_platform_id": "n64_BA50E354",
+			"name": "A Pleasant Surprise",
+			"description": "Get at least 4500 points in Surprise!! in Trial Mode.",
+			"api_key": "60719",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63753.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63753_lock.png"
+		},
+		"60720": {
+			"release_per_platform_id": "n64_BA50E354",
+			"name": "Lifting Yoshi To New Heights",
+			"description": "Get at least 4500 points in Rail Lift in Trial Mode.",
+			"api_key": "60720",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63754.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63754_lock.png"
+		},
+		"60721": {
+			"release_per_platform_id": "n64_BA50E354",
+			"name": "Quite The Climb",
+			"description": "Get at least 4500 points in Tower Climb in Trial Mode.",
+			"api_key": "60721",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63755.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63755_lock.png"
+		},
+		"60722": {
+			"release_per_platform_id": "n64_BA50E354",
+			"name": "Conquered Your Fears",
+			"description": "Get at least 4500 points in Bone Dragon Pit in Trial Mode.",
+			"api_key": "60722",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63756.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63756_lock.png"
+		},
+		"60723": {
+			"release_per_platform_id": "n64_BA50E354",
+			"name": "Blargg Ain't That Scary",
+			"description": "Get at least 4500 points in Blargg's Boiler in Trial Mode.",
+			"api_key": "60723",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63757.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63757_lock.png"
+		},
+		"60724": {
+			"release_per_platform_id": "n64_BA50E354",
+			"name": "Jelly Blobs Of Doom",
+			"description": "Get at least 4500 points in Jelly Pipe in Trial Mode.",
+			"api_key": "60724",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63758.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63758_lock.png"
+		},
+		"60725": {
+			"release_per_platform_id": "n64_BA50E354",
+			"name": "A-maze-ing",
+			"description": "Get at least 4000 points in Torrential Maze in Trial Mode.",
+			"api_key": "60725",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63759.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63759_lock.png"
+		},
+		"60726": {
+			"release_per_platform_id": "n64_BA50E354",
+			"name": "Cruising To The Top Of The High Scores",
+			"description": "Get at least 4500 points in Cloud Cruising in Trial Mode.",
+			"api_key": "60726",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63760.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63760_lock.png"
+		},
+		"60727": {
+			"release_per_platform_id": "n64_BA50E354",
+			"name": "The Yoshi That'll Pierce The Heavens",
+			"description": "Get at least 4500 points in The Tall Tower in Trial Mode.",
+			"api_key": "60727",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63761.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63761_lock.png"
+		},
+		"60728": {
+			"release_per_platform_id": "n64_BA50E354",
+			"name": "Nipping At Yoshi's Heels",
+			"description": "Get at least 4500 points in Poochy and Nippy in Trial Mode.",
+			"api_key": "60728",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63762.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63762_lock.png"
+		},
+		"60729": {
+			"release_per_platform_id": "n64_BA50E354",
+			"name": "Mildly Infuriating",
+			"description": "Get at least 4500 points in Frustration in Trial Mode.",
+			"api_key": "60729",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63763.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63763_lock.png"
+		},
+		"60730": {
+			"release_per_platform_id": "n64_BA50E354",
+			"name": "This Is Yoshi's Hut Now",
+			"description": "Get at least 4500 points in Jungle Hut in Trial Mode.",
+			"api_key": "60730",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63764.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63764_lock.png"
+		},
+		"60731": {
+			"release_per_platform_id": "n64_BA50E354",
+			"name": "Perfect Puddles",
+			"description": "Get at least 4500 points in Jungle Puddle in Trial Mode.",
+			"api_key": "60731",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63765.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63765_lock.png"
+		},
+		"60732": {
+			"release_per_platform_id": "n64_BA50E354",
+			"name": "Powered Through The Piranhas",
+			"description": "Get at least 4500 points in Piranha Grove in Trial Mode.",
+			"api_key": "60732",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63766.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63766_lock.png"
+		},
+		"60733": {
+			"release_per_platform_id": "n64_BA50E354",
+			"name": "King Of The Jungle",
+			"description": "Get at least 4500 points in Neuron Jungle in Trial Mode.",
+			"api_key": "60733",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63767.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63767_lock.png"
+		},
+		"60734": {
+			"release_per_platform_id": "n64_BA50E354",
+			"name": "Lots O' Points",
+			"description": "Get at least 4500 points in Lots o' Jelly Fish in Trial Mode.",
+			"api_key": "60734",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63768.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63768_lock.png"
+		},
+		"60735": {
+			"release_per_platform_id": "n64_BA50E354",
+			"name": "Lots O' Points 2 - Electric Boogaloo",
+			"description": "Get at least 4500 points in Lots o' Fish in Trial Mode. ",
+			"api_key": "60735",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63769.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63769_lock.png"
+		},
+		"60736": {
+			"release_per_platform_id": "n64_BA50E354",
+			"name": "A Leisurely Limbo",
+			"description": "Get at least 4000 points in Shy Guy Limbo in Trial Mode.",
+			"api_key": "60736",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63775.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63775_lock.png"
+		},
+		"60737": {
+			"release_per_platform_id": "n64_BA50E354",
+			"name": "Yarr, Yoshis Ahoy!",
+			"description": "Get at least 4500 points in Shy Guy's Ship in Trial Mode.",
+			"api_key": "60737",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63776.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63776_lock.png"
+		},
+		"60738": {
+			"release_per_platform_id": "n64_BA50E354",
+			"name": "Just Who The Hell Do You Think I Am? ",
+			"description": "Get at least 4000 points in Mecha Castle in Trial Mode.",
+			"api_key": "60738",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63777.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63777_lock.png"
+		},
+		"60739": {
+			"release_per_platform_id": "n64_BA50E354",
+			"name": "Yoshi Never Misses Arm Day",
+			"description": "Get at least 4500 points in Lift Castle in Trial Mode.",
+			"api_key": "60739",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63778.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63778_lock.png"
+		},
+		"60740": {
+			"release_per_platform_id": "n64_BA50E354",
+			"name": "I Ain't Afraid Of No Ghosts!",
+			"description": "Get at least 3750 points in Ghost Castle in Trial Mode.",
+			"api_key": "60740",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63779.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63779_lock.png"
+		},
+		"60741": {
+			"release_per_platform_id": "n64_BA50E354",
+			"name": "Not So Lethal Lava",
+			"description": "Get at least 4500 points in Magma Castle in Trial Mode.",
+			"api_key": "60741",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63780.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63780_lock.png"
+		},
+		"60742": {
+			"release_per_platform_id": "n64_BA50E354",
+			"name": "Drowning In Coins",
+			"description": "Collect more than 75 coins in any level.",
+			"api_key": "60742",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63781.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63781_lock.png"
+		},
+		"60743": {
+			"release_per_platform_id": "n64_BA50E354",
+			"name": "I <3 U",
+			"description": "Collect 3 special hearts in any level.",
+			"api_key": "60743",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63782.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63782_lock.png"
+		},
+		"60744": {
+			"release_per_platform_id": "n64_BA50E354",
+			"name": "The Bodacious Black",
+			"description": "Unlock and play as the secret black Yoshi.",
+			"api_key": "60744",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63783.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63783_lock.png"
+		},
+		"60745": {
+			"release_per_platform_id": "n64_BA50E354",
+			"name": "The Wonderful White",
+			"description": "Unlock and play as the secret white Yoshi.",
+			"api_key": "60745",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63784.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63784_lock.png"
+		},
+		"60746": {
+			"release_per_platform_id": "n64_BA50E354",
+			"name": "Totaka's Song",
+			"description": "Find a special secret hidden in Trial mode.",
+			"api_key": "60746",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63785.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/63785_lock.png"
+		}
+	}
+}

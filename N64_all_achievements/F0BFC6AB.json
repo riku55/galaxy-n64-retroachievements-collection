@@ -1,0 +1,292 @@
+{
+	"Achievements": {
+		"79093": {
+			"release_per_platform_id": "n64_F0BFC6AB",
+			"name": "Good Ol' Tom",
+			"description": "Finish the Single Player mode with Tom on Hard.",
+			"api_key": "79093",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85265.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85265_lock.png"
+		},
+		"79094": {
+			"release_per_platform_id": "n64_F0BFC6AB",
+			"name": "The Clever Mouse",
+			"description": "Finish the Single Player mode with Jerry on Hard.",
+			"api_key": "79094",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85267.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85267_lock.png"
+		},
+		"79095": {
+			"release_per_platform_id": "n64_F0BFC6AB",
+			"name": "Don't Mess with a Tough Dog",
+			"description": "Finish the Single Player mode with Spike on Hard.",
+			"api_key": "79095",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85268.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85268_lock.png"
+		},
+		"79096": {
+			"release_per_platform_id": "n64_F0BFC6AB",
+			"name": "Like Father, Like Son",
+			"description": "Finish the Single Player mode with Spike Jr. on Hard.",
+			"api_key": "79096",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85269.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85269_lock.png"
+		},
+		"79097": {
+			"release_per_platform_id": "n64_F0BFC6AB",
+			"name": "Ruffled Some Feathers",
+			"description": "Finish the Single Player mode with Quacker on Hard.",
+			"api_key": "79097",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85270.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85270_lock.png"
+		},
+		"79098": {
+			"release_per_platform_id": "n64_F0BFC6AB",
+			"name": "An Adorable Newby!",
+			"description": "Finish the Single Player mode with Tuffy on Hard.",
+			"api_key": "79098",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85271.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85271_lock.png"
+		},
+		"79099": {
+			"release_per_platform_id": "n64_F0BFC6AB",
+			"name": "The Crafty Alley Cat",
+			"description": "Finish the Single Player mode with Butch on Hard.",
+			"api_key": "79099",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85272.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85272_lock.png"
+		},
+		"79100": {
+			"release_per_platform_id": "n64_F0BFC6AB",
+			"name": "Persistent Pet",
+			"description": "Finish the Single Player mode with only 1 Round without using Continues.",
+			"api_key": "79100",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85273.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85273_lock.png"
+		},
+		"79101": {
+			"release_per_platform_id": "n64_F0BFC6AB",
+			"name": "Amazing Pet",
+			"description": "Finish the Single Player mode on Hard with only 1 Round without using Continues.",
+			"api_key": "79101",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85275.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85275_lock.png"
+		},
+		"79102": {
+			"release_per_platform_id": "n64_F0BFC6AB",
+			"name": "Wanna Fight?",
+			"description": "Win a Single Player match with 3 Rounds on Hard without let the opponent win once.",
+			"api_key": "79102",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85276.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85276_lock.png"
+		},
+		"79103": {
+			"release_per_platform_id": "n64_F0BFC6AB",
+			"name": "Though Fight and Loose Teeth",
+			"description": "Win a Single Player match with 5 Rounds on Hard without let the opponent win once.",
+			"api_key": "79103",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85277.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85277_lock.png"
+		},
+		"79104": {
+			"release_per_platform_id": "n64_F0BFC6AB",
+			"name": "Beefcake Battle",
+			"description": "Win a Versus match against the COM on Hard with lowest Power set.",
+			"api_key": "79104",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85278.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85278_lock.png"
+		},
+		"79105": {
+			"release_per_platform_id": "n64_F0BFC6AB",
+			"name": "Slap Fight",
+			"description": "Win a Versus match against the COM on Hard with highest Power set.",
+			"api_key": "79105",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85280.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85280_lock.png"
+		},
+		"79106": {
+			"release_per_platform_id": "n64_F0BFC6AB",
+			"name": "Team Bulldog and Co.",
+			"description": "Win a Teamplay match against a COM on Hard by using Tom, Spike and Butch.",
+			"api_key": "79106",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85281.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85281_lock.png"
+		},
+		"79107": {
+			"release_per_platform_id": "n64_F0BFC6AB",
+			"name": "Small, but Strong",
+			"description": "Win a Teamplay match against a COM on Hard by using Jerry, Spike Jr., Quacker and Tuffy.",
+			"api_key": "79107",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85282.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85282_lock.png"
+		},
+		"79108": {
+			"release_per_platform_id": "n64_F0BFC6AB",
+			"name": "I don't even need to battle You",
+			"description": "In a Versus match knockoff the COM by using the Poison Effect.",
+			"api_key": "79108",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85302.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85302_lock.png"
+		},
+		"79109": {
+			"release_per_platform_id": "n64_F0BFC6AB",
+			"name": "This Map is called \"Bomb Voyage\"!",
+			"description": "In a Versus match knockoff the COM by using a Bomb on the Ship.",
+			"api_key": "79109",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85301.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85301_lock.png"
+		},
+		"79128": {
+			"release_per_platform_id": "n64_F0BFC6AB",
+			"name": "Fist Fight Only!",
+			"description": "Win a Versus round against a COM without using any Weapons or Objects.",
+			"api_key": "79128",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85307.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85307_lock.png"
+		},
+		"79125": {
+			"release_per_platform_id": "n64_F0BFC6AB",
+			"name": "Making The Best of Your Equipment",
+			"description": "In a Versus match knockoff the COM by using a max charged Weapon or Object.",
+			"api_key": "79125",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85304.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85304_lock.png"
+		},
+		"79127": {
+			"release_per_platform_id": "n64_F0BFC6AB",
+			"name": "Enjoy your Meal!",
+			"description": "In a Versus match knockoff the COM by using a max charged Turkey in the Christmas Room.",
+			"api_key": "79127",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85306.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85306_lock.png"
+		},
+		"79126": {
+			"release_per_platform_id": "n64_F0BFC6AB",
+			"name": "I thought you'd catch the Crate!",
+			"description": "In a Versus match hit the COM with the Crate in the Farmyard.",
+			"api_key": "79126",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85303.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85303_lock.png"
+		},
+		"79110": {
+			"release_per_platform_id": "n64_F0BFC6AB",
+			"name": "NOT THE BEES!",
+			"description": "In a Versus match hit the COM with a Bee Hive in the Garden.",
+			"api_key": "79110",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85284.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85284_lock.png"
+		},
+		"79111": {
+			"release_per_platform_id": "n64_F0BFC6AB",
+			"name": "A Head in Time",
+			"description": "In a Versus match hit the COM with a Clock in the Kitchen.",
+			"api_key": "79111",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85286.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85286_lock.png"
+		},
+		"79112": {
+			"release_per_platform_id": "n64_F0BFC6AB",
+			"name": "Curiosity is Punished",
+			"description": "In a Versus match hit the COM with a Cabinet in the Kitchen.",
+			"api_key": "79112",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85287.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85287_lock.png"
+		},
+		"79113": {
+			"release_per_platform_id": "n64_F0BFC6AB",
+			"name": "Smells Like Barbecue",
+			"description": "In a Versus match burn the COM with the Oven in the Kitchen.",
+			"api_key": "79113",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85290.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85290_lock.png"
+		},
+		"79114": {
+			"release_per_platform_id": "n64_F0BFC6AB",
+			"name": "What is in that Jar?",
+			"description": "In a Versus match hit the COM with a Jar in the Laboratory.",
+			"api_key": "79114",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85288.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85288_lock.png"
+		},
+		"79115": {
+			"release_per_platform_id": "n64_F0BFC6AB",
+			"name": "Now That's Just Shocking",
+			"description": "In a Versus match hit the COM with an Electric Shock in the Laboratory.",
+			"api_key": "79115",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85289.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85289_lock.png"
+		},
+		"79116": {
+			"release_per_platform_id": "n64_F0BFC6AB",
+			"name": "You Snooze, You Moose",
+			"description": "In a Versus match hit the COM with a Moose Trophy in the Christmas Room.",
+			"api_key": "79116",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85291.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85291_lock.png"
+		},
+		"79117": {
+			"release_per_platform_id": "n64_F0BFC6AB",
+			"name": "Roastin' Marshmallows",
+			"description": "In a Versus match burn the COM with the Fireplace in the Christmas Room.",
+			"api_key": "79117",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85292.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85292_lock.png"
+		},
+		"79118": {
+			"release_per_platform_id": "n64_F0BFC6AB",
+			"name": "How to Plant an Animal",
+			"description": "In a Versus match hit the COM with a Flower Pot in the Alleyway.",
+			"api_key": "79118",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85293.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85293_lock.png"
+		},
+		"79119": {
+			"release_per_platform_id": "n64_F0BFC6AB",
+			"name": "Steamed Fur",
+			"description": "In a Versus match hit the COM with Steam from the Manhole in the Alleyway.",
+			"api_key": "79119",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85294.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85294_lock.png"
+		},
+		"79120": {
+			"release_per_platform_id": "n64_F0BFC6AB",
+			"name": "I saved the Bell... But not me!",
+			"description": "In a Versus match hit the COM with a Bell on the Cruise Ship.",
+			"api_key": "79120",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85295.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85295_lock.png"
+		},
+		"79121": {
+			"release_per_platform_id": "n64_F0BFC6AB",
+			"name": "Steamed Hams",
+			"description": "In a Versus match hit the COM with the Steam Pipe on the Cruise Ship.",
+			"api_key": "79121",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85297.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85297_lock.png"
+		},
+		"79122": {
+			"release_per_platform_id": "n64_F0BFC6AB",
+			"name": "Ship Happens",
+			"description": "In a Versus match hit the COM with the Steam Horn on the Cruise Ship.",
+			"api_key": "79122",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85296.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85296_lock.png"
+		},
+		"79123": {
+			"release_per_platform_id": "n64_F0BFC6AB",
+			"name": "A Classic Joke",
+			"description": "In a Versus match hit the COM with the Anvil in the Basement.",
+			"api_key": "79123",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85298.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85298_lock.png"
+		},
+		"79124": {
+			"release_per_platform_id": "n64_F0BFC6AB",
+			"name": "A bit Hot here",
+			"description": "In a Versus match hit the COM with Steam from the Pipes in the Basement.",
+			"api_key": "79124",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85299.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85299_lock.png"
+		}
+	}
+}

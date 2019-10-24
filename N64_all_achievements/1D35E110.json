@@ -1,0 +1,532 @@
+{
+	"Achievements": {
+		"48603": {
+			"release_per_platform_id": "n64_1D35E110",
+			"name": "Test the Fighter",
+			"description": "Enter the Seven Portals level with the Fighter",
+			"api_key": "48603",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49362.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49362_lock.png"
+		},
+		"48604": {
+			"release_per_platform_id": "n64_1D35E110",
+			"name": "Test the Cleric",
+			"description": "Enter the Seven Portals level with the Cleric",
+			"api_key": "48604",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49363.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49363_lock.png"
+		},
+		"48605": {
+			"release_per_platform_id": "n64_1D35E110",
+			"name": "Test the Mage",
+			"description": "Enter the Seven Portals level with the Mage",
+			"api_key": "48605",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49364.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49364_lock.png"
+		},
+		"48606": {
+			"release_per_platform_id": "n64_1D35E110",
+			"name": "Guardian of Ice",
+			"description": "Enter the Guardian of Ice",
+			"api_key": "48606",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49365.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49365_lock.png"
+		},
+		"48607": {
+			"release_per_platform_id": "n64_1D35E110",
+			"name": "Skilled Guardian of Ice",
+			"description": "Enter the Guardian of Ice on the middle or higher difficulty",
+			"api_key": "48607",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49366.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49366_lock.png"
+		},
+		"48608": {
+			"release_per_platform_id": "n64_1D35E110",
+			"name": "A new weapon*",
+			"description": "Receive your second weapon",
+			"api_key": "48608",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49368.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49368_lock.png"
+		},
+		"48609": {
+			"release_per_platform_id": "n64_1D35E110",
+			"name": "Guardian of Fire",
+			"description": "Enter the Guardian of Fire",
+			"api_key": "48609",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49369.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49369_lock.png"
+		},
+		"48610": {
+			"release_per_platform_id": "n64_1D35E110",
+			"name": "Skilled Guardian of Fire",
+			"description": "Enter the Guardian of Fire on the middle or higher difficulty",
+			"api_key": "48610",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49370.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49370_lock.png"
+		},
+		"48611": {
+			"release_per_platform_id": "n64_1D35E110",
+			"name": "Guardian of Steel",
+			"description": "Enter the Guardian of Steel",
+			"api_key": "48611",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49372.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49372_lock.png"
+		},
+		"48612": {
+			"release_per_platform_id": "n64_1D35E110",
+			"name": "Skilled Guardian of Steel",
+			"description": "Enter the Guardian of Steel on the middle or higher difficulty",
+			"api_key": "48612",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49371.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49371_lock.png"
+		},
+		"48613": {
+			"release_per_platform_id": "n64_1D35E110",
+			"name": "Bright Crucible*",
+			"description": "Enter the Bright Crucible",
+			"api_key": "48613",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49377.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49377_lock.png"
+		},
+		"48614": {
+			"release_per_platform_id": "n64_1D35E110",
+			"name": "Skilled Bright Crucible*",
+			"description": "Enter the Bright Crucible on the middle or higher difficulty",
+			"api_key": "48614",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49374.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49374_lock.png"
+		},
+		"48615": {
+			"release_per_platform_id": "n64_1D35E110",
+			"name": "Shadow Wood",
+			"description": "Enter the second hub Shadow Wood",
+			"api_key": "48615",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49427.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49427_lock.png"
+		},
+		"48616": {
+			"release_per_platform_id": "n64_1D35E110",
+			"name": "Skilled Shadow Wood",
+			"description": "Enter Shadow Wood on the middle or higher difficulty",
+			"api_key": "48616",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49430.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49430_lock.png"
+		},
+		"48617": {
+			"release_per_platform_id": "n64_1D35E110",
+			"name": "Wastelands",
+			"description": "Enter the Wastelands",
+			"api_key": "48617",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49436.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49436_lock.png"
+		},
+		"48618": {
+			"release_per_platform_id": "n64_1D35E110",
+			"name": "Skilled Wastelands",
+			"description": "Enter Wastelands on the middle or higher difficulty",
+			"api_key": "48618",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49437.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49437_lock.png"
+		},
+		"48619": {
+			"release_per_platform_id": "n64_1D35E110",
+			"name": "Darkmere",
+			"description": "Enter Darkmere",
+			"api_key": "48619",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49438.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49438_lock.png"
+		},
+		"48620": {
+			"release_per_platform_id": "n64_1D35E110",
+			"name": "Skilled Darkmere",
+			"description": "Enter Darkmere on the middle or higher difficulty",
+			"api_key": "48620",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49439.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49439_lock.png"
+		},
+		"48621": {
+			"release_per_platform_id": "n64_1D35E110",
+			"name": "Caves of Circe",
+			"description": "Enter the Caves of Circe",
+			"api_key": "48621",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49441.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49441_lock.png"
+		},
+		"48622": {
+			"release_per_platform_id": "n64_1D35E110",
+			"name": "Skilled Caves of Circe",
+			"description": "Enter Caves of Circe on the middle or higher difficulty",
+			"api_key": "48622",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49442.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49442_lock.png"
+		},
+		"48623": {
+			"release_per_platform_id": "n64_1D35E110",
+			"name": "Sacred Grove*",
+			"description": "Enter the Sacred Grove",
+			"api_key": "48623",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49444.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49444_lock.png"
+		},
+		"48624": {
+			"release_per_platform_id": "n64_1D35E110",
+			"name": "Skilled Sacred Grove*",
+			"description": "Enter Sacred Grove on the middle or higher difficulty",
+			"api_key": "48624",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49445.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49445_lock.png"
+		},
+		"48625": {
+			"release_per_platform_id": "n64_1D35E110",
+			"name": "Hypostyle",
+			"description": "Enter Hypostyle",
+			"api_key": "48625",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49446.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49446_lock.png"
+		},
+		"48626": {
+			"release_per_platform_id": "n64_1D35E110",
+			"name": "Skilled Hypostyle",
+			"description": "Enter Hypostyle on the middle or higher difficulty",
+			"api_key": "48626",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49447.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49447_lock.png"
+		},
+		"48627": {
+			"release_per_platform_id": "n64_1D35E110",
+			"name": "Seminary",
+			"description": "Enter the Seminary",
+			"api_key": "48627",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49448.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49448_lock.png"
+		},
+		"48628": {
+			"release_per_platform_id": "n64_1D35E110",
+			"name": "Skilled Seminary",
+			"description": "Enter the Seminary on the middle or higher difficulty",
+			"api_key": "48628",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49449.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49449_lock.png"
+		},
+		"48629": {
+			"release_per_platform_id": "n64_1D35E110",
+			"name": "Another new weapon*",
+			"description": "Receive your third weapon",
+			"api_key": "48629",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49450.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49450_lock.png"
+		},
+		"48630": {
+			"release_per_platform_id": "n64_1D35E110",
+			"name": "Now I am slaying with power*",
+			"description": "Assemble your final weapon",
+			"api_key": "48630",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49451.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49451_lock.png"
+		},
+		"48631": {
+			"release_per_platform_id": "n64_1D35E110",
+			"name": "Orchard of Lamentations",
+			"description": "Enter the Orchard of Lamentations",
+			"api_key": "48631",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49453.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49453_lock.png"
+		},
+		"48632": {
+			"release_per_platform_id": "n64_1D35E110",
+			"name": "Skilled Orchard of Lamentations",
+			"description": "Enter the Orchard of Lamentations on the middle or higher difficulty",
+			"api_key": "48632",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49454.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49454_lock.png"
+		},
+		"48633": {
+			"release_per_platform_id": "n64_1D35E110",
+			"name": "Silent Refectory",
+			"description": "Enter the Silent Refectory",
+			"api_key": "48633",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49456.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49456_lock.png"
+		},
+		"48634": {
+			"release_per_platform_id": "n64_1D35E110",
+			"name": "Skilled Silent Refectory",
+			"description": "Enter the Silent Refectory on the middle or higher difficulty",
+			"api_key": "48634",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49457.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49457_lock.png"
+		},
+		"48670": {
+			"release_per_platform_id": "n64_1D35E110",
+			"name": "Wolf Chapel",
+			"description": "Enter the Wolf Chapel",
+			"api_key": "48670",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49458.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49458_lock.png"
+		},
+		"48671": {
+			"release_per_platform_id": "n64_1D35E110",
+			"name": "Skilled Wolf Chapel",
+			"description": "Enter the Wolf Chapel on the middle or higher difficulty",
+			"api_key": "48671",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49459.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49459_lock.png"
+		},
+		"48672": {
+			"release_per_platform_id": "n64_1D35E110",
+			"name": "Dragon Chapel",
+			"description": "Enter the Dragon Chapel",
+			"api_key": "48672",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49461.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49461_lock.png"
+		},
+		"48673": {
+			"release_per_platform_id": "n64_1D35E110",
+			"name": "Skilled Dragon Chapel",
+			"description": "Enter the Dragon Chapel on the middle or higher difficulty",
+			"api_key": "48673",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49460.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49460_lock.png"
+		},
+		"48674": {
+			"release_per_platform_id": "n64_1D35E110",
+			"name": "Griffin Chapel",
+			"description": "Enter the Griffin Chapel",
+			"api_key": "48674",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49462.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49462_lock.png"
+		},
+		"48675": {
+			"release_per_platform_id": "n64_1D35E110",
+			"name": "Skilled Griffin Chapel",
+			"description": "Enter the Griffin Chapel on the middle or higher difficulty",
+			"api_key": "48675",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49463.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49463_lock.png"
+		},
+		"48676": {
+			"release_per_platform_id": "n64_1D35E110",
+			"name": "Deathwind Chapel*",
+			"description": "Enter the Deathwind Chapel",
+			"api_key": "48676",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49464.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49464_lock.png"
+		},
+		"48677": {
+			"release_per_platform_id": "n64_1D35E110",
+			"name": "Skilled Deathwind Chapel*",
+			"description": "Enter the Deathwind Chapel on the middle or higher difficulty",
+			"api_key": "48677",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49465.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49465_lock.png"
+		},
+		"48678": {
+			"release_per_platform_id": "n64_1D35E110",
+			"name": "Castle of Grief",
+			"description": "Enter the Castle of Grief",
+			"api_key": "48678",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49466.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49466_lock.png"
+		},
+		"48679": {
+			"release_per_platform_id": "n64_1D35E110",
+			"name": "Skilled Castle of Grief",
+			"description": "Enter the Castle of Grief on the middle or higher difficulty",
+			"api_key": "48679",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49467.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49467_lock.png"
+		},
+		"48680": {
+			"release_per_platform_id": "n64_1D35E110",
+			"name": "Gibbet",
+			"description": "Enter the Gibbet",
+			"api_key": "48680",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49468.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49468_lock.png"
+		},
+		"48681": {
+			"release_per_platform_id": "n64_1D35E110",
+			"name": "Skilled Gibbet",
+			"description": "Enter the Gibbet on the middle or higher difficulty",
+			"api_key": "48681",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49469.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49469_lock.png"
+		},
+		"48682": {
+			"release_per_platform_id": "n64_1D35E110",
+			"name": "Effluvium",
+			"description": "Enter Effluvium",
+			"api_key": "48682",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49470.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49470_lock.png"
+		},
+		"48683": {
+			"release_per_platform_id": "n64_1D35E110",
+			"name": "Skilled Effluvium",
+			"description": "Enter Effluvium on the middle or higher difficulty",
+			"api_key": "48683",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49471.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49471_lock.png"
+		},
+		"48684": {
+			"release_per_platform_id": "n64_1D35E110",
+			"name": "Dungeons",
+			"description": "Enter the Dungeons",
+			"api_key": "48684",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49473.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49473_lock.png"
+		},
+		"48685": {
+			"release_per_platform_id": "n64_1D35E110",
+			"name": "Skilled Dungeons",
+			"description": "Enter the Dungeons on the middle or higher difficulty",
+			"api_key": "48685",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49472.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49472_lock.png"
+		},
+		"48686": {
+			"release_per_platform_id": "n64_1D35E110",
+			"name": "Forsaken Outpost",
+			"description": "Enter the Forsaken Outpost",
+			"api_key": "48686",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49474.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49474_lock.png"
+		},
+		"48687": {
+			"release_per_platform_id": "n64_1D35E110",
+			"name": "Skilled Forsaken Outpost",
+			"description": "Enter the Forsaken Outpost on the middle or higher difficulty",
+			"api_key": "48687",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49475.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49475_lock.png"
+		},
+		"48688": {
+			"release_per_platform_id": "n64_1D35E110",
+			"name": "Desolate Garden*",
+			"description": "Enter the Desolate Garden",
+			"api_key": "48688",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49476.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49476_lock.png"
+		},
+		"48689": {
+			"release_per_platform_id": "n64_1D35E110",
+			"name": "Skilled Desolate Garden*",
+			"description": "Enter the Desolate Garden on the middle or higher difficulty",
+			"api_key": "48689",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49477.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49477_lock.png"
+		},
+		"48690": {
+			"release_per_platform_id": "n64_1D35E110",
+			"name": "Necropolis",
+			"description": "Enter Necropolis",
+			"api_key": "48690",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49478.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49478_lock.png"
+		},
+		"48691": {
+			"release_per_platform_id": "n64_1D35E110",
+			"name": "Skilled Necropolis",
+			"description": "Enter Necropolis on the middle or higher difficulty",
+			"api_key": "48691",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49479.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49479_lock.png"
+		},
+		"48692": {
+			"release_per_platform_id": "n64_1D35E110",
+			"name": "Vivarium*",
+			"description": "Enter the Vivarium prior to the tombs",
+			"api_key": "48692",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49480.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49480_lock.png"
+		},
+		"48693": {
+			"release_per_platform_id": "n64_1D35E110",
+			"name": "Skilled Vivarium*",
+			"description": "Enter the Vivarium on the middle or higher difficulty",
+			"api_key": "48693",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49481.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49481_lock.png"
+		},
+		"48694": {
+			"release_per_platform_id": "n64_1D35E110",
+			"name": "Memento Mori Zedek",
+			"description": "Enter the tomb of Zedek",
+			"api_key": "48694",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49482.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49482_lock.png"
+		},
+		"48695": {
+			"release_per_platform_id": "n64_1D35E110",
+			"name": "Morituri te salutant Zedek",
+			"description": "Enter the tomb of Zedek on the middle or higher difficulty",
+			"api_key": "48695",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49486.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49486_lock.png"
+		},
+		"48696": {
+			"release_per_platform_id": "n64_1D35E110",
+			"name": "Memento Mori Menelkir",
+			"description": "Enter the tomb of Menelkir",
+			"api_key": "48696",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49483.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49483_lock.png"
+		},
+		"48697": {
+			"release_per_platform_id": "n64_1D35E110",
+			"name": "Morituri te salutant Menelkir",
+			"description": "Enter the tomb of Menelkir on the middle or higher difficulty",
+			"api_key": "48697",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49484.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49484_lock.png"
+		},
+		"48698": {
+			"release_per_platform_id": "n64_1D35E110",
+			"name": "Memento Mori Traductus",
+			"description": "Enter the tomb of Traductus",
+			"api_key": "48698",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49485.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49485_lock.png"
+		},
+		"48699": {
+			"release_per_platform_id": "n64_1D35E110",
+			"name": "Morituri te salutant Traductus",
+			"description": "Enter the tomb of Traductus on the middle or higher difficulty",
+			"api_key": "48699",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49487.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49487_lock.png"
+		},
+		"48700": {
+			"release_per_platform_id": "n64_1D35E110",
+			"name": "The final battle",
+			"description": "Enter the Dark Crucible",
+			"api_key": "48700",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49488.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49488_lock.png"
+		},
+		"48701": {
+			"release_per_platform_id": "n64_1D35E110",
+			"name": "The end of the slaughter",
+			"description": "Enter the Dark Crucible on the middle or higher difficulty",
+			"api_key": "48701",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49489.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49489_lock.png"
+		},
+		"48702": {
+			"release_per_platform_id": "n64_1D35E110",
+			"name": "The winner takes it all",
+			"description": "Defeat Korax and enter the final portal",
+			"api_key": "48702",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49490.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49490_lock.png"
+		},
+		"48703": {
+			"release_per_platform_id": "n64_1D35E110",
+			"name": "The loser has to fall",
+			"description": "Defeat Korax and enter the final portal on middle or higher difficulty",
+			"api_key": "48703",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49491.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49491_lock.png"
+		}
+	}
+}

@@ -1,0 +1,724 @@
+{
+	"Achievements": {
+		"50138": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "Dr. Zeng Has Left the Building",
+			"description": "Defeat Zeng's army in Z Corp building",
+			"api_key": "50138",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51157.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51157_lock.png"
+		},
+		"50139": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "Movin' Off",
+			"description": "Defeat Truck Driver on the streets",
+			"api_key": "50139",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51158.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51158_lock.png"
+		},
+		"50140": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "Take the B Train",
+			"description": "Defeat Exo in the subway",
+			"api_key": "50140",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51156.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51156_lock.png"
+		},
+		"50141": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "Surface to Air",
+			"description": "Get on the island",
+			"api_key": "50141",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51155.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51155_lock.png"
+		},
+		"50142": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "Dr. Zeng is in tha (Jail) House",
+			"description": "Finish the game for the first time",
+			"api_key": "50142",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51133.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51133_lock.png"
+		},
+		"50143": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "One Hot Private Investigator",
+			"description": "Play through the game as Mace Daniels",
+			"api_key": "50143",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51132.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51132_lock.png"
+		},
+		"50144": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "Twenty Twenty Vigilante",
+			"description": "Play through the game as Hawk Manson",
+			"api_key": "50144",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51131.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51131_lock.png"
+		},
+		"50145": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "Strongman for Rent",
+			"description": "Play through the game as Ben \"Smasher\" Jackson",
+			"api_key": "50145",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51130.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51130_lock.png"
+		},
+		"50146": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "Raving Prodigette",
+			"description": "Play through the game as Alana McKendrick",
+			"api_key": "50146",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51129.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51129_lock.png"
+		},
+		"50149": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "The Repo-Force I (Car Park)",
+			"description": "Uncover 18 secrets on Car Park stage",
+			"api_key": "50149",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61096.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61096_lock.png"
+		},
+		"50150": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "The Repo-Force II (Reception)",
+			"description": "Uncover 6 secrets on Reception stage",
+			"api_key": "50150",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61097.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61097_lock.png"
+		},
+		"50152": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "The Repo-Force III (Corridor)",
+			"description": "Uncover 6 secrets on Corridor stage",
+			"api_key": "50152",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61098.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61098_lock.png"
+		},
+		"50153": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "The Repo-Force IV (High Street)",
+			"description": "Uncover 12 secrets on High Street stage",
+			"api_key": "50153",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61099.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61099_lock.png"
+		},
+		"50155": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "The Repo-Force V (Shopping Mall)",
+			"description": "Uncover 24 secrets on Shopping Mall stage",
+			"api_key": "50155",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61100.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61100_lock.png"
+		},
+		"50156": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "The Repo-Force VI (Park 1)",
+			"description": "Uncover 10 secrets on Park 1 stage",
+			"api_key": "50156",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61101.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61101_lock.png"
+		},
+		"50157": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "The Repo-Force VII (Park 2)",
+			"description": "Uncover 13 secrets on Park 2 stage",
+			"api_key": "50157",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61102.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61102_lock.png"
+		},
+		"50158": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "The Repo-Force VIII (Bridge)",
+			"description": "Uncover 21 secrets on Bridge stage",
+			"api_key": "50158",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61103.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61103_lock.png"
+		},
+		"50159": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "The Repo-Force IX (Bronx)",
+			"description": "Uncover 9 secrets on Bronx stage",
+			"api_key": "50159",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61104.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61104_lock.png"
+		},
+		"50160": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "The Repo-Force X (Subway Station)",
+			"description": "Uncover 2 secrets on Subway Station stage",
+			"api_key": "50160",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61105.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61105_lock.png"
+		},
+		"50163": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "The Repo-Force XI (Air Base)",
+			"description": "Uncover 10 secrets on Air Base stage",
+			"api_key": "50163",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61106.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61106_lock.png"
+		},
+		"50167": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "The Repo-Force XIII (Naval Base 2)",
+			"description": "Uncover 13 secrets on Naval Base 2 stage",
+			"api_key": "50167",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61110.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61110_lock.png"
+		},
+		"50154": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "Demolition Force I (Car Park)",
+			"description": "Demolish 11 objects on Car Park stage (need to do it by hand)",
+			"api_key": "50154",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61111.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61111_lock.png"
+		},
+		"50161": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "Demolition Force II (Reception)",
+			"description": "Demolish 14 objects on Reception stage (need to do it by hand)",
+			"api_key": "50161",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61112.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61112_lock.png"
+		},
+		"50151": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "Demolition Force III (Lift)",
+			"description": "Demolish 5 objects on Lift stage (need to do it by hand)",
+			"api_key": "50151",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61113.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61113_lock.png"
+		},
+		"50171": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "Demolition Force IV (Corridor)",
+			"description": "Demolish 2 objects on Corridor stage (need to do it by hand)",
+			"api_key": "50171",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61114.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61114_lock.png"
+		},
+		"57762": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "Demolition Force VI (Park 1)",
+			"description": "Demolish 2 objects on Park 1 stage (need to do it by hand)",
+			"api_key": "57762",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61115.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61115_lock.png"
+		},
+		"57763": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "Demolition Force VII (Park 2)",
+			"description": "Demolish 2 objects on Park 2 stage (need to do it by hand)",
+			"api_key": "57763",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61116.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61116_lock.png"
+		},
+		"57764": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "Demolition Force VIII (Bridge)",
+			"description": "Demolish 13 objects on Bridge stage (need to do it by hand)",
+			"api_key": "57764",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61117.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61117_lock.png"
+		},
+		"57765": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "Demolition Force IX (Bronx)",
+			"description": "Demilish 8 objects on Bronx stage (need to do it by hand)",
+			"api_key": "57765",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61118.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61118_lock.png"
+		},
+		"57766": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "Demolition Force X (Subway Station)",
+			"description": "Demolish 14 objects on Subway Station stage (need to do it by hand)",
+			"api_key": "57766",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61119.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61119_lock.png"
+		},
+		"50162": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "Demolition Force XI (Train)",
+			"description": "Demolish 5 objects on Train stage (need to do it by hand)",
+			"api_key": "50162",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61120.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61120_lock.png"
+		},
+		"50164": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "The Repo-Force XII (Naval Base 1)",
+			"description": "Uncover 11 secrets on Naval Base 1 stage",
+			"api_key": "50164",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61109.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61109_lock.png"
+		},
+		"57767": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "Demolition Force XII (Air Base)",
+			"description": "Demolish 5 objects on Air Base stage (need to do it by hand)",
+			"api_key": "57767",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61121.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61121_lock.png"
+		},
+		"57768": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "Demolition Force XIII (Naval Base 1)",
+			"description": "Demolish 15 objects on Naval Base 1 stage (need to do it by hand)",
+			"api_key": "57768",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61122.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61122_lock.png"
+		},
+		"50165": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "Demolition Force XIV (Flying Wing)",
+			"description": "Demolish 13 objects on Flying Wing stage (need to do it by hand)",
+			"api_key": "50165",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61123.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61123_lock.png"
+		},
+		"50166": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "Demolition Force XV (Hovercraft)",
+			"description": "Demolish 7 objects on Hovercraft stage (need to do it by hand)",
+			"api_key": "50166",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61124.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61124_lock.png"
+		},
+		"50170": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "The Repo-Force XIV (Island Lab)",
+			"description": "Uncover 9 secrets on Island Lab stage",
+			"api_key": "50170",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61108.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61108_lock.png"
+		},
+		"57769": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "Demolition Force XVI (Naval Base 2)",
+			"description": "Demolish 22 objects on Naval Base 2 stage (need to do it by hand)",
+			"api_key": "57769",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61125.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61125_lock.png"
+		},
+		"50169": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "Demolition Force XVII (Vulkan)",
+			"description": "Demolish 13 objects on Vulkan stage (need to do it by hand)",
+			"api_key": "50169",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61126.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61126_lock.png"
+		},
+		"57770": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "Demolition Force XVIII (Island Lab)",
+			"description": "Demolish 28 objects on Island Lab stage (need to do it by hand)",
+			"api_key": "57770",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61127.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61127_lock.png"
+		},
+		"50172": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "Demolition Force XIX (Zeng)",
+			"description": "Demolish 9 objects on Zeng stage (need to do it by hand)",
+			"api_key": "50172",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61128.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61128_lock.png"
+		},
+		"50194": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "Tong Po",
+			"description": "Defeat an enemy by breaking his spine on your knee",
+			"api_key": "50194",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50957.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50957_lock.png"
+		},
+		"50206": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "Slap Him As He Blench",
+			"description": "Defeat an enemy using response to the unwelcome attentions of a male",
+			"api_key": "50206",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51084.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51084_lock.png"
+		},
+		"50207": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "Better than Zidane",
+			"description": "Defeat an enemy using your fist, feet and head while grappling",
+			"api_key": "50207",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51085.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51085_lock.png"
+		},
+		"50204": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "Flash Kick",
+			"description": "Defeat an enemy perfroming one of signature moves from Street Fighter",
+			"api_key": "50204",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51081.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51081_lock.png"
+		},
+		"50187": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "Barburyan",
+			"description": "Pull off 20 metal bars in one session",
+			"api_key": "50187",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51140.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51140_lock.png"
+		},
+		"50189": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "Red, White and You",
+			"description": "Regain health by drinking 20 cans of cola in one session",
+			"api_key": "50189",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51151.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51151_lock.png"
+		},
+		"50193": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "Massive Force",
+			"description": "In one session use heavy objects to defeat 15 enemies",
+			"api_key": "50193",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51152.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51152_lock.png"
+		},
+		"57852": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "Cannon Force",
+			"description": "In one session use shotgun or cannon to deafeat 10 enemies",
+			"api_key": "57852",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61130.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61130_lock.png"
+		},
+		"57853": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "Blaster Force",
+			"description": "In one use handgun or flare gun to defeat 20 enemies",
+			"api_key": "57853",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61131.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61131_lock.png"
+		},
+		"57854": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "Shank Force",
+			"description": "In one session use knife to defeat 15 enemies",
+			"api_key": "57854",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61132.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61132_lock.png"
+		},
+		"50176": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "Clubber Force",
+			"description": "In one session use metal bar, bottle, baseball bat or fire axe to defeat 25 enemies",
+			"api_key": "50176",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61133.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61133_lock.png"
+		},
+		"50175": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "Missile Force",
+			"description": "In one session use rocket launcherto defeat 10 enemies",
+			"api_key": "50175",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61134.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61134_lock.png"
+		},
+		"50264": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "Perfect Force",
+			"description": "Defeat 10 enemies without being damaged",
+			"api_key": "50264",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51243.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51243_lock.png"
+		},
+		"50147": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "Forceful Five",
+			"description": "Score 200000 or more (>=Normal)",
+			"api_key": "50147",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51128.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51128_lock.png"
+		},
+		"50148": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "Ace Force One",
+			"description": "Score 600000 or more",
+			"api_key": "50148",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51127.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51127_lock.png"
+		},
+		"50256": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "Lucky Force",
+			"description": "Have 7 lives",
+			"api_key": "50256",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51219.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51219_lock.png"
+		},
+		"50168": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "Supreme Force I (Car Park)",
+			"description": "Finish Car Park stage without losing a life (>=Normal)",
+			"api_key": "50168",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51126.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51126_lock.png"
+		},
+		"57824": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "Supreme Force II (Reception)",
+			"description": "Finish Reception stage without losing a life (>=Normal)",
+			"api_key": "57824",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51125.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51125_lock.png"
+		},
+		"57823": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "Supreme Force III (Lift)",
+			"description": "Finish Lift stage without losing a life (>=Normal)",
+			"api_key": "57823",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51160.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51160_lock.png"
+		},
+		"57825": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "Supreme Force IV (Corridor)",
+			"description": "Finish Corridor stage without losing a life (>=Normal)",
+			"api_key": "57825",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51159.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51159_lock.png"
+		},
+		"57826": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "Supreme Force V (Zengs Office)",
+			"description": "Finish Zengs Office stage without losing a life (>=Normal)",
+			"api_key": "57826",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61135.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61135_lock.png"
+		},
+		"57827": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "Supreme Force VI (High Street)",
+			"description": "Finish High Street stage without losing a life (>=Normal)",
+			"api_key": "57827",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51161.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51161_lock.png"
+		},
+		"57828": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "Supreme Force VII (Truck Driver)",
+			"description": "Finish Truck Driver stage without losing a life (>=Normal)",
+			"api_key": "57828",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51162.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51162_lock.png"
+		},
+		"57829": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "Supreme Force VIII (Shopping Mall)",
+			"description": "Finish Shopping Mall stage without losing a life (>=Normal)",
+			"api_key": "57829",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51163.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51163_lock.png"
+		},
+		"57830": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "Supreme Force IX (Park 1)",
+			"description": "Finish Park 1 stage without losing a life (>=Normal)",
+			"api_key": "57830",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51220.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51220_lock.png"
+		},
+		"57831": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "Supreme Force X (Park 2)",
+			"description": "Finish Park 2 stage without losing a life (>=Normal)",
+			"api_key": "57831",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51221.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51221_lock.png"
+		},
+		"57832": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "Supreme Force XI (Bridge)",
+			"description": "Finish Bridge stage without losing a life (>=Normal)",
+			"api_key": "57832",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51222.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51222_lock.png"
+		},
+		"57833": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "Supreme Force XII (The Bronx)",
+			"description": "Finish The Bronx stage without losing a life (>=Normal)",
+			"api_key": "57833",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51229.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51229_lock.png"
+		},
+		"57834": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "Supreme Force XIII (Subway Station)",
+			"description": "Finish Subway Station stage without losing a life (>=Normal)",
+			"api_key": "57834",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51209.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51209_lock.png"
+		},
+		"57835": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "Supreme Force XIV (Exo)",
+			"description": "Finish Exo stage without losing a life (>=Normal)",
+			"api_key": "57835",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61136.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61136_lock.png"
+		},
+		"57836": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "Supreme Force XV (Train)",
+			"description": "Finish Train stage without losing a life (>=Normal)",
+			"api_key": "57836",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51211.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51211_lock.png"
+		},
+		"57837": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "Supreme Force XVI (Air Base)",
+			"description": "Finish Air Base stage without losing a life (>=Normal)",
+			"api_key": "57837",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51230.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51230_lock.png"
+		},
+		"57838": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "Supreme Force XVII (Naval Base 1)",
+			"description": "Finish Naval Base 1 stage without losing a life (>=Normal)",
+			"api_key": "57838",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51212.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51212_lock.png"
+		},
+		"57839": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "Supreme Force XVIII (Flying Wing)",
+			"description": "Finish Flying Wing stage without losing a life (>=Normal)",
+			"api_key": "57839",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51231.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51231_lock.png"
+		},
+		"57840": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "Supreme Force XIX (Hovercraft)",
+			"description": "Finish Hovercraft stage without losing a life (>=Normal)",
+			"api_key": "57840",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51215.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51215_lock.png"
+		},
+		"57841": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "Supreme Force XX (Naval Base 2)",
+			"description": "Finish Naval Base 2 stage without losing a life (>=Normal)",
+			"api_key": "57841",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51213.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51213_lock.png"
+		},
+		"57842": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "Supreme Force XXI (Jetpac)",
+			"description": "Finish Jetpac stage without losing a life (>=Normal)",
+			"api_key": "57842",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61137.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/61137_lock.png"
+		},
+		"57843": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "Supreme Force XXII (Vulkan)",
+			"description": "Finish Vulkan stage without losing a life (>=Normal)",
+			"api_key": "57843",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51214.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51214_lock.png"
+		},
+		"57844": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "Supreme Force XXIII (Island Lab)",
+			"description": "Finish Island Lab stage without losing a life (>=Normal)",
+			"api_key": "57844",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51216.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51216_lock.png"
+		},
+		"57845": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "Supreme Force XXIV (Island Lift)",
+			"description": "Finish Island Lift stage without losing a life (>=Normal)",
+			"api_key": "57845",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51217.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51217_lock.png"
+		},
+		"57846": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "Supreme Force XXV (Zeng)",
+			"description": "Finish Zeng stage without losing a life (>=Normal)",
+			"api_key": "57846",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51218.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51218_lock.png"
+		},
+		"50177": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "Absolute Force I (Truck Driver)",
+			"description": "Defeat Truck Driver having >= half bar of life left and not losing a life or healing",
+			"api_key": "50177",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51141.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51141_lock.png"
+		},
+		"50178": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "Absolute Force II (Exo)",
+			"description": "Defeat Exo having >= half bar of life left and not losing a life or healing",
+			"api_key": "50178",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51142.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51142_lock.png"
+		},
+		"50179": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "Absolute Force III (Jetpac)",
+			"description": "Defeat Jetpac having >= half bar of life left and not losing a life or healing",
+			"api_key": "50179",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51144.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51144_lock.png"
+		},
+		"50180": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "Absolute Force IV (Vulkan)",
+			"description": "Defeat Vulkan having >= half bar of life left and not losing a life or healing",
+			"api_key": "50180",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51146.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51146_lock.png"
+		},
+		"50181": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "Absolute Force V (Zeng)",
+			"description": "Defeat Zeng having >= half bar of life left and not losing a life or healing",
+			"api_key": "50181",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51148.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51148_lock.png"
+		},
+		"50174": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "Valiant Force",
+			"description": "Complete the game without using the special attack",
+			"api_key": "50174",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51153.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51153_lock.png"
+		},
+		"50182": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "Metal Fist",
+			"description": "Complete the game without losing a life",
+			"api_key": "50182",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51150.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51150_lock.png"
+		},
+		"50173": {
+			"release_per_platform_id": "n64_8456841E",
+			"name": "Maximum Force",
+			"description": "Finish the game on Hard difficulty",
+			"api_key": "50173",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51139.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51139_lock.png"
+		}
+	}
+}

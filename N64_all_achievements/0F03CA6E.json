@@ -1,0 +1,236 @@
+{
+	"Achievements": {
+		"47308": {
+			"release_per_platform_id": "n64_0F03CA6E",
+			"name": "Rings Dealer",
+			"description": "Collect 30 rings. (Ring Shot)",
+			"api_key": "47308",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/47940.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/47940_lock.png"
+		},
+		"47382": {
+			"release_per_platform_id": "n64_0F03CA6E",
+			"name": "Piranha Lover",
+			"description": "Get 20 points in Piranha Game.",
+			"api_key": "47382",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/47978.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/47978_lock.png"
+		},
+		"48349": {
+			"release_per_platform_id": "n64_0F03CA6E",
+			"name": "Ball Saver",
+			"description": "Collect 30 rings with 5 balls.",
+			"api_key": "48349",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49169.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49169_lock.png"
+		},
+		"48350": {
+			"release_per_platform_id": "n64_0F03CA6E",
+			"name": "Rings Collector",
+			"description": "Collect 50 rings. (Ring Shot)",
+			"api_key": "48350",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49170.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49170_lock.png"
+		},
+		"48351": {
+			"release_per_platform_id": "n64_0F03CA6E",
+			"name": "Match Winner",
+			"description": "Win a match.",
+			"api_key": "48351",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49172.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49172_lock.png"
+		},
+		"48352": {
+			"release_per_platform_id": "n64_0F03CA6E",
+			"name": "Intense Match",
+			"description": "Win a match against intense cpu.",
+			"api_key": "48352",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49174.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49174_lock.png"
+		},
+		"48405": {
+			"release_per_platform_id": "n64_0F03CA6E",
+			"name": "Mushroom Cup",
+			"description": "Win the mushroom cup.",
+			"api_key": "48405",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49230.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49230_lock.png"
+		},
+		"48406": {
+			"release_per_platform_id": "n64_0F03CA6E",
+			"name": "Flower Cup",
+			"description": "Win the flower cup.",
+			"api_key": "48406",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49229.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49229_lock.png"
+		},
+		"48407": {
+			"release_per_platform_id": "n64_0F03CA6E",
+			"name": "Service Expert",
+			"description": "Get 4 service aces",
+			"api_key": "48407",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49231.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49231_lock.png"
+		},
+		"48408": {
+			"release_per_platform_id": "n64_0F03CA6E",
+			"name": "Tiebreaker",
+			"description": "Win a tiebreak.",
+			"api_key": "48408",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49232.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49232_lock.png"
+		},
+		"48409": {
+			"release_per_platform_id": "n64_0F03CA6E",
+			"name": "Mushroom Cup Doubles",
+			"description": "Win the mushroom cup doubles.",
+			"api_key": "48409",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49233.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49233_lock.png"
+		},
+		"48410": {
+			"release_per_platform_id": "n64_0F03CA6E",
+			"name": "Flower Cup Doubles",
+			"description": "Win the flower cup doubles.",
+			"api_key": "48410",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49234.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49234_lock.png"
+		},
+		"48411": {
+			"release_per_platform_id": "n64_0F03CA6E",
+			"name": "Star Cup",
+			"description": "Win the star cup.",
+			"api_key": "48411",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49235.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49235_lock.png"
+		},
+		"48412": {
+			"release_per_platform_id": "n64_0F03CA6E",
+			"name": "Star Cup Doubles",
+			"description": "Win the star cup doubles.",
+			"api_key": "48412",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49236.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49236_lock.png"
+		},
+		"48518": {
+			"release_per_platform_id": "n64_0F03CA6E",
+			"name": "Mario Court",
+			"description": "Win the mushroom cup with Mario singles.",
+			"api_key": "48518",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49341.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49341_lock.png"
+		},
+		"48519": {
+			"release_per_platform_id": "n64_0F03CA6E",
+			"name": "Yoshi Court",
+			"description": "Win the mushroom cup with Yoshi singles.",
+			"api_key": "48519",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49342.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49342_lock.png"
+		},
+		"48520": {
+			"release_per_platform_id": "n64_0F03CA6E",
+			"name": "Wario Court",
+			"description": "Win the star cup with Wario.",
+			"api_key": "48520",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49343.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49343_lock.png"
+		},
+		"48521": {
+			"release_per_platform_id": "n64_0F03CA6E",
+			"name": "Donkey Kong Court",
+			"description": "Win the star cup with Donkey Kong singles.",
+			"api_key": "48521",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49344.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49344_lock.png"
+		},
+		"48522": {
+			"release_per_platform_id": "n64_0F03CA6E",
+			"name": "Birdo Court",
+			"description": "Win the star cup with Birdo singles.",
+			"api_key": "48522",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49345.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49345_lock.png"
+		},
+		"48523": {
+			"release_per_platform_id": "n64_0F03CA6E",
+			"name": "Bowser Game",
+			"description": "Win a match Bowser Game.",
+			"api_key": "48523",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49346.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49346_lock.png"
+		},
+		"48524": {
+			"release_per_platform_id": "n64_0F03CA6E",
+			"name": "Piranha Master",
+			"description": "Get at least 40 points in Piranha game",
+			"api_key": "48524",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49348.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49348_lock.png"
+		},
+		"48525": {
+			"release_per_platform_id": "n64_0F03CA6E",
+			"name": "Bowser Game Master",
+			"description": "Win a match Bowser Game against intense cpu.",
+			"api_key": "48525",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49349.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49349_lock.png"
+		},
+		"48526": {
+			"release_per_platform_id": "n64_0F03CA6E",
+			"name": "Peach Court",
+			"description": "Win the flower cup with Peach singles.",
+			"api_key": "48526",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49350.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49350_lock.png"
+		},
+		"48527": {
+			"release_per_platform_id": "n64_0F03CA6E",
+			"name": "Baby Mario Court",
+			"description": "Win the flower cup with Baby Mario singles.",
+			"api_key": "48527",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49351.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49351_lock.png"
+		},
+		"48528": {
+			"release_per_platform_id": "n64_0F03CA6E",
+			"name": "Service Master",
+			"description": "Get 8 service aces in match.",
+			"api_key": "48528",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49231.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49231_lock.png"
+		},
+		"48529": {
+			"release_per_platform_id": "n64_0F03CA6E",
+			"name": "Tiebreaker Expert",
+			"description": "Win a tiebreak with perfect score.",
+			"api_key": "48529",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49232.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49232_lock.png"
+		},
+		"48530": {
+			"release_per_platform_id": "n64_0F03CA6E",
+			"name": "Rings Master",
+			"description": "Collect 100 rings. (Ring Shot)",
+			"api_key": "48530",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49361.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49361_lock.png"
+		},
+		"48531": {
+			"release_per_platform_id": "n64_0F03CA6E",
+			"name": "Rings Expert",
+			"description": "Collect 70 rings. (Ring Shot)",
+			"api_key": "48531",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49360.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49360_lock.png"
+		},
+		"49102": {
+			"release_per_platform_id": "n64_0F03CA6E",
+			"name": "Secret Cup",
+			"description": "Win a secret cup.",
+			"api_key": "49102",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49882.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49882_lock.png"
+		}
+	}
+}

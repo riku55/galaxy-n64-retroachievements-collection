@@ -1,0 +1,572 @@
+{
+	"Achievements": {
+		"67221": {
+			"release_per_platform_id": "n64_0E0DC5A5",
+			"name": "Minion with a mission",
+			"description": "Beat Klungo (don't skip text)",
+			"api_key": "67221",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71058.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71058_lock.png"
+		},
+		"67222": {
+			"release_per_platform_id": "n64_0E0DC5A5",
+			"name": "Despotic Totem God",
+			"description": "Beat Targitzan (don't skip text)",
+			"api_key": "67222",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71059.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71059_lock.png"
+		},
+		"67223": {
+			"release_per_platform_id": "n64_0E0DC5A5",
+			"name": "Boiler Monarch",
+			"description": "Beat Old King Coal (don't skip text)",
+			"api_key": "67223",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71060.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71060_lock.png"
+		},
+		"67224": {
+			"release_per_platform_id": "n64_0E0DC5A5",
+			"name": "Strange Inflatable Thing",
+			"description": "Beat Mr. Patch (don't skip text)",
+			"api_key": "67224",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71061.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71061_lock.png"
+		},
+		"67225": {
+			"release_per_platform_id": "n64_0E0DC5A5",
+			"name": "Important Anglerfish",
+			"description": "Beat Lord Woo Fak Fak (don't skip text)",
+			"api_key": "67225",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71062.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71062_lock.png"
+		},
+		"67226": {
+			"release_per_platform_id": "n64_0E0DC5A5",
+			"name": "Disgruntled Pterodactyl",
+			"description": "Beat Terry (don't skip text)",
+			"api_key": "67226",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71063.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71063_lock.png"
+		},
+		"67227": {
+			"release_per_platform_id": "n64_0E0DC5A5",
+			"name": "Impaired Welding Torch",
+			"description": "Beat Weldar (don't skip text)",
+			"api_key": "67227",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71064.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71064_lock.png"
+		},
+		"67228": {
+			"release_per_platform_id": "n64_0E0DC5A5",
+			"name": "Hot 'N' Spicy Dragon",
+			"description": "Beat Chilly Willy and Chilli Billi (don't skip text)",
+			"api_key": "67228",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71065.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71065_lock.png"
+		},
+		"67229": {
+			"release_per_platform_id": "n64_0E0DC5A5",
+			"name": "Shaman Impersonator",
+			"description": "Beat Mingy Jongo (don't skip text)",
+			"api_key": "67229",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71066.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71066_lock.png"
+		},
+		"67230": {
+			"release_per_platform_id": "n64_0E0DC5A5",
+			"name": "Mechanical Mud-Muncher",
+			"description": "Beat the HAG 1 (don't skip text)",
+			"api_key": "67230",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71067.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71067_lock.png"
+		},
+		"67231": {
+			"release_per_platform_id": "n64_0E0DC5A5",
+			"name": "Just the local Jiggy hunters",
+			"description": "Get 10 Jiggies",
+			"api_key": "67231",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71179.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71179_lock.png"
+		},
+		"67232": {
+			"release_per_platform_id": "n64_0E0DC5A5",
+			"name": "Hey...It's me, Mr. Jiggy",
+			"description": "Get 25 Jiggies",
+			"api_key": "67232",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71180.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71180_lock.png"
+		},
+		"67233": {
+			"release_per_platform_id": "n64_0E0DC5A5",
+			"name": "Something like a collection",
+			"description": "Get 45 Jiggies",
+			"api_key": "67233",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71181.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71181_lock.png"
+		},
+		"67234": {
+			"release_per_platform_id": "n64_0E0DC5A5",
+			"name": "Behold the power of the mighty Jiggywiggy",
+			"description": "Get 70 Jiggies",
+			"api_key": "67234",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71071.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71071_lock.png"
+		},
+		"67235": {
+			"release_per_platform_id": "n64_0E0DC5A5",
+			"name": "Jinjo!",
+			"description": "Save a jinjo (don't skip text)",
+			"api_key": "67235",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71098.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71098_lock.png"
+		},
+		"67236": {
+			"release_per_platform_id": "n64_0E0DC5A5",
+			"name": "Banjo-Soolie",
+			"description": "Learn the Split-Up ability (don't skip text)",
+			"api_key": "67236",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71099.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71099_lock.png"
+		},
+		"67238": {
+			"release_per_platform_id": "n64_0E0DC5A5",
+			"name": "Music Notes",
+			"description": "Get all Music Notes",
+			"api_key": "67238",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71097.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71097_lock.png"
+		},
+		"67239": {
+			"release_per_platform_id": "n64_0E0DC5A5",
+			"name": "A bee, not a wasp!",
+			"description": "Get Max Honeycombs",
+			"api_key": "67239",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71073.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71073_lock.png"
+		},
+		"67240": {
+			"release_per_platform_id": "n64_0E0DC5A5",
+			"name": "Targitzan's Temple Challenge*",
+			"description": "Get all statues at Targitzan Temple in 1m33s or less (don't skip text)",
+			"api_key": "67240",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71074.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71074_lock.png"
+		},
+		"67241": {
+			"release_per_platform_id": "n64_0E0DC5A5",
+			"name": "Ordnance Storage Challenge",
+			"description": "At Ordnance Storage, deactivate all TNTs in 110 secs or less (don't skip text)",
+			"api_key": "67241",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71075.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71075_lock.png"
+		},
+		"67242": {
+			"release_per_platform_id": "n64_0E0DC5A5",
+			"name": "Clinker's Cavern Challenge",
+			"description": "At Clinker's Cavern, clean all ventilations in 105 secs or less (don't skip text)",
+			"api_key": "67242",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71076.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71076_lock.png"
+		},
+		"67243": {
+			"release_per_platform_id": "n64_0E0DC5A5",
+			"name": "Mayan Kickball",
+			"description": "In a Mayan Kickball finals game score 20 points or more (only from replay mode)(don't skip text)",
+			"api_key": "67243",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71090.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71090_lock.png"
+		},
+		"67244": {
+			"release_per_platform_id": "n64_0E0DC5A5",
+			"name": "Balloon Burst",
+			"description": "In a Balloon Burst game score more than 70 points",
+			"api_key": "67244",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71079.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71079_lock.png"
+		},
+		"67245": {
+			"release_per_platform_id": "n64_0E0DC5A5",
+			"name": "Hoop Hurry",
+			"description": "In a Hoop Hurry game score 64 points or more",
+			"api_key": "67245",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71078.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71078_lock.png"
+		},
+		"67246": {
+			"release_per_platform_id": "n64_0E0DC5A5",
+			"name": "Dodgem Challenge",
+			"description": "In a Dodgems Challenge (3v1) game get 50 points or more (don't skip text)",
+			"api_key": "67246",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71089.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71089_lock.png"
+		},
+		"67247": {
+			"release_per_platform_id": "n64_0E0DC5A5",
+			"name": "Saucer of Peril",
+			"description": "In a Saucer game score 600 points or more",
+			"api_key": "67247",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71081.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71081_lock.png"
+		},
+		"67248": {
+			"release_per_platform_id": "n64_0E0DC5A5",
+			"name": "Submarine",
+			"description": "In a mini-sub game score 90 points or more",
+			"api_key": "67248",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71083.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71083_lock.png"
+		},
+		"67249": {
+			"release_per_platform_id": "n64_0E0DC5A5",
+			"name": "Chompasaurus",
+			"description": "In a Chompa's belly game score 100 points or more",
+			"api_key": "67249",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71082.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71082_lock.png"
+		},
+		"67250": {
+			"release_per_platform_id": "n64_0E0DC5A5",
+			"name": "May the worst win",
+			"description": "Win at Kickball colosseum Finals with 0 points (only from replay mode)(don't skip text)",
+			"api_key": "67250",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71084.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71084_lock.png"
+		},
+		"67251": {
+			"release_per_platform_id": "n64_0E0DC5A5",
+			"name": "Guffo's Trash Can",
+			"description": "In a Trash Can Germs game score 70 points or more",
+			"api_key": "67251",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71085.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71085_lock.png"
+		},
+		"67252": {
+			"release_per_platform_id": "n64_0E0DC5A5",
+			"name": "Pot O' Gold",
+			"description": "In a Pot O' Gold game score 100 points",
+			"api_key": "67252",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71086.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71086_lock.png"
+		},
+		"67253": {
+			"release_per_platform_id": "n64_0E0DC5A5",
+			"name": "Zubbas Hive",
+			"description": "In a Zubbas' Hive game score 70 points or more",
+			"api_key": "67253",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71087.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71087_lock.png"
+		},
+		"67254": {
+			"release_per_platform_id": "n64_0E0DC5A5",
+			"name": "Tower of Tragedy",
+			"description": "In a Tower of Tragedy game score 26 points (any round)",
+			"api_key": "67254",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71088.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71088_lock.png"
+		},
+		"67255": {
+			"release_per_platform_id": "n64_0E0DC5A5",
+			"name": "Ready for some Jiggies",
+			"description": "Earn the ability to read Jiggywiggy signs (don't skip text)",
+			"api_key": "67255",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71091.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71091_lock.png"
+		},
+		"67256": {
+			"release_per_platform_id": "n64_0E0DC5A5",
+			"name": "The fish is man's best friend",
+			"description": "Learn how to swim faster (don't skip text)",
+			"api_key": "67256",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71092.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71092_lock.png"
+		},
+		"67257": {
+			"release_per_platform_id": "n64_0E0DC5A5",
+			"name": "Dancing all night",
+			"description": "Get the cheat to fix the Jukebox (don't skip text)",
+			"api_key": "67257",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71100.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71100_lock.png"
+		},
+		"67258": {
+			"release_per_platform_id": "n64_0E0DC5A5",
+			"name": "The Death Egg",
+			"description": "Get the cheat for Homing Eggs (don't skip text)",
+			"api_key": "67258",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71093.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71093_lock.png"
+		},
+		"67259": {
+			"release_per_platform_id": "n64_0E0DC5A5",
+			"name": "Breegull Bash",
+			"description": "Give the Pink egg to Heggy and learn \"a new move\" (don't skip text)",
+			"api_key": "67259",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71094.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71094_lock.png"
+		},
+		"67260": {
+			"release_per_platform_id": "n64_0E0DC5A5",
+			"name": "Jingaling",
+			"description": "Hatch a yellow egg (don't skip text)",
+			"api_key": "67260",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71095.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71095_lock.png"
+		},
+		"67261": {
+			"release_per_platform_id": "n64_0E0DC5A5",
+			"name": "Banjo-Dragooie",
+			"description": "Get Dragon Kazooie (don't skip text)",
+			"api_key": "67261",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71096.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71096_lock.png"
+		},
+		"67262": {
+			"release_per_platform_id": "n64_0E0DC5A5",
+			"name": "Mayan god of target shooting",
+			"description": "Beat Targitzan without taking damage (only from replay mode)(don't skip text)",
+			"api_key": "67262",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71101.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71101_lock.png"
+		},
+		"67263": {
+			"release_per_platform_id": "n64_0E0DC5A5",
+			"name": "We should sit down and talk about this",
+			"description": "Beat Old King Coal without taking damage (only from replay mode)(don't skip text)",
+			"api_key": "67263",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71102.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71102_lock.png"
+		},
+		"67264": {
+			"release_per_platform_id": "n64_0E0DC5A5",
+			"name": "Oh dear, not more intruders!",
+			"description": "Beat Mr. Patch without taking damage (only from replay mode)(don't skip text)",
+			"api_key": "67264",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71103.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71103_lock.png"
+		},
+		"67265": {
+			"release_per_platform_id": "n64_0E0DC5A5",
+			"name": "Me precious boils!",
+			"description": "Beat Lord Woo Fak Fak without taking damage (only from replay mode)(don't skip text)",
+			"api_key": "67265",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71104.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71104_lock.png"
+		},
+		"67266": {
+			"release_per_platform_id": "n64_0E0DC5A5",
+			"name": "You're due to be extinct soon",
+			"description": "Beat Terry without taking damage (only from replay mode)(don't skip text)",
+			"api_key": "67266",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71105.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71105_lock.png"
+		},
+		"67267": {
+			"release_per_platform_id": "n64_0E0DC5A5",
+			"name": "Heading for the recycling plant",
+			"description": "Beat Weldar without taking damage (only from replay mode)(don't skip text)",
+			"api_key": "67267",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71106.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71106_lock.png"
+		},
+		"67268": {
+			"release_per_platform_id": "n64_0E0DC5A5",
+			"name": "You must be the pizza delivery boy",
+			"description": "Beat Chilly Willy without taking damage (only from replay mode)(don't skip text)",
+			"api_key": "67268",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71107.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71107_lock.png"
+		},
+		"83298": {
+			"release_per_platform_id": "n64_0E0DC5A5",
+			"name": "Leave that to Mamma-Mia Bros.",
+			"description": "Beat Chilly Willy without pressing the A Button (only from replay mode)(don't skip text)",
+			"api_key": "83298",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/90342.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/90342_lock.png"
+		},
+		"67269": {
+			"release_per_platform_id": "n64_0E0DC5A5",
+			"name": "Evil cybotic-ness",
+			"description": "Beat Mingy Jongo without taking damage (only from replay mode)(don't skip text)",
+			"api_key": "67269",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71108.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71108_lock.png"
+		},
+		"67271": {
+			"release_per_platform_id": "n64_0E0DC5A5",
+			"name": "Aww, isn't it cute?*",
+			"description": "Hatch all Terry eggs in 7m14s or less (To start reenter Terrydactiland)(Don't skip dialogs)",
+			"api_key": "67271",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71110.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71110_lock.png"
+		},
+		"67270": {
+			"release_per_platform_id": "n64_0E0DC5A5",
+			"name": "Piece of cake*",
+			"description": "At Grunty Industries Trash Compartitor grab the Jiggie without being harm (No Z Button)(To reset reenter the area)",
+			"api_key": "67270",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71109.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71109_lock.png"
+		},
+		"67272": {
+			"release_per_platform_id": "n64_0E0DC5A5",
+			"name": "6x6*",
+			"description": "Wash all 6 rabbits uniforms in 6 mins or less (timer start after you leave Wumba)(Don't skip rabbits dialogs)",
+			"api_key": "67272",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71111.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71111_lock.png"
+		},
+		"67273": {
+			"release_per_platform_id": "n64_0E0DC5A5",
+			"name": "Lava World*",
+			"description": "At Fireside press all 3 buttons and grab the Jiggy in 3m40s or less (To start reenter Hailfire)",
+			"api_key": "67273",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71112.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71112_lock.png"
+		},
+		"67274": {
+			"release_per_platform_id": "n64_0E0DC5A5",
+			"name": "Proud father*",
+			"description": "Help all three alien kids in 6m34s or less (To start reenter Hailfire)(Don't skip dialogs)",
+			"api_key": "67274",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71113.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71113_lock.png"
+		},
+		"67275": {
+			"release_per_platform_id": "n64_0E0DC5A5",
+			"name": "Nineteen Eighty-Four*",
+			"description": "Press all 4 safe buttons at Cuckooland in 4m30s or less (To start reenter Cuckooland)(Don't skip dialogs)",
+			"api_key": "67275",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71114.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71114_lock.png"
+		},
+		"67276": {
+			"release_per_platform_id": "n64_0E0DC5A5",
+			"name": "Eyeballus Jiggium Plant*",
+			"description": "At Cuckooland destroy all eye plants at 1 min or less (timer start after you leave Wumba)(don't skip text)",
+			"api_key": "67276",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71115.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71115_lock.png"
+		},
+		"67277": {
+			"release_per_platform_id": "n64_0E0DC5A5",
+			"name": "You are indeed the chosen one!",
+			"description": "Complete Jiggywiggy's super special challenge with 10 secs left or more (don't skip text)",
+			"api_key": "67277",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71116.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71116_lock.png"
+		},
+		"67278": {
+			"release_per_platform_id": "n64_0E0DC5A5",
+			"name": "Looks like trouble...",
+			"description": "Beat Mr. Patch without using the flying pad a single time (only on replay mode)(don't skip text)",
+			"api_key": "67278",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71117.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71117_lock.png"
+		},
+		"67279": {
+			"release_per_platform_id": "n64_0E0DC5A5",
+			"name": "Crispy Bacon*",
+			"description": "At Temple of the Fishes, defend Chris shooting only 15 blue eggs (No Unlimited Eggs cheat)(don't skip text)",
+			"api_key": "67279",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71118.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71118_lock.png"
+		},
+		"67290": {
+			"release_per_platform_id": "n64_0E0DC5A5",
+			"name": "Haunted Cavern",
+			"description": "Pass through Haunted Cavern without being harm and without using fire eggs (Cheat Protected)",
+			"api_key": "67290",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71129.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71129_lock.png"
+		},
+		"67280": {
+			"release_per_platform_id": "n64_0E0DC5A5",
+			"name": "Kazoo-Kazooie",
+			"description": "At Grunty Industries Basement reach to the Banjo button as Kazooie (No Z button, No acid water exploit)",
+			"api_key": "67280",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71119.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71119_lock.png"
+		},
+		"67289": {
+			"release_per_platform_id": "n64_0E0DC5A5",
+			"name": "Metal Banjo",
+			"description": "At Crushing Shed, press the red button without being harm (Cheat Protected)",
+			"api_key": "67289",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71128.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71128_lock.png"
+		},
+		"83369": {
+			"release_per_platform_id": "n64_0E0DC5A5",
+			"name": "The power of briefs",
+			"description": "Destroy a security camera using underwear",
+			"api_key": "83369",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/90344.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/90344_lock.png"
+		},
+		"83370": {
+			"release_per_platform_id": "n64_0E0DC5A5",
+			"name": "Calamari Bonanza",
+			"description": "Don't be suckered! You'll have to freeze every single octopi",
+			"api_key": "83370",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/90345.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/90345_lock.png"
+		},
+		"67281": {
+			"release_per_platform_id": "n64_0E0DC5A5",
+			"name": "Rainbow Road",
+			"description": "Enter Pot O'Gold without using the rainbow or flying pads (to restart go back to the central cavern)",
+			"api_key": "67281",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71650.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71650_lock.png"
+		},
+		"67282": {
+			"release_per_platform_id": "n64_0E0DC5A5",
+			"name": "Even better than Phelps",
+			"description": "Do a inverted dive at Witchyworld swimming pool",
+			"api_key": "67282",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71121.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71121_lock.png"
+		},
+		"67283": {
+			"release_per_platform_id": "n64_0E0DC5A5",
+			"name": "Do you have an idea of how much they cost?!*",
+			"description": "Get a Free Room at Jolly Roger's (don't skip text)",
+			"api_key": "67283",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71122.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71122_lock.png"
+		},
+		"67284": {
+			"release_per_platform_id": "n64_0E0DC5A5",
+			"name": "Lord Ke Kaz Kaz",
+			"description": "Attack Lord Woo Fak Fak just one more time (don't skip text)",
+			"api_key": "67284",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71123.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71123_lock.png"
+		},
+		"67285": {
+			"release_per_platform_id": "n64_0E0DC5A5",
+			"name": "The dinner has already cooled",
+			"description": "Kill an ice cube (don't skip text)",
+			"api_key": "67285",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71124.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71124_lock.png"
+		},
+		"67286": {
+			"release_per_platform_id": "n64_0E0DC5A5",
+			"name": "Humba-Mumbo",
+			"description": "Get Wumba scold Mumbo at her house (don't skip text)",
+			"api_key": "67286",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71125.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71125_lock.png"
+		},
+		"67287": {
+			"release_per_platform_id": "n64_0E0DC5A5",
+			"name": "Until Threeie",
+			"description": "Get all Jiggies and unlock character parade",
+			"api_key": "67287",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71126.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71126_lock.png"
+		}
+	}
+}

@@ -1,0 +1,580 @@
+{
+	"Achievements": {
+		"79852": {
+			"release_per_platform_id": "n64_72F66F05",
+			"name": "Bring Your Pokemon to Work Day",
+			"description": "Win a Stadium or Gym Leader Castle battle using only Pokemon from a Red, Blue or Yellow game",
+			"api_key": "79852",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85913.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85913_lock.png"
+		},
+		"79853": {
+			"release_per_platform_id": "n64_72F66F05",
+			"name": "Take Me With You",
+			"description": "Transfer a Pokemon from Oak's prize pokeball to a Red, Blue or Yellow game",
+			"api_key": "79853",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85918.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85918_lock.png"
+		},
+		"79854": {
+			"release_per_platform_id": "n64_72F66F05",
+			"name": "Thirsty for Battle",
+			"description": "Defeat Red in 1P \"Battle Now!\"",
+			"api_key": "79854",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85910.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85910_lock.png"
+		},
+		"79855": {
+			"release_per_platform_id": "n64_72F66F05",
+			"name": "Brock",
+			"description": "Defeat Pewter Gym Leader Brock",
+			"api_key": "79855",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85847.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85847_lock.png"
+		},
+		"79856": {
+			"release_per_platform_id": "n64_72F66F05",
+			"name": "Misty",
+			"description": "Defeat Cerulean Gym Leader Misty",
+			"api_key": "79856",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85849.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85849_lock.png"
+		},
+		"79857": {
+			"release_per_platform_id": "n64_72F66F05",
+			"name": "Surge",
+			"description": "Defeat Vermilion Gym Leader Surge",
+			"api_key": "79857",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85851.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85851_lock.png"
+		},
+		"79858": {
+			"release_per_platform_id": "n64_72F66F05",
+			"name": "Erika",
+			"description": "Defeat Celadon Gym Leader Erika",
+			"api_key": "79858",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85853.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85853_lock.png"
+		},
+		"79859": {
+			"release_per_platform_id": "n64_72F66F05",
+			"name": "Koga",
+			"description": "Defeat Fuchsia Gym Leader Koga",
+			"api_key": "79859",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85855.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85855_lock.png"
+		},
+		"79860": {
+			"release_per_platform_id": "n64_72F66F05",
+			"name": "Sabrina",
+			"description": "Defeat Saffron Gym Leader Sabrina",
+			"api_key": "79860",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85857.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85857_lock.png"
+		},
+		"79861": {
+			"release_per_platform_id": "n64_72F66F05",
+			"name": "Blaine",
+			"description": "Defeat Cinnabar Gym Leader Blaine",
+			"api_key": "79861",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85859.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85859_lock.png"
+		},
+		"79862": {
+			"release_per_platform_id": "n64_72F66F05",
+			"name": "Giovani",
+			"description": "Defeat Viridian Gym Leader Giovani",
+			"api_key": "79862",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85861.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85861_lock.png"
+		},
+		"79863": {
+			"release_per_platform_id": "n64_72F66F05",
+			"name": "The Very Best",
+			"description": "Defeat the Elite Four and your Rival",
+			"api_key": "79863",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85863.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85863_lock.png"
+		},
+		"79864": {
+			"release_per_platform_id": "n64_72F66F05",
+			"name": "Petit Cup",
+			"description": "Win the Petit Cup",
+			"api_key": "79864",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85865.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85865_lock.png"
+		},
+		"79865": {
+			"release_per_platform_id": "n64_72F66F05",
+			"name": "Pika Cup",
+			"description": "Win the Pika Cup",
+			"api_key": "79865",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85866.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85866_lock.png"
+		},
+		"79866": {
+			"release_per_platform_id": "n64_72F66F05",
+			"name": "Poke Ball Poke Cup",
+			"description": "Win the Poke Ball Poke Cup",
+			"api_key": "79866",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85867.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85867_lock.png"
+		},
+		"79867": {
+			"release_per_platform_id": "n64_72F66F05",
+			"name": "Great Ball Poke Cup",
+			"description": "Win the Great Ball Poke Cup",
+			"api_key": "79867",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85868.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85868_lock.png"
+		},
+		"79868": {
+			"release_per_platform_id": "n64_72F66F05",
+			"name": "Ultra Ball Poke Cup",
+			"description": "Win the Ultra Ball Poke Cup",
+			"api_key": "79868",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85869.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85869_lock.png"
+		},
+		"79869": {
+			"release_per_platform_id": "n64_72F66F05",
+			"name": "Master Ball Poke Cup",
+			"description": "Win the Master Ball Poke Cup",
+			"api_key": "79869",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85870.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85870_lock.png"
+		},
+		"79870": {
+			"release_per_platform_id": "n64_72F66F05",
+			"name": "Poke Ball Prime Cup",
+			"description": "Win the Poke Ball Prime Cup",
+			"api_key": "79870",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85871.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85871_lock.png"
+		},
+		"79871": {
+			"release_per_platform_id": "n64_72F66F05",
+			"name": "Great Ball Prime Cup",
+			"description": "Win the Great Ball Prime Cup",
+			"api_key": "79871",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85872.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85872_lock.png"
+		},
+		"79872": {
+			"release_per_platform_id": "n64_72F66F05",
+			"name": "Ultra Ball Prime Cup",
+			"description": "Win the Ultra Ball Prime Cup",
+			"api_key": "79872",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85873.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85873_lock.png"
+		},
+		"79873": {
+			"release_per_platform_id": "n64_72F66F05",
+			"name": "Master Ball Prime Cup",
+			"description": "Win the Master Ball Prime Cup",
+			"api_key": "79873",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85874.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85874_lock.png"
+		},
+		"79874": {
+			"release_per_platform_id": "n64_72F66F05",
+			"name": "The Ultimate Pokemon",
+			"description": "Defeat Mewtwo",
+			"api_key": "79874",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85885.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85885_lock.png"
+		},
+		"79875": {
+			"release_per_platform_id": "n64_72F66F05",
+			"name": "Right Here, Right Now",
+			"description": "Defeat Yellow in 1P \"Battle Now!\" Round 2",
+			"api_key": "79875",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85911.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85911_lock.png"
+		},
+		"79876": {
+			"release_per_platform_id": "n64_72F66F05",
+			"name": "Brock R-2",
+			"description": "Defeat Pewter Gym Leader Brock in Round 2",
+			"api_key": "79876",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85848.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85848_lock.png"
+		},
+		"79877": {
+			"release_per_platform_id": "n64_72F66F05",
+			"name": "Misty R-2",
+			"description": "Defeat Cerulean Gym Leader Misty in Round 2",
+			"api_key": "79877",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85850.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85850_lock.png"
+		},
+		"79878": {
+			"release_per_platform_id": "n64_72F66F05",
+			"name": "Surge R-2",
+			"description": "Defeat Vermilion Gym Leader Surge in Round 2",
+			"api_key": "79878",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85852.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85852_lock.png"
+		},
+		"79879": {
+			"release_per_platform_id": "n64_72F66F05",
+			"name": "Erika R-2",
+			"description": "Defeat Celadon Gym Leader Erika in Round 2",
+			"api_key": "79879",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85854.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85854_lock.png"
+		},
+		"79880": {
+			"release_per_platform_id": "n64_72F66F05",
+			"name": "Koga R-2",
+			"description": "Defeat Fuchsia Gym Leader Koga in Round 2",
+			"api_key": "79880",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85856.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85856_lock.png"
+		},
+		"79881": {
+			"release_per_platform_id": "n64_72F66F05",
+			"name": "Sabrina R-2",
+			"description": "Defeat Saffron Gym Leader Sabrina in Round 2",
+			"api_key": "79881",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85858.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85858_lock.png"
+		},
+		"79882": {
+			"release_per_platform_id": "n64_72F66F05",
+			"name": "Blaine R-2",
+			"description": "Defeat Cinnabar Gym Leader Blaine in Round 2",
+			"api_key": "79882",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85860.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85860_lock.png"
+		},
+		"79883": {
+			"release_per_platform_id": "n64_72F66F05",
+			"name": "Giovani R-2",
+			"description": "Defeat Viridian Gym Leader Giovani in Round 2",
+			"api_key": "79883",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85862.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85862_lock.png"
+		},
+		"79884": {
+			"release_per_platform_id": "n64_72F66F05",
+			"name": "The Very Best R-2",
+			"description": "Defeat the Elite Four and your Rival in Round 2",
+			"api_key": "79884",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85864.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85864_lock.png"
+		},
+		"79885": {
+			"release_per_platform_id": "n64_72F66F05",
+			"name": "Pika Cup R-2",
+			"description": "Win the Pika Cup in Round 2",
+			"api_key": "79885",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85876.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85876_lock.png"
+		},
+		"79886": {
+			"release_per_platform_id": "n64_72F66F05",
+			"name": "Petit Cup R-2",
+			"description": "Win the Petit Cup in Round 2",
+			"api_key": "79886",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85875.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85875_lock.png"
+		},
+		"79887": {
+			"release_per_platform_id": "n64_72F66F05",
+			"name": "Poke Ball Poke Cup R-2",
+			"description": "Win the Poke Ball Poke Cup in Round 2",
+			"api_key": "79887",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85877.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85877_lock.png"
+		},
+		"79888": {
+			"release_per_platform_id": "n64_72F66F05",
+			"name": "Great Ball Poke Cup R-2",
+			"description": "Win the Great Ball Poke Cup in Round 2",
+			"api_key": "79888",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85878.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85878_lock.png"
+		},
+		"79889": {
+			"release_per_platform_id": "n64_72F66F05",
+			"name": "Ultra Ball Poke Cup R-2",
+			"description": "Win the Ultra Ball Poke Cup in Round 2",
+			"api_key": "79889",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85879.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85879_lock.png"
+		},
+		"79890": {
+			"release_per_platform_id": "n64_72F66F05",
+			"name": "Master Ball Poke Cup R-2",
+			"description": "Win the Master Ball Poke Cup in Round 2",
+			"api_key": "79890",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85880.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85880_lock.png"
+		},
+		"79891": {
+			"release_per_platform_id": "n64_72F66F05",
+			"name": "Poke Ball Prime Cup R-2",
+			"description": "Win the Poke Ball Prime Cup in Round 2",
+			"api_key": "79891",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85881.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85881_lock.png"
+		},
+		"79892": {
+			"release_per_platform_id": "n64_72F66F05",
+			"name": "Great Ball Prime Cup R-2",
+			"description": "Win the Great Ball Prime Cup in Round 2",
+			"api_key": "79892",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85882.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85882_lock.png"
+		},
+		"79893": {
+			"release_per_platform_id": "n64_72F66F05",
+			"name": "Ultra Ball Prime Cup R-2",
+			"description": "Win the Ultra Ball Prime Cup in Round 2",
+			"api_key": "79893",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85883.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85883_lock.png"
+		},
+		"79894": {
+			"release_per_platform_id": "n64_72F66F05",
+			"name": "Master Ball Prime Cup R-2",
+			"description": "Win the Master Ball Prime Cup in Round 2",
+			"api_key": "79894",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85884.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85884_lock.png"
+		},
+		"79895": {
+			"release_per_platform_id": "n64_72F66F05",
+			"name": "The Ultimate Pokemon R-2",
+			"description": "Defeat Mewtwo in Round 2",
+			"api_key": "79895",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85886.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85886_lock.png"
+		},
+		"79896": {
+			"release_per_platform_id": "n64_72F66F05",
+			"name": "Bored Medical Team",
+			"description": "Win a cup using only rental Pokemon and not letting a single one faint",
+			"api_key": "79896",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85887.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85887_lock.png"
+		},
+		"79897": {
+			"release_per_platform_id": "n64_72F66F05",
+			"name": "Petit Cup for Rent",
+			"description": "Win the Petit Cup in Round 2 using only rental Pokemon",
+			"api_key": "79897",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85905.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85905_lock.png"
+		},
+		"79898": {
+			"release_per_platform_id": "n64_72F66F05",
+			"name": "Pika Cup for Rent",
+			"description": "Win the Pika Cup in Round 2 using only rental Pokemon",
+			"api_key": "79898",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85906.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85906_lock.png"
+		},
+		"79899": {
+			"release_per_platform_id": "n64_72F66F05",
+			"name": "Poke Cup for Rent",
+			"description": "Win the Master Ball Poke Cup in Round 2 using only rental Pokemon",
+			"api_key": "79899",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85907.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85907_lock.png"
+		},
+		"79900": {
+			"release_per_platform_id": "n64_72F66F05",
+			"name": "Prime Cup for Rent",
+			"description": "Win the Master Ball Prime Cup in Round 2 using only rental Pokemon",
+			"api_key": "79900",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85908.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85908_lock.png"
+		},
+		"79901": {
+			"release_per_platform_id": "n64_72F66F05",
+			"name": "Rental Champion",
+			"description": "Defeat the Elite Four and your Rival in Round 2 using only rental Pokemon",
+			"api_key": "79901",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85909.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85909_lock.png"
+		},
+		"79902": {
+			"release_per_platform_id": "n64_72F66F05",
+			"name": "What's a Lapras to a Pikachu?",
+			"description": "Teach Surf to a Pikachu as the reward for using it in every battle of a Master Ball Prime Cup R-2 win",
+			"api_key": "79902",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85914.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85914_lock.png"
+		},
+		"79903": {
+			"release_per_platform_id": "n64_72F66F05",
+			"name": "Rent-a-Mew",
+			"description": "Defeat Mewtwo in Round 2 using only rental Pokemon and having Mew deliver the final blow",
+			"api_key": "79903",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85888.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85888_lock.png"
+		},
+		"79904": {
+			"release_per_platform_id": "n64_72F66F05",
+			"name": "The Ultimate Reward!",
+			"description": "Go to the gallery and obtain your reward for beating the whole game",
+			"api_key": "79904",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85890.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85890_lock.png"
+		},
+		"79905": {
+			"release_per_platform_id": "n64_72F66F05",
+			"name": "House Advantage",
+			"description": "Lose a Stadium or Gym Leader Castle battle even though all enemy pokemon have fainted",
+			"api_key": "79905",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85889.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85889_lock.png"
+		},
+		"79906": {
+			"release_per_platform_id": "n64_72F66F05",
+			"name": "The Struggle is Real",
+			"description": "Get an opposing Pokemon to knock itself out with Struggle in a Stadium or Gym Leader Castle battle",
+			"api_key": "79906",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85891.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85891_lock.png"
+		},
+		"79907": {
+			"release_per_platform_id": "n64_72F66F05",
+			"name": "Raised Him Myself",
+			"description": "Register Mewtwo into the Hall of Fame",
+			"api_key": "79907",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85917.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85917_lock.png"
+		},
+		"79908": {
+			"release_per_platform_id": "n64_72F66F05",
+			"name": "A Respectable Start",
+			"description": "Register 50 Pokemon in the Hall of Fame",
+			"api_key": "79908",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85915.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85915_lock.png"
+		},
+		"79909": {
+			"release_per_platform_id": "n64_72F66F05",
+			"name": "Most of the Way There",
+			"description": "Register 100 Pokemon in the Hall of Fame",
+			"api_key": "79909",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85916.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85916_lock.png"
+		},
+		"79910": {
+			"release_per_platform_id": "n64_72F66F05",
+			"name": "It's All a Blur",
+			"description": "Get an Amnesia Psyduck for registering 151 Pokemon in the Hall of Fame",
+			"api_key": "79910",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85912.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85912_lock.png"
+		},
+		"79911": {
+			"release_per_platform_id": "n64_72F66F05",
+			"name": "Fish out of Water",
+			"description": "Win Magikarp's Splash with 30+ points (as 1P vs 3 Hard COMs, no pausing)",
+			"api_key": "79911",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86593.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86593_lock.png"
+		},
+		"79912": {
+			"release_per_platform_id": "n64_72F66F05",
+			"name": "Honor Student",
+			"description": "Win Clefairy Says without making a single mistake (as 1P vs 3 Hard COMs, no pausing)",
+			"api_key": "79912",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86594.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86594_lock.png"
+		},
+		"79913": {
+			"release_per_platform_id": "n64_72F66F05",
+			"name": "Rat Race",
+			"description": "Win \"Run, Rattata, Run\" without hitting a single hurdle (as 1P vs 3 Hard COMs, no pausing)",
+			"api_key": "79913",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86595.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86595_lock.png"
+		},
+		"79914": {
+			"release_per_platform_id": "n64_72F66F05",
+			"name": "Hypnotherapy",
+			"description": "Win Snore War without missing more than 5 Hypnosis (as 1P vs 3 Hard COMs, no pausing)",
+			"api_key": "79914",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86596.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86596_lock.png"
+		},
+		"79915": {
+			"release_per_platform_id": "n64_72F66F05",
+			"name": "Lightning Fast",
+			"description": "Win Thundering Dynamo in 8 seconds or less (as 1P vs 3 Hard COMs, no pausing)",
+			"api_key": "79915",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86597.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86597_lock.png"
+		},
+		"79916": {
+			"release_per_platform_id": "n64_72F66F05",
+			"name": "No Chopsticks Required",
+			"description": "Win Sushi-Go-Round having spent 12.000+ poke dollars (as 1P vs 3 Hard COMs, no pausing)",
+			"api_key": "79916",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86598.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86598_lock.png"
+		},
+		"79917": {
+			"release_per_platform_id": "n64_72F66F05",
+			"name": "Shoot Some Hoops",
+			"description": "Win Ekans' Hoop Hurl with a 15+ score (as 1P vs 3 Hard COMs, no pausing)",
+			"api_key": "79917",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86599.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86599_lock.png"
+		},
+		"79918": {
+			"release_per_platform_id": "n64_72F66F05",
+			"name": "Tough It Out",
+			"description": "Win Rock Harden with 50%+ HP left (as 1P vs 3 Hard COMs, no pausing)",
+			"api_key": "79918",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86600.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86600_lock.png"
+		},
+		"79919": {
+			"release_per_platform_id": "n64_72F66F05",
+			"name": "Water at the End of the Tunnel",
+			"description": "Win \"Dig! Dig! Dig!\" in 6.5 seconds or less (as 1P vs 3 Hard COMs, no pausing)",
+			"api_key": "79919",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86601.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86601_lock.png"
+		},
+		"79920": {
+			"release_per_platform_id": "n64_72F66F05",
+			"name": "COM Sweep",
+			"description": "Win \"Who's the best?\" after 9 wins as 1P vs 3 Normal COMs without letting them have a single win",
+			"api_key": "79920",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85901.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85901_lock.png"
+		},
+		"79921": {
+			"release_per_platform_id": "n64_72F66F05",
+			"name": "Go Hard or Go Home",
+			"description": "Win \"Who's the best?\" after 9 wins as 1P vs 3 Hard COMs without them collectively having more than 9 wins",
+			"api_key": "79921",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85902.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85902_lock.png"
+		},
+		"79922": {
+			"release_per_platform_id": "n64_72F66F05",
+			"name": "Hyperactive COMs",
+			"description": "Unlock Hyper COM level in the Kids Club",
+			"api_key": "79922",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85903.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85903_lock.png"
+		},
+		"79923": {
+			"release_per_platform_id": "n64_72F66F05",
+			"name": "I Swear They're Cheating",
+			"description": "Win \"Who's the best?\" after 9 wins as 1P vs 3 Hyper COMs",
+			"api_key": "79923",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85904.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85904_lock.png"
+		}
+	}
+}

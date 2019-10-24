@@ -1,0 +1,156 @@
+{
+	"Achievements": {
+		"64872": {
+			"release_per_platform_id": "n64_2D49F99A",
+			"name": "The Netherlands",
+			"description": "Win a penalty shootout against Brazil",
+			"api_key": "64872",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68085.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68085_lock.png"
+		},
+		"64873": {
+			"release_per_platform_id": "n64_2D49F99A",
+			"name": "England",
+			"description": "Win a penalty shootout against Argentina",
+			"api_key": "64873",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68086.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68086_lock.png"
+		},
+		"64874": {
+			"release_per_platform_id": "n64_2D49F99A",
+			"name": "Italy",
+			"description": "Win a penalty shootout against France",
+			"api_key": "64874",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68087.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68087_lock.png"
+		},
+		"64875": {
+			"release_per_platform_id": "n64_2D49F99A",
+			"name": "Islamic Republic of Iran",
+			"description": "Win a \"friendly\" match against USA with 2-1 and get over 4 bookings",
+			"api_key": "64875",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68088.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68088_lock.png"
+		},
+		"64876": {
+			"release_per_platform_id": "n64_2D49F99A",
+			"name": "United States of America",
+			"description": "Win against Yugoslavia with no goals against",
+			"api_key": "64876",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68089.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68089_lock.png"
+		},
+		"64878": {
+			"release_per_platform_id": "n64_2D49F99A",
+			"name": "Paraguay",
+			"description": "Win with a 1-0 golden goal against France",
+			"api_key": "64878",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68090.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68090_lock.png"
+		},
+		"64879": {
+			"release_per_platform_id": "n64_2D49F99A",
+			"name": "Spain",
+			"description": "Score 6 goals against Bulgaria",
+			"api_key": "64879",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68091.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68091_lock.png"
+		},
+		"64880": {
+			"release_per_platform_id": "n64_2D49F99A",
+			"name": "Bulgaria",
+			"description": "Score a goal in the 1st half against Spain",
+			"api_key": "64880",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68092.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68092_lock.png"
+		},
+		"64881": {
+			"release_per_platform_id": "n64_2D49F99A",
+			"name": "Taiwan",
+			"description": "Show you're not a district and lead with 4-0 against China",
+			"api_key": "64881",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68093.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68093_lock.png"
+		},
+		"64882": {
+			"release_per_platform_id": "n64_2D49F99A",
+			"name": "Israel",
+			"description": "Revenge against Kuwait with 5-0 for being kicked out of AFC",
+			"api_key": "64882",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68095.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68095_lock.png"
+		},
+		"64883": {
+			"release_per_platform_id": "n64_2D49F99A",
+			"name": "Brunei",
+			"description": "Win with at least 3 goals against Malaysia",
+			"api_key": "64883",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68096.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68096_lock.png"
+		},
+		"64884": {
+			"release_per_platform_id": "n64_2D49F99A",
+			"name": "Monaco",
+			"description": "Win with at least 3 goals against the world champion",
+			"api_key": "64884",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68097.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68097_lock.png"
+		},
+		"64891": {
+			"release_per_platform_id": "n64_2D49F99A",
+			"name": "Japan",
+			"description": "Have 7 shots on target against Croatia, but don't score",
+			"api_key": "64891",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68109.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68109_lock.png"
+		},
+		"64892": {
+			"release_per_platform_id": "n64_2D49F99A",
+			"name": "Croatia",
+			"description": "Win with 2-1 against the Netherlands and secure 3rd place",
+			"api_key": "64892",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68110.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68110_lock.png"
+		},
+		"64893": {
+			"release_per_platform_id": "n64_2D49F99A",
+			"name": "Germany",
+			"description": "Win with 2-1 against Mexico",
+			"api_key": "64893",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68111.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68111_lock.png"
+		},
+		"64894": {
+			"release_per_platform_id": "n64_2D49F99A",
+			"name": "Belgium",
+			"description": "Have 7 attempts on goal against nemesis the Netherlands, but don't score",
+			"api_key": "64894",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68112.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68112_lock.png"
+		},
+		"64895": {
+			"release_per_platform_id": "n64_2D49F99A",
+			"name": "South Korea",
+			"description": "Win with 5-0 against the Netherlands",
+			"api_key": "64895",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68113.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68113_lock.png"
+		},
+		"64896": {
+			"release_per_platform_id": "n64_2D49F99A",
+			"name": "Macao",
+			"description": "Win with 8-0 against Hong Kong",
+			"api_key": "64896",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68114.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68114_lock.png"
+		},
+		"64897": {
+			"release_per_platform_id": "n64_2D49F99A",
+			"name": "Malaysia",
+			"description": "Win with 3-0 against Singapore",
+			"api_key": "64897",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68115.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/68115_lock.png"
+		}
+	}
+}

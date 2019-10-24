@@ -1,0 +1,524 @@
+{
+	"Achievements": {
+		"52429": {
+			"release_per_platform_id": "n64_2761BDAE",
+			"name": "Panzer Vor For Great Justice",
+			"description": "Grab the key to unlock the tank hangar.",
+			"api_key": "52429",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54002.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54002_lock.png"
+		},
+		"52430": {
+			"release_per_platform_id": "n64_2761BDAE",
+			"name": "Back Drafted Into Service",
+			"description": "Save the town from burning down.",
+			"api_key": "52430",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54003.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54003_lock.png"
+		},
+		"52431": {
+			"release_per_platform_id": "n64_2761BDAE",
+			"name": "Alien Tank Kwon Do",
+			"description": "Destroy the alien processor of World 1-1!",
+			"api_key": "52431",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54004.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54004_lock.png"
+		},
+		"52432": {
+			"release_per_platform_id": "n64_2761BDAE",
+			"name": "Handheld OZ-13MSX2 Mercurius",
+			"description": "Obtain the mighty Sunshield weapon of Greece.",
+			"api_key": "52432",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54005.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54005_lock.png"
+		},
+		"52433": {
+			"release_per_platform_id": "n64_2761BDAE",
+			"name": "Keith's Bread Bakery Blunder",
+			"description": "Deliver a cog to the open the way to the processor.",
+			"api_key": "52433",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54006.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54006_lock.png"
+		},
+		"52434": {
+			"release_per_platform_id": "n64_2761BDAE",
+			"name": "Fishy Processing Plant",
+			"description": "Destroy the alien processor of World 1-2!",
+			"api_key": "52434",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54004.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54004_lock.png"
+		},
+		"52435": {
+			"release_per_platform_id": "n64_2761BDAE",
+			"name": "According to the Junior Woodchuck's Guidebook",
+			"description": "Fit the rune piece to open the pathway north.",
+			"api_key": "52435",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54007.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54007_lock.png"
+		},
+		"52436": {
+			"release_per_platform_id": "n64_2761BDAE",
+			"name": "Learning to Fly",
+			"description": "Say YES to flying lessons, then save the bridge.",
+			"api_key": "52436",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54008.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54008_lock.png"
+		},
+		"52437": {
+			"release_per_platform_id": "n64_2761BDAE",
+			"name": "CURSE YOU, RED BARON!",
+			"description": "Destroy the alien processor of World 1-3!",
+			"api_key": "52437",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54004.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54004_lock.png"
+		},
+		"52438": {
+			"release_per_platform_id": "n64_2761BDAE",
+			"name": "Crocodile Dun Did It",
+			"description": "Destroy the Shield Generator while using the Crocodile!",
+			"api_key": "52438",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54009.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54009_lock.png"
+		},
+		"52439": {
+			"release_per_platform_id": "n64_2761BDAE",
+			"name": "Based On Actual Grecian History",
+			"description": "Release Greece 1916 from the alien invasion!",
+			"api_key": "52439",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54010.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54010_lock.png"
+		},
+		"52440": {
+			"release_per_platform_id": "n64_2761BDAE",
+			"name": "We're The Soggy Bottom Boys",
+			"description": "Retrieve the parts then enter the hovercraft.",
+			"api_key": "52440",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54011.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54011_lock.png"
+		},
+		"52441": {
+			"release_per_platform_id": "n64_2761BDAE",
+			"name": "Bog Battle Bedlam",
+			"description": "Destroy the alien processor of World 2-1!",
+			"api_key": "52441",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54004.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54004_lock.png"
+		},
+		"52442": {
+			"release_per_platform_id": "n64_2761BDAE",
+			"name": "Radioing for Help",
+			"description": "Help the radio operator to open the way to the north.",
+			"api_key": "52442",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54012.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54012_lock.png"
+		},
+		"52443": {
+			"release_per_platform_id": "n64_2761BDAE",
+			"name": "Jungle Life Processor",
+			"description": "Destroy the alien processor of World 2-2!",
+			"api_key": "52443",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54004.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54004_lock.png"
+		},
+		"52444": {
+			"release_per_platform_id": "n64_2761BDAE",
+			"name": "Adam Versus The Volcano",
+			"description": "Safely escort people across the lava-hot water.",
+			"api_key": "52444",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54013.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54013_lock.png"
+		},
+		"52445": {
+			"release_per_platform_id": "n64_2761BDAE",
+			"name": "Chocolate Coating Makes It Go Down Easier",
+			"description": "Obtain the medicine to unlock the Swordfish boat.",
+			"api_key": "52445",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54014.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54014_lock.png"
+		},
+		"52446": {
+			"release_per_platform_id": "n64_2761BDAE",
+			"name": "You Sunk My Battle Processor",
+			"description": "Destroy the alien processor of World 2-3!",
+			"api_key": "52446",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54004.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54004_lock.png"
+		},
+		"52447": {
+			"release_per_platform_id": "n64_2761BDAE",
+			"name": "You Sunk My ... Fort",
+			"description": "Send the ship crashing into the Blackness Harbor barrier.",
+			"api_key": "52447",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54015.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54015_lock.png"
+		},
+		"52448": {
+			"release_per_platform_id": "n64_2761BDAE",
+			"name": "Ridders of the Storm",
+			"description": "Assemble and set the Kris Knife to stop the storm.",
+			"api_key": "52448",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54016.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54016_lock.png"
+		},
+		"52449": {
+			"release_per_platform_id": "n64_2761BDAE",
+			"name": "Clear Skies Ahead",
+			"description": "Destroy the alien processor of World 2-4!",
+			"api_key": "52449",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54004.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54004_lock.png"
+		},
+		"52450": {
+			"release_per_platform_id": "n64_2761BDAE",
+			"name": "Well I Got Me A Bomb, And It's As Big As A WHALE",
+			"description": "Destroy 2-4's processor while using the B-25 Eagle!",
+			"api_key": "52450",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54017.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54017_lock.png"
+		},
+		"52451": {
+			"release_per_platform_id": "n64_2761BDAE",
+			"name": "Self-Propelled Shield-Buster",
+			"description": "Destroy the Shield Generator while using the Howitzer!",
+			"api_key": "52451",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54018.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54018_lock.png"
+		},
+		"52452": {
+			"release_per_platform_id": "n64_2761BDAE",
+			"name": "Coffee Break's Over",
+			"description": "Release Java 1941 from the alien invasion!",
+			"api_key": "52452",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54019.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54019_lock.png"
+		},
+		"52453": {
+			"release_per_platform_id": "n64_2761BDAE",
+			"name": "Lolly-Con-Artist",
+			"description": "Lure the children to safety with the Mr. Lolly.",
+			"api_key": "52453",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54020.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54020_lock.png"
+		},
+		"52454": {
+			"release_per_platform_id": "n64_2761BDAE",
+			"name": "House Call For A Hospital",
+			"description": "Destroy the alien processor of World 3-1!",
+			"api_key": "52454",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54004.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54004_lock.png"
+		},
+		"52455": {
+			"release_per_platform_id": "n64_2761BDAE",
+			"name": "Kevin Bacon Not Included",
+			"description": "Defeat the large worms of 3-2's desert gulch.",
+			"api_key": "52455",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54021.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54021_lock.png"
+		},
+		"52456": {
+			"release_per_platform_id": "n64_2761BDAE",
+			"name": "I Have Some Reservations About This",
+			"description": "Assemble the Totem to open the path to the processor.",
+			"api_key": "52456",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54022.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54022_lock.png"
+		},
+		"52457": {
+			"release_per_platform_id": "n64_2761BDAE",
+			"name": "Anti-Alien Reservation Occupation Proclamation",
+			"description": "Destroy the alien processor of World 3-2!",
+			"api_key": "52457",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54004.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54004_lock.png"
+		},
+		"52458": {
+			"release_per_platform_id": "n64_2761BDAE",
+			"name": "Green Cards for Little Gray Men",
+			"description": "Obtain the green key card at the military base.",
+			"api_key": "52458",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54023.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54023_lock.png"
+		},
+		"52459": {
+			"release_per_platform_id": "n64_2761BDAE",
+			"name": "Welcome to Earth!",
+			"description": "Destroy the alien processor of World 3-3!",
+			"api_key": "52459",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54004.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54004_lock.png"
+		},
+		"52460": {
+			"release_per_platform_id": "n64_2761BDAE",
+			"name": "Roswell That Ends Well - DO NOT SAVE",
+			"description": "Destroy the nuclear bombs! Save ONLY before the Boss.",
+			"api_key": "52460",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54024.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54024_lock.png"
+		},
+		"52461": {
+			"release_per_platform_id": "n64_2761BDAE",
+			"name": "Junior Woodchuck Flight Mastery Badge",
+			"description": "Destroy the Shield Generator using a Huey!",
+			"api_key": "52461",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54025.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54025_lock.png"
+		},
+		"52462": {
+			"release_per_platform_id": "n64_2761BDAE",
+			"name": "I Ain't Heard No Fat Lady!",
+			"description": "Release America 1966 from the alien invasion!",
+			"api_key": "52462",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54026.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54026_lock.png"
+		},
+		"52463": {
+			"release_per_platform_id": "n64_2761BDAE",
+			"name": "Zombies Ate My Shotgun Shells!",
+			"description": "Get at least 64 shotgun ammo before the train crank.",
+			"api_key": "52463",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54027.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54027_lock.png"
+		},
+		"52464": {
+			"release_per_platform_id": "n64_2761BDAE",
+			"name": "Wind-Up Locomotivation",
+			"description": "Obtain the train crank.",
+			"api_key": "52464",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54028.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54028_lock.png"
+		},
+		"52465": {
+			"release_per_platform_id": "n64_2761BDAE",
+			"name": "National Park-In-Front-of-a-Train Day",
+			"description": "Destroy the train before it can release the gas.",
+			"api_key": "52465",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54029.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54029_lock.png"
+		},
+		"52466": {
+			"release_per_platform_id": "n64_2761BDAE",
+			"name": "Colder Than Shadow Moses Island",
+			"description": "Destroy the alien processor of World 4-1!",
+			"api_key": "52466",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54004.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54004_lock.png"
+		},
+		"52467": {
+			"release_per_platform_id": "n64_2761BDAE",
+			"name": "Spidery X-Man Apocolypse",
+			"description": "Obtain the rocket launcher after the mutant.",
+			"api_key": "52467",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54030.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54030_lock.png"
+		},
+		"52468": {
+			"release_per_platform_id": "n64_2761BDAE",
+			"name": "You're Telling Me This Sucker's Nuclear!?",
+			"description": "Prevent the power plant from melting down.",
+			"api_key": "52468",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54031.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54031_lock.png"
+		},
+		"52469": {
+			"release_per_platform_id": "n64_2761BDAE",
+			"name": "Colder Than The Strongest Chernobyl",
+			"description": "Destroy the alien processor of World 4-2!",
+			"api_key": "52469",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54004.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54004_lock.png"
+		},
+		"52470": {
+			"release_per_platform_id": "n64_2761BDAE",
+			"name": "Fire Down Below",
+			"description": "Save at least 10 people from the oil rigs.",
+			"api_key": "52470",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54032.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54032_lock.png"
+		},
+		"52471": {
+			"release_per_platform_id": "n64_2761BDAE",
+			"name": "Colder Than The Depths of the Sea",
+			"description": "Destroy the alien processor of World 4-3!",
+			"api_key": "52471",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54004.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54004_lock.png"
+		},
+		"52472": {
+			"release_per_platform_id": "n64_2761BDAE",
+			"name": "Space Invaders Missile Command",
+			"description": "Successfully launch the SCUD missile at the target.",
+			"api_key": "52472",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54033.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54033_lock.png"
+		},
+		"52473": {
+			"release_per_platform_id": "n64_2761BDAE",
+			"name": "The Cold Reality of War",
+			"description": "Destroy the alien processor and rescue Alpha 1!",
+			"api_key": "52473",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54004.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54004_lock.png"
+		},
+		"52474": {
+			"release_per_platform_id": "n64_2761BDAE",
+			"name": "Fist of Katyusha, Tear Down This Shield Wall!",
+			"description": "Destroy the Shield Generator with T341 Fist Tank.",
+			"api_key": "52474",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54034.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54034_lock.png"
+		},
+		"52475": {
+			"release_per_platform_id": "n64_2761BDAE",
+			"name": "The Cold War Is Over",
+			"description": "Release Siberia 1991 from the alien invasion!",
+			"api_key": "52475",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54035.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54035_lock.png"
+		},
+		"52476": {
+			"release_per_platform_id": "n64_2761BDAE",
+			"name": "Bloody Sorrow",
+			"description": "Get past the distress-signal area on Alien Comet.",
+			"api_key": "52476",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54036.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54036_lock.png"
+		},
+		"52477": {
+			"release_per_platform_id": "n64_2761BDAE",
+			"name": "Among Fields of Crystal",
+			"description": "Cross the Crystal Wastes and enter the city.",
+			"api_key": "52477",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54037.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54037_lock.png"
+		},
+		"52478": {
+			"release_per_platform_id": "n64_2761BDAE",
+			"name": "Into The Crimson",
+			"description": "Defeat the dark warrior to rescue the girl!",
+			"api_key": "52478",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54038.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54038_lock.png"
+		},
+		"52479": {
+			"release_per_platform_id": "n64_2761BDAE",
+			"name": "Fade To Black",
+			"description": "Destroy the engines of Alien Comet, then face the boss.",
+			"api_key": "52479",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54039.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54039_lock.png"
+		},
+		"52480": {
+			"release_per_platform_id": "n64_2761BDAE",
+			"name": "Encoded Final",
+			"description": "Destroy the the final boss on any difficulty.",
+			"api_key": "52480",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54040.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54040_lock.png"
+		},
+		"52481": {
+			"release_per_platform_id": "n64_2761BDAE",
+			"name": "Giant Grecianemy Crab",
+			"description": "Destroy Leviathan on Hero Difficulty.",
+			"api_key": "52481",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54041.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54041_lock.png"
+		},
+		"52482": {
+			"release_per_platform_id": "n64_2761BDAE",
+			"name": "Scorpion-Dog Eat Dog Eat Dog Eat World",
+			"description": "Destroy Cerberus on Hero Difficulty.",
+			"api_key": "52482",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54042.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54042_lock.png"
+		},
+		"52483": {
+			"release_per_platform_id": "n64_2761BDAE",
+			"name": "One-Punch Alien",
+			"description": "Destroy Moloch on Hero Difficulty.",
+			"api_key": "52483",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54043.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54043_lock.png"
+		},
+		"52484": {
+			"release_per_platform_id": "n64_2761BDAE",
+			"name": "Bugs Check In, They Don't Check Out",
+			"description": "Destroy Beelzebub on Hero Difficulty.",
+			"api_key": "52484",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54044.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54044_lock.png"
+		},
+		"52485": {
+			"release_per_platform_id": "n64_2761BDAE",
+			"name": "One And Only",
+			"description": "Destroy Tomegatherion on Hero Difficulty.",
+			"api_key": "52485",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54045.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54045_lock.png"
+		},
+		"52486": {
+			"release_per_platform_id": "n64_2761BDAE",
+			"name": "The Statue of Athena",
+			"description": "Obtain all three Alien Artifacts from Greece.",
+			"api_key": "52486",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54046.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54046_lock.png"
+		},
+		"52487": {
+			"release_per_platform_id": "n64_2761BDAE",
+			"name": "The Statue of Prajnaparamita",
+			"description": "Obtain all three Alien Artifacts from Java.",
+			"api_key": "52487",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54047.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54047_lock.png"
+		},
+		"52488": {
+			"release_per_platform_id": "n64_2761BDAE",
+			"name": "The Statue of Chief Black Hawk",
+			"description": "Obtain all three Alien Artifacts from America.",
+			"api_key": "52488",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54048.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54048_lock.png"
+		},
+		"52489": {
+			"release_per_platform_id": "n64_2761BDAE",
+			"name": "The Ust-Taseyevsky Statue",
+			"description": "Obtain all three Alien Artifacts from Siberia.",
+			"api_key": "52489",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54049.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54049_lock.png"
+		},
+		"52490": {
+			"release_per_platform_id": "n64_2761BDAE",
+			"name": "Handheld OZ-13MSX1 Vayeate",
+			"description": "Obtain all three Weapon Crystals from Greece.",
+			"api_key": "52490",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54050.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54050_lock.png"
+		},
+		"52491": {
+			"release_per_platform_id": "n64_2761BDAE",
+			"name": "Chibi Stardust Memory",
+			"description": "Obtain all three Weapon Crystals from Java.",
+			"api_key": "52491",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54051.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54051_lock.png"
+		},
+		"52492": {
+			"release_per_platform_id": "n64_2761BDAE",
+			"name": "Micro BLASH XBR-M-79-07G Beam Rifle",
+			"description": "Obtain all three Weapon Crystals from America.",
+			"api_key": "52492",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54052.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54052_lock.png"
+		},
+		"52493": {
+			"release_per_platform_id": "n64_2761BDAE",
+			"name": "Mini BLASH XHB-L-03 Hyper Bazooka",
+			"description": "Obtain all three Weapon Crystals from Siberia.",
+			"api_key": "52493",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54053.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54053_lock.png"
+		}
+	}
+}

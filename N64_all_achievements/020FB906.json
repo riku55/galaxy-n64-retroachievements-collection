@@ -1,0 +1,204 @@
+{
+	"Achievements": {
+		"48361": {
+			"release_per_platform_id": "n64_020FB906",
+			"name": "Sneak Peak",
+			"description": "Get a gold trophy at Rookie Mt.",
+			"api_key": "48361",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55180.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55180_lock.png"
+		},
+		"48378": {
+			"release_per_platform_id": "n64_020FB906",
+			"name": "Stay Frosty",
+			"description": "Get a gold trophy at Big Snowman",
+			"api_key": "48378",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55182.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55182_lock.png"
+		},
+		"48381": {
+			"release_per_platform_id": "n64_020FB906",
+			"name": "Sunset Rider",
+			"description": "Get a gold trophy at Sunset Rock",
+			"api_key": "48381",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55181.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55181_lock.png"
+		},
+		"48384": {
+			"release_per_platform_id": "n64_020FB906",
+			"name": "My Way on the Highway",
+			"description": "Get a gold trophy at Night Highway",
+			"api_key": "48384",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55175.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55175_lock.png"
+		},
+		"48387": {
+			"release_per_platform_id": "n64_020FB906",
+			"name": "Petal to the Medal",
+			"description": "Get a gold trophy at Grass Valley",
+			"api_key": "48387",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55176.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55176_lock.png"
+		},
+		"48390": {
+			"release_per_platform_id": "n64_020FB906",
+			"name": "Carnival of Chaos",
+			"description": "Get a gold trophy at Dizzy Land",
+			"api_key": "48390",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55177.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55177_lock.png"
+		},
+		"48393": {
+			"release_per_platform_id": "n64_020FB906",
+			"name": "Desert Dash",
+			"description": "Get a gold trophy at Quicksand Valley",
+			"api_key": "48393",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55178.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55178_lock.png"
+		},
+		"48396": {
+			"release_per_platform_id": "n64_020FB906",
+			"name": "Gold on Silver, Clear as Crystal",
+			"description": "Get a gold trophy at Silver Mountain",
+			"api_key": "48396",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55183.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55183_lock.png"
+		},
+		"48399": {
+			"release_per_platform_id": "n64_020FB906",
+			"name": "Weeaboo Wallop",
+			"description": "Get a gold trophy at Ninja Land",
+			"api_key": "48399",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55179.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55179_lock.png"
+		},
+		"54197": {
+			"release_per_platform_id": "n64_020FB906",
+			"name": "Hitting the Fan",
+			"description": "Collect all 10 fans and beat Slash's time in the Rookie Mt. Speed Game",
+			"api_key": "54197",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55907.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55907_lock.png"
+		},
+		"54198": {
+			"release_per_platform_id": "n64_020FB906",
+			"name": "Your Biggest Fan",
+			"description": "Collect all 20 fans and beat Slash's time in the Big Snowman Speed Game",
+			"api_key": "54198",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55908.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55908_lock.png"
+		},
+		"54199": {
+			"release_per_platform_id": "n64_020FB906",
+			"name": "The Fan-Ton Menace",
+			"description": "Collect all 20 fans and beat Slash's time in the Sunset Rock Speed Game",
+			"api_key": "54199",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55909.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55909_lock.png"
+		},
+		"54194": {
+			"release_per_platform_id": "n64_020FB906",
+			"name": "Snowhere to Hide",
+			"description": "Shoot all 30 snowmen in the Rookie Mountain Shot Game",
+			"api_key": "54194",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55904.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55904_lock.png"
+		},
+		"54195": {
+			"release_per_platform_id": "n64_020FB906",
+			"name": "No Country for Snowmen",
+			"description": "Shoot all 60 snowmen in the Big Snowman Shot Game",
+			"api_key": "54195",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55905.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55905_lock.png"
+		},
+		"54196": {
+			"release_per_platform_id": "n64_020FB906",
+			"name": "Snow Long, and Thanks for All the Slush",
+			"description": "Shoot all 60 snowmen in the Sunset Rock Shot Game",
+			"api_key": "54196",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55906.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55906_lock.png"
+		},
+		"54200": {
+			"release_per_platform_id": "n64_020FB906",
+			"name": "Spread Your Wings",
+			"description": "Clear Trick Game with no less than 2500 points",
+			"api_key": "54200",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55184.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55184_lock.png"
+		},
+		"54249": {
+			"release_per_platform_id": "n64_020FB906",
+			"name": "Cool, Cool Challenge",
+			"description": "Beat Slash's time in the Rookie Mt. Time Attack with the Ice board",
+			"api_key": "54249",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55981.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55981_lock.png"
+		},
+		"54248": {
+			"release_per_platform_id": "n64_020FB906",
+			"name": "Frostbitten, Twice Shy",
+			"description": "Beat Slash's time in the Big Snowman Time Attack with the Ice board",
+			"api_key": "54248",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55982.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55982_lock.png"
+		},
+		"54250": {
+			"release_per_platform_id": "n64_020FB906",
+			"name": "All Hail",
+			"description": "Beat Slash's time in the Sunset Rock Time Attack with the Ice board",
+			"api_key": "54250",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55983.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55983_lock.png"
+		},
+		"54251": {
+			"release_per_platform_id": "n64_020FB906",
+			"name": "Snowball's Chance in Highway",
+			"description": "Beat Slash's time in the Night Highway Time Attack with the Ice board",
+			"api_key": "54251",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55984.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55984_lock.png"
+		},
+		"54252": {
+			"release_per_platform_id": "n64_020FB906",
+			"name": "Iced Tree",
+			"description": "Beat Nancy's time in the Grass Valley Time Attack with the Ice board",
+			"api_key": "54252",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55985.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55985_lock.png"
+		},
+		"54253": {
+			"release_per_platform_id": "n64_020FB906",
+			"name": "Winter Wonderland",
+			"description": "Beat Nancy's time in the Dizzy Land Time Attack with the Ice board",
+			"api_key": "54253",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55986.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55986_lock.png"
+		},
+		"54254": {
+			"release_per_platform_id": "n64_020FB906",
+			"name": "The Snows of Egypt",
+			"description": "Beat Jam's time in the Quicksand Valley Time Attack with the Ice board",
+			"api_key": "54254",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55988.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55988_lock.png"
+		},
+		"54255": {
+			"release_per_platform_id": "n64_020FB906",
+			"name": "Alpine for You",
+			"description": "Beat Slash's time in the Silver Mountain Time Attack with the Ice board",
+			"api_key": "54255",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55987.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55987_lock.png"
+		},
+		"54256": {
+			"release_per_platform_id": "n64_020FB906",
+			"name": "Cherry Blizzards",
+			"description": "Beat Slash's time in the Ninja Land Time Attack with the Ice board",
+			"api_key": "54256",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55989.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55989_lock.png"
+		}
+	}
+}

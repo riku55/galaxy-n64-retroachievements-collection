@@ -1,0 +1,420 @@
+{
+	"Achievements": {
+		"57570": {
+			"release_per_platform_id": "n64_443B309A",
+			"name": "Gary Beaten",
+			"description": "Beat Gary on Normal Difficulty or higher",
+			"api_key": "57570",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60583.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60583_lock.png"
+		},
+		"57571": {
+			"release_per_platform_id": "n64_443B309A",
+			"name": "Brock Beaten",
+			"description": "Beat Brock on Normal Difficulty or higher",
+			"api_key": "57571",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60584.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60584_lock.png"
+		},
+		"57572": {
+			"release_per_platform_id": "n64_443B309A",
+			"name": "Misty Beaten",
+			"description": "Beat Misty on Normal Difficulty or higher",
+			"api_key": "57572",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60585.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60585_lock.png"
+		},
+		"57573": {
+			"release_per_platform_id": "n64_443B309A",
+			"name": "Lt. Surge Beaten",
+			"description": "Beat Lt. Surge on Normal Difficulty or higher",
+			"api_key": "57573",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60586.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60586_lock.png"
+		},
+		"57574": {
+			"release_per_platform_id": "n64_443B309A",
+			"name": "Erika Beaten",
+			"description": "Beat Erika on Normal Difficulty or higher",
+			"api_key": "57574",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60587.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60587_lock.png"
+		},
+		"57575": {
+			"release_per_platform_id": "n64_443B309A",
+			"name": "Koga Beaten",
+			"description": "Beat Koga on Normal Difficulty or higher",
+			"api_key": "57575",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60588.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60588_lock.png"
+		},
+		"57576": {
+			"release_per_platform_id": "n64_443B309A",
+			"name": "Sabrina Beaten",
+			"description": "Beat Sabrina on Normal Difficulty or higher",
+			"api_key": "57576",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60589.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60589_lock.png"
+		},
+		"57577": {
+			"release_per_platform_id": "n64_443B309A",
+			"name": "Blaine Beaten",
+			"description": "Beat Blaine on Normal Difficulty or higher",
+			"api_key": "57577",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60590.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60590_lock.png"
+		},
+		"57578": {
+			"release_per_platform_id": "n64_443B309A",
+			"name": "Tracey Beaten",
+			"description": "Beat Tracey on Normal Difficulty or higher",
+			"api_key": "57578",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60591.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60591_lock.png"
+		},
+		"57579": {
+			"release_per_platform_id": "n64_443B309A",
+			"name": "Team Rocket Beaten",
+			"description": "Beat Team Rocket on Normal Difficulty or higher",
+			"api_key": "57579",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60592.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60592_lock.png"
+		},
+		"57580": {
+			"release_per_platform_id": "n64_443B309A",
+			"name": "Giovanni Beaten",
+			"description": "Beat Giovanni on Normal Difficulty or higher",
+			"api_key": "57580",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60593.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60593_lock.png"
+		},
+		"57581": {
+			"release_per_platform_id": "n64_443B309A",
+			"name": "Ritchie Beaten",
+			"description": "Beat Ritchie on Normal Difficulty or higher",
+			"api_key": "57581",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60594.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60594_lock.png"
+		},
+		"57582": {
+			"release_per_platform_id": "n64_443B309A",
+			"name": "Lorelei Beaten",
+			"description": "Beat Lorelei on Normal Difficulty or higher",
+			"api_key": "57582",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60595.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60595_lock.png"
+		},
+		"57583": {
+			"release_per_platform_id": "n64_443B309A",
+			"name": "Bruno Beaten",
+			"description": "Beat Bruno on Normal Difficulty or higher",
+			"api_key": "57583",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60596.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60596_lock.png"
+		},
+		"57584": {
+			"release_per_platform_id": "n64_443B309A",
+			"name": "Gary Beaten Again",
+			"description": "Beat Gary the 2nd time on Hard Difficulty or higher",
+			"api_key": "57584",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60583.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60583_lock.png"
+		},
+		"57585": {
+			"release_per_platform_id": "n64_443B309A",
+			"name": "Mewtwo Beaten",
+			"description": "Beat Mewtwo on V-Hard Difficulty or higher",
+			"api_key": "57585",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60597.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60597_lock.png"
+		},
+		"57586": {
+			"release_per_platform_id": "n64_443B309A",
+			"name": "Gary Mastered",
+			"description": "Beat Gary on S-Hard",
+			"api_key": "57586",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60613.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60613_lock.png"
+		},
+		"57587": {
+			"release_per_platform_id": "n64_443B309A",
+			"name": "Brock Mastered",
+			"description": "Beat Brock on S-Hard",
+			"api_key": "57587",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60614.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60614_lock.png"
+		},
+		"57588": {
+			"release_per_platform_id": "n64_443B309A",
+			"name": "Misty Mastered",
+			"description": "Beat Misty on S-Hard",
+			"api_key": "57588",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60615.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60615_lock.png"
+		},
+		"57589": {
+			"release_per_platform_id": "n64_443B309A",
+			"name": "Lt. Surge Mastered",
+			"description": "Beat Lt. Surge on S-Hard",
+			"api_key": "57589",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60616.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60616_lock.png"
+		},
+		"57590": {
+			"release_per_platform_id": "n64_443B309A",
+			"name": "Erika Mastered",
+			"description": "Beat Erika on S-Hard",
+			"api_key": "57590",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60617.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60617_lock.png"
+		},
+		"57591": {
+			"release_per_platform_id": "n64_443B309A",
+			"name": "Koga Mastered",
+			"description": "Beat Koga on S-Hard",
+			"api_key": "57591",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60618.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60618_lock.png"
+		},
+		"57592": {
+			"release_per_platform_id": "n64_443B309A",
+			"name": "Sabrina Mastered",
+			"description": "Beat Sabrina on S-Hard",
+			"api_key": "57592",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60619.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60619_lock.png"
+		},
+		"57593": {
+			"release_per_platform_id": "n64_443B309A",
+			"name": "Blaine Mastered",
+			"description": "Beat Blaine on S-Hard",
+			"api_key": "57593",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60620.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60620_lock.png"
+		},
+		"57594": {
+			"release_per_platform_id": "n64_443B309A",
+			"name": "Tracey Mastered",
+			"description": "Beat Tracey on S-Hard",
+			"api_key": "57594",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60621.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60621_lock.png"
+		},
+		"57595": {
+			"release_per_platform_id": "n64_443B309A",
+			"name": "Team Rocket Mastered",
+			"description": "Beat Team Rocket on S-Hard",
+			"api_key": "57595",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60622.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60622_lock.png"
+		},
+		"57596": {
+			"release_per_platform_id": "n64_443B309A",
+			"name": "Giovanni Mastered",
+			"description": "Beat Giovanni on S-Hard",
+			"api_key": "57596",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60623.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60623_lock.png"
+		},
+		"57597": {
+			"release_per_platform_id": "n64_443B309A",
+			"name": "Ritchie Mastered",
+			"description": "Beat Ritchie on S-Hard",
+			"api_key": "57597",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60624.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60624_lock.png"
+		},
+		"57598": {
+			"release_per_platform_id": "n64_443B309A",
+			"name": "Lorelei Mastered",
+			"description": "Beat Lorelei on S-Hard",
+			"api_key": "57598",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60625.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60625_lock.png"
+		},
+		"57599": {
+			"release_per_platform_id": "n64_443B309A",
+			"name": "Bruno Mastered",
+			"description": "Beat Bruno on S-Hard",
+			"api_key": "57599",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60626.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60626_lock.png"
+		},
+		"57600": {
+			"release_per_platform_id": "n64_443B309A",
+			"name": "Gary Mastered Again",
+			"description": "Beat Gary the 2nd time on S-Hard",
+			"api_key": "57600",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60627.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60627_lock.png"
+		},
+		"57601": {
+			"release_per_platform_id": "n64_443B309A",
+			"name": "Mewtwo Mastered",
+			"description": "Beat Mewtwo on S-Hard",
+			"api_key": "57601",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60628.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60628_lock.png"
+		},
+		"57602": {
+			"release_per_platform_id": "n64_443B309A",
+			"name": "Spa Service 1",
+			"description": "Complete the first stage in Spa Service",
+			"api_key": "57602",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60603.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60603_lock.png"
+		},
+		"57603": {
+			"release_per_platform_id": "n64_443B309A",
+			"name": "Spa Service 2",
+			"description": "Complete the Second stage in Spa Service",
+			"api_key": "57603",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60604.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60604_lock.png"
+		},
+		"57604": {
+			"release_per_platform_id": "n64_443B309A",
+			"name": "Spa Service 3",
+			"description": "Complete the third stage in Spa Service",
+			"api_key": "57604",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60605.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60605_lock.png"
+		},
+		"57605": {
+			"release_per_platform_id": "n64_443B309A",
+			"name": "Butch and Cassidy Beaten",
+			"description": "Beat Butch and Cassidy on the special stage in Spa Service",
+			"api_key": "57605",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60606.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60606_lock.png"
+		},
+		"57606": {
+			"release_per_platform_id": "n64_443B309A",
+			"name": "Spa Service 4",
+			"description": "Complete the Fourth stage in Spa Service",
+			"api_key": "57606",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60607.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60607_lock.png"
+		},
+		"57607": {
+			"release_per_platform_id": "n64_443B309A",
+			"name": "Spa Service 5",
+			"description": "Complete the Fifth stage in Spa Service",
+			"api_key": "57607",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60608.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60608_lock.png"
+		},
+		"57608": {
+			"release_per_platform_id": "n64_443B309A",
+			"name": "Spa Service 6",
+			"description": "Complete the Sixth stage in Spa Service",
+			"api_key": "57608",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60609.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60609_lock.png"
+		},
+		"57609": {
+			"release_per_platform_id": "n64_443B309A",
+			"name": "Giovanni Bested",
+			"description": "Beat Giovanni on the lastl stage in Spa Service",
+			"api_key": "57609",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60610.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60610_lock.png"
+		},
+		"57610": {
+			"release_per_platform_id": "n64_443B309A",
+			"name": "True Pokemon Puzzle League Champ",
+			"description": "Beat the game on V-Hard or S-Hard without using any continues",
+			"api_key": "57610",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60629.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60629_lock.png"
+		},
+		"57611": {
+			"release_per_platform_id": "n64_443B309A",
+			"name": "Teacher",
+			"description": "Complete all class 1 puzzles in Puzzle University",
+			"api_key": "57611",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60598.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60598_lock.png"
+		},
+		"57612": {
+			"release_per_platform_id": "n64_443B309A",
+			"name": "Professor",
+			"description": "Complete all class 2 puzzles in Puzzle University",
+			"api_key": "57612",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60599.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60599_lock.png"
+		},
+		"57613": {
+			"release_per_platform_id": "n64_443B309A",
+			"name": "Genius",
+			"description": "Complete all class 3 puzzles in Puzzle University",
+			"api_key": "57613",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60600.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60600_lock.png"
+		},
+		"57614": {
+			"release_per_platform_id": "n64_443B309A",
+			"name": "Special Teacher",
+			"description": "Complete all class 1 Special puzzles in Puzzle University",
+			"api_key": "57614",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60598.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60598_lock.png"
+		},
+		"57615": {
+			"release_per_platform_id": "n64_443B309A",
+			"name": "Special Professor",
+			"description": "Complete all class 2 Special puzzles in Puzzle University",
+			"api_key": "57615",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60599.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60599_lock.png"
+		},
+		"57616": {
+			"release_per_platform_id": "n64_443B309A",
+			"name": "Special Genius",
+			"description": "Complete all class 2 Special puzzles in Puzzle University",
+			"api_key": "57616",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60600.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60600_lock.png"
+		},
+		"57617": {
+			"release_per_platform_id": "n64_443B309A",
+			"name": "3,000 Point Speedster",
+			"description": "Get 3000 pts in Time Zone (On Normal Difficulty or higher)",
+			"api_key": "57617",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60601.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60601_lock.png"
+		},
+		"57618": {
+			"release_per_platform_id": "n64_443B309A",
+			"name": "10,000 Point Marathon",
+			"description": "Get 10,00 pts in Marathon (On Normal Difficulty or Higher)",
+			"api_key": "57618",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60611.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60611_lock.png"
+		},
+		"57619": {
+			"release_per_platform_id": "n64_443B309A",
+			"name": "25,000 Point Marathon",
+			"description": "Get 25,00 pts in Marathon (On Normal Difficulty or Higher)",
+			"api_key": "57619",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60612.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60612_lock.png"
+		},
+		"57620": {
+			"release_per_platform_id": "n64_443B309A",
+			"name": "Combo Master",
+			"description": "Get a combo of 10 or higher",
+			"api_key": "57620",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60630.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60630_lock.png"
+		},
+		"57621": {
+			"release_per_platform_id": "n64_443B309A",
+			"name": "Chain Master",
+			"description": "Get a chain of 10 or higher",
+			"api_key": "57621",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60602.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/60602_lock.png"
+		}
+	}
+}

@@ -1,0 +1,308 @@
+{
+	"Achievements": {
+		"48897": {
+			"release_per_platform_id": "n64_20A1C120",
+			"name": "Waddle Doo Origin?",
+			"description": "Defeat Waddle Dee possessed, now he has joined his team",
+			"api_key": "48897",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49611.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49611_lock.png"
+		},
+		"48898": {
+			"release_per_platform_id": "n64_20A1C120",
+			"name": "Magic Painter of Evil!!",
+			"description": "Defeat Adeleine possessed, now she has joined his team",
+			"api_key": "48898",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49612.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49612_lock.png"
+		},
+		"48899": {
+			"release_per_platform_id": "n64_20A1C120",
+			"name": "Selfish Penguin",
+			"description": "Defeat King Dedede possessed, now he has joined his team",
+			"api_key": "48899",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49613.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49613_lock.png"
+		},
+		"48900": {
+			"release_per_platform_id": "n64_20A1C120",
+			"name": "The Tree That Never Gives Up",
+			"description": "Defeat Whispy Woods and get your crystal!",
+			"api_key": "48900",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49615.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49615_lock.png"
+		},
+		"53307": {
+			"release_per_platform_id": "n64_20A1C120",
+			"name": "Tekpix",
+			"description": "Defeat Pix and get your crystal!",
+			"api_key": "53307",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50038.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50038_lock.png"
+		},
+		"53308": {
+			"release_per_platform_id": "n64_20A1C120",
+			"name": "ACRObat",
+			"description": "Defeat Acro and get your crystal!",
+			"api_key": "53308",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50065.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50065_lock.png"
+		},
+		"53309": {
+			"release_per_platform_id": "n64_20A1C120",
+			"name": "The Floor Is Lava! Literally!!",
+			"description": "Defeat Magman and get your crystal!",
+			"api_key": "53309",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54545.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54545_lock.png"
+		},
+		"53310": {
+			"release_per_platform_id": "n64_20A1C120",
+			"name": "Transformer",
+			"description": "Defeat HR-H and get your crystal!",
+			"api_key": "53310",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54705.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54705_lock.png"
+		},
+		"53311": {
+			"release_per_platform_id": "n64_20A1C120",
+			"name": "The \"Final\" Boss",
+			"description": "Defeat Miracle Matter and get your crystal!",
+			"api_key": "53311",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54707.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54707_lock.png"
+		},
+		"53306": {
+			"release_per_platform_id": "n64_20A1C120",
+			"name": "I'm Invincible!!",
+			"description": "Eat Invincibility Candy",
+			"api_key": "53306",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50064.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50064_lock.png"
+		},
+		"48901": {
+			"release_per_platform_id": "n64_20A1C120",
+			"name": "That Burns!!!",
+			"description": "Turn into all possible combinations of fire ability",
+			"api_key": "48901",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49539.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49539_lock.png"
+		},
+		"48902": {
+			"release_per_platform_id": "n64_20A1C120",
+			"name": "Better than Stone Man!",
+			"description": "Turn into all possible combinations of stone ability",
+			"api_key": "48902",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49546.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49546_lock.png"
+		},
+		"48903": {
+			"release_per_platform_id": "n64_20A1C120",
+			"name": "Boot Jacket!!",
+			"description": "Turn into all possible combinations of ice ability",
+			"api_key": "48903",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49548.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49548_lock.png"
+		},
+		"48904": {
+			"release_per_platform_id": "n64_20A1C120",
+			"name": "Kirby The Hedgehog",
+			"description": "Turn into all possible combinations of spike ability",
+			"api_key": "48904",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49540.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49540_lock.png"
+		},
+		"48905": {
+			"release_per_platform_id": "n64_20A1C120",
+			"name": "Bomber Man",
+			"description": "Turn into all possible combinations of bomb ability",
+			"api_key": "48905",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49542.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49542_lock.png"
+		},
+		"48906": {
+			"release_per_platform_id": "n64_20A1C120",
+			"name": "Sparkster",
+			"description": "Turn into all possible combinations of spark ability",
+			"api_key": "48906",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49547.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49547_lock.png"
+		},
+		"48907": {
+			"release_per_platform_id": "n64_20A1C120",
+			"name": "Be Careful Not To Cut Yourself!",
+			"description": "Turn into all possible combinations of cutter ability",
+			"api_key": "48907",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49543.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49543_lock.png"
+		},
+		"48908": {
+			"release_per_platform_id": "n64_20A1C120",
+			"name": "Pop Star Completed!!",
+			"description": "Catch all the crystals of Pop Star [Not Including Boss Crystal]",
+			"api_key": "48908",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49614.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49614_lock.png"
+		},
+		"53313": {
+			"release_per_platform_id": "n64_20A1C120",
+			"name": "Rock Star Completed!!",
+			"description": "Catch all the crystals of Rock Star [Not Including Boss Crystal]",
+			"api_key": "53313",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50037.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50037_lock.png"
+		},
+		"53314": {
+			"release_per_platform_id": "n64_20A1C120",
+			"name": "Aqua Star Completed!!",
+			"description": "Catch all the crystals of Aqua Star [Not Including Boss Crystal]",
+			"api_key": "53314",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50063.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50063_lock.png"
+		},
+		"53315": {
+			"release_per_platform_id": "n64_20A1C120",
+			"name": "Neo Star Completed!!",
+			"description": "Catch all the crystals of Neo Star [Not Including Boss Crystal]",
+			"api_key": "53315",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50368.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50368_lock.png"
+		},
+		"53316": {
+			"release_per_platform_id": "n64_20A1C120",
+			"name": "Shiver Star Completed!!",
+			"description": "Catch all the crystals of Shiver Star [Not Including Boss Crystal]",
+			"api_key": "53316",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54688.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54688_lock.png"
+		},
+		"53317": {
+			"release_per_platform_id": "n64_20A1C120",
+			"name": "Ripple Star Completed!!",
+			"description": "Catch all the crystals of Ripple Star [Not Including Boss Crystal]",
+			"api_key": "53317",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54706.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54706_lock.png"
+		},
+		"53312": {
+			"release_per_platform_id": "n64_20A1C120",
+			"name": "Ripple Star Restored",
+			"description": "Complete The Game with 100% Completion",
+			"api_key": "53312",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54771.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54771_lock.png"
+		},
+		"53318": {
+			"release_per_platform_id": "n64_20A1C120",
+			"name": "Gotta Catch em All",
+			"description": "Find and open all enemy info cards",
+			"api_key": "53318",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54828.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54828_lock.png"
+		},
+		"53319": {
+			"release_per_platform_id": "n64_20A1C120",
+			"name": "*Kirby Dream Land 3",
+			"description": "Defeat Adeleine with Stone Friends Combination [Missable]",
+			"api_key": "53319",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54830.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54830_lock.png"
+		},
+		"53323": {
+			"release_per_platform_id": "n64_20A1C120",
+			"name": "Ice Skates Against Tree",
+			"description": "Defeat Whispy Woods without taking damage using Ice Skates combination",
+			"api_key": "53323",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49616.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49616_lock.png"
+		},
+		"53320": {
+			"release_per_platform_id": "n64_20A1C120",
+			"name": "Fireworks Against Polygons",
+			"description": "Defeat Pix without taking damage using Fireworks combination ",
+			"api_key": "53320",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50040.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50040_lock.png"
+		},
+		"53321": {
+			"release_per_platform_id": "n64_20A1C120",
+			"name": "Melting Ice Cube Against Shark",
+			"description": "Defeat Acro without taking damage using Melting Ice Cube combination",
+			"api_key": "53321",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50066.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50066_lock.png"
+		},
+		"53322": {
+			"release_per_platform_id": "n64_20A1C120",
+			"name": "Dynamite Against Lava",
+			"description": "Defeat Magman without taking damage using Dynamite combination",
+			"api_key": "53322",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54832.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54832_lock.png"
+		},
+		"53324": {
+			"release_per_platform_id": "n64_20A1C120",
+			"name": "Spark Against Mecha",
+			"description": "Defeat HR-H without taking damage using Spark Abbility",
+			"api_key": "53324",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54959.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54959_lock.png"
+		},
+		"53325": {
+			"release_per_platform_id": "n64_20A1C120",
+			"name": "Default Kirby Against Miracle Matter",
+			"description": "Defeat Miracle Matter without taking damage or using abilitys",
+			"api_key": "53325",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54840.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54840_lock.png"
+		},
+		"53326": {
+			"release_per_platform_id": "n64_20A1C120",
+			"name": "Remember! For Kids!",
+			"description": "Defeat 02 without taking damage",
+			"api_key": "53326",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54850.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54850_lock.png"
+		},
+		"53327": {
+			"release_per_platform_id": "n64_20A1C120",
+			"name": "Gotta Go Fast!!",
+			"description": "Win a round in 100-Yard Hop against three COMs in Intense Skill Level",
+			"api_key": "53327",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54877.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54877_lock.png"
+		},
+		"53328": {
+			"release_per_platform_id": "n64_20A1C120",
+			"name": "The Most Greedy Wins!",
+			"description": "Win a round in Bumper Crop Bump against three COMs in Intense Skill Level",
+			"api_key": "53328",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54878.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54878_lock.png"
+		},
+		"53329": {
+			"release_per_platform_id": "n64_20A1C120",
+			"name": "King of the Hill",
+			"description": "Win a round in Checker Board Chase against three COMs in Intense Skill Level",
+			"api_key": "53329",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54879.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54879_lock.png"
+		},
+		"53330": {
+			"release_per_platform_id": "n64_20A1C120",
+			"name": "The Arena Champion",
+			"description": "Complete Boss Battles Mini-Game",
+			"api_key": "53330",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54907.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54907_lock.png"
+		},
+		"53331": {
+			"release_per_platform_id": "n64_20A1C120",
+			"name": "The TRUE Arena Champion",
+			"description": "Complete Boss Battles Mini-Game with Full Health",
+			"api_key": "53331",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54906.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54906_lock.png"
+		}
+	}
+}

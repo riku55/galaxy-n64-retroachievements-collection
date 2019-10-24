@@ -1,0 +1,260 @@
+{
+	"Achievements": {
+		"49069": {
+			"release_per_platform_id": "n64_E90856E8",
+			"name": "The Keeper of the Earth Element",
+			"description": "Defeat Solvaring",
+			"api_key": "49069",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49517.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49517_lock.png"
+		},
+		"49070": {
+			"release_per_platform_id": "n64_E90856E8",
+			"name": "The Keeper of the Wind Element",
+			"description": "Defeat Zelse",
+			"api_key": "49070",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49643.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49643_lock.png"
+		},
+		"49071": {
+			"release_per_platform_id": "n64_E90856E8",
+			"name": "The Keeper of the Water Element",
+			"description": "Defeat Nepty",
+			"api_key": "49071",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49652.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49652_lock.png"
+		},
+		"49072": {
+			"release_per_platform_id": "n64_E90856E8",
+			"name": "The Boss at the End of Rock Tunnel",
+			"description": "Defeat Shilf",
+			"api_key": "49072",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49655.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49655_lock.png"
+		},
+		"49073": {
+			"release_per_platform_id": "n64_E90856E8",
+			"name": "The Keeper of the Fire Element",
+			"description": "Defeat Fargo",
+			"api_key": "49073",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49804.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49804_lock.png"
+		},
+		"49074": {
+			"release_per_platform_id": "n64_E90856E8",
+			"name": "Innocent or ....?",
+			"description": "Defeat Guilty",
+			"api_key": "49074",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49823.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49823_lock.png"
+		},
+		"49075": {
+			"release_per_platform_id": "n64_E90856E8",
+			"name": "King of the Castle?",
+			"description": "Defeat Beigis",
+			"api_key": "49075",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49827.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49827_lock.png"
+		},
+		"49076": {
+			"release_per_platform_id": "n64_E90856E8",
+			"name": "Defeated in His Own World",
+			"description": "Defeat Mammon",
+			"api_key": "49076",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49876.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49876_lock.png"
+		},
+		"49077": {
+			"release_per_platform_id": "n64_E90856E8",
+			"name": "Spirit Searcher I",
+			"description": "You have found all 5 spirits in the Melrode area!",
+			"api_key": "49077",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49641.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49641_lock.png"
+		},
+		"49078": {
+			"release_per_platform_id": "n64_E90856E8",
+			"name": "Spirit Searcher II",
+			"description": "You have found all 8 spirits in the Dondoran area!",
+			"api_key": "49078",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49641.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49641_lock.png"
+		},
+		"49079": {
+			"release_per_platform_id": "n64_E90856E8",
+			"name": "Spirit Searcher III",
+			"description": "You've found all 9 spirits in the Dondoran Flats area!",
+			"api_key": "49079",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49641.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49641_lock.png"
+		},
+		"49080": {
+			"release_per_platform_id": "n64_E90856E8",
+			"name": "Spirit Searcher IV",
+			"description": "You've found all 5 spirits in the West Carmagh area!",
+			"api_key": "49080",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49641.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49641_lock.png"
+		},
+		"49081": {
+			"release_per_platform_id": "n64_E90856E8",
+			"name": "Soul Searcher V",
+			"description": "You've found all 7 spirits in the Normoon area!",
+			"api_key": "49081",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49641.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49641_lock.png"
+		},
+		"49082": {
+			"release_per_platform_id": "n64_E90856E8",
+			"name": "Soul Searcher VI",
+			"description": "Find all 10 spirits in the Larapool Area!",
+			"api_key": "49082",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49641.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49641_lock.png"
+		},
+		"49083": {
+			"release_per_platform_id": "n64_E90856E8",
+			"name": "Soul Searcher VII",
+			"description": "You've found all 6 spirits in the Isle of Skye area!",
+			"api_key": "49083",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49641.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49641_lock.png"
+		},
+		"49084": {
+			"release_per_platform_id": "n64_E90856E8",
+			"name": "Soul Searcher IX",
+			"description": "You've found all 21 spirits in the East Limelin area!",
+			"api_key": "49084",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49641.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49641_lock.png"
+		},
+		"49085": {
+			"release_per_platform_id": "n64_E90856E8",
+			"name": "Soul Searcher X",
+			"description": "You've found all 19 spirits in the Dindom Dries area!",
+			"api_key": "49085",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49641.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49641_lock.png"
+		},
+		"49086": {
+			"release_per_platform_id": "n64_E90856E8",
+			"name": "Soul Searcher XI",
+			"description": "You've found all 8 spirits in the Baragoon Moor area!",
+			"api_key": "49086",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49641.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49641_lock.png"
+		},
+		"49087": {
+			"release_per_platform_id": "n64_E90856E8",
+			"name": "Elemental Alergy, Fire",
+			"description": "Defeat Mammon, without ever leveling up your fire element.",
+			"api_key": "49087",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49872.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49872_lock.png"
+		},
+		"49088": {
+			"release_per_platform_id": "n64_E90856E8",
+			"name": "Elemental Alergy, Water",
+			"description": "Defeat Mammon, without ever leveling up your water element.",
+			"api_key": "49088",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49873.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49873_lock.png"
+		},
+		"49089": {
+			"release_per_platform_id": "n64_E90856E8",
+			"name": "Elemental Alergy, Earth",
+			"description": "Defeat Mammon, without ever leveling up your Earth element.",
+			"api_key": "49089",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49874.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49874_lock.png"
+		},
+		"49090": {
+			"release_per_platform_id": "n64_E90856E8",
+			"name": "Elemental Alergy, Wind",
+			"description": "Defeat Mammon, without ever leveling your Wind element.",
+			"api_key": "49090",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49875.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49875_lock.png"
+		},
+		"49091": {
+			"release_per_platform_id": "n64_E90856E8",
+			"name": "Spirit Novice",
+			"description": "Level any one element to level 50.",
+			"api_key": "49091",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49870.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49870_lock.png"
+		},
+		"49092": {
+			"release_per_platform_id": "n64_E90856E8",
+			"name": "Spirit Master",
+			"description": "Level any 2 elements to level 50.",
+			"api_key": "49092",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49870.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49870_lock.png"
+		},
+		"49093": {
+			"release_per_platform_id": "n64_E90856E8",
+			"name": "Now You Have Healing!",
+			"description": "Reach level 7 in Water Magic to learn Healing Level 1",
+			"api_key": "49093",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49877.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49877_lock.png"
+		},
+		"49094": {
+			"release_per_platform_id": "n64_E90856E8",
+			"name": "Slightly Better Healing",
+			"description": "Reach level 25 in Water Magic to learn Healing Level 2",
+			"api_key": "49094",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49877.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49877_lock.png"
+		},
+		"49095": {
+			"release_per_platform_id": "n64_E90856E8",
+			"name": "Dropping Rocks",
+			"description": "Reach level 24 in Earth Magic to learn Avalanche.",
+			"api_key": "49095",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49878.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49878_lock.png"
+		},
+		"49096": {
+			"release_per_platform_id": "n64_E90856E8",
+			"name": "Invulnerability!",
+			"description": "Reach level 36 in Earth Magic to learn Magic Barrier.",
+			"api_key": "49096",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49878.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49878_lock.png"
+		},
+		"49097": {
+			"release_per_platform_id": "n64_E90856E8",
+			"name": "Building Steam",
+			"description": "Reach level 13 in Fire Magic to learn Hot Steam Level 1",
+			"api_key": "49097",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49879.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49879_lock.png"
+		},
+		"49098": {
+			"release_per_platform_id": "n64_E90856E8",
+			"name": "Hot Stuff",
+			"description": "Reach Level 24 in Fire Magic to learn Fire Pillar.",
+			"api_key": "49098",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49879.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49879_lock.png"
+		},
+		"49099": {
+			"release_per_platform_id": "n64_E90856E8",
+			"name": "Gotta Go Fast!",
+			"description": "Reach level 8 in Wind Magic to learn Evade Level 1.",
+			"api_key": "49099",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49880.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49880_lock.png"
+		},
+		"49100": {
+			"release_per_platform_id": "n64_E90856E8",
+			"name": "Heavy Winds",
+			"description": "Reach level 28 in Wind Magic to learn Cyclone.",
+			"api_key": "49100",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49880.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49880_lock.png"
+		}
+	}
+}

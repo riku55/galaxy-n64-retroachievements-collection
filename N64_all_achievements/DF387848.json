@@ -1,0 +1,412 @@
+{
+	"Achievements": {
+		"70533": {
+			"release_per_platform_id": "n64_DF387848",
+			"name": "Amateur Photographer",
+			"description": "Get a picture of 20 different Pokemon.",
+			"api_key": "70533",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76349.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76349_lock.png"
+		},
+		"70534": {
+			"release_per_platform_id": "n64_DF387848",
+			"name": "Making My Name Known",
+			"description": "Get a picture of 40 different Pokemon.",
+			"api_key": "70534",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76087.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76087_lock.png"
+		},
+		"71252": {
+			"release_per_platform_id": "n64_DF387848",
+			"name": "Professional Freelancer",
+			"description": "Photograph all 63 Pokemon.",
+			"api_key": "71252",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76088.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76088_lock.png"
+		},
+		"70541": {
+			"release_per_platform_id": "n64_DF387848",
+			"name": "Through Rock Tunnel",
+			"description": "Unlock the Tunnel Course",
+			"api_key": "70541",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/74869.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/74869_lock.png"
+		},
+		"70542": {
+			"release_per_platform_id": "n64_DF387848",
+			"name": "Over the Volcano",
+			"description": "Unlock the Volcano Course",
+			"api_key": "70542",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/74870.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/74870_lock.png"
+		},
+		"70543": {
+			"release_per_platform_id": "n64_DF387848",
+			"name": "River Rafting",
+			"description": "Unlock the River Course",
+			"api_key": "70543",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/74871.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/74871_lock.png"
+		},
+		"70544": {
+			"release_per_platform_id": "n64_DF387848",
+			"name": "Cave Exploration",
+			"description": "Unlock the Cave Course",
+			"api_key": "70544",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/74872.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/74872_lock.png"
+		},
+		"70545": {
+			"release_per_platform_id": "n64_DF387848",
+			"name": "Down Through the Valley ",
+			"description": "Unlock the Valley Course",
+			"api_key": "70545",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/74873.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/74873_lock.png"
+		},
+		"70546": {
+			"release_per_platform_id": "n64_DF387848",
+			"name": "At of End of the Rainbow Cloud",
+			"description": "Unlock the Rainbow Course",
+			"api_key": "70546",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/74874.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/74874_lock.png"
+		},
+		"70547": {
+			"release_per_platform_id": "n64_DF387848",
+			"name": "Dinner Time!",
+			"description": "Unlock the Pokemon Food.",
+			"api_key": "70547",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75523.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75523_lock.png"
+		},
+		"70548": {
+			"release_per_platform_id": "n64_DF387848",
+			"name": "Quit Pestering Me!",
+			"description": "Unlock the Pesterball",
+			"api_key": "70548",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75524.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75524_lock.png"
+		},
+		"70549": {
+			"release_per_platform_id": "n64_DF387848",
+			"name": "Dashing Through!",
+			"description": "Unlock the Dash Engine.",
+			"api_key": "70549",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75525.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75525_lock.png"
+		},
+		"70550": {
+			"release_per_platform_id": "n64_DF387848",
+			"name": "The Musician's Lullaby",
+			"description": "Unlock the Pokeflute.",
+			"api_key": "70550",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75526.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75526_lock.png"
+		},
+		"70535": {
+			"release_per_platform_id": "n64_DF387848",
+			"name": "Kingler of the Beach",
+			"description": "Submit of photo of Kingler Rock sign.",
+			"api_key": "70535",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76014.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76014_lock.png"
+		},
+		"70536": {
+			"release_per_platform_id": "n64_DF387848",
+			"name": "Pincered in a Shadow",
+			"description": "Submit a photo of the Pinsir Shadow sign.",
+			"api_key": "70536",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76015.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76015_lock.png"
+		},
+		"70537": {
+			"release_per_platform_id": "n64_DF387848",
+			"name": "Volcanic Gases",
+			"description": "Submit of photo of the Koffing Smoke! sign.",
+			"api_key": "70537",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76016.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76016_lock.png"
+		},
+		"70538": {
+			"release_per_platform_id": "n64_DF387848",
+			"name": "The Orphaned Child",
+			"description": "Submit a photo of the Cubone Tree! sign.",
+			"api_key": "70538",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76017.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76017_lock.png"
+		},
+		"70539": {
+			"release_per_platform_id": "n64_DF387848",
+			"name": "Thanks to Science!",
+			"description": "Submit of photo of the Mewtwo sign.",
+			"api_key": "70539",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76018.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76018_lock.png"
+		},
+		"70540": {
+			"release_per_platform_id": "n64_DF387848",
+			"name": "A Trio of Humps",
+			"description": "Submit of photo of the Mt. Dugtrio sign.",
+			"api_key": "70540",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76019.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76019_lock.png"
+		},
+		"70564": {
+			"release_per_platform_id": "n64_DF387848",
+			"name": "Strike A Pose",
+			"description": "Get a pose score of 1,250 points.",
+			"api_key": "70564",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75564.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75564_lock.png"
+		},
+		"70565": {
+			"release_per_platform_id": "n64_DF387848",
+			"name": "Professional Photographer",
+			"description": "Take a picture worth more than 5,000 points.",
+			"api_key": "70565",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75565.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75565_lock.png"
+		},
+		"70566": {
+			"release_per_platform_id": "n64_DF387848",
+			"name": "A Highly Rated Salad",
+			"description": "Submit a photo of a REAL Bulbasaur worth 4,000 points.",
+			"api_key": "70566",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75534.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75534_lock.png"
+		},
+		"70567": {
+			"release_per_platform_id": "n64_DF387848",
+			"name": "Charred Barbecue",
+			"description": "Submit a photo of Charmander worth 4,000 points.",
+			"api_key": "70567",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75535.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75535_lock.png"
+		},
+		"70568": {
+			"release_per_platform_id": "n64_DF387848",
+			"name": "That Little Squirt!",
+			"description": "Submit a photo of Squirtle worth 4,000 points.",
+			"api_key": "70568",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75536.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75536_lock.png"
+		},
+		"70569": {
+			"release_per_platform_id": "n64_DF387848",
+			"name": "Beauty of the Sea",
+			"description": "Submit a photo of Lapras worth 3,000 points.",
+			"api_key": "70569",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75537.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75537_lock.png"
+		},
+		"70570": {
+			"release_per_platform_id": "n64_DF387848",
+			"name": "Could be Anything",
+			"description": "Submit a photo of Ditto worth 4,000 points.",
+			"api_key": "70570",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75538.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75538_lock.png"
+		},
+		"70571": {
+			"release_per_platform_id": "n64_DF387848",
+			"name": "Digital Glitch",
+			"description": "Submit a photo of Porygon worth 4,000 points.",
+			"api_key": "70571",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75539.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75539_lock.png"
+		},
+		"70572": {
+			"release_per_platform_id": "n64_DF387848",
+			"name": "Icy Flight",
+			"description": "Submit a photo of Articuno worth 4,500 points.",
+			"api_key": "70572",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76109.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76109_lock.png"
+		},
+		"70573": {
+			"release_per_platform_id": "n64_DF387848",
+			"name": "Shocking",
+			"description": "Submit a photo of Zapdos worth 4,500 points.",
+			"api_key": "70573",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75541.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75541_lock.png"
+		},
+		"70574": {
+			"release_per_platform_id": "n64_DF387848",
+			"name": "Molten Hot",
+			"description": "Submit a photo of Moltres worth 4,500 points.",
+			"api_key": "70574",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75542.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75542_lock.png"
+		},
+		"70575": {
+			"release_per_platform_id": "n64_DF387848",
+			"name": "The Genes of All",
+			"description": "Submit a photo of Mew worth 10,000 points.",
+			"api_key": "70575",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75546.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75546_lock.png"
+		},
+		"70576": {
+			"release_per_platform_id": "n64_DF387848",
+			"name": "Best Friends!",
+			"description": "Submit a photo of Charmander worth over 1,000 Same Pokemon score.",
+			"api_key": "70576",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75522.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75522_lock.png"
+		},
+		"70552": {
+			"release_per_platform_id": "n64_DF387848",
+			"name": "Surfs up!",
+			"description": "Submit a photo of Pikachu Surfing.",
+			"api_key": "70552",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75358.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75358_lock.png"
+		},
+		"70553": {
+			"release_per_platform_id": "n64_DF387848",
+			"name": "Rollin' Through",
+			"description": "Submit of photo of Pikachu on a Ball.",
+			"api_key": "70553",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75359.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75359_lock.png"
+		},
+		"70554": {
+			"release_per_platform_id": "n64_DF387848",
+			"name": "Totally Stumped",
+			"description": "Submit of Photo of Pikachu on a Stump.",
+			"api_key": "70554",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75360.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75360_lock.png"
+		},
+		"70555": {
+			"release_per_platform_id": "n64_DF387848",
+			"name": "Pikachu, Use Agility!",
+			"description": "Submit of Photo of a speeding Pikachu.",
+			"api_key": "70555",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75361.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75361_lock.png"
+		},
+		"70556": {
+			"release_per_platform_id": "n64_DF387848",
+			"name": "Full of Hot Air",
+			"description": "Submit a photo of a Balloon Pikachu.",
+			"api_key": "70556",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75362.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75362_lock.png"
+		},
+		"70557": {
+			"release_per_platform_id": "n64_DF387848",
+			"name": "Soaring Through the Air",
+			"description": "Submit a photo of a flying Pikachu.",
+			"api_key": "70557",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75363.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75363_lock.png"
+		},
+		"70558": {
+			"release_per_platform_id": "n64_DF387848",
+			"name": "Time For A Solo",
+			"description": "Submit of photo of one Jigglypuff on the stage.",
+			"api_key": "70558",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75364.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75364_lock.png"
+		},
+		"70559": {
+			"release_per_platform_id": "n64_DF387848",
+			"name": "Singing in a Trio",
+			"description": " Submit of photo of a Trio of Jigglypuff on stage.",
+			"api_key": "70559",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75365.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75365_lock.png"
+		},
+		"70560": {
+			"release_per_platform_id": "n64_DF387848",
+			"name": "Hot Headed",
+			"description": "Submit a photo of Fighting Magmar.",
+			"api_key": "70560",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75366.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75366_lock.png"
+		},
+		"70561": {
+			"release_per_platform_id": "n64_DF387848",
+			"name": "Caught in the Breeze",
+			"description": " Submit of photo of Gust Using Pidgey.",
+			"api_key": "70561",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75367.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75367_lock.png"
+		},
+		"70562": {
+			"release_per_platform_id": "n64_DF387848",
+			"name": "Getting My Groove On",
+			"description": " Submit a photo of Dancing Graveler.",
+			"api_key": "70562",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75368.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75368_lock.png"
+		},
+		"70563": {
+			"release_per_platform_id": "n64_DF387848",
+			"name": "The Treasure of the Rainbow",
+			"description": "Submit a photo of the Rare Pokemon Mew.",
+			"api_key": "70563",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75369.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75369_lock.png"
+		},
+		"70577": {
+			"release_per_platform_id": "n64_DF387848",
+			"name": "Mega Beach Party",
+			"description": "Complete the Beach Challenge.",
+			"api_key": "70577",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76023.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76023_lock.png"
+		},
+		"70578": {
+			"release_per_platform_id": "n64_DF387848",
+			"name": "Tunnel Vision",
+			"description": "Complete the Tunnel Challenge.",
+			"api_key": "70578",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76024.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76024_lock.png"
+		},
+		"70579": {
+			"release_per_platform_id": "n64_DF387848",
+			"name": "Hot Time on the Hill",
+			"description": "Complete the Volcano Challenge.",
+			"api_key": "70579",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76025.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76025_lock.png"
+		},
+		"70580": {
+			"release_per_platform_id": "n64_DF387848",
+			"name": "River Rafting Blast!",
+			"description": "Complete the River Challenge.",
+			"api_key": "70580",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76026.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76026_lock.png"
+		},
+		"70581": {
+			"release_per_platform_id": "n64_DF387848",
+			"name": "Cave Adventurer",
+			"description": "Complete the Cave Challenge.",
+			"api_key": "70581",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76027.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76027_lock.png"
+		},
+		"70582": {
+			"release_per_platform_id": "n64_DF387848",
+			"name": "Challenging Valley Ride!",
+			"description": "Complete the Valley Challenge.",
+			"api_key": "70582",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76028.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76028_lock.png"
+		},
+		"70583": {
+			"release_per_platform_id": "n64_DF387848",
+			"name": "Rainbow Cloud Soaring",
+			"description": "Complete the Rainbow Cloud Challenge.",
+			"api_key": "70583",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76029.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/76029_lock.png"
+		}
+	}
+}

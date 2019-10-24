@@ -1,0 +1,708 @@
+{
+	"Achievements": {
+		"48638": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "A new Journey",
+			"description": "Grab your first Power Star.",
+			"api_key": "48638",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/84220.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/84220_lock.png"
+		},
+		"48639": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "Ready to fight Bowser",
+			"description": "Grab 8 Power Stars.",
+			"api_key": "48639",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/84221.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/84221_lock.png"
+		},
+		"48640": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "Ready to rematch Bowser",
+			"description": "Grab 30 Power Stars.",
+			"api_key": "48640",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/84222.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/84222_lock.png"
+		},
+		"48641": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "Lobby at the Top",
+			"description": "Grab 50 Power Stars.",
+			"api_key": "48641",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/84223.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/84223_lock.png"
+		},
+		"48642": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "Ready for the final Match",
+			"description": "Grab 70 Power Stars.",
+			"api_key": "48642",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/84224.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/84224_lock.png"
+		},
+		"48643": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "Full Power",
+			"description": "Grab 120 Power Stars.",
+			"api_key": "48643",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/84225.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/84225_lock.png"
+		},
+		"48644": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "Full Course in the Battlefield",
+			"description": "Collect all 7 Power Stars in Bob-omb Battlefield.",
+			"api_key": "48644",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78246.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78246_lock.png"
+		},
+		"48645": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "Full Course in the Fortress",
+			"description": "Collect all 7 Power Stars in Whomp's Fortress.",
+			"api_key": "48645",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78247.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78247_lock.png"
+		},
+		"48646": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "Full Course in the Bay",
+			"description": "Collect all 7 Power Stars in Jolly Roger Bay.",
+			"api_key": "48646",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78248.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78248_lock.png"
+		},
+		"48647": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "Full Course in the Cool Mountain",
+			"description": "Collect all 7 Power Stars in Cool, Cool Mountain.",
+			"api_key": "48647",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78249.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78249_lock.png"
+		},
+		"48648": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "Full Course Haunted House",
+			"description": "Collect all 7 Power Stars in Big Boo's Haunt.",
+			"api_key": "48648",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78250.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78250_lock.png"
+		},
+		"48649": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "Full Course in the Maze Cave",
+			"description": "Collect all 7 Power Stars in Hazy Maze Cave.",
+			"api_key": "48649",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78251.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78251_lock.png"
+		},
+		"48650": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "Full Course in the Lava Land",
+			"description": "Collect all 7 Power Stars in Lethal Lava Land.",
+			"api_key": "48650",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78252.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78252_lock.png"
+		},
+		"48651": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "Full Course in the Desert Land",
+			"description": "Collect all 7 Power Stars in Shifting Sand Land.",
+			"api_key": "48651",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78253.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78253_lock.png"
+		},
+		"48652": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "Full Course in the Dire Docks",
+			"description": "Collect all 7 Power Stars in Dire, Dire Docks.",
+			"api_key": "48652",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78254.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78254_lock.png"
+		},
+		"48653": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "Full Course in the Snowman's Land",
+			"description": "Collect all 7 Power Stars in Snowman's Land.",
+			"api_key": "48653",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78255.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78255_lock.png"
+		},
+		"48654": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "Full Course in the Wet-Dry World",
+			"description": "Collect all 7 Power Stars in Wet-Dry World.",
+			"api_key": "48654",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78256.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78256_lock.png"
+		},
+		"48655": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "Full Course in the Tall Mountain",
+			"description": "Collect all 7 Power Stars in Tall, Tall Mountain.",
+			"api_key": "48655",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78257.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78257_lock.png"
+		},
+		"48656": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "Full Course in the Tiny-Huge Island",
+			"description": "Collect all 7 Power Stars in Tiny-Huge Island.",
+			"api_key": "48656",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78258.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78258_lock.png"
+		},
+		"48657": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "Full Course in the Tick Tock Clock",
+			"description": "Collect all 7 Power Stars in Tick Tock Clock.",
+			"api_key": "48657",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78259.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78259_lock.png"
+		},
+		"48658": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "Full Course in the Rainbow",
+			"description": "Collect all 7 Power Stars in Rainbow Ride.",
+			"api_key": "48658",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78260.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78260_lock.png"
+		},
+		"48817": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "Full Course around the Castle",
+			"description": "Collect all 15 Castle Secret Stars.",
+			"api_key": "48817",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78241.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78241_lock.png"
+		},
+		"48661": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "Fly baby fly",
+			"description": "Activate the Red Switch.",
+			"api_key": "48661",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78269.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78269_lock.png"
+		},
+		"48662": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "Metal Head",
+			"description": "Activate the Green Switch.",
+			"api_key": "48662",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78261.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78261_lock.png"
+		},
+		"48663": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "Invisible",
+			"description": "Activate the Blue Switch.",
+			"api_key": "48663",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78239.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78239_lock.png"
+		},
+		"48659": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "Cannoneer",
+			"description": "Activate all 10 Cannons in the Courses.",
+			"api_key": "48659",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78240.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78240_lock.png"
+		},
+		"48666": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "Thanks for Playing",
+			"description": "Beat the game and reach the Credits.",
+			"api_key": "48666",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78242.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78242_lock.png"
+		},
+		"48664": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "It's a me, Yoshi",
+			"description": "Find and talk to Yoshi.",
+			"api_key": "48664",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78268.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78268_lock.png"
+		},
+		"48667": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "Half empty or half full?",
+			"description": "Access Wet-Dry World when the water is empty, at the middle and full capacity.",
+			"api_key": "48667",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78262.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78262_lock.png"
+		},
+		"48668": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "The Clock is ticking",
+			"description": "Access Tick Tock Clock stage with all possible time states.",
+			"api_key": "48668",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78266.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78266_lock.png"
+		},
+		"48704": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "Frawless Victory - Round 1",
+			"description": "Beat Bowser in the Dark World without being damaged throughout the stage.",
+			"api_key": "48704",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78243.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78243_lock.png"
+		},
+		"48705": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "Frawless Victory - Round 2",
+			"description": "Beat Bowser in the Fire Sea without being damaged throughout the stage.",
+			"api_key": "48705",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78244.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78244_lock.png"
+		},
+		"48706": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "Frawless Victory - Final Round",
+			"description": "Beat Bowser in the Sky without being damaged throughout the stage.",
+			"api_key": "48706",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78245.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78245_lock.png"
+		},
+		"48707": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "The Power of all 120 stars",
+			"description": "Beat Bowser in the Sky after getting all 120 Power Stars.",
+			"api_key": "48707",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/84226.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/84226_lock.png"
+		},
+		"48708": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "Out of Shape",
+			"description": "Beat the Fat Penguin fairly after getting 120 stars.",
+			"api_key": "48708",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78264.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78264_lock.png"
+		},
+		"48709": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "Long walk into the Mountain",
+			"description": "Climb to the Top of the Mountain in Bob-omb Battlefield without pressing 'A' or using a Warp.",
+			"api_key": "48709",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78263.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78263_lock.png"
+		},
+		"72190": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "Jump to the Island in the Sky",
+			"description": "Collect the Star 'Shoot to the Island in the Sky' in Bob-omb Battlefield without using the cannon.",
+			"api_key": "72190",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78230.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78230_lock.png"
+		},
+		"72191": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "Mario Shoots to the Sky",
+			"description": "Collect the Star 'Mario Wings to the Sky' in Bob-omb Battlefield without using the Wing Cap.",
+			"api_key": "72191",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78231.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78231_lock.png"
+		},
+		"72192": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "Cannonless into the Wild Blue",
+			"description": "Collect the Star 'Shoot into the Wild Blue' in Whomp's Fortress without using the cannon.",
+			"api_key": "72192",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78232.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78232_lock.png"
+		},
+		"72193": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "Jump onto the Caged Island",
+			"description": "Collect the Star 'Fall onto the Caged Island' in Whomp's Fortress without using the owl.",
+			"api_key": "72193",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78182.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78182_lock.png"
+		},
+		"72194": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "Jump onto the Stone Cliff",
+			"description": "Collect the Star 'Blast to the Stone Pillar' in Jolly Roger Bay without using the cannon.",
+			"api_key": "72194",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78183.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78183_lock.png"
+		},
+		"72195": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "Swim through the Jet Stream",
+			"description": "Collect the Star 'Through the Jet Stream' in Jolly Roger Bay without using the Metal Cap.",
+			"api_key": "72195",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78184.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78184_lock.png"
+		},
+		"72196": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "Wall Kick Will Work but Flying too",
+			"description": "Collect the Star 'Wall Kick Will Work' in Cool, Cool Mountain without touching the slope with the heart.",
+			"api_key": "72196",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78185.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78185_lock.png"
+		},
+		"72197": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "Secret Way around the Haunted Books",
+			"description": "Collect the Star 'Secret of the Haunted Books' in Big Boo's Haunt without solving the puzzle.",
+			"api_key": "72197",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78186.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78186_lock.png"
+		},
+		"72198": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "A-Maze-Ing Jumps to the Exit",
+			"description": "Collect the Star 'A-Maze-Ing Emergency Exit' in Hazy Maze Cave without touching the toxic gas.",
+			"api_key": "72198",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78187.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78187_lock.png"
+		},
+		"72199": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "Delivery for the Ancient Pharaoh",
+			"description": "Collect the Star 'Shining Atop the Pyramid' in Shifting Sand Land while holding the small crate.",
+			"api_key": "72199",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78188.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78188_lock.png"
+		},
+		"72200": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "Secret Passage to the Temple Treasure",
+			"description": "Collect the Star 'Inside the Ancient Pyramid' in Shifting Sand Land without going below the top platform in the Pyramid.",
+			"api_key": "72200",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78189.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78189_lock.png"
+		},
+		"72201": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "Submarine Jumps for Red Coins *",
+			"description": "Collect the Star 'Pole-Jumping for Red Coins' in Dire, Dire Docks before the submarine moves away.",
+			"api_key": "72201",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78190.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78190_lock.png"
+		},
+		"72202": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "Pole-Jumping for a vanished Star",
+			"description": "Collect the Star 'Board Bowser's Sub' in Dire, Dire Docks after the submarine moved away.",
+			"api_key": "72202",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78191.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78191_lock.png"
+		},
+		"72203": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "Swim through the Jet Stream II",
+			"description": "Collect the Star 'Through the Jet Stream' in Dire, Dire Docks without using the Metal Cap.",
+			"api_key": "72203",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78192.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78192_lock.png"
+		},
+		"72204": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "Mystery of the Mysterious Mountainside",
+			"description": "Collect the Star 'Mysterious Mountainside' in Tall, Tall Mountain without using the slide.",
+			"api_key": "72204",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78193.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78193_lock.png"
+		},
+		"72205": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "Friendly Visit to the Lonely Mushroom",
+			"description": "Collect the Star 'Blast to the Lonely Mushroom' in Tall, Tall Mountain without using the cannon.",
+			"api_key": "72205",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78194.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78194_lock.png"
+		},
+		"72247": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "Board the Cruiser in the Sky",
+			"description": "Collect the Star 'Cruiser Crossing the Rainbow' in Rainbow Ride without using a carpet.",
+			"api_key": "72247",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78214.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78214_lock.png"
+		},
+		"72248": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "Falling like an Ironbar",
+			"description": "Collect the Red Coin Star in Cavern of the Metal Cap without using a second Metal Cap.",
+			"api_key": "72248",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78215.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78215_lock.png"
+		},
+		"72249": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "Hot Shell Ride for Golden Coins",
+			"description": "Collect 90 Coins while riding a Koopa Shell in Lethal Lava Land.",
+			"api_key": "72249",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89500.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/89500_lock.png"
+		},
+		"72250": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "Cool Shell Ride for Golden Coins",
+			"description": "Collect 75 Coins while riding a Koopa Shell in Snowman's Land.",
+			"api_key": "72250",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/84228.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/84228_lock.png"
+		},
+		"72251": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "Princess's Secret Treasure",
+			"description": "Collect all 80 Coins in the Princess's Secret Slide.",
+			"api_key": "72251",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/84229.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/84229_lock.png"
+		},
+		"72252": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "Is there a Secret?",
+			"description": "Read the sign near the log on the small island in Tiny-Huge Island.",
+			"api_key": "72252",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78219.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78219_lock.png"
+		},
+		"72253": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "Mario's Speedrun in the Plains",
+			"description": "Race Koopa the Quick in 34 seconds or less in Bob-omb Battlefield without using the Wing Cap.",
+			"api_key": "72253",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78220.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78220_lock.png"
+		},
+		"72254": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "Mario's Speedrun on the Island",
+			"description": "Race Koopa the Quick in 20 seconds or less in Tiny-Huge Island without using the Koopa Shell.",
+			"api_key": "72254",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78221.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78221_lock.png"
+		},
+		"72255": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "Mario's Speedslide",
+			"description": "Finish the Princess's Secret Slide in 17 seconds or less.",
+			"api_key": "72255",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/84230.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/84230_lock.png"
+		},
+		"72256": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "Bob-omb Blaster",
+			"description": "Reach and defeat King Bob-omb in Bob-omb Battlefield without getting thrown or taking damage.",
+			"api_key": "72256",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78223.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78223_lock.png"
+		},
+		"72257": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "Whomp Crusher",
+			"description": "Reach and defeat King Whomp in Whomp's Fortress without taking damage.",
+			"api_key": "72257",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78224.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78224_lock.png"
+		},
+		"72258": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "Poltergust 25500",
+			"description": "Reach and defeat two Big Boos in Big Boo's Haunt without taking damage.",
+			"api_key": "72258",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78225.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78225_lock.png"
+		},
+		"72259": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "Hot Bully",
+			"description": "Reach and defeat both Big Bullies in Lethal Lava Land without getting pushed or taking damage.",
+			"api_key": "72259",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78226.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78226_lock.png"
+		},
+		"72260": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "Hand Breaker",
+			"description": "Reach and defeat Eyerok in Shifting Sand Land without taking damage.",
+			"api_key": "72260",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78227.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78227_lock.png"
+		},
+		"72261": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "Cool Bully",
+			"description": "Reach and defeat the Chill Bully in Snowman's Land without getting pushed or taking damage.",
+			"api_key": "72261",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78228.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78228_lock.png"
+		},
+		"72262": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "Beetle Squasher",
+			"description": "Reach and defeat Wiggler in Tiny-Huge Island without taking damage.",
+			"api_key": "72262",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78229.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78229_lock.png"
+		},
+		"72212": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "Red Challenge on the Battlefield",
+			"description": "Collect the 8 Red Coins and the Star in Bob-omb Battlefield without taking damage.",
+			"api_key": "72212",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78195.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78195_lock.png"
+		},
+		"72213": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "Red Challenge in the Fortress",
+			"description": "Collect the 8 Red Coins and the Star in Whomp's Fortress without taking damage.",
+			"api_key": "72213",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78196.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78196_lock.png"
+		},
+		"72214": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "Red Challenge on the Snowy Mountain",
+			"description": "Collect the 8 Red Coins and the Star in Cool, Cool Mountain without taking damage.",
+			"api_key": "72214",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78197.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78197_lock.png"
+		},
+		"72215": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "Red Challenge in the Horror Mansion",
+			"description": "Collect the 8 Red Coins and the Star in Big Boo's Haunt without taking damage.",
+			"api_key": "72215",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78198.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78198_lock.png"
+		},
+		"72216": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "Red Challenge of the Molten Area",
+			"description": "Collect the 8 Red Coins and the Star in Lethal Lava Land without pressing 'A' or taking damage.",
+			"api_key": "72216",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78199.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78199_lock.png"
+		},
+		"72217": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "Red Challenge in the Desert",
+			"description": "Collect the 8 Red Coins and the Star in Shifting Sand Land without taking damage.",
+			"api_key": "72217",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78200.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78200_lock.png"
+		},
+		"72218": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "Red Challenge around the Giant Snowman",
+			"description": "Collect the 8 Red Coins and the Star in Snowman's Land without taking damage.",
+			"api_key": "72218",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78201.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78201_lock.png"
+		},
+		"72219": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "Red Challenge on the Island",
+			"description": "Collect the 8 Red Coins and the Star in Tiny-Huge Island without taking damage.",
+			"api_key": "72219",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78202.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78202_lock.png"
+		},
+		"72220": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "Red Challenge in the Clock",
+			"description": "Collect the 8 Red Coins and the Star in Tick Tock Clock while in the fastest time state.",
+			"api_key": "72220",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78203.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78203_lock.png"
+		},
+		"72221": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "Secrets of the Battlefield",
+			"description": "Use both Warps in Bob-omb Battlefield.",
+			"api_key": "72221",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78204.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78204_lock.png"
+		},
+		"72222": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "Secrets of the Fortress",
+			"description": "Use the Warp in Whomp's Fortress.",
+			"api_key": "72222",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78205.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78205_lock.png"
+		},
+		"72223": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "Secrets of the Snowy Mountain",
+			"description": "Use the Warp in Cool, Cool Mountain.",
+			"api_key": "72223",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78206.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78206_lock.png"
+		},
+		"72224": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "Secrets of the Molten Area",
+			"description": "Use the Warp in Lethal Lava Land.",
+			"api_key": "72224",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78207.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78207_lock.png"
+		},
+		"72225": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "Secrets of the Desert",
+			"description": "Use both Warps in Shifting Sand Land.",
+			"api_key": "72225",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78208.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78208_lock.png"
+		},
+		"72226": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "Secret of the Giant Snowman",
+			"description": "Use the Warp in Snowman's Land.",
+			"api_key": "72226",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78209.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78209_lock.png"
+		},
+		"72227": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "Secret of the Water Town",
+			"description": "Use the Warp in Wet-Dry World.",
+			"api_key": "72227",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78210.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78210_lock.png"
+		},
+		"72228": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "Secret of the Rocky Mountain",
+			"description": "Use the Warp in Tall, Tall Mountain.",
+			"api_key": "72228",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78211.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78211_lock.png"
+		},
+		"72229": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "Secret of the Island",
+			"description": "Use the Warp in Tiny-Huge Island.",
+			"api_key": "72229",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78212.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78212_lock.png"
+		},
+		"72230": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "Secret of the Rainbows",
+			"description": "Use the Warp in Rainbow Ride.",
+			"api_key": "72230",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78213.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78213_lock.png"
+		},
+		"48718": {
+			"release_per_platform_id": "n64_BD2FF682",
+			"name": "Show me your Moves",
+			"description": "Perform all 15 Combo Moves.",
+			"api_key": "48718",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78265.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/78265_lock.png"
+		}
+	}
+}

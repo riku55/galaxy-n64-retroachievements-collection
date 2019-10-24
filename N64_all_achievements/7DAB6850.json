@@ -1,0 +1,380 @@
+{
+	"Achievements": {
+		"48257": {
+			"release_per_platform_id": "n64_7DAB6850",
+			"name": "Collectibles. In a Racing Game.",
+			"description": "Obtain your first Balloon.",
+			"api_key": "48257",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49316.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49316_lock.png"
+		},
+		"48467": {
+			"release_per_platform_id": "n64_7DAB6850",
+			"name": "Battle Mode. Activate.",
+			"description": "Complete the four battle challenges in each area.",
+			"api_key": "48467",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49331.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49331_lock.png"
+		},
+		"48468": {
+			"release_per_platform_id": "n64_7DAB6850",
+			"name": "Race Against a Giant Pig",
+			"description": "Collect all 4 pieces of the Wizpig Amulet to gain access to Wizpig himself.",
+			"api_key": "48468",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49319.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49319_lock.png"
+		},
+		"48469": {
+			"release_per_platform_id": "n64_7DAB6850",
+			"name": "The Ancient Key",
+			"description": "Find the Key in Ancient Lake",
+			"api_key": "48469",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49321.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49321_lock.png"
+		},
+		"48470": {
+			"release_per_platform_id": "n64_7DAB6850",
+			"name": "In the Crescent Alcove",
+			"description": "Find the Key in Crescent Island.",
+			"api_key": "48470",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49322.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49322_lock.png"
+		},
+		"48471": {
+			"release_per_platform_id": "n64_7DAB6850",
+			"name": "Hidden Snowball Key",
+			"description": "Find the Key in Snowball Valley",
+			"api_key": "48471",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49323.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49323_lock.png"
+		},
+		"48472": {
+			"release_per_platform_id": "n64_7DAB6850",
+			"name": "Up the Canyon Bridge",
+			"description": "Find the Key in Boulder Canyon.",
+			"api_key": "48472",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49324.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49324_lock.png"
+		},
+		"48473": {
+			"release_per_platform_id": "n64_7DAB6850",
+			"name": "Not Quite Completion",
+			"description": "You've found all the Balloons! ... or have you?",
+			"api_key": "48473",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49317.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49317_lock.png"
+		},
+		"48474": {
+			"release_per_platform_id": "n64_7DAB6850",
+			"name": "Racing, In Space!",
+			"description": "Collect all 8 Balloons in the final world of the game.",
+			"api_key": "48474",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49318.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49318_lock.png"
+		},
+		"48475": {
+			"release_per_platform_id": "n64_7DAB6850",
+			"name": "Dino Domain Trophy",
+			"description": "Complete the Trophy Race in Dino Domain.",
+			"api_key": "48475",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49325.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49325_lock.png"
+		},
+		"48476": {
+			"release_per_platform_id": "n64_7DAB6850",
+			"name": "Sherbet Island Trophy",
+			"description": "Complete the Trophy Race in Sherbet Island.",
+			"api_key": "48476",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49326.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49326_lock.png"
+		},
+		"48477": {
+			"release_per_platform_id": "n64_7DAB6850",
+			"name": "Snowflake Mountain Trophy",
+			"description": "Complete the Trophy Race in Snowflake Mountain.",
+			"api_key": "48477",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49327.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49327_lock.png"
+		},
+		"48478": {
+			"release_per_platform_id": "n64_7DAB6850",
+			"name": "Dragon Forest Trophy",
+			"description": "Complete the Trophy Race in Dragon Forest.",
+			"api_key": "48478",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49328.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49328_lock.png"
+		},
+		"48479": {
+			"release_per_platform_id": "n64_7DAB6850",
+			"name": "Future Funland Trophy",
+			"description": "Complete the Trophy Race in Future Funland.",
+			"api_key": "48479",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49329.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49329_lock.png"
+		},
+		"48480": {
+			"release_per_platform_id": "n64_7DAB6850",
+			"name": "Ancient Lake Time Trial",
+			"description": "Beat the Default Time for Ancient Lake. Car only.",
+			"api_key": "48480",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49334.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49334_lock.png"
+		},
+		"48481": {
+			"release_per_platform_id": "n64_7DAB6850",
+			"name": "Fossil Canyon Time Trial",
+			"description": "Beat the Default Time for Fossil Canyon. Car only.",
+			"api_key": "48481",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49334.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49334_lock.png"
+		},
+		"48482": {
+			"release_per_platform_id": "n64_7DAB6850",
+			"name": "Jungle Falls Time Trial",
+			"description": "Beat the Default Time for Jungle Falls. Car Only.",
+			"api_key": "48482",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49334.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49334_lock.png"
+		},
+		"48483": {
+			"release_per_platform_id": "n64_7DAB6850",
+			"name": "Hot Top Volcano Time Trial",
+			"description": "Beat the Default Time for Hot Top Volcano. Plane only.",
+			"api_key": "48483",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49334.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49334_lock.png"
+		},
+		"48484": {
+			"release_per_platform_id": "n64_7DAB6850",
+			"name": "Whale Bay Time Trial",
+			"description": "Beat the Default Time for Whale Bay. Hovercraft only.",
+			"api_key": "48484",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49334.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49334_lock.png"
+		},
+		"48485": {
+			"release_per_platform_id": "n64_7DAB6850",
+			"name": "Pirate Lagoon Time Trial",
+			"description": "Beat the Default Time for Pirate Lagoon. Hovercraft Only.",
+			"api_key": "48485",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49334.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49334_lock.png"
+		},
+		"48486": {
+			"release_per_platform_id": "n64_7DAB6850",
+			"name": "Crescent Island Time Trial",
+			"description": "Beat the Default Time for Crescent Island. Car Only.",
+			"api_key": "48486",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49334.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49334_lock.png"
+		},
+		"48487": {
+			"release_per_platform_id": "n64_7DAB6850",
+			"name": "Treasure Caves Time Trial",
+			"description": "Beat the Default Time for Treasure Caves. Car only.",
+			"api_key": "48487",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49334.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49334_lock.png"
+		},
+		"48488": {
+			"release_per_platform_id": "n64_7DAB6850",
+			"name": "Everfrost Peak Time Trial",
+			"description": "Beat the Default Time for Everfrost Peak. Plane only.",
+			"api_key": "48488",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49334.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49334_lock.png"
+		},
+		"48489": {
+			"release_per_platform_id": "n64_7DAB6850",
+			"name": "Walrus Cove Time Trial",
+			"description": "Beat the Default Time for Walrus Cove. Car only.",
+			"api_key": "48489",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49334.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49334_lock.png"
+		},
+		"48490": {
+			"release_per_platform_id": "n64_7DAB6850",
+			"name": "Snowball Valley Time Trial",
+			"description": "Beat the Default Time for Snowball Valley. Car only.",
+			"api_key": "48490",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49334.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49334_lock.png"
+		},
+		"48491": {
+			"release_per_platform_id": "n64_7DAB6850",
+			"name": "Frost Village Time Trial",
+			"description": "Beat the Default Time for Frosty Village. Car only.",
+			"api_key": "48491",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49334.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49334_lock.png"
+		},
+		"48492": {
+			"release_per_platform_id": "n64_7DAB6850",
+			"name": "Boulder Canyon Time Trial",
+			"description": "Beat the Default Time for Bolder Canyon. Hovercraft only.",
+			"api_key": "48492",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49334.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49334_lock.png"
+		},
+		"48493": {
+			"release_per_platform_id": "n64_7DAB6850",
+			"name": "Greenwood Village Time Trial",
+			"description": "Beat the Default Time for Greenwood Village. Car only.",
+			"api_key": "48493",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49334.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49334_lock.png"
+		},
+		"48494": {
+			"release_per_platform_id": "n64_7DAB6850",
+			"name": "Windmill Plains Time Trial",
+			"description": "Beat the Default Time for Windmill Plains. Plane only.",
+			"api_key": "48494",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49334.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49334_lock.png"
+		},
+		"48495": {
+			"release_per_platform_id": "n64_7DAB6850",
+			"name": "Haunted Woods Time Trial",
+			"description": "Beat the Default Time for Haunted Woods. Car only.",
+			"api_key": "48495",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49334.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49334_lock.png"
+		},
+		"48496": {
+			"release_per_platform_id": "n64_7DAB6850",
+			"name": "Spacedust Alley Time Trial",
+			"description": "Beat the Default Time for Spacedust Alley. Plane only.",
+			"api_key": "48496",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49334.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49334_lock.png"
+		},
+		"48497": {
+			"release_per_platform_id": "n64_7DAB6850",
+			"name": "Darkmoon Caverns Time Trial",
+			"description": "Beat the Default Time for Darkmoon Caverns. Car only.",
+			"api_key": "48497",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49334.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49334_lock.png"
+		},
+		"48498": {
+			"release_per_platform_id": "n64_7DAB6850",
+			"name": "Star City Time Trial",
+			"description": "Beat the Default Time for Star City. Car only.",
+			"api_key": "48498",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49334.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49334_lock.png"
+		},
+		"48499": {
+			"release_per_platform_id": "n64_7DAB6850",
+			"name": "Spaceport Alpha Time Trial",
+			"description": "Beat the Default Time for Spaceport Alpha. Plane only.",
+			"api_key": "48499",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49334.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49334_lock.png"
+		},
+		"48500": {
+			"release_per_platform_id": "n64_7DAB6850",
+			"name": "Race Against a Running Pig",
+			"description": "Defeat Wizpig in a race.",
+			"api_key": "48500",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49330.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49330_lock.png"
+		},
+		"48501": {
+			"release_per_platform_id": "n64_7DAB6850",
+			"name": "Race Against an Angry Pig. In Space!",
+			"description": "Win against Wizpig. Again.",
+			"api_key": "48501",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49332.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49332_lock.png"
+		},
+		"48502": {
+			"release_per_platform_id": "n64_7DAB6850",
+			"name": "Krunch the Kremling",
+			"description": "Collect any 5 balloons as Krunch.",
+			"api_key": "48502",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49200.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49200_lock.png"
+		},
+		"48503": {
+			"release_per_platform_id": "n64_7DAB6850",
+			"name": "The Star of the Game",
+			"description": "Collect any 5 balloons as Diddy.",
+			"api_key": "48503",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49201.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49201_lock.png"
+		},
+		"48504": {
+			"release_per_platform_id": "n64_7DAB6850",
+			"name": "Bumper the Badger",
+			"description": "Collect any 5 balloons as Bumper.",
+			"api_key": "48504",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49202.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49202_lock.png"
+		},
+		"48505": {
+			"release_per_platform_id": "n64_7DAB6850",
+			"name": "Banjo the Bear",
+			"description": "Collect any 5 balloons as Banjo.",
+			"api_key": "48505",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49203.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49203_lock.png"
+		},
+		"48506": {
+			"release_per_platform_id": "n64_7DAB6850",
+			"name": "Conker the Squirrel",
+			"description": "Collect any 5 balloons as Conker.",
+			"api_key": "48506",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49204.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49204_lock.png"
+		},
+		"48507": {
+			"release_per_platform_id": "n64_7DAB6850",
+			"name": "Tiptup the Turtle",
+			"description": "Collect any 5 balloons as Tiptup.",
+			"api_key": "48507",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49205.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49205_lock.png"
+		},
+		"48508": {
+			"release_per_platform_id": "n64_7DAB6850",
+			"name": "Pipsy the Mouse",
+			"description": "Collect any 5 balloons as Pipsy.",
+			"api_key": "48508",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49206.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49206_lock.png"
+		},
+		"48509": {
+			"release_per_platform_id": "n64_7DAB6850",
+			"name": "Timber the Tiger",
+			"description": "Collect any 5 balloons as Timber.",
+			"api_key": "48509",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49207.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49207_lock.png"
+		},
+		"48510": {
+			"release_per_platform_id": "n64_7DAB6850",
+			"name": "Drumstick the Chicken",
+			"description": "Collect any 5 balloons as Drumstick.",
+			"api_key": "48510",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49208.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49208_lock.png"
+		},
+		"48511": {
+			"release_per_platform_id": "n64_7DAB6850",
+			"name": "TT the Clock",
+			"description": "Collect any 5 balloons as TT.",
+			"api_key": "48511",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49209.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49209_lock.png"
+		},
+		"50012": {
+			"release_per_platform_id": "n64_7DAB6850",
+			"name": "Mirrored Mode",
+			"description": "Collect all 47 Balloons in Adventure 2. Good luck, you'll need it!",
+			"api_key": "50012",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50779.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/50779_lock.png"
+		}
+	}
+}

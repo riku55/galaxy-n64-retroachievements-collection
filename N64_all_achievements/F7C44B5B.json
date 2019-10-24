@@ -1,0 +1,212 @@
+{
+	"Achievements": {
+		"54956": {
+			"release_per_platform_id": "n64_F7C44B5B",
+			"name": "Green",
+			"description": "Clear levels 0-5 of Classic in one run on Hi",
+			"api_key": "54956",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57006.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57006_lock.png"
+		},
+		"54957": {
+			"release_per_platform_id": "n64_F7C44B5B",
+			"name": "Sick Moves",
+			"description": "Clear levels 6-10 of Classic in one run on Hi",
+			"api_key": "54957",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57007.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57007_lock.png"
+		},
+		"54958": {
+			"release_per_platform_id": "n64_F7C44B5B",
+			"name": "Unhealthy Obsession",
+			"description": "Clear levels 11-15 of Classic in one run on Hi",
+			"api_key": "54958",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57008.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57008_lock.png"
+		},
+		"54959": {
+			"release_per_platform_id": "n64_F7C44B5B",
+			"name": "Ill-fated Attempt",
+			"description": "Clear levels 16-20 of Classic in one run on Hi",
+			"api_key": "54959",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57009.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57009_lock.png"
+		},
+		"54960": {
+			"release_per_platform_id": "n64_F7C44B5B",
+			"name": "The Doctor Is Insane",
+			"description": "Clear levels 1-21 of Classic in one run",
+			"api_key": "54960",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57010.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57010_lock.png"
+		},
+		"54961": {
+			"release_per_platform_id": "n64_F7C44B5B",
+			"name": "Of Antidotes and Antiheroes",
+			"description": "Beat Dr. Mario or Wario in Story",
+			"api_key": "54961",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56605.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56605_lock.png"
+		},
+		"54962": {
+			"release_per_platform_id": "n64_F7C44B5B",
+			"name": "Stay Sharp",
+			"description": "Beat Spearhead in Story",
+			"api_key": "54962",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56613.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56613_lock.png"
+		},
+		"54963": {
+			"release_per_platform_id": "n64_F7C44B5B",
+			"name": "This Is a Stickup",
+			"description": "Beat Webber in Story",
+			"api_key": "54963",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56612.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56612_lock.png"
+		},
+		"54964": {
+			"release_per_platform_id": "n64_F7C44B5B",
+			"name": "Keeping the Doctor Away",
+			"description": "Beat Silky or Appleby in Story",
+			"api_key": "54964",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56720.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56720_lock.png"
+		},
+		"54965": {
+			"release_per_platform_id": "n64_F7C44B5B",
+			"name": "Armed and Dangerous",
+			"description": "Beat Jellybob or Octo in Story",
+			"api_key": "54965",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56721.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56721_lock.png"
+		},
+		"54966": {
+			"release_per_platform_id": "n64_F7C44B5B",
+			"name": "Frog in Your Float",
+			"description": "Beat Helio or Lump in Story",
+			"api_key": "54966",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56611.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56611_lock.png"
+		},
+		"54967": {
+			"release_per_platform_id": "n64_F7C44B5B",
+			"name": "Stainless Steel",
+			"description": "Beat Hammer-Bot or Mad Scienstain in Story",
+			"api_key": "54967",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56604.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56604_lock.png"
+		},
+		"54968": {
+			"release_per_platform_id": "n64_F7C44B5B",
+			"name": "Clown Down",
+			"description": "Beat Rudy in Story",
+			"api_key": "54968",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56722.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56722_lock.png"
+		},
+		"54969": {
+			"release_per_platform_id": "n64_F7C44B5B",
+			"name": "Test Your Mettle, the Stakes are High",
+			"description": "Beat Metal Mario or Vampire Wario in Story",
+			"api_key": "54969",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56723.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56723_lock.png"
+		},
+		"54970": {
+			"release_per_platform_id": "n64_F7C44B5B",
+			"name": "Cold Case",
+			"description": "Clear Story on S-Hard in one session",
+			"api_key": "54970",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57012.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57012_lock.png"
+		},
+		"54978": {
+			"release_per_platform_id": "n64_F7C44B5B",
+			"name": "Break a Leg",
+			"description": "Beat a 7-star CPU with both Virus Levels set to 15 and Speed on Hi",
+			"api_key": "54978",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57171.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57171_lock.png"
+		},
+		"54974": {
+			"release_per_platform_id": "n64_F7C44B5B",
+			"name": "Gone in a Flash",
+			"description": "Beat an 7-star Easy and Low CPU in One Player Flash while on Hard and Hi ",
+			"api_key": "54974",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57166.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57166_lock.png"
+		},
+		"54973": {
+			"release_per_platform_id": "n64_F7C44B5B",
+			"name": "Race for the Cure",
+			"description": "Clear 100 viruses in Marathon on Hard and Hi",
+			"api_key": "54973",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57015.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57015_lock.png"
+		},
+		"54972": {
+			"release_per_platform_id": "n64_F7C44B5B",
+			"name": "Still Not as High as the Hospital Bill",
+			"description": "Clear Score Attack with 50000 points or more on Hard and Hi",
+			"api_key": "54972",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57167.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57167_lock.png"
+		},
+		"54845": {
+			"release_per_platform_id": "n64_F7C44B5B",
+			"name": "Feverish Foursome",
+			"description": "Win 4-Player Vs. against 3 7-star CPUs with all Virus Levels set to 15",
+			"api_key": "54845",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57164.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57164_lock.png"
+		},
+		"54971": {
+			"release_per_platform_id": "n64_F7C44B5B",
+			"name": "Crutch",
+			"description": "Win Team Battle against 2 7-star CPUs with all Virus Levels set to 15",
+			"api_key": "54971",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57162.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57162_lock.png"
+		},
+		"54874": {
+			"release_per_platform_id": "n64_F7C44B5B",
+			"name": "Blighted by the Light",
+			"description": "Win Multiplayer Flash against 3 7-star CPUs on Hard and Hi",
+			"api_key": "54874",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57161.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57161_lock.png"
+		},
+		"54975": {
+			"release_per_platform_id": "n64_F7C44B5B",
+			"name": "Medical Malpractice",
+			"description": "Beat a 7-star CPU in Vs. Computer without ever clearing all your viruses",
+			"api_key": "54975",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57170.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57170_lock.png"
+		},
+		"54872": {
+			"release_per_platform_id": "n64_F7C44B5B",
+			"name": "Flashy Finish",
+			"description": "Clear all 3 flashing viruses in One Player Flash with a single combo",
+			"api_key": "54872",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57011.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57011_lock.png"
+		},
+		"54976": {
+			"release_per_platform_id": "n64_F7C44B5B",
+			"name": "Have Patients",
+			"description": "Last 20 minutes in Marathon",
+			"api_key": "54976",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57013.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57013_lock.png"
+		},
+		"54977": {
+			"release_per_platform_id": "n64_F7C44B5B",
+			"name": "Surgical Precision",
+			"description": "Clear Score Attack without ever earning more than 100 points at a time",
+			"api_key": "54977",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57169.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57169_lock.png"
+		}
+	}
+}

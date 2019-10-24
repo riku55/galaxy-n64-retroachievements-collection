@@ -1,0 +1,556 @@
+{
+	"Achievements": {
+		"53854": {
+			"release_per_platform_id": "n64_68446AD4",
+			"name": "The Chosen One",
+			"description": "A - Datadyne Defection - Kill 15 guards and complete the mission within 1.30",
+			"api_key": "53854",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55505.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55505_lock.png"
+		},
+		"53855": {
+			"release_per_platform_id": "n64_68446AD4",
+			"name": "Marquis of Queensbury Rules",
+			"description": "SA - Datadyne Defection - Complete the mission within 1.30",
+			"api_key": "53855",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55506.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55506_lock.png"
+		},
+		"53856": {
+			"release_per_platform_id": "n64_68446AD4",
+			"name": "No Help Needed",
+			"description": "PA - Datadyne Defection - Kill 15 guards with auto-aim off",
+			"api_key": "53856",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55507.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55507_lock.png"
+		},
+		"53857": {
+			"release_per_platform_id": "n64_68446AD4",
+			"name": "Say Cheese",
+			"description": "A - Datadyne Research - Kill an enemy while using the Camspy",
+			"api_key": "53857",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55509.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55509_lock.png"
+		},
+		"53858": {
+			"release_per_platform_id": "n64_68446AD4",
+			"name": "Paci-Fist",
+			"description": "SA - Datadyne Research - Complete objectives 1 and 2 without killing anyone",
+			"api_key": "53858",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55510.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55510_lock.png"
+		},
+		"53859": {
+			"release_per_platform_id": "n64_68446AD4",
+			"name": "Pugilist",
+			"description": "PA - Datadyne Research - Complete the mission within 6.30",
+			"api_key": "53859",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55508.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55508_lock.png"
+		},
+		"53860": {
+			"release_per_platform_id": "n64_68446AD4",
+			"name": "Security Room",
+			"description": "A - Datadyne Extraction - Access the secret security room",
+			"api_key": "53860",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55517.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55517_lock.png"
+		},
+		"53853": {
+			"release_per_platform_id": "n64_68446AD4",
+			"name": "I'm Blind!",
+			"description": "A - Datadyne Extraction - Blind all of Cassandra's bodyguards",
+			"api_key": "53853",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55503.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55503_lock.png"
+		},
+		"53912": {
+			"release_per_platform_id": "n64_68446AD4",
+			"name": "Hurricane Fists",
+			"description": "A - Datadyne Extraction - Complete the mission within 2.03",
+			"api_key": "53912",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55623.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55623_lock.png"
+		},
+		"53861": {
+			"release_per_platform_id": "n64_68446AD4",
+			"name": "Good Enough For Clint",
+			"description": "SA - Datadyne Extraction - Get 8 headshot kills with the hidden DY357 Magnum ",
+			"api_key": "53861",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55518.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55518_lock.png"
+		},
+		"53862": {
+			"release_per_platform_id": "n64_68446AD4",
+			"name": "The Names Dark...Perfect Dark",
+			"description": "PA - Datadyne Extraction - Complete the mission without using nightvision",
+			"api_key": "53862",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55504.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55504_lock.png"
+		},
+		"53863": {
+			"release_per_platform_id": "n64_68446AD4",
+			"name": "360 NoScope",
+			"description": "A - Carrington Villa - Complete the mission without aiming down the sights",
+			"api_key": "53863",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55512.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55512_lock.png"
+		},
+		"53864": {
+			"release_per_platform_id": "n64_68446AD4",
+			"name": "Hit and Run",
+			"description": "SA - Carrington Villa - Complete the mission within 2.30",
+			"api_key": "53864",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55511.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55511_lock.png"
+		},
+		"53865": {
+			"release_per_platform_id": "n64_68446AD4",
+			"name": "Snipe the Snipers",
+			"description": "PA - Carrington Villa - Complete objective 1 having only hit headshots",
+			"api_key": "53865",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55513.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55513_lock.png"
+		},
+		"53866": {
+			"release_per_platform_id": "n64_68446AD4",
+			"name": "In the Spirit ",
+			"description": "A - Chicago Stealth - Complete the mission without firing any bullets",
+			"api_key": "53866",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55515.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55515_lock.png"
+		},
+		"53867": {
+			"release_per_platform_id": "n64_68446AD4",
+			"name": "\"Here, Take my Wallet!\"",
+			"description": "SA - Chicago Stealth - Complete objective 3 before completing objective 1",
+			"api_key": "53867",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55516.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55516_lock.png"
+		},
+		"53868": {
+			"release_per_platform_id": "n64_68446AD4",
+			"name": "Psychosis Gun",
+			"description": "PA - Chicago Stealth - Complete the mission within 2.00",
+			"api_key": "53868",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55514.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55514_lock.png"
+		},
+		"53869": {
+			"release_per_platform_id": "n64_68446AD4",
+			"name": "Cloaking Device",
+			"description": "A - G5 Recon - Complete the mission within 1.40",
+			"api_key": "53869",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55520.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55520_lock.png"
+		},
+		"53870": {
+			"release_per_platform_id": "n64_68446AD4",
+			"name": "Bow to the Audience",
+			"description": "SA - G5 Recon - Kill 8 enemies with the hidden crossbow's alternate fire",
+			"api_key": "53870",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55519.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55519_lock.png"
+		},
+		"53871": {
+			"release_per_platform_id": "n64_68446AD4",
+			"name": "Bring it On",
+			"description": "PA - G5 Recon - Kill 70 enemies and complete the mission",
+			"api_key": "53871",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55521.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55521_lock.png"
+		},
+		"53872": {
+			"release_per_platform_id": "n64_68446AD4",
+			"name": "Efficiency",
+			"description": "A - A51. Infiltration - Fire less than 25 shots and complete the mission",
+			"api_key": "53872",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55585.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55585_lock.png"
+		},
+		"53873": {
+			"release_per_platform_id": "n64_68446AD4",
+			"name": "Hotshot",
+			"description": "SA - A51. Infiltration - Complete the mission within 5.00",
+			"api_key": "53873",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55584.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55584_lock.png"
+		},
+		"53874": {
+			"release_per_platform_id": "n64_68446AD4",
+			"name": "Rapid Radar Shut Down",
+			"description": "SA - A51. Infiltration - Shut down the air intercept radar within 60 seconds",
+			"api_key": "53874",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55522.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55522_lock.png"
+		},
+		"53875": {
+			"release_per_platform_id": "n64_68446AD4",
+			"name": "All Rounder",
+			"description": "PA - A51. Infiltration - Get a kill with each weapon available in the mission",
+			"api_key": "53875",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55586.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55586_lock.png"
+		},
+		"53876": {
+			"release_per_platform_id": "n64_68446AD4",
+			"name": "Lethal Injection ",
+			"description": "A - A51. Rescue - Kill 10 enemies with the Tranquilizer's alternative fire",
+			"api_key": "53876",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55589.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55589_lock.png"
+		},
+		"53877": {
+			"release_per_platform_id": "n64_68446AD4",
+			"name": "Master of Disguise",
+			"description": "SA - A51. Rescue - Acquire the lab clothes and use them within 1.30",
+			"api_key": "53877",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55587.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55587_lock.png"
+		},
+		"53878": {
+			"release_per_platform_id": "n64_68446AD4",
+			"name": "Elvis",
+			"description": "PA - A51. Rescue - Complete the mission within 7.59",
+			"api_key": "53878",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55588.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55588_lock.png"
+		},
+		"53879": {
+			"release_per_platform_id": "n64_68446AD4",
+			"name": "Invincible",
+			"description": "A - A51. Escape - Complete the mission within 3.50",
+			"api_key": "53879",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55590.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55590_lock.png"
+		},
+		"53880": {
+			"release_per_platform_id": "n64_68446AD4",
+			"name": "Easy Rider",
+			"description": "SA - A51. Escape - Finish the mission riding the hoverbike",
+			"api_key": "53880",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55591.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55591_lock.png"
+		},
+		"53881": {
+			"release_per_platform_id": "n64_68446AD4",
+			"name": "Hidden Stash",
+			"description": "PA - A51. Escape - Use a remote mine and complete the mission",
+			"api_key": "53881",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55592.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55592_lock.png"
+		},
+		"53882": {
+			"release_per_platform_id": "n64_68446AD4",
+			"name": "The Long Sleep",
+			"description": "A - Air Base - Sedate 10 enemies with headshots",
+			"api_key": "53882",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55595.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55595_lock.png"
+		},
+		"53883": {
+			"release_per_platform_id": "n64_68446AD4",
+			"name": "I Want to be Sedated",
+			"description": "SA - Air Base - Sedate 6 enemies with the DrugSpy within 30 seconds of start",
+			"api_key": "53883",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55593.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55593_lock.png"
+		},
+		"53884": {
+			"release_per_platform_id": "n64_68446AD4",
+			"name": "Unlimited Ammo - No Reloads",
+			"description": "SA - Air Base - Complete the mission within 3.11",
+			"api_key": "53884",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55594.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55594_lock.png"
+		},
+		"53885": {
+			"release_per_platform_id": "n64_68446AD4",
+			"name": "Perfect Agent",
+			"description": "PA - Air Base - Complete the mission without taking any damage",
+			"api_key": "53885",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55596.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55596_lock.png"
+		},
+		"53886": {
+			"release_per_platform_id": "n64_68446AD4",
+			"name": "Slow Mo",
+			"description": "A - Air Force One - Kill 10 enemies while affected by combat boost",
+			"api_key": "53886",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55598.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55598_lock.png"
+		},
+		"53887": {
+			"release_per_platform_id": "n64_68446AD4",
+			"name": "Say Hello to My Little Friend",
+			"description": "SA - Air Force One - Kill 5 enemies in a single Cyclone magazine discharge",
+			"api_key": "53887",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55599.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55599_lock.png"
+		},
+		"53888": {
+			"release_per_platform_id": "n64_68446AD4",
+			"name": "Unlimited Ammo - Laptop Sentry Gun",
+			"description": "PA - Air Force One - Complete the mission within 3.55",
+			"api_key": "53888",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55597.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55597_lock.png"
+		},
+		"53889": {
+			"release_per_platform_id": "n64_68446AD4",
+			"name": "Trent's Magnum",
+			"description": "A - Crash Site - Complete the mission within 2.50",
+			"api_key": "53889",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55600.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55600_lock.png"
+		},
+		"53890": {
+			"release_per_platform_id": "n64_68446AD4",
+			"name": "Magnum P.D",
+			"description": "SA - Crash Site - Shoot the president's clone with Trent's magnum",
+			"api_key": "53890",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55601.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55601_lock.png"
+		},
+		"53891": {
+			"release_per_platform_id": "n64_68446AD4",
+			"name": "Into the Unknown",
+			"description": "PA - Crash Site - Complete the mission without using the presidential scanner",
+			"api_key": "53891",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55602.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55602_lock.png"
+		},
+		"53892": {
+			"release_per_platform_id": "n64_68446AD4",
+			"name": "Tick Tick...Boom",
+			"description": "A - Pelagic II - Without firing, incapacitate 7 enemies within 30 seconds",
+			"api_key": "53892",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55603.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55603_lock.png"
+		},
+		"53893": {
+			"release_per_platform_id": "n64_68446AD4",
+			"name": "Unlimited Ammo",
+			"description": "SA - Pelagic II - Complete the mission within 7.07",
+			"api_key": "53893",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55604.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55604_lock.png"
+		},
+		"53894": {
+			"release_per_platform_id": "n64_68446AD4",
+			"name": "Make Every Shot Count",
+			"description": "PA - Pelagic II - Have an accuracy of 85% or greater at the end of the mission",
+			"api_key": "53894",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55605.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55605_lock.png"
+		},
+		"53895": {
+			"release_per_platform_id": "n64_68446AD4",
+			"name": "Sound the Alarm",
+			"description": "PA - Pelagic II - Complete the mission without an alarm being set off",
+			"api_key": "53895",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55606.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55606_lock.png"
+		},
+		"53896": {
+			"release_per_platform_id": "n64_68446AD4",
+			"name": "A Push in the Right Direction",
+			"description": "A - Deep Sea - Take 0 damage and have Elvis kill 15 enemies (no firing allowed)",
+			"api_key": "53896",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55610.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55610_lock.png"
+		},
+		"53897": {
+			"release_per_platform_id": "n64_68446AD4",
+			"name": "You've Got Red on You",
+			"description": "SA - Deep Sea - Wear the IR scanner for the duration of the mission",
+			"api_key": "53897",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55609.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55609_lock.png"
+		},
+		"53898": {
+			"release_per_platform_id": "n64_68446AD4",
+			"name": "Can't Touch This",
+			"description": "PA - Deep Sea - Reactive the teleportals without taking damage",
+			"api_key": "53898",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55608.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55608_lock.png"
+		},
+		"53899": {
+			"release_per_platform_id": "n64_68446AD4",
+			"name": "Farsight",
+			"description": "PA - Deep Sea - Complete the mission within 7.27",
+			"api_key": "53899",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55607.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55607_lock.png"
+		},
+		"53900": {
+			"release_per_platform_id": "n64_68446AD4",
+			"name": "Super Shield",
+			"description": "A - Carrington Institute - Complete the mission within 1.45",
+			"api_key": "53900",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55611.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55611_lock.png"
+		},
+		"53901": {
+			"release_per_platform_id": "n64_68446AD4",
+			"name": "Life Saver",
+			"description": "SA - Carrington Institute - Rescue at least 9 of the hostages",
+			"api_key": "53901",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55613.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55613_lock.png"
+		},
+		"53902": {
+			"release_per_platform_id": "n64_68446AD4",
+			"name": "Devastated",
+			"description": "PA - Carrington Institute - Use the hidden Devastator and complete the mission",
+			"api_key": "53902",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55612.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55612_lock.png"
+		},
+		"53903": {
+			"release_per_platform_id": "n64_68446AD4",
+			"name": "Slasher",
+			"description": "A - Attack Ship - Kill 10 enemies with the combat knife (slash only)",
+			"api_key": "53903",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55616.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55616_lock.png"
+		},
+		"53904": {
+			"release_per_platform_id": "n64_68446AD4",
+			"name": "Alien",
+			"description": "SA - Attack Ship - Complete the mission within 5.17",
+			"api_key": "53904",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55614.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55614_lock.png"
+		},
+		"53905": {
+			"release_per_platform_id": "n64_68446AD4",
+			"name": "Against All Odds...",
+			"description": "PA - Attack Ship - Kill dual wielding skedar (bridge) with a fly by wire rocket",
+			"api_key": "53905",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55615.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55615_lock.png"
+		},
+		"53906": {
+			"release_per_platform_id": "n64_68446AD4",
+			"name": "Rocked",
+			"description": "PA - Skedar Ruins - Identify the temple targets within 30 seconds of start",
+			"api_key": "53906",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55617.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55617_lock.png"
+		},
+		"53907": {
+			"release_per_platform_id": "n64_68446AD4",
+			"name": "All Guns in Solo",
+			"description": "PA - Skedar Ruins - Complete the mission within 5.31",
+			"api_key": "53907",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55618.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55618_lock.png"
+		},
+		"53908": {
+			"release_per_platform_id": "n64_68446AD4",
+			"name": "Invisibility Factor",
+			"description": "SA - Mr. Blonde's Revenge - Complete the mission without using cloaking device",
+			"api_key": "53908",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55619.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55619_lock.png"
+		},
+		"53909": {
+			"release_per_platform_id": "n64_68446AD4",
+			"name": "Magnum Forced",
+			"description": "PA - Maian SOS - Mind control the dual magnum wielder and complete the mission",
+			"api_key": "53909",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55620.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55620_lock.png"
+		},
+		"53910": {
+			"release_per_platform_id": "n64_68446AD4",
+			"name": "Three Kings",
+			"description": "PA - War! - Headshot the first two kings and complete the mission within 1.40",
+			"api_key": "53910",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55621.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55621_lock.png"
+		},
+		"53911": {
+			"release_per_platform_id": "n64_68446AD4",
+			"name": "Perfect Head",
+			"description": "PA - The Duel - Headshot all 3 opponents and complete mission within 25 seconds",
+			"api_key": "53911",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55622.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55622_lock.png"
+		},
+		"53913": {
+			"release_per_platform_id": "n64_68446AD4",
+			"name": "Crack Shot",
+			"description": "Firing Range - Gold on Mauler, Phoenix, DY357 Magnum and DY357-LX Magnum",
+			"api_key": "53913",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55624.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55624_lock.png"
+		},
+		"53914": {
+			"release_per_platform_id": "n64_68446AD4",
+			"name": "Pistolier",
+			"description": "Firing Range - Gold on Falcon 2, Falcon 2 Silencer, Falcon 2 Scope and Magsec 4",
+			"api_key": "53914",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55625.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55625_lock.png"
+		},
+		"53915": {
+			"release_per_platform_id": "n64_68446AD4",
+			"name": "Machine-Like Precision",
+			"description": "Firing Range - Gold on CMP 150, Cyclone, Callisto NTG and RC-P120",
+			"api_key": "53915",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55626.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55626_lock.png"
+		},
+		"53916": {
+			"release_per_platform_id": "n64_68446AD4",
+			"name": "Full Auto",
+			"description": "Firing Range - Gold on Laptop Gun, Dragon, K7 Avenger and AR34",
+			"api_key": "53916",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55627.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55627_lock.png"
+		},
+		"53917": {
+			"release_per_platform_id": "n64_68446AD4",
+			"name": "Golden Eye",
+			"description": "Firing Range - Gold on SuperDragon, Shotgun, Sniper and Farsight",
+			"api_key": "53917",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55628.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55628_lock.png"
+		},
+		"53918": {
+			"release_per_platform_id": "n64_68446AD4",
+			"name": "On the Hunt",
+			"description": "Firing Range - Gold on Reaper, Devastator, Crossbow and Tranquilizer",
+			"api_key": "53918",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55630.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55630_lock.png"
+		},
+		"53919": {
+			"release_per_platform_id": "n64_68446AD4",
+			"name": "Pwned",
+			"description": "Firing Range - Gold on Rocket Launcher, Slayer, Combat Knife and Laser",
+			"api_key": "53919",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55631.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55631_lock.png"
+		},
+		"53920": {
+			"release_per_platform_id": "n64_68446AD4",
+			"name": "Explosives Expert",
+			"description": "Firing Range - Gold on Grenade, Timed Mine, Proximity Mine and Remote Mine",
+			"api_key": "53920",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55632.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55632_lock.png"
+		},
+		"53921": {
+			"release_per_platform_id": "n64_68446AD4",
+			"name": "Prime Target",
+			"description": "Reach the final challenge (30) in the combat simulator",
+			"api_key": "53921",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55633.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55633_lock.png"
+		}
+	}
+}

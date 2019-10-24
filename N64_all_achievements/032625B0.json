@@ -1,0 +1,308 @@
+{
+	"Achievements": {
+		"52857": {
+			"release_per_platform_id": "n64_032625B0",
+			"name": "I'm-a Luigi, Number One!",
+			"description": "As Luigi, get 36 points in any speed Mushroom Cup.",
+			"api_key": "52857",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54409.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54409_lock.png"
+		},
+		"52858": {
+			"release_per_platform_id": "n64_032625B0",
+			"name": "I'm The Best!",
+			"description": "As Toad, get 36 points in any speed Flower Cup.",
+			"api_key": "52858",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54410.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54410_lock.png"
+		},
+		"52859": {
+			"release_per_platform_id": "n64_032625B0",
+			"name": "Yeah, Peach Has Got It!",
+			"description": "As Peach, get 36 points in any speed Star Cup.",
+			"api_key": "52859",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54411.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54411_lock.png"
+		},
+		"52860": {
+			"release_per_platform_id": "n64_032625B0",
+			"name": "GARBLED CUTE DINOSAUR NOISES",
+			"description": "As Yoshi, get 36 points in any speed Special Cup.",
+			"api_key": "52860",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54412.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54412_lock.png"
+		},
+		"52861": {
+			"release_per_platform_id": "n64_032625B0",
+			"name": "I'm-a Wario, I'm-a Gonna Win!",
+			"description": "As Wario, get 36 points in 100cc or higher Mushroom Cup.",
+			"api_key": "52861",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54413.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54413_lock.png"
+		},
+		"52862": {
+			"release_per_platform_id": "n64_032625B0",
+			"name": "Hee Hee! I Got It!",
+			"description": "As Mario, get 36 points in 100cc or higher Flower Cup.",
+			"api_key": "52862",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54414.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54414_lock.png"
+		},
+		"52863": {
+			"release_per_platform_id": "n64_032625B0",
+			"name": "ROAR GWROAR RARGH",
+			"description": "As Bowser, get 36 points in 100cc or higher Star Cup.",
+			"api_key": "52863",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54415.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54415_lock.png"
+		},
+		"52864": {
+			"release_per_platform_id": "n64_032625B0",
+			"name": "LAUGHING DONKEY NOISES",
+			"description": "As DK, get 36 points in 100cc or higher Special Cup.",
+			"api_key": "52864",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54416.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54416_lock.png"
+		},
+		"52865": {
+			"release_per_platform_id": "n64_032625B0",
+			"name": "Vacation on Koopa Troopa Beach",
+			"description": "Get a gold trophy in 150cc Mushroom Cup.",
+			"api_key": "52865",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54417.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54417_lock.png"
+		},
+		"52866": {
+			"release_per_platform_id": "n64_032625B0",
+			"name": "Snowy Mountain Ski Lodge",
+			"description": "Get a gold trophy in 150cc Flower Cup.",
+			"api_key": "52866",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54418.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54418_lock.png"
+		},
+		"52867": {
+			"release_per_platform_id": "n64_032625B0",
+			"name": "Tropical Lava Castle Resort",
+			"description": "Get a gold trophy in 150cc Star Cup.",
+			"api_key": "52867",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54419.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54419_lock.png"
+		},
+		"52868": {
+			"release_per_platform_id": "n64_032625B0",
+			"name": "Free Forest Mansion Retreat",
+			"description": "Get a gold trophy in 150cc Special Cup.",
+			"api_key": "52868",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54420.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54420_lock.png"
+		},
+		"52869": {
+			"release_per_platform_id": "n64_032625B0",
+			"name": "Rewind the Runaway Train",
+			"description": "Get a gold trophy in EXTRA Mushroom Cup.",
+			"api_key": "52869",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54421.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54421_lock.png"
+		},
+		"52870": {
+			"release_per_platform_id": "n64_032625B0",
+			"name": "Tricky Turnpike Traffic Troubles",
+			"description": "Get a gold trophy in EXTRA Flower Cup.",
+			"api_key": "52870",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54422.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54422_lock.png"
+		},
+		"52871": {
+			"release_per_platform_id": "n64_032625B0",
+			"name": "Reverse Royal Rochambeau",
+			"description": "Get a gold trophy in EXTRA Star Cup.",
+			"api_key": "52871",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54423.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54423_lock.png"
+		},
+		"52872": {
+			"release_per_platform_id": "n64_032625B0",
+			"name": "Wrong Way Rainbow Woe'd",
+			"description": "Get a gold trophy in EXTRA Special Cup.",
+			"api_key": "52872",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54424.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54424_lock.png"
+		},
+		"52873": {
+			"release_per_platform_id": "n64_032625B0",
+			"name": "The Eternal Six-Feet-Under Study",
+			"description": "Unlock Luigi's Time Trial Ghost, less than 1'52\".",
+			"api_key": "52873",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54425.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54425_lock.png"
+		},
+		"52874": {
+			"release_per_platform_id": "n64_032625B0",
+			"name": "Ludicrous Speed Luigi",
+			"description": "Beat Luigi's Time Trial Ghost!",
+			"api_key": "52874",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54426.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54426_lock.png"
+		},
+		"52875": {
+			"release_per_platform_id": "n64_032625B0",
+			"name": "Danse Mini-Turbo Macabre",
+			"description": "Unlock Mario's Time Trial Ghost, less than 1'30\".",
+			"api_key": "52875",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54427.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54427_lock.png"
+		},
+		"52876": {
+			"release_per_platform_id": "n64_032625B0",
+			"name": "Mach Speed Mario",
+			"description": "Beat Mario's Time Trial Ghost!",
+			"api_key": "52876",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54428.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54428_lock.png"
+		},
+		"52877": {
+			"release_per_platform_id": "n64_032625B0",
+			"name": "Back From The Pits Of Peach",
+			"description": "Unlock Peach's Time Trial Ghost, less than 2'40\".",
+			"api_key": "52877",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54429.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54429_lock.png"
+		},
+		"52878": {
+			"release_per_platform_id": "n64_032625B0",
+			"name": "Gone-to-Plaid Peach",
+			"description": "Beat Peach's Time Trial Ghost!",
+			"api_key": "52878",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54430.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54430_lock.png"
+		},
+		"52879": {
+			"release_per_platform_id": "n64_032625B0",
+			"name": "EEEEat My Orange Dust",
+			"description": "Use a Mini-Turbo Boost during Grand Prix.",
+			"api_key": "52879",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54431.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54431_lock.png"
+		},
+		"52880": {
+			"release_per_platform_id": "n64_032625B0",
+			"name": "Too Many Turbos",
+			"description": "Use 20 Mini-Turbo boosts and get 1st in a single Grand Prix race.",
+			"api_key": "52880",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54432.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54432_lock.png"
+		},
+		"52881": {
+			"release_per_platform_id": "n64_032625B0",
+			"name": "Nitrous Oxide Is Illegal You Know",
+			"description": "Finish a race in 150cc without using Mini-Turbos.",
+			"api_key": "52881",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54433.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54433_lock.png"
+		},
+		"52882": {
+			"release_per_platform_id": "n64_032625B0",
+			"name": "Blue Light Means Go",
+			"description": "Get the starting boost during a Grand Prix race.",
+			"api_key": "52882",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54434.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54434_lock.png"
+		},
+		"52883": {
+			"release_per_platform_id": "n64_032625B0",
+			"name": "Here's Looking At You, Paisano",
+			"description": "While holding A and B, stare into the camera for about a complete second.",
+			"api_key": "52883",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54435.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54435_lock.png"
+		},
+		"52884": {
+			"release_per_platform_id": "n64_032625B0",
+			"name": "The Musical Fruit",
+			"description": "Save yourself from spinning out from a banana or stone.",
+			"api_key": "52884",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54436.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54436_lock.png"
+		},
+		"52885": {
+			"release_per_platform_id": "n64_032625B0",
+			"name": "Jungle Parkway's Coconut Gun",
+			"description": "150cc as DK in Jungle Parkway. Win after dodging a spinout, and never spinout.",
+			"api_key": "52885",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54437.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54437_lock.png"
+		},
+		"52886": {
+			"release_per_platform_id": "n64_032625B0",
+			"name": "Fashionably Early To The Ceremony",
+			"description": "Touch the bridge to Peach's Castle, then win first place! (Not in EXTRA Class)",
+			"api_key": "52886",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54438.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54438_lock.png"
+		},
+		"52887": {
+			"release_per_platform_id": "n64_032625B0",
+			"name": "You Got Learner's Permit",
+			"description": "In Toad's Turnpike, win first-place, but never hit a car or fake item block.",
+			"api_key": "52887",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54439.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54439_lock.png"
+		},
+		"52888": {
+			"release_per_platform_id": "n64_032625B0",
+			"name": "Get Equipped With Driver's License",
+			"description": "In 150cc or EXTRA Toad's Turnpike, get first place, but never hit a car or fake item block.",
+			"api_key": "52888",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54440.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54440_lock.png"
+		},
+		"52889": {
+			"release_per_platform_id": "n64_032625B0",
+			"name": "Mario Kart 8th",
+			"description": "After the first lap, dip down to 8th place, finish in 1st.  Shortcuts are fine.",
+			"api_key": "52889",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54441.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54441_lock.png"
+		},
+		"52890": {
+			"release_per_platform_id": "n64_032625B0",
+			"name": "Super Mario Kart 8th Circuit",
+			"description": "After the first lap in 150cc, dip down to 8th place, finish in 1st.",
+			"api_key": "52890",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54441.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54441_lock.png"
+		},
+		"52891": {
+			"release_per_platform_id": "n64_032625B0",
+			"name": "Hard Drivin'",
+			"description": "Obtain a perfect 36 points in 150cc or EXTRA.",
+			"api_key": "52891",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54442.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54442_lock.png"
+		},
+		"52892": {
+			"release_per_platform_id": "n64_032625B0",
+			"name": "Drive Hard",
+			"description": "Obtain a perfect 36 points in EXTRA.",
+			"api_key": "52892",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54443.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54443_lock.png"
+		},
+		"52893": {
+			"release_per_platform_id": "n64_032625B0",
+			"name": "We're Number One, But It's Every Cup",
+			"description": "Obtain a gold trophy for every cup in every class.",
+			"api_key": "52893",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54444.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54444_lock.png"
+		},
+		"52894": {
+			"release_per_platform_id": "n64_032625B0",
+			"name": "See You Next Game!",
+			"description": "Get the hidden 4th Place or worse ending!",
+			"api_key": "52894",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54445.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54445_lock.png"
+		}
+	}
+}

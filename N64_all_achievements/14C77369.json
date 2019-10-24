@@ -1,0 +1,556 @@
+{
+	"Achievements": {
+		"50351": {
+			"release_per_platform_id": "n64_14C77369",
+			"name": "Cheat Found! All Upgrades",
+			"description": "Find the cheat for All Upgrades",
+			"api_key": "50351",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51330.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51330_lock.png"
+		},
+		"50352": {
+			"release_per_platform_id": "n64_14C77369",
+			"name": "Why are you here?",
+			"description": "Kill all the SCVs on Terran Episode 1 Mission 4",
+			"api_key": "50352",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51331.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51331_lock.png"
+		},
+		"50353": {
+			"release_per_platform_id": "n64_14C77369",
+			"name": "On the offensive",
+			"description": "Destroy the Hatchery in Terran Episode 1 Mission 3",
+			"api_key": "50353",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51332.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51332_lock.png"
+		},
+		"50354": {
+			"release_per_platform_id": "n64_14C77369",
+			"name": "Ahh! A Ghost!",
+			"description": "Only destroy turrets and kill 2 or less enemies during Zerg Episode 2 Mission 5",
+			"api_key": "50354",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51333.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51333_lock.png"
+		},
+		"50355": {
+			"release_per_platform_id": "n64_14C77369",
+			"name": "It's over 9000!",
+			"description": "Collect 9000 minerals in a Scenario match.",
+			"api_key": "50355",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51334.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51334_lock.png"
+		},
+		"50356": {
+			"release_per_platform_id": "n64_14C77369",
+			"name": "It's over 9000! (part 2)",
+			"description": "Collect 9000 vespene gas in a Scenario match.",
+			"api_key": "50356",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51335.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51335_lock.png"
+		},
+		"50357": {
+			"release_per_platform_id": "n64_14C77369",
+			"name": "Cheat Found! All Research",
+			"description": "Find the All Research cheat code.",
+			"api_key": "50357",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51336.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51336_lock.png"
+		},
+		"50358": {
+			"release_per_platform_id": "n64_14C77369",
+			"name": "Tutorial Phase One",
+			"description": "Finish the 1st tutorial.",
+			"api_key": "50358",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51337.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51337_lock.png"
+		},
+		"50359": {
+			"release_per_platform_id": "n64_14C77369",
+			"name": "Tutorial Phase Two",
+			"description": "Complete the second tutorial.",
+			"api_key": "50359",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51338.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51338_lock.png"
+		},
+		"50360": {
+			"release_per_platform_id": "n64_14C77369",
+			"name": "Found Raynor",
+			"description": "Complete Terran Episode 1 Mission 1",
+			"api_key": "50360",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51339.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51339_lock.png"
+		},
+		"50361": {
+			"release_per_platform_id": "n64_14C77369",
+			"name": "Aliens",
+			"description": "Complete Terran Episode 1 Mission 2",
+			"api_key": "50361",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51340.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51340_lock.png"
+		},
+		"50362": {
+			"release_per_platform_id": "n64_14C77369",
+			"name": "Survival of the fittest",
+			"description": "Complete Terran Episode 1 Mission 3",
+			"api_key": "50362",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51341.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51341_lock.png"
+		},
+		"50363": {
+			"release_per_platform_id": "n64_14C77369",
+			"name": "Data retrieved",
+			"description": "Complete Terran Episode 1 Mission 4",
+			"api_key": "50363",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51342.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51342_lock.png"
+		},
+		"50364": {
+			"release_per_platform_id": "n64_14C77369",
+			"name": "Viva la Revolution!",
+			"description": "Complete Terran Episode 1 Mission 5",
+			"api_key": "50364",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51405.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51405_lock.png"
+		},
+		"50365": {
+			"release_per_platform_id": "n64_14C77369",
+			"name": "Saved",
+			"description": "Complete Terran Episode 1 Mission 6",
+			"api_key": "50365",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51406.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51406_lock.png"
+		},
+		"50366": {
+			"release_per_platform_id": "n64_14C77369",
+			"name": "A rank above the rest",
+			"description": "Complete Terran Episode 1 Mission 7",
+			"api_key": "50366",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51407.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51407_lock.png"
+		},
+		"50367": {
+			"release_per_platform_id": "n64_14C77369",
+			"name": "Eliminated",
+			"description": "Complete Terran Episode 1 Mission 8",
+			"api_key": "50367",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51408.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51408_lock.png"
+		},
+		"50368": {
+			"release_per_platform_id": "n64_14C77369",
+			"name": "The martyr",
+			"description": "Complete Terran Episode 1 Mission 9",
+			"api_key": "50368",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51409.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51409_lock.png"
+		},
+		"50369": {
+			"release_per_platform_id": "n64_14C77369",
+			"name": "Stuff a critter in it!",
+			"description": "Complete Terran Episode 1 Mission 10",
+			"api_key": "50369",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51410.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51410_lock.png"
+		},
+		"50370": {
+			"release_per_platform_id": "n64_14C77369",
+			"name": "Your birthright",
+			"description": "Complete Zerg Episode 2 Mission 1",
+			"api_key": "50370",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51411.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51411_lock.png"
+		},
+		"50371": {
+			"release_per_platform_id": "n64_14C77369",
+			"name": "Young Cerabrate",
+			"description": "Complete Zerg Episode 2 Mission 2",
+			"api_key": "50371",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51412.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51412_lock.png"
+		},
+		"50372": {
+			"release_per_platform_id": "n64_14C77369",
+			"name": "The sleeper's true power",
+			"description": "Complete Zerg Episode 2 Mission 3",
+			"api_key": "50372",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51417.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51417_lock.png"
+		},
+		"50373": {
+			"release_per_platform_id": "n64_14C77369",
+			"name": "Emanations of the Chrysalis",
+			"description": "Complete Zerg Episode 2 Mission 4",
+			"api_key": "50373",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51416.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51416_lock.png"
+		},
+		"50374": {
+			"release_per_platform_id": "n64_14C77369",
+			"name": "Strengthening my powers",
+			"description": "Complete Zerg Episode 2 Mission 5",
+			"api_key": "50374",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51418.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51418_lock.png"
+		},
+		"50375": {
+			"release_per_platform_id": "n64_14C77369",
+			"name": "Do you feel that, Cerabrate?",
+			"description": "Complete Zerg Episode 2 Mission 6",
+			"api_key": "50375",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51419.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51419_lock.png"
+		},
+		"50376": {
+			"release_per_platform_id": "n64_14C77369",
+			"name": "Insufferable Protoss",
+			"description": "Complete Zerg Episode 2 Mission 7",
+			"api_key": "50376",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51420.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51420_lock.png"
+		},
+		"50377": {
+			"release_per_platform_id": "n64_14C77369",
+			"name": "Broken silence",
+			"description": "Complete Zerg Episode 2 Mission 8",
+			"api_key": "50377",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51421.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51421_lock.png"
+		},
+		"50378": {
+			"release_per_platform_id": "n64_14C77369",
+			"name": "Victory is at hand",
+			"description": "Complete Zerg Episode 2 Mission 9",
+			"api_key": "50378",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51422.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51422_lock.png"
+		},
+		"50379": {
+			"release_per_platform_id": "n64_14C77369",
+			"name": "The final site",
+			"description": "Complete Zerg Episode 2 Mission 10",
+			"api_key": "50379",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51423.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51423_lock.png"
+		},
+		"50380": {
+			"release_per_platform_id": "n64_14C77369",
+			"name": "The Judicator",
+			"description": "Complete Protoss Episode 3 Mission 1",
+			"api_key": "50380",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51425.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51425_lock.png"
+		},
+		"50381": {
+			"release_per_platform_id": "n64_14C77369",
+			"name": "Restored faith",
+			"description": "Complete Protoss Episode 3 Mission 2",
+			"api_key": "50381",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51427.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51427_lock.png"
+		},
+		"50382": {
+			"release_per_platform_id": "n64_14C77369",
+			"name": "Dire news",
+			"description": "Complete Protoss Episode 3 Mission 3",
+			"api_key": "50382",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51430.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51430_lock.png"
+		},
+		"50383": {
+			"release_per_platform_id": "n64_14C77369",
+			"name": "Reluctant to leave",
+			"description": "Complete Protoss Episode 3 Mission 4",
+			"api_key": "50383",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51431.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51431_lock.png"
+		},
+		"50384": {
+			"release_per_platform_id": "n64_14C77369",
+			"name": "The will of the Conclave",
+			"description": "Complete Protoss Episode 3 Mission 5",
+			"api_key": "50384",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51432.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51432_lock.png"
+		},
+		"50385": {
+			"release_per_platform_id": "n64_14C77369",
+			"name": "Grave danger",
+			"description": "Complete Protoss Episode 3 Mission 6",
+			"api_key": "50385",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51433.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51433_lock.png"
+		},
+		"50386": {
+			"release_per_platform_id": "n64_14C77369",
+			"name": "The return home",
+			"description": "Complete Protoss Episode 3 Mission 7",
+			"api_key": "50386",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51434.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51434_lock.png"
+		},
+		"50387": {
+			"release_per_platform_id": "n64_14C77369",
+			"name": "We must fight on",
+			"description": "Complete Protoss Episode 3 Mission 8",
+			"api_key": "50387",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51435.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51435_lock.png"
+		},
+		"50388": {
+			"release_per_platform_id": "n64_14C77369",
+			"name": "We may win yet!",
+			"description": "Complete Protoss Episode 3 Mission 9",
+			"api_key": "50388",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51436.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51436_lock.png"
+		},
+		"50389": {
+			"release_per_platform_id": "n64_14C77369",
+			"name": "The perfect plan",
+			"description": "Complete Protoss Episode 3 Mission 10",
+			"api_key": "50389",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51437.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51437_lock.png"
+		},
+		"50390": {
+			"release_per_platform_id": "n64_14C77369",
+			"name": "The secret homeworld",
+			"description": "Complete Protoss Episode 4 Mission 1",
+			"api_key": "50390",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51438.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51438_lock.png"
+		},
+		"50391": {
+			"release_per_platform_id": "n64_14C77369",
+			"name": "Survivors of Aiur",
+			"description": "Complete Protoss Episode 4 Mission 2",
+			"api_key": "50391",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51439.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51439_lock.png"
+		},
+		"50392": {
+			"release_per_platform_id": "n64_14C77369",
+			"name": "Reuniting our people",
+			"description": "Complete Protoss Episode 4 Mission 3",
+			"api_key": "50392",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51440.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51440_lock.png"
+		},
+		"50393": {
+			"release_per_platform_id": "n64_14C77369",
+			"name": "The new Overmind",
+			"description": "Complete Protoss Episode 4 Mission 4",
+			"api_key": "50393",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51441.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51441_lock.png"
+		},
+		"50394": {
+			"release_per_platform_id": "n64_14C77369",
+			"name": "United Earth Directorate",
+			"description": "Complete Protoss Episode 4 Mission 5",
+			"api_key": "50394",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51554.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51554_lock.png"
+		},
+		"50395": {
+			"release_per_platform_id": "n64_14C77369",
+			"name": "Massive fluctuating energy signature",
+			"description": "Complete Protoss Episode 4 Mission 6",
+			"api_key": "50395",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51555.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51555_lock.png"
+		},
+		"50396": {
+			"release_per_platform_id": "n64_14C77369",
+			"name": "A new threat",
+			"description": "Complete Protoss Episode 4 Mission 7",
+			"api_key": "50396",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51556.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51556_lock.png"
+		},
+		"50397": {
+			"release_per_platform_id": "n64_14C77369",
+			"name": "A chance of survival",
+			"description": "Complete Protoss Episode 4 Mission 8",
+			"api_key": "50397",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51557.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51557_lock.png"
+		},
+		"50398": {
+			"release_per_platform_id": "n64_14C77369",
+			"name": "Adjutant online",
+			"description": "Complete Terran Episode 5 Mission 1",
+			"api_key": "50398",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51558.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51558_lock.png"
+		},
+		"50399": {
+			"release_per_platform_id": "n64_14C77369",
+			"name": "Mengsk's most guarded files",
+			"description": "Complete Terran Episode 5 Mission 2",
+			"api_key": "50399",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51559.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51559_lock.png"
+		},
+		"50400": {
+			"release_per_platform_id": "n64_14C77369",
+			"name": "The next phase",
+			"description": "Complete Terran Episode 5 Mission 3",
+			"api_key": "50400",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51560.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51560_lock.png"
+		},
+		"50401": {
+			"release_per_platform_id": "n64_14C77369",
+			"name": "The Dominion Throne",
+			"description": "Complete Terran Episode 5 Mission 4",
+			"api_key": "50401",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51561.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51561_lock.png"
+		},
+		"50402": {
+			"release_per_platform_id": "n64_14C77369",
+			"name": "Watch out for those Ghosts",
+			"description": "Complete Terran Episode 5 Mission 5a",
+			"api_key": "50402",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51562.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51562_lock.png"
+		},
+		"50403": {
+			"release_per_platform_id": "n64_14C77369",
+			"name": "Before the siege",
+			"description": "Complete Terran Episode 5 Mission 5b",
+			"api_key": "50403",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51563.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51563_lock.png"
+		},
+		"50404": {
+			"release_per_platform_id": "n64_14C77369",
+			"name": "The devastated homeworld",
+			"description": "Complete Terran Episode 5 Mission 6",
+			"api_key": "50404",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51564.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51564_lock.png"
+		},
+		"50405": {
+			"release_per_platform_id": "n64_14C77369",
+			"name": "Back to Braxis",
+			"description": "Complete Terran Episode 5 Mission 7",
+			"api_key": "50405",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51565.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51565_lock.png"
+		},
+		"50406": {
+			"release_per_platform_id": "n64_14C77369",
+			"name": "The wounded Overmind",
+			"description": "Complete Terran Episode 5 Mission 8",
+			"api_key": "50406",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51566.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51566_lock.png"
+		},
+		"50407": {
+			"release_per_platform_id": "n64_14C77369",
+			"name": "Nothing Personal",
+			"description": "Complete Zerg Episode 6 Mission 1",
+			"api_key": "50407",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51567.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51567_lock.png"
+		},
+		"50408": {
+			"release_per_platform_id": "n64_14C77369",
+			"name": "Mengsk's cold-sleep chamber",
+			"description": "Complete Zerg Episode 6 Mission 2",
+			"api_key": "50408",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51568.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51568_lock.png"
+		},
+		"50409": {
+			"release_per_platform_id": "n64_14C77369",
+			"name": "What happens to us when she wins?",
+			"description": "Complete Zerg Episode 6 Mission 3",
+			"api_key": "50409",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51569.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51569_lock.png"
+		},
+		"50410": {
+			"release_per_platform_id": "n64_14C77369",
+			"name": "Brimming with energy",
+			"description": "Complete Zerg Episode 6 Mission 4",
+			"api_key": "50410",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51570.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51570_lock.png"
+		},
+		"50411": {
+			"release_per_platform_id": "n64_14C77369",
+			"name": "Chaff and wheat separated",
+			"description": "Complete Zerg Episode 6 Mission 5",
+			"api_key": "50411",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51571.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51571_lock.png"
+		},
+		"50412": {
+			"release_per_platform_id": "n64_14C77369",
+			"name": "The renegade Swarm",
+			"description": "Complete Zerg Episode 6 Mission 6",
+			"api_key": "50412",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51572.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51572_lock.png"
+		},
+		"50413": {
+			"release_per_platform_id": "n64_14C77369",
+			"name": "Return to Shakuras",
+			"description": "Complete Zerg Episode 6 Mission 7",
+			"api_key": "50413",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51573.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51573_lock.png"
+		},
+		"50414": {
+			"release_per_platform_id": "n64_14C77369",
+			"name": "The wretched Overmind",
+			"description": "Complete Zerg Episode 6 Mission 8",
+			"api_key": "50414",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51574.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51574_lock.png"
+		},
+		"50415": {
+			"release_per_platform_id": "n64_14C77369",
+			"name": "The surface of Char",
+			"description": "Complete Zerg Episode 6 Mission 9",
+			"api_key": "50415",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51575.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51575_lock.png"
+		},
+		"50416": {
+			"release_per_platform_id": "n64_14C77369",
+			"name": "Special interest groups",
+			"description": "Complete Zerg Episode 6 Mission 10",
+			"api_key": "50416",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51576.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51576_lock.png"
+		},
+		"50417": {
+			"release_per_platform_id": "n64_14C77369",
+			"name": "Cheat Found! Fog of War Off",
+			"description": "Find the cheat for fog of war off",
+			"api_key": "50417",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51577.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51577_lock.png"
+		},
+		"50418": {
+			"release_per_platform_id": "n64_14C77369",
+			"name": "Cheat Found! Open Tech Tree",
+			"description": "Find the cheat for Open Tech Tree",
+			"api_key": "50418",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51578.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51578_lock.png"
+		},
+		"50419": {
+			"release_per_platform_id": "n64_14C77369",
+			"name": "Cheat Found! Give me Cash and Gas",
+			"description": "Find the cheat for Give me Cash and Gas",
+			"api_key": "50419",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51580.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51580_lock.png"
+		}
+	}
+}

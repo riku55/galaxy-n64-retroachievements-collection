@@ -1,0 +1,294 @@
+{
+	"Games":
+	[
+		{
+			"Title": "Animal Forest",
+			"CRC": ["9503E3F1"]
+		},
+		{	"Title": "Army Men: Sarges Heroes",
+			"CRC": ["2FE786F6","97BF6DB2","E79048E2","B2B54CC1"]
+		},
+		{
+			"Title": "Banjo-Kazooie",
+			"CRC": ["AD429961","4FD43199"]
+		},
+		{
+			"Title": "Banjo-Tooie",
+			"CRC": ["BAB803EF","2736266A","1EC12F5A","0E0DC5A5"]
+		},
+		{
+			"Title": "Blast Corps",
+			"CRC": ["9CBBCCF1", "23D415F8"]
+		},
+		{
+			"Title": "Body Harvest",
+			"CRC": ["FABBDF02","7B878C56","6A04CDAE","2761BDAE"]
+		},
+		{
+			"Title": "Bomberman 64: The Second Attack",
+			"CRC": ["57550007","302B3135"]
+		},
+		{
+			"Title": "Bomberman Hero",
+			"CRC": ["2CC2E634","3E73AF1A","28DAD01B"]
+		},
+		{
+			"Title": "California Speed",
+			"CRC": ["6F6262CB"]
+		},
+		{
+			"Title": "Castlevania 64",
+			"CRC": ["8B0D3C00","83032D97","84E815F3","7F50E637","D1D4D306"]
+		},
+		{
+			"Title": "Chameleon Twist",
+			"CRC": ["7FE024C9","587DD983","7FF42FD0","4246EE14","C0345565","2AF50883","6DEF366B"]
+		},
+		{
+			"Title": "Chameleon Twist 2",
+			"CRC": ["CDF26D67","3B53519F","08287CC8","35958F55","356736C7"]
+		},
+		{	"Title": "Conkers Bad Fur Day",
+			"CRC": ["4667CFE9","96DBA949"]
+		},
+		{
+			"Title": "Custom Robo",
+			"CRC": ["6B6EA7DB","F2FAE693"]
+		},
+		{
+			"Title": "Destruction Derby 64",
+			"CRC": ["38F1B5D9","7AD9E429","EF680F71","212A8000"]
+		},
+		{
+			"Title": "Diddy Kong Racing",
+			"CRC": ["EB759206","36C92D99","17EF30CA","7DAB6850","9D2935A1"]
+		},
+		{
+			"Title": "Disney's Tarzan",
+			"CRC": ["C38CA641","2B59490B","7737ED9E","5FA14035","99C7649D","C1176831","0B0954C5"]
+		},
+		{
+			"Title": "Donkey Kong 64",
+			"CRC": ["D44B4FC6","96972D67"]
+		},
+		{
+			"Title": "Doom 64",
+			"CRC": ["5CC1ADE6","1D3A17B5","D985C356","4DFB7CB6"]
+		},
+		{
+			"Title": "Dr. Mario 64",
+			"CRC": ["F7C44B5B","A4701927"]
+		},
+		{
+			"Title": "F-1 World Grand Prix",
+			"CRC": ["7DC9EF2C","4D203242"]
+		},
+		{	"Title": "F-Zero X",
+			"CRC": ["0B561FBA","2D6F7E8B","9408C2C1","3D95DF80","927387B6"]
+		},
+		{
+			"Title": "FIFA - Road to World Cup 98",
+			"CRC": ["28B1221C","9504B3DF","2D49F99A"]
+		},
+		{
+			"Title": "Fighting Force 64",
+			"CRC": ["8456841E","ADE7DCA4","4052C176","8D0CB2FF"]
+		},
+		{
+			"Title": "Gex 3 - Deep Cover Gecko",
+			"CRC": ["87A7D099","3571F3BD","6BC4A056","1110CC22","D169E9F8","B0191DBD"]
+		},
+		{
+			"Title": "Goemon's Great Adventure",
+			"CRC": ["52D418E1","163C3C51","E3C7A184"]
+		},
+		{
+			"Title": "GoldenEye 007",
+			"CRC": ["B6330846","9EC14AEB","8B70CB5B","98ACD777","3B39740F","594CDB4E"]
+		},
+		{
+			"Title": "Hexen",
+			"CRC": ["1D35E110","E373FA31","D2B22343"]
+		},
+		{
+			"Title": "Jet Force Gemini",
+			"CRC": ["6753D5A3","CFBED88C","B5932174"]
+		},
+		{
+			"Title": "Kirby 64 - The Crystal Shards",
+			"CRC": ["20A1C120","8EB3565B","5B8B89EF","F1EB0F93","AE7CB69D"]
+		},
+		{
+			"Title": "The Legend of Zelda - Majoras Mask",
+			"CRC": ["B428D8A7","3EE3F2D1","9EAD1608","E2E6823D","4A479574","8EBF7691"]
+		},
+		{
+			"Title": "The Legend of Zelda - Ocarina of Time",
+			"CRC": ["CD16C529","EC95702D","3E00D978","32D72425","995532C5","7A7BA9B5","882E5D5E","F123E943","AFD60B23","7866F1CA","CFCF3FF0"]
+		},
+		{
+			"Title": "Mario Kart 64",
+			"CRC": ["434389C1","B3F6F8CC","6787E212","032625B0","98BD4147"]
+		},
+		{
+			"Title": "Mario Party",
+			"CRC": ["4D60ABE5","4717CD1B"]
+		},
+		{
+			"Title": "Mario Party 2",
+			"CRC": ["E58A1955","DC00357A","3BA5471B","8C0C8BEC"]
+		},
+		{
+			"Title": "Mario Party 3",
+			"CRC": ["B7445DDC","A1BEE3F8","5CE536F1","813B13F2","A5D78A36"]
+		},
+		{
+			"Title": "Mario Tennis",
+			"CRC": ["4E9560F6","995C9F24","C665301D","29AA5DF4","0F03CA6E"]
+		},
+		{
+			"Title": "Mega Man 64",
+			"CRC": ["1BFC71F0","B57DD0E4"]
+		},
+		{
+			"Title": "Mickey's Speedway USA",
+			"CRC": ["2D4F8F1B","6E589C47"]
+		},
+		{
+			"Title": "Mischief Makers",
+			"CRC": ["7D222D3F","AF7B3820","C3300CEF","68A4F072"]
+		},
+		{
+			"Title": "Mortal Kombat Trilogy",
+			"CRC": ["0F323D00","58E57C08","E58597D7"]
+		},
+		{
+			"Title": "Ms. Pac-Man - Maze Madness",
+			"CRC": ["E34C7060"]
+		},
+		{
+			"Title": "Paper Mario",
+			"CRC": ["A7F5CD7E","D56D1C89","300009E3"]
+		},
+		{
+			"Title": "Perfect Dark",
+			"CRC": ["4C1677F7","68446AD4","F0FE18F0","C4639ED6","F85A16F1"]
+		},
+		{
+			"Title": "Pilotwings 64",
+			"CRC": ["728807E7","C445F7E3","334E88BF"]
+		},
+		{
+			"Title": "Pocket Monsters Stadium",
+			"CRC": ["3B2A3F7A"]
+		},
+		{
+			"Title": "Pokemon Puzzle League",
+			"CRC": ["8B9C598F","281AFB0D","443B309A"]
+		},
+		{
+			"Title": "Pokemon Snap",
+			"CRC": ["86A69756","DF387848"]
+		},
+		{
+			"Title": "Pokemon Stadium",
+			"CRC": ["72F66F05"]
+		},
+		{
+			"Title": "Pokemon Stadium 2",
+			"CRC": ["A9998E09","FBFF058A","283E7641"]
+		},
+		{
+			"Title": "Powerpuff Girls, The: Chemical X-Traction",
+			"CRC": ["9514DA0A"]
+		},
+		{
+			"Title": "Quest 64",
+			"CRC": ["D75B45C6","E90856E8"]
+		},
+		{
+			"Title": "Rampage 2: Universal Tour",
+			"CRC": ["7614EE0D","75E8C2AD","FA6E097B","0D4654A8"]
+		},
+		{
+			"Title": "Rayman 2 The Great Escape",
+			"CRC": ["B7E10177","169A5037"]
+		},
+		{
+			"Title": "Resident Evil 2",
+			"CRC": ["848FBC0D"]
+		},
+		{
+			"Title": "Ridge Racer 64",
+			"CRC": ["3C2C2D1C","7CCB9749"]
+		},
+		{
+			"Title": "Rocket: Robot on Wheels",
+			"CRC": ["E0399F23","B0F36D79"]
+		},
+		{
+			"Title": "Shadow Man",
+			"CRC": ["5E20CC63","47E05128"]
+		},
+		{
+			"Title": "Snowboard Kids",
+			"CRC": ["540C190B","020FB906","5619A70D","4F2415F3","213BF381"]
+		},
+		{
+			"Title": "Snowboard Kids 2",
+			"CRC": ["CA84AACE","D0DC8A8E"]
+		},
+		{
+			"Title": "South Park Rally",
+			"CRC": ["CCDD322A","2C1F0859"]
+		},
+		{
+			"Title": "Space Station Silicon Valley",
+			"CRC": ["090F3018"]
+		},
+		{
+			"Title": "Star Fox 64",
+			"CRC": ["363E7EE8","B1FCAA9C","411142A7"]
+		},
+		{
+			"Title": "Star Wars - Shadows of the Empire",
+			"CRC": ["E8727549","F4E546D1","F0A191BF","3C0837B3","B0540688"]
+		},
+		{
+			"Title": "StarCraft 64",
+			"CRC": ["14C77369","4E4C7EC9"]
+		},
+		{
+			"Title": "Starshot - Space Circus Fever",
+			"CRC": ["64370749"]
+		},
+		{
+			"Title": "Super Mario 64",
+			"CRC": ["635A2BFF","8B022326","3CE60709","42C43204","EE4192A8","474BFC87","DBB1F6DC","CF9F8B39","03048DE6","DD801954","BD2FF682","0665BFFA"]
+		},
+		{
+			"Title": "Super Smash Bros",
+			"CRC": ["DD2DF6D9","EB97929E","7976248C","03DB0407","E96779FA"]
+		},
+		{
+			"Title": "Tom and Jerry in Fists of Furry",
+			"CRC": ["6D685B83","F0BFC6AB"]
+		},
+		{
+			"Title": "Toy Story 2: Buzz Lightyear to the Rescue",
+			"CRC": ["B9570841","F7A72276"]
+		},
+		{
+			"Title": "Turok - Dinosaur Hunter",
+			"CRC": ["26C4F597","8C3BBC00","777D75E6","AF6EA1B8","E8525687","312AF877","019A0C30","03D8CA48","72CA307A","70398790"]
+		},
+		{
+			"Title": "Turok 2 - Seeds of Evil",
+			"CRC": ["FF5E7636","57F1FBF5","ADEC745F","FE3527AE"]
+		},
+		{
+			"Title": "Yoshis Story",
+			"CRC": ["A1453E0D","01A4B1E9","BA50E354"]
+		}
+	]
+}

@@ -1,0 +1,468 @@
+{
+	"Achievements": {
+		"51100": {
+			"release_per_platform_id": "n64_4D60ABE5",
+			"name": "Jungle Adventure",
+			"description": "Complete a game on the Donkey Kong's Jungle Adventure board.",
+			"api_key": "51100",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52460.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52460_lock.png"
+		},
+		"51108": {
+			"release_per_platform_id": "n64_4D60ABE5",
+			"name": "Jungle Adventure S-Rank",
+			"description": "Win by more than one Star on this board against 3 Hard CPUs (no reloading).",
+			"api_key": "51108",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52441.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52441_lock.png"
+		},
+		"51101": {
+			"release_per_platform_id": "n64_4D60ABE5",
+			"name": "Birthday Cake",
+			"description": "Complete a game on the Peach's Birthday Cake board.",
+			"api_key": "51101",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52461.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52461_lock.png"
+		},
+		"51109": {
+			"release_per_platform_id": "n64_4D60ABE5",
+			"name": "Birthday Cake S-Rank",
+			"description": "Win by more than one Star on this board against 3 Hard CPUs (no reloading).",
+			"api_key": "51109",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52442.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52442_lock.png"
+		},
+		"51102": {
+			"release_per_platform_id": "n64_4D60ABE5",
+			"name": "Tropical Island",
+			"description": "Complete a game on the Yoshi's Tropical Island board.",
+			"api_key": "51102",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52462.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52462_lock.png"
+		},
+		"51110": {
+			"release_per_platform_id": "n64_4D60ABE5",
+			"name": "Tropical Island S-Rank",
+			"description": "Win by more than one Star on this board against 3 Hard CPUs (no reloading).",
+			"api_key": "51110",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52443.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52443_lock.png"
+		},
+		"51103": {
+			"release_per_platform_id": "n64_4D60ABE5",
+			"name": "Battle Canyon",
+			"description": "Complete a game on the Wario's Battle Canyon board.",
+			"api_key": "51103",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52463.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52463_lock.png"
+		},
+		"51111": {
+			"release_per_platform_id": "n64_4D60ABE5",
+			"name": "Battle Canyon S-Rank",
+			"description": "Win by more than one Star on this board against 3 Hard CPUs (no reloading).",
+			"api_key": "51111",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52444.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52444_lock.png"
+		},
+		"51104": {
+			"release_per_platform_id": "n64_4D60ABE5",
+			"name": "Engine Room",
+			"description": "Complete a game on the Luigi's Engine Room board.",
+			"api_key": "51104",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52464.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52464_lock.png"
+		},
+		"51112": {
+			"release_per_platform_id": "n64_4D60ABE5",
+			"name": "Engine Room S-Rank",
+			"description": "Win by more than one Star on this board against 3 Hard CPUs (no reloading).",
+			"api_key": "51112",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52445.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52445_lock.png"
+		},
+		"51105": {
+			"release_per_platform_id": "n64_4D60ABE5",
+			"name": "Rainbow Castle",
+			"description": "Complete a game on the Mario's Rainbow Castle board.",
+			"api_key": "51105",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52465.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52465_lock.png"
+		},
+		"51113": {
+			"release_per_platform_id": "n64_4D60ABE5",
+			"name": "Rainbow Castle S-Rank",
+			"description": "Win by more than one Star on this board against 3 Hard CPUs (no reloading).",
+			"api_key": "51113",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52446.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52446_lock.png"
+		},
+		"51106": {
+			"release_per_platform_id": "n64_4D60ABE5",
+			"name": "Magma Mountain",
+			"description": "Complete a game on the Bowser's Magma Mountain board.",
+			"api_key": "51106",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52466.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52466_lock.png"
+		},
+		"51114": {
+			"release_per_platform_id": "n64_4D60ABE5",
+			"name": "Magma Mountain S-Rank",
+			"description": "Win by more than one Star on this board against 3 Hard CPUs (no reloading).",
+			"api_key": "51114",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52447.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52447_lock.png"
+		},
+		"51107": {
+			"release_per_platform_id": "n64_4D60ABE5",
+			"name": "Eternal Star",
+			"description": "Complete a game on the Eternal Star board.",
+			"api_key": "51107",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52467.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52467_lock.png"
+		},
+		"51115": {
+			"release_per_platform_id": "n64_4D60ABE5",
+			"name": "Eternal Star S-Rank",
+			"description": "Win by more than one Star on this board against 3 Hard CPUs (no reloading).",
+			"api_key": "51115",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52448.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52448_lock.png"
+		},
+		"51117": {
+			"release_per_platform_id": "n64_4D60ABE5",
+			"name": "Coin Superstar",
+			"description": "Complete a 20-turn game with a Coin Star of 200 or more.",
+			"api_key": "51117",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52473.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52473_lock.png"
+		},
+		"51118": {
+			"release_per_platform_id": "n64_4D60ABE5",
+			"name": "Mini-Game Superstar",
+			"description": "Complete a 20-turn game with a Mini-Game Star of 150 or more.",
+			"api_key": "51118",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52474.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52474_lock.png"
+		},
+		"51119": {
+			"release_per_platform_id": "n64_4D60ABE5",
+			"name": "Mini-Game Sucker",
+			"description": "Complete a 20-turn game with a Mini-Game Star of -50 or less.",
+			"api_key": "51119",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52475.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52475_lock.png"
+		},
+		"50856": {
+			"release_per_platform_id": "n64_4D60ABE5",
+			"name": "Superstar Sweep",
+			"description": "Have one player take home all three Bonus Stars in one game.",
+			"api_key": "50856",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52156.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52156_lock.png"
+		},
+		"50988": {
+			"release_per_platform_id": "n64_4D60ABE5",
+			"name": "Mini-Game Island World 1",
+			"description": "Clear Paddle Battle in the Mini-Game Island mode.",
+			"api_key": "50988",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52312.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52312_lock.png"
+		},
+		"50989": {
+			"release_per_platform_id": "n64_4D60ABE5",
+			"name": "Mini-Game Island World 2",
+			"description": "Clear Piranha's Pursuit in the Mini-Game Island mode.",
+			"api_key": "50989",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52304.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52304_lock.png"
+		},
+		"50990": {
+			"release_per_platform_id": "n64_4D60ABE5",
+			"name": "Mini-Game Island World 3",
+			"description": "Clear Teetering Towers in the Mini-Game Island mode.",
+			"api_key": "50990",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52305.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52305_lock.png"
+		},
+		"50991": {
+			"release_per_platform_id": "n64_4D60ABE5",
+			"name": "Mini-Game Island World 4",
+			"description": "Clear Ghost Guess in the Mini-Game Island mode.",
+			"api_key": "50991",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52306.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52306_lock.png"
+		},
+		"50992": {
+			"release_per_platform_id": "n64_4D60ABE5",
+			"name": "Mini-Game Island World 5",
+			"description": "Clear TightRope Treachery in the Mini-Game Island mode.",
+			"api_key": "50992",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52307.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52307_lock.png"
+		},
+		"50993": {
+			"release_per_platform_id": "n64_4D60ABE5",
+			"name": "Mini-Game Island World 6",
+			"description": "Clear Hot Rope Jump in the Mini-Game Island mode.",
+			"api_key": "50993",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52308.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52308_lock.png"
+		},
+		"50994": {
+			"release_per_platform_id": "n64_4D60ABE5",
+			"name": "Mini-Game Island World 7",
+			"description": "Clear Mario Bandstand in the Mini-Game Island mode.",
+			"api_key": "50994",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52309.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52309_lock.png"
+		},
+		"50995": {
+			"release_per_platform_id": "n64_4D60ABE5",
+			"name": "Mini-Game Island World 8",
+			"description": "Clear Bash n Cash in the Mini-Game Island mode.",
+			"api_key": "50995",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52310.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52310_lock.png"
+		},
+		"50996": {
+			"release_per_platform_id": "n64_4D60ABE5",
+			"name": "Mini-Game Island World 9",
+			"description": "Clear Platform Peril in the Mini-Game Island mode.",
+			"api_key": "50996",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52311.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52311_lock.png"
+		},
+		"50997": {
+			"release_per_platform_id": "n64_4D60ABE5",
+			"name": "GOOOOOOOAL!!",
+			"description": "Clear Slot Car Derby and finish the Mini-Game Island mode.",
+			"api_key": "50997",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52302.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52302_lock.png"
+		},
+		"50985": {
+			"release_per_platform_id": "n64_4D60ABE5",
+			"name": "Balloon Blitz",
+			"description": "Complete the Mini-Game Balloon Burst in under 20 seconds.",
+			"api_key": "50985",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52377.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52377_lock.png"
+		},
+		"50986": {
+			"release_per_platform_id": "n64_4D60ABE5",
+			"name": "Slot Car Dash 1",
+			"description": "Complete the Mini-Game Slot Car Derby 1 in under 22 seconds.",
+			"api_key": "50986",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52480.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52480_lock.png"
+		},
+		"50987": {
+			"release_per_platform_id": "n64_4D60ABE5",
+			"name": "Slot Car Dash 2",
+			"description": "Complete the Mini-Game Slot Car Derby 2 in under 30 seconds.",
+			"api_key": "50987",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52482.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52482_lock.png"
+		},
+		"51096": {
+			"release_per_platform_id": "n64_4D60ABE5",
+			"name": "Crowned Cutter",
+			"description": "Achieve a score of 99 or more in the Mini-Game Crazy Cutter.",
+			"api_key": "51096",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52470.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52470_lock.png"
+		},
+		"51097": {
+			"release_per_platform_id": "n64_4D60ABE5",
+			"name": "Gimme a Lift",
+			"description": "Achieve a score of 99 or more in the Mini-Game Face Lift.",
+			"api_key": "51097",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52471.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52471_lock.png"
+		},
+		"51092": {
+			"release_per_platform_id": "n64_4D60ABE5",
+			"name": "Cash Aways",
+			"description": "Collect 40 or more Coins in the Mini-Game Cast Aways.",
+			"api_key": "51092",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52454.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52454_lock.png"
+		},
+		"51095": {
+			"release_per_platform_id": "n64_4D60ABE5",
+			"name": "Paddle Pacifist",
+			"description": "End the Mini-Game Paddle Battle with no change in Coins.",
+			"api_key": "51095",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52469.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52469_lock.png"
+		},
+		"50772": {
+			"release_per_platform_id": "n64_4D60ABE5",
+			"name": "Bobsled Speedrun",
+			"description": "Complete the Mini-Game Bobsled Run in under one minute.",
+			"api_key": "50772",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52483.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52483_lock.png"
+		},
+		"50998": {
+			"release_per_platform_id": "n64_4D60ABE5",
+			"name": "Jackpot!",
+			"description": "Get 20 Coins in the Mini-Game Slot Machine.",
+			"api_key": "50998",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52301.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52301_lock.png"
+		},
+		"50855": {
+			"release_per_platform_id": "n64_4D60ABE5",
+			"name": "Chomper Stomper",
+			"description": "Defeat all 36 Piranha Plants in the Mini-Game Whack-a-Plant.",
+			"api_key": "50855",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51964.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/51964_lock.png"
+		},
+		"50854": {
+			"release_per_platform_id": "n64_4D60ABE5",
+			"name": "Mecha-Marathon",
+			"description": "Spin your Control Stick 50 times while using the Mecha Fly Guy.",
+			"api_key": "50854",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52157.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52157_lock.png"
+		},
+		"50999": {
+			"release_per_platform_id": "n64_4D60ABE5",
+			"name": "Plus Block",
+			"description": "Purchase the Plus Block from the shop.",
+			"api_key": "50999",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52313.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52313_lock.png"
+		},
+		"51000": {
+			"release_per_platform_id": "n64_4D60ABE5",
+			"name": "Minus Block",
+			"description": "Purchase the Minus Block from the shop.",
+			"api_key": "51000",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52314.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52314_lock.png"
+		},
+		"51001": {
+			"release_per_platform_id": "n64_4D60ABE5",
+			"name": "Speed Block",
+			"description": "Purchase the Speed Block from the shop.",
+			"api_key": "51001",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52315.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52315_lock.png"
+		},
+		"51002": {
+			"release_per_platform_id": "n64_4D60ABE5",
+			"name": "Slow Block",
+			"description": "Purchase the Slow Block from the shop.",
+			"api_key": "51002",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52316.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52316_lock.png"
+		},
+		"51003": {
+			"release_per_platform_id": "n64_4D60ABE5",
+			"name": "Warp Block",
+			"description": "Purchase the Warp Block from the shop.",
+			"api_key": "51003",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52317.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52317_lock.png"
+		},
+		"51004": {
+			"release_per_platform_id": "n64_4D60ABE5",
+			"name": "Event Block",
+			"description": "Purchase the Event Block from the shop.",
+			"api_key": "51004",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52318.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52318_lock.png"
+		},
+		"51063": {
+			"release_per_platform_id": "n64_4D60ABE5",
+			"name": "Mecha Fly Guy",
+			"description": "Purchase the Mecha Fly Guy from the shop.",
+			"api_key": "51063",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52378.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52378_lock.png"
+		},
+		"51064": {
+			"release_per_platform_id": "n64_4D60ABE5",
+			"name": "Talking Parrot",
+			"description": "Purchase the Talking Parrot from the shop.",
+			"api_key": "51064",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52379.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52379_lock.png"
+		},
+		"51065": {
+			"release_per_platform_id": "n64_4D60ABE5",
+			"name": "Lucky Box",
+			"description": "Purchase the Lucky Box from the shop.",
+			"api_key": "51065",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52380.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52380_lock.png"
+		},
+		"51066": {
+			"release_per_platform_id": "n64_4D60ABE5",
+			"name": "Casino Box",
+			"description": "Purchase the Casino Box from the shop.",
+			"api_key": "51066",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52381.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52381_lock.png"
+		},
+		"51087": {
+			"release_per_platform_id": "n64_4D60ABE5",
+			"name": "Record",
+			"description": "Purchase the Record from the shop.",
+			"api_key": "51087",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52449.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52449_lock.png"
+		},
+		"51088": {
+			"release_per_platform_id": "n64_4D60ABE5",
+			"name": "Magma Map",
+			"description": "Purchase the Magma Mountain board from the shop.",
+			"api_key": "51088",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52450.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52450_lock.png"
+		},
+		"51089": {
+			"release_per_platform_id": "n64_4D60ABE5",
+			"name": "Credits",
+			"description": "Purchase the Credits from the shop.",
+			"api_key": "51089",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52451.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52451_lock.png"
+		},
+		"51090": {
+			"release_per_platform_id": "n64_4D60ABE5",
+			"name": "No Koopa",
+			"description": "Purchase the No Koopa item from the shop.",
+			"api_key": "51090",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52452.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52452_lock.png"
+		},
+		"51091": {
+			"release_per_platform_id": "n64_4D60ABE5",
+			"name": "No Boo",
+			"description": "Purchase the No Boo item from the shop.",
+			"api_key": "51091",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52453.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52453_lock.png"
+		},
+		"51099": {
+			"release_per_platform_id": "n64_4D60ABE5",
+			"name": "Mini-Game Master",
+			"description": "Purchase every available Mini-Game.",
+			"api_key": "51099",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52472.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52472_lock.png"
+		},
+		"51116": {
+			"release_per_platform_id": "n64_4D60ABE5",
+			"name": "Wait, I Didn't Mean It!",
+			"description": "Come dangerously close to erasing your saved data.",
+			"api_key": "51116",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52468.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/52468_lock.png"
+		}
+	}
+}

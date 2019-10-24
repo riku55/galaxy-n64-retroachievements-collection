@@ -1,0 +1,196 @@
+{
+	"Achievements": {
+		"48353": {
+			"release_per_platform_id": "n64_23D415F8",
+			"name": "No time to explain",
+			"description": "Prevent a nuclear catastrophe in Simian Acres (all achievements work only on Save File 1 or without Memory Pak)",
+			"api_key": "48353",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49129.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49129_lock.png"
+		},
+		"48354": {
+			"release_per_platform_id": "n64_23D415F8",
+			"name": "Light as Water",
+			"description": "Finish the easy levels",
+			"api_key": "48354",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49175.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49175_lock.png"
+		},
+		"48355": {
+			"release_per_platform_id": "n64_23D415F8",
+			"name": "Heavy as Deuterium Oxide",
+			"description": "Finish all medium levels",
+			"api_key": "48355",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49176.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49176_lock.png"
+		},
+		"48356": {
+			"release_per_platform_id": "n64_23D415F8",
+			"name": "Deadly as 134Caesium",
+			"description": "Finish all hard levels",
+			"api_key": "48356",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49177.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49177_lock.png"
+		},
+		"48357": {
+			"release_per_platform_id": "n64_23D415F8",
+			"name": "Humanity saved",
+			"description": "Prevent a nuclear catastrophe once and for all",
+			"api_key": "48357",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49178.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49178_lock.png"
+		},
+		"48358": {
+			"release_per_platform_id": "n64_23D415F8",
+			"name": "NASA Freelancer",
+			"description": "Save humanity from a catastrophe in space",
+			"api_key": "48358",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49179.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49179_lock.png"
+		},
+		"48366": {
+			"release_per_platform_id": "n64_23D415F8",
+			"name": "NASA Employee",
+			"description": "Return to working in space",
+			"api_key": "48366",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49214.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49214_lock.png"
+		},
+		"48365": {
+			"release_per_platform_id": "n64_23D415F8",
+			"name": "Go for gold on Terra Firma",
+			"description": "Have gold medals on all levels so the real fun can begin",
+			"api_key": "48365",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49212.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49212_lock.png"
+		},
+		"48368": {
+			"release_per_platform_id": "n64_23D415F8",
+			"name": "Not so easy anymore",
+			"description": "Get Platinum on the easy story levels including Simian Acres",
+			"api_key": "48368",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49215.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49215_lock.png"
+		},
+		"48369": {
+			"release_per_platform_id": "n64_23D415F8",
+			"name": "Rising to the challenge",
+			"description": "Get Platinum on all medium story levels",
+			"api_key": "48369",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49216.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49216_lock.png"
+		},
+		"48370": {
+			"release_per_platform_id": "n64_23D415F8",
+			"name": "Plutonium Medals",
+			"description": "Get Platinum on all hard story levels",
+			"api_key": "48370",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49217.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49217_lock.png"
+		},
+		"48422": {
+			"release_per_platform_id": "n64_23D415F8",
+			"name": "NASA Engineer",
+			"description": "Get Platinum on Shuttle Clear and Moon",
+			"api_key": "48422",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49277.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49277_lock.png"
+		},
+		"48367": {
+			"release_per_platform_id": "n64_23D415F8",
+			"name": "NASA Astronomer",
+			"description": "Get Platinum on Mercury, Venus, Mars and Neptune",
+			"api_key": "48367",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49213.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49213_lock.png"
+		},
+		"48371": {
+			"release_per_platform_id": "n64_23D415F8",
+			"name": "I mastered my basics",
+			"description": "Get Platinum on all vehicle tutorial levels",
+			"api_key": "48371",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49218.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49218_lock.png"
+		},
+		"48373": {
+			"release_per_platform_id": "n64_23D415F8",
+			"name": "Erich Hagenlocher memorial",
+			"description": "Get Platinum on Orion Plaza, playing a fine game of poolbillard",
+			"api_key": "48373",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49220.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49220_lock.png"
+		},
+		"48362": {
+			"release_per_platform_id": "n64_23D415F8",
+			"name": "Pac-ing a bunch",
+			"description": "Get Platinum on the both Pacman style levels Gibbons Gate and Baboon Catacomb",
+			"api_key": "48362",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49198.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49198_lock.png"
+		},
+		"48363": {
+			"release_per_platform_id": "n64_23D415F8",
+			"name": "Bikers on the Storm",
+			"description": "Get Platinum on the three bike levels Mica Park, Kipling Plant, Dark Heartland",
+			"api_key": "48363",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49199.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49199_lock.png"
+		},
+		"48374": {
+			"release_per_platform_id": "n64_23D415F8",
+			"name": "Destructoid",
+			"description": "Get Platinum on Salvage Wharf,  Silver Junction and Morgan Hall",
+			"api_key": "48374",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49221.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49221_lock.png"
+		},
+		"48372": {
+			"release_per_platform_id": "n64_23D415F8",
+			"name": "Please proceed into J-Bomb Hell I",
+			"description": "Get Platinum on Saline Watch, Magma Peak and Lizard Island",
+			"api_key": "48372",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49219.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49219_lock.png"
+		},
+		"48419": {
+			"release_per_platform_id": "n64_23D415F8",
+			"name": "Please proceed into J-Bomb Hell II",
+			"description": "Get Platinum on Falchion Field, Geode Square and Dagger Pass",
+			"api_key": "48419",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49219.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49219_lock.png"
+		},
+		"48364": {
+			"release_per_platform_id": "n64_23D415F8",
+			"name": "Raddest Racer I",
+			"description": "Get Platinum on Glanders Ranch, Moraine Chase, Cobalt Quarry, Bison Ridge",
+			"api_key": "48364",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49211.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49211_lock.png"
+		},
+		"48420": {
+			"release_per_platform_id": "n64_23D415F8",
+			"name": "Raddest Racer II",
+			"description": "Get Platinum on Skerries, Twilight Foundry and Sleek Streets",
+			"api_key": "48420",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49211.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49211_lock.png"
+		},
+		"48421": {
+			"release_per_platform_id": "n64_23D415F8",
+			"name": "Raddest Racer III",
+			"description": "Get Platinum on Cooter Creek, Corvine Bluff, Jade Plateau, Marine Quarter",
+			"api_key": "48421",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49211.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49211_lock.png"
+		},
+		"48375": {
+			"release_per_platform_id": "n64_23D415F8",
+			"name": "You Can Stop Now",
+			"description": "The game developers thought this was impossible for a single person",
+			"api_key": "48375",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49222.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49222_lock.png"
+		}
+	}
+}

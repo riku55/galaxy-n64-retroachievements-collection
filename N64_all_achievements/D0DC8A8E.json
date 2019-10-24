@@ -1,0 +1,356 @@
+{
+	"Achievements": {
+		"52389": {
+			"release_per_platform_id": "n64_D0DC8A8E",
+			"name": "Welcome to Snow Town",
+			"description": "Come in 1st place in Sunny Mountain",
+			"api_key": "52389",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54057.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54057_lock.png"
+		},
+		"52390": {
+			"release_per_platform_id": "n64_D0DC8A8E",
+			"name": "Fast and Unsteady",
+			"description": "Come in 1st place in Turtle Island",
+			"api_key": "52390",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54173.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54173_lock.png"
+		},
+		"52391": {
+			"release_per_platform_id": "n64_D0DC8A8E",
+			"name": "Jingle Them all Away",
+			"description": "Come in 1st place in Jingle Town",
+			"api_key": "52391",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54145.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54145_lock.png"
+		},
+		"52392": {
+			"release_per_platform_id": "n64_D0DC8A8E",
+			"name": "Snowman Showdown",
+			"description": "Defeat the Snowman Robot",
+			"api_key": "52392",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54058.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54058_lock.png"
+		},
+		"52393": {
+			"release_per_platform_id": "n64_D0DC8A8E",
+			"name": "Honey, I Shrunk the Snowboard Kids",
+			"description": "Come in 1st place in Wendy's House",
+			"api_key": "52393",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54174.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54174_lock.png"
+		},
+		"52394": {
+			"release_per_platform_id": "n64_D0DC8A8E",
+			"name": "Castle Crashers",
+			"description": "Come in 1st place in Linda's Castle",
+			"api_key": "52394",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54461.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54461_lock.png"
+		},
+		"52395": {
+			"release_per_platform_id": "n64_D0DC8A8E",
+			"name": "Rules of Nature",
+			"description": "Come in 1st place in Crazy Jungle",
+			"api_key": "52395",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54147.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54147_lock.png"
+		},
+		"52396": {
+			"release_per_platform_id": "n64_D0DC8A8E",
+			"name": "Dino Duel",
+			"description": "Outrace the Dinosaur",
+			"api_key": "52396",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54124.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54124_lock.png"
+		},
+		"52397": {
+			"release_per_platform_id": "n64_D0DC8A8E",
+			"name": "Space Ace",
+			"description": "Come in 1st place in Starlight Highway",
+			"api_key": "52397",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54493.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54493_lock.png"
+		},
+		"52398": {
+			"release_per_platform_id": "n64_D0DC8A8E",
+			"name": "Ghouls Gone Wild",
+			"description": "Come in 1st place in Haunted House",
+			"api_key": "52398",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54150.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54150_lock.png"
+		},
+		"52399": {
+			"release_per_platform_id": "n64_D0DC8A8E",
+			"name": "Snow on Ice",
+			"description": "Come in 1st place in Ice Land",
+			"api_key": "52399",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54465.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54465_lock.png"
+		},
+		"52400": {
+			"release_per_platform_id": "n64_D0DC8A8E",
+			"name": "Mecha Marathon",
+			"description": "Defeat the Damien Robot",
+			"api_key": "52400",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54143.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54143_lock.png"
+		},
+		"52401": {
+			"release_per_platform_id": "n64_D0DC8A8E",
+			"name": "The True Snowboard Kids Starts Here",
+			"description": "Come in 1st place in Sunny Mountain on Expert",
+			"api_key": "52401",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54127.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54127_lock.png"
+		},
+		"52402": {
+			"release_per_platform_id": "n64_D0DC8A8E",
+			"name": "Shell Shocked",
+			"description": "Come in 1st place in Turtle Island on Expert",
+			"api_key": "52402",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54298.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54298_lock.png"
+		},
+		"52403": {
+			"release_per_platform_id": "n64_D0DC8A8E",
+			"name": "One-Horse Open Slay",
+			"description": "Come in 1st place in Jingle Town on Expert",
+			"api_key": "52403",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54146.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54146_lock.png"
+		},
+		"52404": {
+			"release_per_platform_id": "n64_D0DC8A8E",
+			"name": "Snowman Slaughter",
+			"description": "Defeat the Snowman Robot on Expert",
+			"api_key": "52404",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54126.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54126_lock.png"
+		},
+		"52405": {
+			"release_per_platform_id": "n64_D0DC8A8E",
+			"name": "Trophies for Tots",
+			"description": "Come in 1st place in Wendy's House on Expert",
+			"api_key": "52405",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54175.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54175_lock.png"
+		},
+		"52406": {
+			"release_per_platform_id": "n64_D0DC8A8E",
+			"name": "Royal Rampage",
+			"description": "Come in 1st place in Linda's Castle on Expert",
+			"api_key": "52406",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54176.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54176_lock.png"
+		},
+		"52407": {
+			"release_per_platform_id": "n64_D0DC8A8E",
+			"name": "Survival of the Fastest",
+			"description": "Come in 1st place in Crazy Jungle on Expert",
+			"api_key": "52407",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54153.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54153_lock.png"
+		},
+		"52408": {
+			"release_per_platform_id": "n64_D0DC8A8E",
+			"name": "Dino Destruction",
+			"description": "Outrace the Dinosaur on Expert",
+			"api_key": "52408",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54125.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54125_lock.png"
+		},
+		"52409": {
+			"release_per_platform_id": "n64_D0DC8A8E",
+			"name": "Stellar",
+			"description": "Come in 1st place in Starlight Highway on Expert",
+			"api_key": "52409",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54494.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54494_lock.png"
+		},
+		"52410": {
+			"release_per_platform_id": "n64_D0DC8A8E",
+			"name": "Ghouls Schooled",
+			"description": "Come in 1st place in Haunted House on Expert",
+			"api_key": "52410",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54300.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54300_lock.png"
+		},
+		"52411": {
+			"release_per_platform_id": "n64_D0DC8A8E",
+			"name": "In the Frozone",
+			"description": "Come in 1st place in Ice Land on Expert",
+			"api_key": "52411",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54464.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54464_lock.png"
+		},
+		"52412": {
+			"release_per_platform_id": "n64_D0DC8A8E",
+			"name": "Mecha Massacre",
+			"description": "Defeat the Damien Robot on Expert",
+			"api_key": "52412",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54144.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54144_lock.png"
+		},
+		"52783": {
+			"release_per_platform_id": "n64_D0DC8A8E",
+			"name": "Proud Penguin",
+			"description": "Clear Trick Game",
+			"api_key": "52783",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54334.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54334_lock.png"
+		},
+		"52678": {
+			"release_per_platform_id": "n64_D0DC8A8E",
+			"name": "First Class Flier",
+			"description": "Clear Trick Game with no less than 900 points",
+			"api_key": "52678",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54142.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54142_lock.png"
+		},
+		"52830": {
+			"release_per_platform_id": "n64_D0DC8A8E",
+			"name": "Cool as Ice",
+			"description": "Clear Trick Game as Tommy using the Ice board",
+			"api_key": "52830",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54402.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54402_lock.png"
+		},
+		"52817": {
+			"release_per_platform_id": "n64_D0DC8A8E",
+			"name": "Perfect Attendance",
+			"description": "Clear Speed Cross",
+			"api_key": "52817",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54405.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54405_lock.png"
+		},
+		"52831": {
+			"release_per_platform_id": "n64_D0DC8A8E",
+			"name": "Unfashionably Early",
+			"description": "Clear Speed Cross without picking up any items",
+			"api_key": "52831",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54404.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54404_lock.png"
+		},
+		"52782": {
+			"release_per_platform_id": "n64_D0DC8A8E",
+			"name": "Star Student",
+			"description": "Clear Speed Cross as Wendy using the Ninja board",
+			"api_key": "52782",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54330.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54330_lock.png"
+		},
+		"52815": {
+			"release_per_platform_id": "n64_D0DC8A8E",
+			"name": "Diamond Dog",
+			"description": "Perfectly clear Shoot Cross",
+			"api_key": "52815",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54389.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54389_lock.png"
+		},
+		"52814": {
+			"release_per_platform_id": "n64_D0DC8A8E",
+			"name": "Speedy Delivery",
+			"description": "Clear Shoot Cross with at least 55 seconds remaining",
+			"api_key": "52814",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54357.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54357_lock.png"
+		},
+		"52680": {
+			"release_per_platform_id": "n64_D0DC8A8E",
+			"name": "Paperboy Calls it Quits",
+			"description": "Clear Shoot Cross using the Dragon board",
+			"api_key": "52680",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54262.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54262_lock.png"
+		},
+		"52781": {
+			"release_per_platform_id": "n64_D0DC8A8E",
+			"name": "Snowman Speedrun",
+			"description": "Defeat the Snowman Robot before the halfway point",
+			"api_key": "52781",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54331.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54331_lock.png"
+		},
+		"52820": {
+			"release_per_platform_id": "n64_D0DC8A8E",
+			"name": "Dino Deference",
+			"description": "Outrace the Dinosaur without picking up any items",
+			"api_key": "52820",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54393.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54393_lock.png"
+		},
+		"52818": {
+			"release_per_platform_id": "n64_D0DC8A8E",
+			"name": "Mecha Mastery",
+			"description": "Defeat the Damien Robot without falling or getting hit",
+			"api_key": "52818",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54391.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54391_lock.png"
+		},
+		"52834": {
+			"release_per_platform_id": "n64_D0DC8A8E",
+			"name": "Falling with Style",
+			"description": "Earn 1500 points or more in one jump",
+			"api_key": "52834",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54407.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54407_lock.png"
+		},
+		"52832": {
+			"release_per_platform_id": "n64_D0DC8A8E",
+			"name": "Pure Skill",
+			"description": "Win a race without buying any items",
+			"api_key": "52832",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54259.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54259_lock.png"
+		},
+		"52816": {
+			"release_per_platform_id": "n64_D0DC8A8E",
+			"name": "Longboarding",
+			"description": "Win a 9 lap race",
+			"api_key": "52816",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54257.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54257_lock.png"
+		},
+		"52780": {
+			"release_per_platform_id": "n64_D0DC8A8E",
+			"name": "Doughboarding",
+			"description": "Win a coinless 3 lap race with 10000 coins or more",
+			"api_key": "52780",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54260.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54260_lock.png"
+		},
+		"52804": {
+			"release_per_platform_id": "n64_D0DC8A8E",
+			"name": "Spooky Surprise",
+			"description": "Buy a new item from the most hidden shop in Haunted House",
+			"api_key": "52804",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54347.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54347_lock.png"
+		},
+		"52819": {
+			"release_per_platform_id": "n64_D0DC8A8E",
+			"name": "Blizzardous Business",
+			"description": "Buy a new item from the Ice Land shop hidden in the haze",
+			"api_key": "52819",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54392.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54392_lock.png"
+		},
+		"52821": {
+			"release_per_platform_id": "n64_D0DC8A8E",
+			"name": "Rocket Power",
+			"description": "Give yourself a speedy start",
+			"api_key": "52821",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54258.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54258_lock.png"
+		},
+		"52679": {
+			"release_per_platform_id": "n64_D0DC8A8E",
+			"name": "Ghostclusters",
+			"description": "Assemble an ectoplasmic entourage",
+			"api_key": "52679",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54261.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54261_lock.png"
+		}
+	}
+}

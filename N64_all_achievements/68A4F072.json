@@ -1,0 +1,444 @@
+{
+	"Achievements": {
+		"48532": {
+			"release_per_platform_id": "n64_68A4F072",
+			"name": "The Worm of Marina's MyDoom",
+			"description": "Defeat the only boss of the Planet Clancer area.",
+			"api_key": "48532",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48912.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48912_lock.png"
+		},
+		"48533": {
+			"release_per_platform_id": "n64_68A4F072",
+			"name": "Marina Vs The Volcano",
+			"description": "Complete the last stage of Planet Clancer.",
+			"api_key": "48533",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48916.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48916_lock.png"
+		},
+		"48534": {
+			"release_per_platform_id": "n64_68A4F072",
+			"name": "Burned Out Circuit-Bee",
+			"description": "Defeat the giant bee boss of Migen's Shrine.",
+			"api_key": "48534",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48917.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48917_lock.png"
+		},
+		"48535": {
+			"release_per_platform_id": "n64_68A4F072",
+			"name": "Keep Hitting Yourself! Keep Hitting Yourself!",
+			"description": "Defeat Migen Senior and Migen Junior!",
+			"api_key": "48535",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48918.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48918_lock.png"
+		},
+		"48536": {
+			"release_per_platform_id": "n64_68A4F072",
+			"name": "Blue Streak Speeds By",
+			"description": "Defeat Chilly Dog!",
+			"api_key": "48536",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48919.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48919_lock.png"
+		},
+		"48537": {
+			"release_per_platform_id": "n64_68A4F072",
+			"name": "s'No Time To Be Playing In The Snow",
+			"description": "Defeat Beastector member Lunar for the first time!",
+			"api_key": "48537",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48920.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48920_lock.png"
+		},
+		"48538": {
+			"release_per_platform_id": "n64_68A4F072",
+			"name": "Cat-Riding Missile-Surfing Wolf-Buster",
+			"description": "Save Professor Theo by defeating Cerberus Alpha!",
+			"api_key": "48538",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48921.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48921_lock.png"
+		},
+		"48539": {
+			"release_per_platform_id": "n64_68A4F072",
+			"name": "A Real Tongue Lashing",
+			"description": "Defeat the massive frog boss of Aster's Lair.",
+			"api_key": "48539",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48922.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48922_lock.png"
+		},
+		"48540": {
+			"release_per_platform_id": "n64_68A4F072",
+			"name": "Only Those With The Courage to Fight, Join Me",
+			"description": "Defeat Calina to save Marina!",
+			"api_key": "48540",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48914.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48914_lock.png"
+		},
+		"48541": {
+			"release_per_platform_id": "n64_68A4F072",
+			"name": "Plowing For Resources",
+			"description": "Defeat Beastector member Tarus for the first time!",
+			"api_key": "48541",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48923.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48923_lock.png"
+		},
+		"48542": {
+			"release_per_platform_id": "n64_68A4F072",
+			"name": "Digging Up Trouble",
+			"description": "Defeat the giant mole boss of Aster's Lair.",
+			"api_key": "48542",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48924.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48924_lock.png"
+		},
+		"48543": {
+			"release_per_platform_id": "n64_68A4F072",
+			"name": "Big Foot, No Problem",
+			"description": "Save Professor Theo by defeating Sasquatch Beta!",
+			"api_key": "48543",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48925.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48925_lock.png"
+		},
+		"48544": {
+			"release_per_platform_id": "n64_68A4F072",
+			"name": "Ostrichar's Counterattack",
+			"description": "Defeat General Clancer while riding an ostrich!",
+			"api_key": "48544",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48926.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48926_lock.png"
+		},
+		"48545": {
+			"release_per_platform_id": "n64_68A4F072",
+			"name": "Clancer Fried Merco",
+			"description": "Defeat Beastector member Merco for the first time!",
+			"api_key": "48545",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48927.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48927_lock.png"
+		},
+		"48546": {
+			"release_per_platform_id": "n64_68A4F072",
+			"name": "Drill Pecked To Death",
+			"description": "Defeat Merco and his Phoenix Gamma.",
+			"api_key": "48546",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48928.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48928_lock.png"
+		},
+		"48547": {
+			"release_per_platform_id": "n64_68A4F072",
+			"name": "Sibling Rivalry",
+			"description": "Defeat Professor Leo and his monolith device!",
+			"api_key": "48547",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48929.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48929_lock.png"
+		},
+		"48548": {
+			"release_per_platform_id": "n64_68A4F072",
+			"name": "Beast Change! Rise, THE Beastector!",
+			"description": "Defeat THE Beastector to save Professor Theo!",
+			"api_key": "48548",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48930.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48930_lock.png"
+		},
+		"48549": {
+			"release_per_platform_id": "n64_68A4F072",
+			"name": "ILOVEYOU Blaster Daprosy Worm",
+			"description": "Defeat the sand worm without taking damage.",
+			"api_key": "48549",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48931.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48931_lock.png"
+		},
+		"48550": {
+			"release_per_platform_id": "n64_68A4F072",
+			"name": "Honeyed Flames of Passion",
+			"description": "Defeat Flambee without taking damage!",
+			"api_key": "48550",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48932.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48932_lock.png"
+		},
+		"48551": {
+			"release_per_platform_id": "n64_68A4F072",
+			"name": "Ring The Bell, School's Back In Suckah",
+			"description": "Defeat Migen and Son without taking damage!",
+			"api_key": "48551",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48933.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48933_lock.png"
+		},
+		"48552": {
+			"release_per_platform_id": "n64_68A4F072",
+			"name": "Get A Long Little Doggy",
+			"description": "Defeat Chilly Dog without taking damage!",
+			"api_key": "48552",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48934.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48934_lock.png"
+		},
+		"48553": {
+			"release_per_platform_id": "n64_68A4F072",
+			"name": "Through Fire, Justice Is Served!",
+			"description": "Defeat Lunar without taking damage!",
+			"api_key": "48553",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48935.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48935_lock.png"
+		},
+		"48554": {
+			"release_per_platform_id": "n64_68A4F072",
+			"name": "Braised By Robotic Wolves",
+			"description": "Defeat Cerberus Alpha without taking damage! (No Exploit)",
+			"api_key": "48554",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48936.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48936_lock.png"
+		},
+		"48555": {
+			"release_per_platform_id": "n64_68A4F072",
+			"name": "What Happens When a Toad Is Struck By Lightning",
+			"description": "Defeat the frog of Aster's Lair without taking damage!",
+			"api_key": "48555",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48937.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48937_lock.png"
+		},
+		"48556": {
+			"release_per_platform_id": "n64_68A4F072",
+			"name": "The BLOCK Knight Rises",
+			"description": "Defeat the Marina Clone Calina without taking damage!",
+			"api_key": "48556",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48915.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48915_lock.png"
+		},
+		"48557": {
+			"release_per_platform_id": "n64_68A4F072",
+			"name": "It's Tarus Time!",
+			"description": "Defeat Tarus without taking damage!",
+			"api_key": "48557",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48938.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48938_lock.png"
+		},
+		"48558": {
+			"release_per_platform_id": "n64_68A4F072",
+			"name": "Making Guacamole Out of a Mole",
+			"description": "Defeat the giant mole boss without taking damage!",
+			"api_key": "48558",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48939.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48939_lock.png"
+		},
+		"48559": {
+			"release_per_platform_id": "n64_68A4F072",
+			"name": "Robotic Cryptid Extinction",
+			"description": "Defeat Sasquatch Beta without taking damage.",
+			"api_key": "48559",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48940.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48940_lock.png"
+		},
+		"48560": {
+			"release_per_platform_id": "n64_68A4F072",
+			"name": "Marina's Own Pet Flappy Bird",
+			"description": "Defeat General Clancer WHILE flying AND not taking damage!",
+			"api_key": "48560",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48942.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48942_lock.png"
+		},
+		"48561": {
+			"release_per_platform_id": "n64_68A4F072",
+			"name": "Paging Dr. Smooth Love",
+			"description": "Defeat Merco without taking damage!",
+			"api_key": "48561",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48943.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48943_lock.png"
+		},
+		"48562": {
+			"release_per_platform_id": "n64_68A4F072",
+			"name": "Rise From The Ashes",
+			"description": "Defeat Phoenix Gamma without taking damage!",
+			"api_key": "48562",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48944.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48944_lock.png"
+		},
+		"48563": {
+			"release_per_platform_id": "n64_68A4F072",
+			"name": "Marina's Emotion Engine",
+			"description": "Defeat Professor Leo's monolith without taking damage!",
+			"api_key": "48563",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48945.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48945_lock.png"
+		},
+		"48564": {
+			"release_per_platform_id": "n64_68A4F072",
+			"name": "Destroy All Megazords",
+			"description": "Defeat THE Beastector without taking damage!",
+			"api_key": "48564",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48946.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48946_lock.png"
+		},
+		"48565": {
+			"release_per_platform_id": "n64_68A4F072",
+			"name": "The Heart of a Robotic Maiden",
+			"description": "Have enough Gold Gems to see Marina's true form!",
+			"api_key": "48565",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48952.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48952_lock.png"
+		},
+		"48566": {
+			"release_per_platform_id": "n64_68A4F072",
+			"name": "Over Here, Officer",
+			"description": "Get the true last Gold Gem from the ending!",
+			"api_key": "48566",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48953.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48953_lock.png"
+		},
+		"48567": {
+			"release_per_platform_id": "n64_68A4F072",
+			"name": "To the MOON, Marina!",
+			"description": "When Migen Jr spits fire, boost jump to the top of the screen! (No Lava)",
+			"api_key": "48567",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49354.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49354_lock.png"
+		},
+		"48568": {
+			"release_per_platform_id": "n64_68A4F072",
+			"name": "Allergic to Children",
+			"description": "Without full health, complete 1-5 without collecting gems!",
+			"api_key": "48568",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49355.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49355_lock.png"
+		},
+		"48569": {
+			"release_per_platform_id": "n64_68A4F072",
+			"name": "Allergic to Liquid Hot Magma",
+			"description": "Without full health, complete 2-9 without collecting gems!",
+			"api_key": "48569",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49356.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49356_lock.png"
+		},
+		"48570": {
+			"release_per_platform_id": "n64_68A4F072",
+			"name": "Allergic to Thermo-Nuclear Missiles",
+			"description": "Without full health, complete 3-3 without collecting gems!",
+			"api_key": "48570",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49357.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49357_lock.png"
+		},
+		"48571": {
+			"release_per_platform_id": "n64_68A4F072",
+			"name": "Allergic to the After Life",
+			"description": "Without full health, complete 4-7 without collecting gems!",
+			"api_key": "48571",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49358.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49358_lock.png"
+		},
+		"48572": {
+			"release_per_platform_id": "n64_68A4F072",
+			"name": "Departure of the Legendary Block Man",
+			"description": "Collect All Gold Gems on World 1.",
+			"api_key": "48572",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48947.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48947_lock.png"
+		},
+		"48573": {
+			"release_per_platform_id": "n64_68A4F072",
+			"name": "Sudden Return of the Legendary Block Man",
+			"description": "Collect All Gold Gems on World 2.",
+			"api_key": "48573",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48948.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48948_lock.png"
+		},
+		"48574": {
+			"release_per_platform_id": "n64_68A4F072",
+			"name": "Go, Go! Trouble Makers!",
+			"description": "Collect All Gold Gems on World 3.",
+			"api_key": "48574",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48949.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48949_lock.png"
+		},
+		"48575": {
+			"release_per_platform_id": "n64_68A4F072",
+			"name": "The Return of the TRUE Beastector!",
+			"description": "Collect All Gold Gems on World 4.",
+			"api_key": "48575",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48950.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48950_lock.png"
+		},
+		"48576": {
+			"release_per_platform_id": "n64_68A4F072",
+			"name": "Marina is Dog-Tired",
+			"description": "Collect All Gold Gems on World 5, except from Ending.",
+			"api_key": "48576",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48951.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48951_lock.png"
+		},
+		"48577": {
+			"release_per_platform_id": "n64_68A4F072",
+			"name": "Ultra InterGalactic Cybot G",
+			"description": "Get All A Ranks for every stage in World 1!",
+			"api_key": "48577",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49193.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49193_lock.png"
+		},
+		"48578": {
+			"release_per_platform_id": "n64_68A4F072",
+			"name": "Her Iron Fist Will Destroy You!",
+			"description": "Get All A Ranks for every stage in World 2!",
+			"api_key": "48578",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49194.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49194_lock.png"
+		},
+		"48579": {
+			"release_per_platform_id": "n64_68A4F072",
+			"name": "Her Knife Kick Will Punish You!",
+			"description": "Get All A Ranks for every stage in World 3!",
+			"api_key": "48579",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49195.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49195_lock.png"
+		},
+		"48580": {
+			"release_per_platform_id": "n64_68A4F072",
+			"name": "Her Throw Will Conquer You!",
+			"description": "Get All A Ranks for every stage in World 4!",
+			"api_key": "48580",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49196.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49196_lock.png"
+		},
+		"48581": {
+			"release_per_platform_id": "n64_68A4F072",
+			"name": "There's No Time For Snacks!!",
+			"description": "Get All A Ranks for every stage in World 5!",
+			"api_key": "48581",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49197.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49197_lock.png"
+		},
+		"48711": {
+			"release_per_platform_id": "n64_68A4F072",
+			"name": "Marina Is About To Make You Her DAIKATANA",
+			"description": "In World 1, obtain at least ONE S-Rank!",
+			"api_key": "48711",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49492.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49492_lock.png"
+		},
+		"48712": {
+			"release_per_platform_id": "n64_68A4F072",
+			"name": "WHO ARE YOU RUNNING FROM, MARINA?",
+			"description": "In World 2, obtain at least ONE S-Rank!",
+			"api_key": "48712",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49493.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49493_lock.png"
+		},
+		"48713": {
+			"release_per_platform_id": "n64_68A4F072",
+			"name": "Get iN Or Get Out",
+			"description": "In World 3, obtain at least ONE S-Rank!",
+			"api_key": "48713",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49494.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49494_lock.png"
+		},
+		"48714": {
+			"release_per_platform_id": "n64_68A4F072",
+			"name": "Perfect Darkness",
+			"description": "In World 4, obtain at least ONE S-Rank!",
+			"api_key": "48714",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49495.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49495_lock.png"
+		},
+		"48715": {
+			"release_per_platform_id": "n64_68A4F072",
+			"name": "Same N64 Time, Same N64 Channel!",
+			"description": "In World 5, obtain at least ONE S-Rank!",
+			"api_key": "48715",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49496.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49496_lock.png"
+		}
+	}
+}

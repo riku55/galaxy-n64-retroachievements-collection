@@ -1,0 +1,364 @@
+{
+	"Achievements": {
+		"56668": {
+			"release_per_platform_id": "n64_F0A191BF",
+			"name": "The Battle of Hoth",
+			"description": "\"Win\" the battle and attempt to protect the Sheild Generator.",
+			"api_key": "56668",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57001.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57001_lock.png"
+		},
+		"56673": {
+			"release_per_platform_id": "n64_F0A191BF",
+			"name": "Challenging Flight",
+			"description": "Get all the Challenge Points in the Battle of Hoth.",
+			"api_key": "56673",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59158.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59158_lock.png"
+		},
+		"56670": {
+			"release_per_platform_id": "n64_F0A191BF",
+			"name": "No Need For Tow Cables",
+			"description": "Destroy the AT-ATs without the use of Tow Cables (On Hard or Jedi).",
+			"api_key": "56670",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59174.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59174_lock.png"
+		},
+		"56671": {
+			"release_per_platform_id": "n64_F0A191BF",
+			"name": "Speedy in a Speeder",
+			"description": "Complete the first stage of the Battle of Hoth in 25 seconds or less.",
+			"api_key": "56671",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59175.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59175_lock.png"
+		},
+		"56672": {
+			"release_per_platform_id": "n64_F0A191BF",
+			"name": "Escape From Echo Base",
+			"description": "Successfully escape from Echo Base.",
+			"api_key": "56672",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57003.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/57003_lock.png"
+		},
+		"56669": {
+			"release_per_platform_id": "n64_F0A191BF",
+			"name": "Challenging Escape",
+			"description": "Get all the Challenge Points in from Echo Base.",
+			"api_key": "56669",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59159.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59159_lock.png"
+		},
+		"56674": {
+			"release_per_platform_id": "n64_F0A191BF",
+			"name": "Woompa's Best Friend",
+			"description": "Do not harm any Woompa in the first stage of Echo Base on Jedi difficulty.",
+			"api_key": "56674",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59204.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59204_lock.png"
+		},
+		"56675": {
+			"release_per_platform_id": "n64_F0A191BF",
+			"name": "Using My Laser Cutter",
+			"description": "Destroy the AT-ST in Echo Base with just the laser as your weapon.",
+			"api_key": "56675",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59208.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59208_lock.png"
+		},
+		"56676": {
+			"release_per_platform_id": "n64_F0A191BF",
+			"name": "Nothing But Scrap",
+			"description": "Destroy the AT-ST in Echo Base without taking any damage.",
+			"api_key": "56676",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59209.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59209_lock.png"
+		},
+		"56677": {
+			"release_per_platform_id": "n64_F0A191BF",
+			"name": "The Asteroid Field",
+			"description": "Get through the Asteroid Belt.",
+			"api_key": "56677",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59150.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59150_lock.png"
+		},
+		"56678": {
+			"release_per_platform_id": "n64_F0A191BF",
+			"name": "Rocky Road",
+			"description": "Get all the Challenge Points in the Asteroid Belt.",
+			"api_key": "56678",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59161.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59161_lock.png"
+		},
+		"56679": {
+			"release_per_platform_id": "n64_F0A191BF",
+			"name": "These Rocks Are Too Close For Missiles",
+			"description": "Do not use any missiles in the Asteroid Belt",
+			"api_key": "56679",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59203.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59203_lock.png"
+		},
+		"56680": {
+			"release_per_platform_id": "n64_F0A191BF",
+			"name": "Ord Mantell Junkyard",
+			"description": "Travel on the trains to find out information about Boba Fett's location.",
+			"api_key": "56680",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59151.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59151_lock.png"
+		},
+		"56681": {
+			"release_per_platform_id": "n64_F0A191BF",
+			"name": "Collecting Precious Junk",
+			"description": "Get all the Challenge Points in Ord Mantell Junkyard.",
+			"api_key": "56681",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59162.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59162_lock.png"
+		},
+		"56682": {
+			"release_per_platform_id": "n64_F0A191BF",
+			"name": "Assassinated The Assainator",
+			"description": "Destroy IG-88 with just your laser.",
+			"api_key": "56682",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59211.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59211_lock.png"
+		},
+		"56683": {
+			"release_per_platform_id": "n64_F0A191BF",
+			"name": "Gall Spaceport",
+			"description": "Travel through the canyon and defeat Boba Fett.",
+			"api_key": "56683",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59152.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59152_lock.png"
+		},
+		"56684": {
+			"release_per_platform_id": "n64_F0A191BF",
+			"name": "Exploring The Great Canyon",
+			"description": "Get all the Challenge Points in Gall Spaceport.",
+			"api_key": "56684",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59163.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59163_lock.png"
+		},
+		"56688": {
+			"release_per_platform_id": "n64_F0A191BF",
+			"name": "I Believe I Can Fly!",
+			"description": "Get the Jet Pack.",
+			"api_key": "56688",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59173.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59173_lock.png"
+		},
+		"56685": {
+			"release_per_platform_id": "n64_F0A191BF",
+			"name": "Scraped In The Canyon",
+			"description": "Destroy the AT-AT in Gall Spaceport without taking damage on Jedi difficulty.",
+			"api_key": "56685",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59231.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59231_lock.png"
+		},
+		"56686": {
+			"release_per_platform_id": "n64_F0A191BF",
+			"name": "Duelist",
+			"description": "Defeat Boba Fett with just the laser as your weapon.",
+			"api_key": "56686",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59232.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59232_lock.png"
+		},
+		"56687": {
+			"release_per_platform_id": "n64_F0A191BF",
+			"name": "Grounded",
+			"description": "Defeat Boba Fett without using your Jetpack",
+			"api_key": "56687",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59233.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59233_lock.png"
+		},
+		"56689": {
+			"release_per_platform_id": "n64_F0A191BF",
+			"name": "Mos Eisley and Beggar's Canyon",
+			"description": "Get to Kenobi's old place before the Swoop Jockeys and meet Luke.",
+			"api_key": "56689",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59153.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59153_lock.png"
+		},
+		"56690": {
+			"release_per_platform_id": "n64_F0A191BF",
+			"name": "Challenging Race",
+			"description": "Get all the Challenge Points in Mos Eisley and Beggar's Canyon.",
+			"api_key": "56690",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59164.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59164_lock.png"
+		},
+		"56691": {
+			"release_per_platform_id": "n64_F0A191BF",
+			"name": "Get Out Of My Way!",
+			"description": "Kill all the Swoop Jockeys before you get out of town.",
+			"api_key": "56691",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59197.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59197_lock.png"
+		},
+		"56692": {
+			"release_per_platform_id": "n64_F0A191BF",
+			"name": "Imperial Freighter Suprosa",
+			"description": "Board the Imperial Freighter and find the Super Computer.",
+			"api_key": "56692",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59154.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59154_lock.png"
+		},
+		"56693": {
+			"release_per_platform_id": "n64_F0A191BF",
+			"name": "A Freighter of Valuables",
+			"description": "Get all the Challenge Points on the Imperial Freighter.",
+			"api_key": "56693",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59165.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59165_lock.png"
+		},
+		"56694": {
+			"release_per_platform_id": "n64_F0A191BF",
+			"name": "Getting Loaded",
+			"description": "Destroy the Loader Droid in the Imperial Freighter with just the laser.",
+			"api_key": "56694",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59240.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59240_lock.png"
+		},
+		"56695": {
+			"release_per_platform_id": "n64_F0A191BF",
+			"name": "Sewers of Imperial City",
+			"description": "Travel through the Imperial City Sewers and get to Xizor's Palace.",
+			"api_key": "56695",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59155.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59155_lock.png"
+		},
+		"56696": {
+			"release_per_platform_id": "n64_F0A191BF",
+			"name": "Going Through Any Lenghts For Treasure",
+			"description": "Get all the Challenge Points in the Imperial City Sewers.",
+			"api_key": "56696",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59166.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59166_lock.png"
+		},
+		"56697": {
+			"release_per_platform_id": "n64_F0A191BF",
+			"name": "Dianoga's Best Friend",
+			"description": "Do not harm a single Dianoga when roaming the sewers on Jedi difficulty.",
+			"api_key": "56697",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59205.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59205_lock.png"
+		},
+		"56698": {
+			"release_per_platform_id": "n64_F0A191BF",
+			"name": "Extreme Toilet Plunger",
+			"description": "Kill the Giant Dianoga in the Sewers without coming up for air.",
+			"api_key": "56698",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59206.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59206_lock.png"
+		},
+		"56702": {
+			"release_per_platform_id": "n64_F0A191BF",
+			"name": "Shining My Laser In Your Eye",
+			"description": "Kill the Giant Dianoga with just the laser as your weapon.",
+			"api_key": "56702",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59207.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59207_lock.png"
+		},
+		"56699": {
+			"release_per_platform_id": "n64_F0A191BF",
+			"name": "Xizor's Palace",
+			"description": "Travel through Xizor's Palace and destroy it cutting off the Skyhook.",
+			"api_key": "56699",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59156.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59156_lock.png"
+		},
+		"56700": {
+			"release_per_platform_id": "n64_F0A191BF",
+			"name": "Palace Treasures",
+			"description": "Get all the Challenge Points in Xizor's Palace.",
+			"api_key": "56700",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59167.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59167_lock.png"
+		},
+		"56701": {
+			"release_per_platform_id": "n64_F0A191BF",
+			"name": "Coming in Locked and Loaded",
+			"description": "Have every weapon in the game with ammo.",
+			"api_key": "56701",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59172.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59172_lock.png"
+		},
+		"56703": {
+			"release_per_platform_id": "n64_F0A191BF",
+			"name": "My name is Gladiator",
+			"description": "Destroy the Gladiator Droid with just the laser.",
+			"api_key": "56703",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59241.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59241_lock.png"
+		},
+		"56704": {
+			"release_per_platform_id": "n64_F0A191BF",
+			"name": "Skyhook Battle",
+			"description": "Get to the Skyhook and destroy it.",
+			"api_key": "56704",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59157.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59157_lock.png"
+		},
+		"56705": {
+			"release_per_platform_id": "n64_F0A191BF",
+			"name": "Saving For The Skyhook",
+			"description": "Approach to the Skyhook without the use of missles.",
+			"api_key": "56705",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59196.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59196_lock.png"
+		},
+		"56706": {
+			"release_per_platform_id": "n64_F0A191BF",
+			"name": "Laser Warrior",
+			"description": "Destroy 50 Fighters on the approach to the Skyhook without the use of missles.",
+			"api_key": "56706",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59186.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59186_lock.png"
+		},
+		"56707": {
+			"release_per_platform_id": "n64_F0A191BF",
+			"name": "Fighter Blaster",
+			"description": "Destroy 60 Fighters on the approach to the Skyhook.",
+			"api_key": "56707",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59242.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59242_lock.png"
+		},
+		"56708": {
+			"release_per_platform_id": "n64_F0A191BF",
+			"name": "Fighter Dusting",
+			"description": "Destroy 45 Fighters on the approach to the Skyhook.",
+			"api_key": "56708",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59184.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59184_lock.png"
+		},
+		"56712": {
+			"release_per_platform_id": "n64_F0A191BF",
+			"name": "Great, Kid. Don't Get Cocky",
+			"description": "Get 20 or more lives.",
+			"api_key": "56712",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59171.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59171_lock.png"
+		},
+		"56709": {
+			"release_per_platform_id": "n64_F0A191BF",
+			"name": "A Challenging Success",
+			"description": "Get all the Challenge Points.",
+			"api_key": "56709",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59168.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59168_lock.png"
+		},
+		"56710": {
+			"release_per_platform_id": "n64_F0A191BF",
+			"name": "A True Jedi",
+			"description": "Get all the Challenge Points on Jedi difficulty.",
+			"api_key": "56710",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59169.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59169_lock.png"
+		},
+		"56711": {
+			"release_per_platform_id": "n64_F0A191BF",
+			"name": "Jedi Master",
+			"description": "Beat the game on Jedi difficulty.",
+			"api_key": "56711",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59170.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/59170_lock.png"
+		}
+	}
+}

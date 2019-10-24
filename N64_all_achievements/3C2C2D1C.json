@@ -1,0 +1,324 @@
+{
+	"Achievements": {
+		"75682": {
+			"release_per_platform_id": "n64_3C2C2D1C",
+			"name": "Stage 1",
+			"description": "Win the Stage 1",
+			"api_key": "75682",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/80765.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/80765_lock.png"
+		},
+		"75683": {
+			"release_per_platform_id": "n64_3C2C2D1C",
+			"name": "Stage 2",
+			"description": "Win the Stage 2",
+			"api_key": "75683",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/80766.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/80766_lock.png"
+		},
+		"75684": {
+			"release_per_platform_id": "n64_3C2C2D1C",
+			"name": "Stage 3",
+			"description": "Win the Stage 3",
+			"api_key": "75684",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/80767.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/80767_lock.png"
+		},
+		"75685": {
+			"release_per_platform_id": "n64_3C2C2D1C",
+			"name": "Stage 4",
+			"description": "Win the Stage 4",
+			"api_key": "75685",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/80768.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/80768_lock.png"
+		},
+		"75686": {
+			"release_per_platform_id": "n64_3C2C2D1C",
+			"name": "Stage 5",
+			"description": "Win the Stage 5",
+			"api_key": "75686",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/80769.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/80769_lock.png"
+		},
+		"75687": {
+			"release_per_platform_id": "n64_3C2C2D1C",
+			"name": "Stage 6",
+			"description": "Win the Stage 6",
+			"api_key": "75687",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/80770.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/80770_lock.png"
+		},
+		"75688": {
+			"release_per_platform_id": "n64_3C2C2D1C",
+			"name": "Stage 7",
+			"description": "Win the Stage 7",
+			"api_key": "75688",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/80771.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/80771_lock.png"
+		},
+		"75689": {
+			"release_per_platform_id": "n64_3C2C2D1C",
+			"name": "Stage 8",
+			"description": "Win the Stage 8",
+			"api_key": "75689",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/80772.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/80772_lock.png"
+		},
+		"75690": {
+			"release_per_platform_id": "n64_3C2C2D1C",
+			"name": "RT Pink Mappy",
+			"description": "Get RT Pink Mappy by winning a race",
+			"api_key": "75690",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/80737.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/80737_lock.png"
+		},
+		"75691": {
+			"release_per_platform_id": "n64_3C2C2D1C",
+			"name": "RT Blue Mappy",
+			"description": "Get RT Blue Mappy by winning a race",
+			"api_key": "75691",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/80738.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/80738_lock.png"
+		},
+		"75692": {
+			"release_per_platform_id": "n64_3C2C2D1C",
+			"name": "Galaga RT Prid's",
+			"description": "Get Galaga RT Prid's by winning a race",
+			"api_key": "75692",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/80739.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/80739_lock.png"
+		},
+		"75693": {
+			"release_per_platform_id": "n64_3C2C2D1C",
+			"name": "Galaga RT Carrot",
+			"description": "Get Galaga RT Carrot by winning a race",
+			"api_key": "75693",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/80740.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/80740_lock.png"
+		},
+		"75694": {
+			"release_per_platform_id": "n64_3C2C2D1C",
+			"name": "RT Bosconian",
+			"description": "Get RT Bosconian by winning a race",
+			"api_key": "75694",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/80741.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/80741_lock.png"
+		},
+		"75695": {
+			"release_per_platform_id": "n64_3C2C2D1C",
+			"name": "RT NebulasRay",
+			"description": "Get RT NebulasRay by winning a race",
+			"api_key": "75695",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/80742.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/80742_lock.png"
+		},
+		"75696": {
+			"release_per_platform_id": "n64_3C2C2D1C",
+			"name": "RT Xevious Red",
+			"description": "Get RT Xevious Red by winning a race",
+			"api_key": "75696",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/80743.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/80743_lock.png"
+		},
+		"75697": {
+			"release_per_platform_id": "n64_3C2C2D1C",
+			"name": "RT Xevious Green",
+			"description": "Get RT Xevious Green by winning a race",
+			"api_key": "75697",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/80744.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/80744_lock.png"
+		},
+		"75698": {
+			"release_per_platform_id": "n64_3C2C2D1C",
+			"name": "Dig Racing Team",
+			"description": "Get Dig Racing Team by winning a race",
+			"api_key": "75698",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/80745.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/80745_lock.png"
+		},
+		"75699": {
+			"release_per_platform_id": "n64_3C2C2D1C",
+			"name": "Micro Mouse Mappy",
+			"description": "Get Micro Mouse Mappy by winning a race",
+			"api_key": "75699",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/80746.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/80746_lock.png"
+		},
+		"75700": {
+			"release_per_platform_id": "n64_3C2C2D1C",
+			"name": "13th Racing Kid",
+			"description": "Get 13th Racing Kid by winning a race",
+			"api_key": "75700",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/80747.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/80747_lock.png"
+		},
+		"75701": {
+			"release_per_platform_id": "n64_3C2C2D1C",
+			"name": "White Angel",
+			"description": "Get White Angel by winning a race",
+			"api_key": "75701",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/80748.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/80748_lock.png"
+		},
+		"75702": {
+			"release_per_platform_id": "n64_3C2C2D1C",
+			"name": "DigiPen Racing",
+			"description": "Get DigiPen Racing by winning a race",
+			"api_key": "75702",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/80749.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/80749_lock.png"
+		},
+		"75703": {
+			"release_per_platform_id": "n64_3C2C2D1C",
+			"name": "Assoluto Infinito",
+			"description": "Get Assoluto Infinito by winning a race",
+			"api_key": "75703",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/80750.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/80750_lock.png"
+		},
+		"75704": {
+			"release_per_platform_id": "n64_3C2C2D1C",
+			"name": "Age Solo Supernova",
+			"description": "Get Age Solo Supernova by winning a race",
+			"api_key": "75704",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/80751.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/80751_lock.png"
+		},
+		"75705": {
+			"release_per_platform_id": "n64_3C2C2D1C",
+			"name": "Atomic Purple",
+			"description": "Get Atomic Purple by winning a race",
+			"api_key": "75705",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/80752.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/80752_lock.png"
+		},
+		"75706": {
+			"release_per_platform_id": "n64_3C2C2D1C",
+			"name": "Extreme Green",
+			"description": "Get Extreme Green by winning a race",
+			"api_key": "75706",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/80753.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/80753_lock.png"
+		},
+		"75707": {
+			"release_per_platform_id": "n64_3C2C2D1C",
+			"name": "Terrazi Terrific",
+			"description": "Get Terrazi Terrific by winning a race",
+			"api_key": "75707",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/80754.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/80754_lock.png"
+		},
+		"75708": {
+			"release_per_platform_id": "n64_3C2C2D1C",
+			"name": "Lizard Nightmare",
+			"description": "Get Lizard Nightmare by winning a race",
+			"api_key": "75708",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/80755.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/80755_lock.png"
+		},
+		"75709": {
+			"release_per_platform_id": "n64_3C2C2D1C",
+			"name": "Screamin' Eagle",
+			"description": "Get Screamin' Eagle by winning a race",
+			"api_key": "75709",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/80756.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/80756_lock.png"
+		},
+		"75710": {
+			"release_per_platform_id": "n64_3C2C2D1C",
+			"name": "Ultra 64",
+			"description": "Get Ultra 64 after beating the game in the Z-Class category",
+			"api_key": "75710",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/80757.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/80757_lock.png"
+		},
+		"75712": {
+			"release_per_platform_id": "n64_3C2C2D1C",
+			"name": "Galaga '88",
+			"description": "Get Galaga '88 after winning the Galaga '88 minigame",
+			"api_key": "75712",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/80759.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/80759_lock.png"
+		},
+		"75713": {
+			"release_per_platform_id": "n64_3C2C2D1C",
+			"name": "Blinky",
+			"description": "Get Blinky after driving 99 laps in Time Attack",
+			"api_key": "75713",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/80760.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/80760_lock.png"
+		},
+		"75714": {
+			"release_per_platform_id": "n64_3C2C2D1C",
+			"name": "Red Shirt Rage",
+			"description": "Get Red Shirt Rage by hitting the helicopter after flying off the track in any Ridge Racer course",
+			"api_key": "75714",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/80761.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/80761_lock.png"
+		},
+		"75715": {
+			"release_per_platform_id": "n64_3C2C2D1C",
+			"name": "Crazy Canuck",
+			"description": "Get Crazy Canuck after defeating Screamin' Eagle in the mirrored version of Ridge Racer Extreme Extra in Car Attack",
+			"api_key": "75715",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/80762.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/80762_lock.png"
+		},
+		"75716": {
+			"release_per_platform_id": "n64_3C2C2D1C",
+			"name": "Caddy Car",
+			"description": "Get Caddy Car after beating the reversed Ridge Racer Novice track",
+			"api_key": "75716",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/80763.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/80763_lock.png"
+		},
+		"75717": {
+			"release_per_platform_id": "n64_3C2C2D1C",
+			"name": "Pooka",
+			"description": "Get Pooka after setting a new course record on any Ridge Racer Extreme track in Time Attack",
+			"api_key": "75717",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/80764.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/80764_lock.png"
+		},
+		"75718": {
+			"release_per_platform_id": "n64_3C2C2D1C",
+			"name": "Pac-Racer Challenge IV",
+			"description": "Reach the final line using Pac Racing (X-Class) on Ridge Racer Extreme Extra",
+			"api_key": "75718",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/80773.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/80773_lock.png"
+		},
+		"75719": {
+			"release_per_platform_id": "n64_3C2C2D1C",
+			"name": "Pac-Racer Challenge III",
+			"description": "Reach the final line using Pac Racing (R-Class) on Renegade Expert Extra",
+			"api_key": "75719",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/80774.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/80774_lock.png"
+		},
+		"75720": {
+			"release_per_platform_id": "n64_3C2C2D1C",
+			"name": "Pac-Racer Challenge II",
+			"description": "Reach the final line using Pac Racing (R-Class) on Revolution Expert Extra",
+			"api_key": "75720",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/80775.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/80775_lock.png"
+		},
+		"75721": {
+			"release_per_platform_id": "n64_3C2C2D1C",
+			"name": "Pac-Racer Challenge I",
+			"description": "Reach the final line using Pac Racing (S-Class) on Ridge Racer Expert Extra",
+			"api_key": "75721",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/80776.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/80776_lock.png"
+		},
+		"75756": {
+			"release_per_platform_id": "n64_3C2C2D1C",
+			"name": "Wakka-ga",
+			"description": "Find the musical easter egg while driving and complete a course",
+			"api_key": "75756",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/80798.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/80798_lock.png"
+		}
+	}
+}

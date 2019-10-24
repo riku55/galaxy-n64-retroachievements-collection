@@ -1,0 +1,364 @@
+{
+	"Achievements": {
+		"54124": {
+			"release_per_platform_id": "n64_3D95DF80",
+			"name": "Jacked Up",
+			"description": "Come in 1st place in the Jack Cup",
+			"api_key": "54124",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55839.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55839_lock.png"
+		},
+		"54125": {
+			"release_per_platform_id": "n64_3D95DF80",
+			"name": "Don't Stop Me Now",
+			"description": "Come in 1st place in the Queen Cup",
+			"api_key": "54125",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55810.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55810_lock.png"
+		},
+		"54126": {
+			"release_per_platform_id": "n64_3D95DF80",
+			"name": "A Performance fit for a King",
+			"description": "Come in 1st place in the King Cup",
+			"api_key": "54126",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55840.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55840_lock.png"
+		},
+		"54127": {
+			"release_per_platform_id": "n64_3D95DF80",
+			"name": "What a Bunch of Jokers",
+			"description": "Come in 1st place in the Joker Cup",
+			"api_key": "54127",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55841.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55841_lock.png"
+		},
+		"54128": {
+			"release_per_platform_id": "n64_3D95DF80",
+			"name": "Exceptional",
+			"description": "Come in 1st place in the X Cup",
+			"api_key": "54128",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55836.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55836_lock.png"
+		},
+		"54129": {
+			"release_per_platform_id": "n64_3D95DF80",
+			"name": "Jack of No Trades",
+			"description": "Come in 1st place in the Jack Cup on Expert difficulty",
+			"api_key": "54129",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55844.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55844_lock.png"
+		},
+		"54130": {
+			"release_per_platform_id": "n64_3D95DF80",
+			"name": "We Are the Champions",
+			"description": "Come in 1st place in the Queen Cup on Expert difficulty",
+			"api_key": "54130",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55811.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55811_lock.png"
+		},
+		"54131": {
+			"release_per_platform_id": "n64_3D95DF80",
+			"name": "Hail to the King",
+			"description": "Come in 1st place in the King Cup on Expert difficulty",
+			"api_key": "54131",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55842.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55842_lock.png"
+		},
+		"54132": {
+			"release_per_platform_id": "n64_3D95DF80",
+			"name": "No Joke",
+			"description": "Come in 1st place in the Joker Cup on Expert difficulty",
+			"api_key": "54132",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55843.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55843_lock.png"
+		},
+		"54133": {
+			"release_per_platform_id": "n64_3D95DF80",
+			"name": "Extraordinary",
+			"description": "Come in 1st place in the X Cup on Expert difficulty",
+			"api_key": "54133",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55837.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55837_lock.png"
+		},
+		"53622": {
+			"release_per_platform_id": "n64_3D95DF80",
+			"name": "Endless Challenge",
+			"description": "Finish Mute City in less than 1'23\"00",
+			"api_key": "53622",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54979.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54979_lock.png"
+		},
+		"53623": {
+			"release_per_platform_id": "n64_3D95DF80",
+			"name": "Dream Chaser",
+			"description": "Finish Silence in less than 1'13\"00",
+			"api_key": "53623",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54980.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54980_lock.png"
+		},
+		"53624": {
+			"release_per_platform_id": "n64_3D95DF80",
+			"name": "Fall Down to the Scream",
+			"description": "Finish Sand Ocean in less than 1'15\"55",
+			"api_key": "53624",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54981.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54981_lock.png"
+		},
+		"53625": {
+			"release_per_platform_id": "n64_3D95DF80",
+			"name": "Devil's Call in Your Heart",
+			"description": "Finish Devil's Forest in less than 1'23\"00",
+			"api_key": "53625",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54982.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54982_lock.png"
+		},
+		"53626": {
+			"release_per_platform_id": "n64_3D95DF80",
+			"name": "Decide in the Eyes",
+			"description": "Finish Big Blue in less than 1'35\"00",
+			"api_key": "53626",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54983.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54983_lock.png"
+		},
+		"53627": {
+			"release_per_platform_id": "n64_3D95DF80",
+			"name": "Crazy Call at Cry",
+			"description": "Finish Port Town in less than 1'36\"00",
+			"api_key": "53627",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54984.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54984_lock.png"
+		},
+		"53628": {
+			"release_per_platform_id": "n64_3D95DF80",
+			"name": "Drivin' Through on Max",
+			"description": "Finish Sector Alpha in less than 1'22\"00",
+			"api_key": "53628",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54985.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54985_lock.png"
+		},
+		"53629": {
+			"release_per_platform_id": "n64_3D95DF80",
+			"name": "The Long Distance of Murder",
+			"description": "Finish Red Canyon in less than 1'19\"00",
+			"api_key": "53629",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54986.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54986_lock.png"
+		},
+		"53630": {
+			"release_per_platform_id": "n64_3D95DF80",
+			"name": "Planet Colors",
+			"description": "Finish Devil's Forest 2 in less than 1'24\"20",
+			"api_key": "53630",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54987.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54987_lock.png"
+		},
+		"53631": {
+			"release_per_platform_id": "n64_3D95DF80",
+			"name": "Rollercoaster",
+			"description": "Finish Mute City 2 in less than 1'19\"00",
+			"api_key": "53631",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54988.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54988_lock.png"
+		},
+		"53632": {
+			"release_per_platform_id": "n64_3D95DF80",
+			"name": "Infinite Blue",
+			"description": "Finish Big Blue 2 in less than 1'07\"00",
+			"api_key": "53632",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54989.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54989_lock.png"
+		},
+		"53633": {
+			"release_per_platform_id": "n64_3D95DF80",
+			"name": "Climb Up! And Get The Last Chance!",
+			"description": "Finish White Land in less than 1'40\"00",
+			"api_key": "53633",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54990.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54990_lock.png"
+		},
+		"53634": {
+			"release_per_platform_id": "n64_3D95DF80",
+			"name": "Feel Our Pain",
+			"description": "Finish Fire Field in less than 1'23\"00",
+			"api_key": "53634",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54991.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54991_lock.png"
+		},
+		"53635": {
+			"release_per_platform_id": "n64_3D95DF80",
+			"name": "Regeneration",
+			"description": "Finish Silence 2 in less than 1'35\"00",
+			"api_key": "53635",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54992.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54992_lock.png"
+		},
+		"53636": {
+			"release_per_platform_id": "n64_3D95DF80",
+			"name": "Paper Engine",
+			"description": "Finish Sector Beta in less than 1'45\"00",
+			"api_key": "53636",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54993.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54993_lock.png"
+		},
+		"53637": {
+			"release_per_platform_id": "n64_3D95DF80",
+			"name": "Shotgun Kiss",
+			"description": "Finish Red Canyon 2 in less than 1'40\"00",
+			"api_key": "53637",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54994.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54994_lock.png"
+		},
+		"53638": {
+			"release_per_platform_id": "n64_3D95DF80",
+			"name": "ZEN",
+			"description": "Finish White Land 2 in less than 1'13\"00",
+			"api_key": "53638",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54995.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54995_lock.png"
+		},
+		"53639": {
+			"release_per_platform_id": "n64_3D95DF80",
+			"name": "For the Glory",
+			"description": "Finish Mute City 3 in less than 1'46\"00",
+			"api_key": "53639",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54996.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54996_lock.png"
+		},
+		"53640": {
+			"release_per_platform_id": "n64_3D95DF80",
+			"name": "Rainbow Road",
+			"description": "Finish Rainbow Road in less than 2'11\"00",
+			"api_key": "53640",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54997.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54997_lock.png"
+		},
+		"53641": {
+			"release_per_platform_id": "n64_3D95DF80",
+			"name": "Rendezvous Of Ghost",
+			"description": "Finish Devil's Forest 3 in less than 1'20\"00",
+			"api_key": "53641",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54998.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54998_lock.png"
+		},
+		"53642": {
+			"release_per_platform_id": "n64_3D95DF80",
+			"name": "One Ahead System",
+			"description": "Finish Space Plant in less than 2'04\"00",
+			"api_key": "53642",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54999.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54999_lock.png"
+		},
+		"53643": {
+			"release_per_platform_id": "n64_3D95DF80",
+			"name": "8 Guitars",
+			"description": "Finish Sand Ocean 2 in less than 1'35\"00",
+			"api_key": "53643",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55000.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55000_lock.png"
+		},
+		"53645": {
+			"release_per_platform_id": "n64_3D95DF80",
+			"name": "Like a Snake",
+			"description": "Finish Port Town 2 in less than 1'52\"70",
+			"api_key": "53645",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55001.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55001_lock.png"
+		},
+		"53647": {
+			"release_per_platform_id": "n64_3D95DF80",
+			"name": "DIZZY",
+			"description": "Finish Big Hand in less than 2'27\"00",
+			"api_key": "53647",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55002.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55002_lock.png"
+		},
+		"54146": {
+			"release_per_platform_id": "n64_3D95DF80",
+			"name": "Ride and Die",
+			"description": "Win Death Race",
+			"api_key": "54146",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55859.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55859_lock.png"
+		},
+		"54147": {
+			"release_per_platform_id": "n64_3D95DF80",
+			"name": "Speedway to Hell",
+			"description": "Finish Death Race in less than 3'00\"00",
+			"api_key": "54147",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55860.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55860_lock.png"
+		},
+		"53738": {
+			"release_per_platform_id": "n64_3D95DF80",
+			"name": "Vehicular Homicide",
+			"description": "Eliminate 5 other racers in a single cup race on Standard or higher difficulty",
+			"api_key": "53738",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55864.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55864_lock.png"
+		},
+		"54148": {
+			"release_per_platform_id": "n64_3D95DF80",
+			"name": "Death Cup",
+			"description": "Win a cup on any difficulty after eliminating no less than 29 racers total",
+			"api_key": "54148",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55861.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55861_lock.png"
+		},
+		"54187": {
+			"release_per_platform_id": "n64_3D95DF80",
+			"name": "Unrivaled",
+			"description": "Win a cup with every other racer having less than 400 points on standard or higher",
+			"api_key": "54187",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55902.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55902_lock.png"
+		},
+		"54184": {
+			"release_per_platform_id": "n64_3D95DF80",
+			"name": "Trophy Garage",
+			"description": "Win the Joker Cup without losing a vehicle on standard or higher difficulty",
+			"api_key": "54184",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55899.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55899_lock.png"
+		},
+		"54181": {
+			"release_per_platform_id": "n64_3D95DF80",
+			"name": "You Had Boost Power",
+			"description": "Win a GP race without using boost power on standard or higher difficulty",
+			"api_key": "54181",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55863.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55863_lock.png"
+		},
+		"54183": {
+			"release_per_platform_id": "n64_3D95DF80",
+			"name": "Fall to the Leader",
+			"description": "Never drop from 1st after the first lap in a GP race on standard or higher",
+			"api_key": "54183",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55898.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55898_lock.png"
+		},
+		"54182": {
+			"release_per_platform_id": "n64_3D95DF80",
+			"name": "Rearview Race",
+			"description": "Win a GP race while looking backwards the entire time (no Silence)",
+			"api_key": "54182",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55897.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55897_lock.png"
+		},
+		"54185": {
+			"release_per_platform_id": "n64_3D95DF80",
+			"name": "Perfect Paint Job",
+			"description": "Win a GP race without taking damage on standard or higher difficulty",
+			"api_key": "54185",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55900.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55900_lock.png"
+		},
+		"54186": {
+			"release_per_platform_id": "n64_3D95DF80",
+			"name": "Victory Road",
+			"description": "Get 1st in every race of a cup on standard or higher difficulty",
+			"api_key": "54186",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55901.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/55901_lock.png"
+		}
+	}
+}

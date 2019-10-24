@@ -1,0 +1,260 @@
+{
+	"Achievements": {
+		"54257": {
+			"release_per_platform_id": "n64_4246EE14",
+			"name": "Quite The Appetite",
+			"description": "Get a time of 8 seconds or lower in the first training room.",
+			"api_key": "54257",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56005.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56005_lock.png"
+		},
+		"54258": {
+			"release_per_platform_id": "n64_4246EE14",
+			"name": "Tongue Trainee",
+			"description": "Get a time of 14 seconds or lower in the second training room.",
+			"api_key": "54258",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56007.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56007_lock.png"
+		},
+		"54259": {
+			"release_per_platform_id": "n64_4246EE14",
+			"name": "Chameleon Climber",
+			"description": "Get a time of 11.5 seconds or lower in the third training room.",
+			"api_key": "54259",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56008.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56008_lock.png"
+		},
+		"54260": {
+			"release_per_platform_id": "n64_4246EE14",
+			"name": "Pole Dancer",
+			"description": "Get a time of 13.5 seconds or lower in the fourth training room.",
+			"api_key": "54260",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56009.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56009_lock.png"
+		},
+		"54261": {
+			"release_per_platform_id": "n64_4246EE14",
+			"name": "The Game's Namesake",
+			"description": "Get a time of 6 seconds or lower in the fifth training room.",
+			"api_key": "54261",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56010.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56010_lock.png"
+		},
+		"54304": {
+			"release_per_platform_id": "n64_4246EE14",
+			"name": "Welcome to the Jungle",
+			"description": "Defeat the Gorilla King and clear Jungle Land",
+			"api_key": "54304",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56071.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56071_lock.png"
+		},
+		"54305": {
+			"release_per_platform_id": "n64_4246EE14",
+			"name": "Attack of the Ants",
+			"description": "Defeat the Ant Queen and clear Ant Land",
+			"api_key": "54305",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56072.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56072_lock.png"
+		},
+		"54306": {
+			"release_per_platform_id": "n64_4246EE14",
+			"name": "An Explosive Personality",
+			"description": "Defeat the Bomb Snake and clear Bomb Land",
+			"api_key": "54306",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56073.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56073_lock.png"
+		},
+		"54307": {
+			"release_per_platform_id": "n64_4246EE14",
+			"name": "The Sandy Citadel",
+			"description": "Defeat the Armadillo and clear Desert Castle",
+			"api_key": "54307",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56074.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56074_lock.png"
+		},
+		"54308": {
+			"release_per_platform_id": "n64_4246EE14",
+			"name": "Kids Love Bottomless Pits!",
+			"description": "Defeat the Cake and clear Kids Land",
+			"api_key": "54308",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56075.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56075_lock.png"
+		},
+		"54309": {
+			"release_per_platform_id": "n64_4246EE14",
+			"name": "The Phantom Menace",
+			"description": "Defeat the final boss and clear Ghost Castle",
+			"api_key": "54309",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56076.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56076_lock.png"
+		},
+		"54312": {
+			"release_per_platform_id": "n64_4246EE14",
+			"name": "King of the Jungle",
+			"description": "Collect all 25 crowns in Jungle Land",
+			"api_key": "54312",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56084.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56084_lock.png"
+		},
+		"54313": {
+			"release_per_platform_id": "n64_4246EE14",
+			"name": "Dirt-covered Decadence",
+			"description": "Collect all 25 crowns in Ant Land",
+			"api_key": "54313",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56085.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56085_lock.png"
+		},
+		"54314": {
+			"release_per_platform_id": "n64_4246EE14",
+			"name": "Combustible Cash",
+			"description": "Collect all 21 crowns in Bomb Land",
+			"api_key": "54314",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56086.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56086_lock.png"
+		},
+		"54315": {
+			"release_per_platform_id": "n64_4246EE14",
+			"name": "A Gem Among The Sand",
+			"description": "Collect all 24 crowns in Desert Castle",
+			"api_key": "54315",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56088.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56088_lock.png"
+		},
+		"54316": {
+			"release_per_platform_id": "n64_4246EE14",
+			"name": "If You Gaze Long Into An Abyss....",
+			"description": "Collect all 23 crowns in Kids Land",
+			"api_key": "54316",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56089.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56089_lock.png"
+		},
+		"54317": {
+			"release_per_platform_id": "n64_4246EE14",
+			"name": "Spooktacular Spoils",
+			"description": "Collect all 23 crowns in Ghost Castle",
+			"api_key": "54317",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56090.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56090_lock.png"
+		},
+		"54319": {
+			"release_per_platform_id": "n64_4246EE14",
+			"name": "Gone With The Wind",
+			"description": "Complete Jungle Land in 2 minutes 40 seconds or less",
+			"api_key": "54319",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56095.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56095_lock.png"
+		},
+		"54320": {
+			"release_per_platform_id": "n64_4246EE14",
+			"name": "What Are You, An Anteater?",
+			"description": "Complete Ant Land in 5 minutes 45 seconds or less",
+			"api_key": "54320",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56096.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56096_lock.png"
+		},
+		"54321": {
+			"release_per_platform_id": "n64_4246EE14",
+			"name": "Brisk Bombs",
+			"description": "Complete Bomb Land in 3 minutes 30 seconds or less",
+			"api_key": "54321",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56097.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56097_lock.png"
+		},
+		"54322": {
+			"release_per_platform_id": "n64_4246EE14",
+			"name": "Fastest Tongue In The Wild West",
+			"description": "Complete Desert Castle in 6 minutes 15 seconds or less",
+			"api_key": "54322",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56098.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56098_lock.png"
+		},
+		"54323": {
+			"release_per_platform_id": "n64_4246EE14",
+			"name": "Stupid Kids, Get Out Of My Way!",
+			"description": "Complete Kids Land in 6 minutes 45 seconds or less",
+			"api_key": "54323",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56099.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56099_lock.png"
+		},
+		"54324": {
+			"release_per_platform_id": "n64_4246EE14",
+			"name": "Swift As A Spectre",
+			"description": "Complete Ghost Castle in 6 minutes 30 seconds or less",
+			"api_key": "54324",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56100.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56100_lock.png"
+		},
+		"54325": {
+			"release_per_platform_id": "n64_4246EE14",
+			"name": "Clash Of The Titans",
+			"description": "Defeat the Gorilla King without taking damage",
+			"api_key": "54325",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56112.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56112_lock.png"
+		},
+		"54327": {
+			"release_per_platform_id": "n64_4246EE14",
+			"name": "The Ants Strike Back",
+			"description": "Defeat the Ant Queen without taking damage",
+			"api_key": "54327",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56103.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56103_lock.png"
+		},
+		"54328": {
+			"release_per_platform_id": "n64_4246EE14",
+			"name": "Smashin' Snakes",
+			"description": "Defeat the Bomb Snake without taking damage",
+			"api_key": "54328",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56104.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56104_lock.png"
+		},
+		"54329": {
+			"release_per_platform_id": "n64_4246EE14",
+			"name": "Castle Crashed",
+			"description": "Defeat the Armadillo without taking damage",
+			"api_key": "54329",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56105.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56105_lock.png"
+		},
+		"54330": {
+			"release_per_platform_id": "n64_4246EE14",
+			"name": "The Real Cake Boss",
+			"description": "Defeat the Cake without taking damage",
+			"api_key": "54330",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56106.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56106_lock.png"
+		},
+		"54331": {
+			"release_per_platform_id": "n64_4246EE14",
+			"name": "Wheel You Please Stop Hitting Me?",
+			"description": "Defeat the final boss without taking damage",
+			"api_key": "54331",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56107.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56107_lock.png"
+		},
+		"54332": {
+			"release_per_platform_id": "n64_4246EE14",
+			"name": "Crownless Crusader",
+			"description": "Complete any level with 0 crowns collected",
+			"api_key": "54332",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56108.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56108_lock.png"
+		},
+		"54333": {
+			"release_per_platform_id": "n64_4246EE14",
+			"name": "The Ball's In Your Court, Linda",
+			"description": "Play a relaxing game of pool",
+			"api_key": "54333",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56111.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56111_lock.png"
+		},
+		"54326": {
+			"release_per_platform_id": "n64_4246EE14",
+			"name": "Maybe I Should Go On A Diet?",
+			"description": "Eat 18 objects at once",
+			"api_key": "54326",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56102.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/56102_lock.png"
+		}
+	}
+}

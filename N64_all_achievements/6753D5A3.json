@@ -1,0 +1,524 @@
+{
+	"Achievements": {
+		"67629": {
+			"release_per_platform_id": "n64_6753D5A3",
+			"name": "In a galaxy far, far away...",
+			"description": "Complete Jet Force Gemini",
+			"api_key": "67629",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71563.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71563_lock.png"
+		},
+		"67630": {
+			"release_per_platform_id": "n64_6753D5A3",
+			"name": "S.S. Dolphin",
+			"description": "Get all ship parts",
+			"api_key": "67630",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71565.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71565_lock.png"
+		},
+		"67631": {
+			"release_per_platform_id": "n64_6753D5A3",
+			"name": "Twin sister",
+			"description": "Save Vela",
+			"api_key": "67631",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71566.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71566_lock.png"
+		},
+		"67632": {
+			"release_per_platform_id": "n64_6753D5A3",
+			"name": "Advanced quadruped",
+			"description": "Meet with Lupus once and for all",
+			"api_key": "67632",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71567.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71567_lock.png"
+		},
+		"67692": {
+			"release_per_platform_id": "n64_6753D5A3",
+			"name": "Missing the true protagonist*",
+			"description": "Save Lupus without having saved Floyd before and see the secret tittle screen",
+			"api_key": "67692",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71629.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71629_lock.png"
+		},
+		"67633": {
+			"release_per_platform_id": "n64_6753D5A3",
+			"name": "True Hero",
+			"description": "Repair Floyd",
+			"api_key": "67633",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71568.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71568_lock.png"
+		},
+		"67634": {
+			"release_per_platform_id": "n64_6753D5A3",
+			"name": "Armed to the teeth",
+			"description": "Get the jetpack",
+			"api_key": "67634",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71569.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71569_lock.png"
+		},
+		"67635": {
+			"release_per_platform_id": "n64_6753D5A3",
+			"name": "Nosferatu",
+			"description": "Beat Fet-Bubb",
+			"api_key": "67635",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71570.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71570_lock.png"
+		},
+		"67636": {
+			"release_per_platform_id": "n64_6753D5A3",
+			"name": "Campamocha brothers",
+			"description": "Beat the Mechantids",
+			"api_key": "67636",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71571.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71571_lock.png"
+		},
+		"67637": {
+			"release_per_platform_id": "n64_6753D5A3",
+			"name": "Full Gemini Juno",
+			"description": "Get all 6 Juno Extra Gemini Units",
+			"api_key": "67637",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71572.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71572_lock.png"
+		},
+		"67638": {
+			"release_per_platform_id": "n64_6753D5A3",
+			"name": "Full Gemini Vela",
+			"description": "Get all 6 Vela Extra Gemini Units",
+			"api_key": "67638",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71573.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71573_lock.png"
+		},
+		"67639": {
+			"release_per_platform_id": "n64_6753D5A3",
+			"name": "Full Gemini Lupus",
+			"description": "Get all 6 Lupus Extra Gemini Units",
+			"api_key": "67639",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71574.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71574_lock.png"
+		},
+		"67640": {
+			"release_per_platform_id": "n64_6753D5A3",
+			"name": "Fully Armed Juno",
+			"description": "Get all 15 weapons as Juno",
+			"api_key": "67640",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71575.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71575_lock.png"
+		},
+		"67641": {
+			"release_per_platform_id": "n64_6753D5A3",
+			"name": "Fully Armed Vela",
+			"description": "Get all 15 weapons as Vela",
+			"api_key": "67641",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71576.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71576_lock.png"
+		},
+		"67642": {
+			"release_per_platform_id": "n64_6753D5A3",
+			"name": "Fully Armed Lupus",
+			"description": "Get all 15 weapons as Lupus",
+			"api_key": "67642",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71577.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71577_lock.png"
+		},
+		"67643": {
+			"release_per_platform_id": "n64_6753D5A3",
+			"name": "Flamethrower",
+			"description": "Get the Flamethrower",
+			"api_key": "67643",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71578.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71578_lock.png"
+		},
+		"67644": {
+			"release_per_platform_id": "n64_6753D5A3",
+			"name": "Shocker",
+			"description": "Get the Shocker",
+			"api_key": "67644",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71579.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71579_lock.png"
+		},
+		"67645": {
+			"release_per_platform_id": "n64_6753D5A3",
+			"name": "Fishfood",
+			"description": "Get some Fish food",
+			"api_key": "67645",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71580.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71580_lock.png"
+		},
+		"67646": {
+			"release_per_platform_id": "n64_6753D5A3",
+			"name": "Pistol",
+			"description": "Get 30 kills with the pistol in a single sitting (Might need take out the weapon one more time)",
+			"api_key": "67646",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71581.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71581_lock.png"
+		},
+		"67647": {
+			"release_per_platform_id": "n64_6753D5A3",
+			"name": "Machine gun",
+			"description": "Get 40 kills with the Machine gun in a single sitting (Might need take out the weapon one more time)",
+			"api_key": "67647",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71584.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71584_lock.png"
+		},
+		"67648": {
+			"release_per_platform_id": "n64_6753D5A3",
+			"name": "Plasma Shotgun",
+			"description": "Get 25 kills with the Plasma Shotgun in a single sitting (Might need take out the weapon one more time)",
+			"api_key": "67648",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71585.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71585_lock.png"
+		},
+		"67649": {
+			"release_per_platform_id": "n64_6753D5A3",
+			"name": "Grenades",
+			"description": "Get 15 kills with the Grenades in a single sitting (Might need take out the weapon one more time)",
+			"api_key": "67649",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71588.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71588_lock.png"
+		},
+		"67650": {
+			"release_per_platform_id": "n64_6753D5A3",
+			"name": "Tri-Rocket Launcher",
+			"description": "Get 15 kills with the Tri-Rocket Launcher in a single sitting (Might need take out the weapon one more time)",
+			"api_key": "67650",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71586.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71586_lock.png"
+		},
+		"67651": {
+			"release_per_platform_id": "n64_6753D5A3",
+			"name": "Homing Launcher",
+			"description": "Get 25 kills with the Homing Weapon in a single sitting (Might need take out the weapon one more time)",
+			"api_key": "67651",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71583.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71583_lock.png"
+		},
+		"67652": {
+			"release_per_platform_id": "n64_6753D5A3",
+			"name": "Sniper",
+			"description": "Get 15 kills with the Sniper in a single sitting (Might need take out the weapon one more time)",
+			"api_key": "67652",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71582.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71582_lock.png"
+		},
+		"67653": {
+			"release_per_platform_id": "n64_6753D5A3",
+			"name": "Shuriken",
+			"description": "Get 20 kills with the Shurikens in a single sitting (Might need take out the weapon one more time)",
+			"api_key": "67653",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71587.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71587_lock.png"
+		},
+		"67654": {
+			"release_per_platform_id": "n64_6753D5A3",
+			"name": "Cluster Bombs",
+			"description": "Get 10 kills with the Cluster Bombs in a single sitting (Might need take out the weapon one more time)",
+			"api_key": "67654",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71590.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71590_lock.png"
+		},
+		"67655": {
+			"release_per_platform_id": "n64_6753D5A3",
+			"name": "Remote Mines",
+			"description": "Get 10 kills with the Remote Mines Launcher in a single sitting (Might need take out the weapon one more time)",
+			"api_key": "67655",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71589.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71589_lock.png"
+		},
+		"67656": {
+			"release_per_platform_id": "n64_6753D5A3",
+			"name": "Timed Mines",
+			"description": "Get 10 kills with the Timed Mines in a single sitting (Might need take out the weapon one more time)",
+			"api_key": "67656",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71591.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71591_lock.png"
+		},
+		"67657": {
+			"release_per_platform_id": "n64_6753D5A3",
+			"name": "Rainbow Blood",
+			"description": "Get 100 Ant Heads with any character",
+			"api_key": "67657",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71592.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71592_lock.png"
+		},
+		"67658": {
+			"release_per_platform_id": "n64_6753D5A3",
+			"name": "Jet Force Kids",
+			"description": "Get 200 Ant Heads with any character",
+			"api_key": "67658",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71593.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71593_lock.png"
+		},
+		"67659": {
+			"release_per_platform_id": "n64_6753D5A3",
+			"name": "Killer Bear",
+			"description": "Get 20 Tribal Heads with any character",
+			"api_key": "67659",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71594.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71594_lock.png"
+		},
+		"67660": {
+			"release_per_platform_id": "n64_6753D5A3",
+			"name": "Time Challenge - Water Ruins",
+			"description": "Save all tribals at Water Ruins in 1m28s or less",
+			"api_key": "67660",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71595.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71595_lock.png"
+		},
+		"67661": {
+			"release_per_platform_id": "n64_6753D5A3",
+			"name": "Time Challenge - Depository",
+			"description": "Save all tribals at S.S. Anubis Depository in 1m56s or less",
+			"api_key": "67661",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71596.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71596_lock.png"
+		},
+		"67662": {
+			"release_per_platform_id": "n64_6753D5A3",
+			"name": "Tribals - Goldwood",
+			"description": "Save all tribals in Goldwood",
+			"api_key": "67662",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71597.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71597_lock.png"
+		},
+		"67663": {
+			"release_per_platform_id": "n64_6753D5A3",
+			"name": "Tribals - S.S. Anubis",
+			"description": "Save all tribals in S.S. Anubis",
+			"api_key": "67663",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71598.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71598_lock.png"
+		},
+		"67664": {
+			"release_per_platform_id": "n64_6753D5A3",
+			"name": "Tribals - Tawfret",
+			"description": "Save all tribals in Tawfret",
+			"api_key": "67664",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71599.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71599_lock.png"
+		},
+		"67666": {
+			"release_per_platform_id": "n64_6753D5A3",
+			"name": "Tribals - Sekhmet",
+			"description": "Save all tribals in Sekhmet",
+			"api_key": "67666",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71600.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71600_lock.png"
+		},
+		"67667": {
+			"release_per_platform_id": "n64_6753D5A3",
+			"name": "Tribals - Cerulean",
+			"description": "Save all tribals in Cerulean",
+			"api_key": "67667",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71601.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71601_lock.png"
+		},
+		"67668": {
+			"release_per_platform_id": "n64_6753D5A3",
+			"name": "Tribals - Ichor",
+			"description": "Save all tribals in Ichor",
+			"api_key": "67668",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71602.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71602_lock.png"
+		},
+		"67669": {
+			"release_per_platform_id": "n64_6753D5A3",
+			"name": "Tribals - Spawnship",
+			"description": "Save all tribals in Spawnship",
+			"api_key": "67669",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71603.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71603_lock.png"
+		},
+		"67670": {
+			"release_per_platform_id": "n64_6753D5A3",
+			"name": "Tribals - Rith Essa",
+			"description": "Save all tribals in Rith Essa",
+			"api_key": "67670",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71604.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71604_lock.png"
+		},
+		"67671": {
+			"release_per_platform_id": "n64_6753D5A3",
+			"name": "Tribals - Eschebone",
+			"description": "Save all tribals in Eschebone",
+			"api_key": "67671",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71605.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71605_lock.png"
+		},
+		"67672": {
+			"release_per_platform_id": "n64_6753D5A3",
+			"name": "Tribals - Mizar's Palace",
+			"description": "Save all tribals in Mizar's Palace",
+			"api_key": "67672",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71606.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71606_lock.png"
+		},
+		"67673": {
+			"release_per_platform_id": "n64_6753D5A3",
+			"name": "Tribals - Gem Quarry",
+			"description": "Save all tribals in Gem Quarry",
+			"api_key": "67673",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71607.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71607_lock.png"
+		},
+		"67674": {
+			"release_per_platform_id": "n64_6753D5A3",
+			"name": "Tribals - Spacestation",
+			"description": "Save all tribals in Spacestation",
+			"api_key": "67674",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71608.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71608_lock.png"
+		},
+		"67675": {
+			"release_per_platform_id": "n64_6753D5A3",
+			"name": "Tribals - Water Ruin",
+			"description": "Save all tribals in Water Ruin",
+			"api_key": "67675",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71610.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71610_lock.png"
+		},
+		"67676": {
+			"release_per_platform_id": "n64_6753D5A3",
+			"name": "Tribals - Walkway",
+			"description": "Save all tribals in Walkway",
+			"api_key": "67676",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71611.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71611_lock.png"
+		},
+		"67677": {
+			"release_per_platform_id": "n64_6753D5A3",
+			"name": "Ready to blast some asteroids",
+			"description": "Save all 282 tribals and get the Stabilizer",
+			"api_key": "67677",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71609.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71609_lock.png"
+		},
+		"67678": {
+			"release_per_platform_id": "n64_6753D5A3",
+			"name": "Expert Medal - Goldwood",
+			"description": "Get a Expert Medal at Goldwood Robot Mission",
+			"api_key": "67678",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71612.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71612_lock.png"
+		},
+		"67679": {
+			"release_per_platform_id": "n64_6753D5A3",
+			"name": "Expert Medal -  S.S. Anubis",
+			"description": "Get a Expert Medal at S.S. Anubis Robot Mission",
+			"api_key": "67679",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71613.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71613_lock.png"
+		},
+		"67680": {
+			"release_per_platform_id": "n64_6753D5A3",
+			"name": "Expert Medal -  Ichor",
+			"description": "Get a Expert Medal at Ichor Robot Mission",
+			"api_key": "67680",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71614.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71614_lock.png"
+		},
+		"67681": {
+			"release_per_platform_id": "n64_6753D5A3",
+			"name": "Expert Medal -  Eschebone",
+			"description": "Get a Expert Medal at Eschebone Robot Mission",
+			"api_key": "67681",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71615.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71615_lock.png"
+		},
+		"67682": {
+			"release_per_platform_id": "n64_6753D5A3",
+			"name": "Time Challenge - Jeff and Barry",
+			"description": "Beat Jeff and Barry in 31.16s or less",
+			"api_key": "67682",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71616.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71616_lock.png"
+		},
+		"67683": {
+			"release_per_platform_id": "n64_6753D5A3",
+			"name": "Time Challenge - Jeff and Barry II",
+			"description": "Beat Jeff and Barry II in 45.60s or less",
+			"api_key": "67683",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71617.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71617_lock.png"
+		},
+		"67684": {
+			"release_per_platform_id": "n64_6753D5A3",
+			"name": "Custom Challenge - Mine",
+			"description": "At the Rith Essa Mine save all tribals without grabbing a single gemini unit before",
+			"api_key": "67684",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71618.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71618_lock.png"
+		},
+		"67685": {
+			"release_per_platform_id": "n64_6753D5A3",
+			"name": "Custom Challenge - Bog",
+			"description": "Save all tribals at Tawfret Bog using only the Shotgun and Grenades",
+			"api_key": "67685",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71624.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71624_lock.png"
+		},
+		"67686": {
+			"release_per_platform_id": "n64_6753D5A3",
+			"name": "Utility Pistol",
+			"description": "At Goldwood Machine Gun chest room, grab the full health gemini unit (No Lupus)",
+			"api_key": "67686",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71619.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71619_lock.png"
+		},
+		"67687": {
+			"release_per_platform_id": "n64_6753D5A3",
+			"name": "Ready to be a hokage",
+			"description": "Kill all enemies at Ichor Perimeter sniper area using only shurikens (Juno only)",
+			"api_key": "67687",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71625.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71625_lock.png"
+		},
+		"67688": {
+			"release_per_platform_id": "n64_6753D5A3",
+			"name": "Custom Challenge - Base",
+			"description": "Beat Ichor Base using only the Pistol (to restart re-land the ship at Ichor)",
+			"api_key": "67688",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71626.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71626_lock.png"
+		},
+		"67689": {
+			"release_per_platform_id": "n64_6753D5A3",
+			"name": "The handy bears",
+			"description": "Get some Flamethrower ammo from a Tribal",
+			"api_key": "67689",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71620.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71620_lock.png"
+		},
+		"67690": {
+			"release_per_platform_id": "n64_6753D5A3",
+			"name": "Got any funky disco?",
+			"description": "Ask for a song at the Nightclub",
+			"api_key": "67690",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71621.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71621_lock.png"
+		},
+		"67691": {
+			"release_per_platform_id": "n64_6753D5A3",
+			"name": "I wanna dance in the dark",
+			"description": "At the Nightclub destroy all lights (might take some secs to trigger)",
+			"api_key": "67691",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71623.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/71623_lock.png"
+		},
+		"70376": {
+			"release_per_platform_id": "n64_6753D5A3",
+			"name": "Returning the favor",
+			"description": "Kill a enemy with his own grenade",
+			"api_key": "70376",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75467.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/75467_lock.png"
+		},
+		"77478": {
+			"release_per_platform_id": "n64_6753D5A3",
+			"name": "I have Uroboros!",
+			"description": "In Tawfret Bog decapitate a Zombie Ant",
+			"api_key": "77478",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/83021.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/83021_lock.png"
+		}
+	}
+}

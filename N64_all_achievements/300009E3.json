@@ -1,0 +1,532 @@
+{
+	"Achievements": {
+		"49518": {
+			"release_per_platform_id": "n64_300009E3",
+			"name": "First Friend",
+			"description": "Have Goombario join your party",
+			"api_key": "49518",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86074.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86074_lock.png"
+		},
+		"49519": {
+			"release_per_platform_id": "n64_300009E3",
+			"name": "Never Koop a Kooper",
+			"description": "Have Kooper join your party",
+			"api_key": "49519",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86075.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86075_lock.png"
+		},
+		"49520": {
+			"release_per_platform_id": "n64_300009E3",
+			"name": "A Blast With My Gal",
+			"description": "Have Bombette join the party",
+			"api_key": "49520",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86076.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86076_lock.png"
+		},
+		"49521": {
+			"release_per_platform_id": "n64_300009E3",
+			"name": "Turtle Mail",
+			"description": "Have Parakarry join the party",
+			"api_key": "49521",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86077.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86077_lock.png"
+		},
+		"49522": {
+			"release_per_platform_id": "n64_300009E3",
+			"name": "Frightful Woman",
+			"description": "Have Bow join the party",
+			"api_key": "49522",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86078.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86078_lock.png"
+		},
+		"49523": {
+			"release_per_platform_id": "n64_300009E3",
+			"name": "My Little Sweet Night Light",
+			"description": "Have Watt join the party",
+			"api_key": "49523",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86079.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86079_lock.png"
+		},
+		"49524": {
+			"release_per_platform_id": "n64_300009E3",
+			"name": "Not The Kind That's Food",
+			"description": "Have Sushie join the party",
+			"api_key": "49524",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86080.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86080_lock.png"
+		},
+		"49525": {
+			"release_per_platform_id": "n64_300009E3",
+			"name": "Riding The Cool Breeze",
+			"description": "Have Lakilester join the party",
+			"api_key": "49525",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86081.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86081_lock.png"
+		},
+		"49526": {
+			"release_per_platform_id": "n64_300009E3",
+			"name": "Goombario Powered Up",
+			"description": "Fully upgrade Goombario",
+			"api_key": "49526",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86082.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86082_lock.png"
+		},
+		"49527": {
+			"release_per_platform_id": "n64_300009E3",
+			"name": "Kooper Powered Up",
+			"description": "Fully upgrade Kooper",
+			"api_key": "49527",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86083.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86083_lock.png"
+		},
+		"49528": {
+			"release_per_platform_id": "n64_300009E3",
+			"name": "Bombette Powered Up",
+			"description": "Fully upgrade Bombette",
+			"api_key": "49528",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86084.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86084_lock.png"
+		},
+		"49529": {
+			"release_per_platform_id": "n64_300009E3",
+			"name": "Parakarry Powered Up",
+			"description": "Fully upgrade Parrakarry",
+			"api_key": "49529",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86085.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86085_lock.png"
+		},
+		"49530": {
+			"release_per_platform_id": "n64_300009E3",
+			"name": "Bow Powered Up",
+			"description": "Fully upgrade Bow",
+			"api_key": "49530",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86086.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86086_lock.png"
+		},
+		"49531": {
+			"release_per_platform_id": "n64_300009E3",
+			"name": "Watt Powered Up",
+			"description": "Fully upgrade Watt",
+			"api_key": "49531",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86087.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86087_lock.png"
+		},
+		"49532": {
+			"release_per_platform_id": "n64_300009E3",
+			"name": "Sushie Powered Up",
+			"description": "Fully upgrade Sushie",
+			"api_key": "49532",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86088.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86088_lock.png"
+		},
+		"49533": {
+			"release_per_platform_id": "n64_300009E3",
+			"name": "Lakilester Powered Up",
+			"description": "Fully upgrade Lakilester",
+			"api_key": "49533",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86089.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86089_lock.png"
+		},
+		"49534": {
+			"release_per_platform_id": "n64_300009E3",
+			"name": "To The Max!",
+			"description": "Power up all your party members",
+			"api_key": "49534",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86090.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86090_lock.png"
+		},
+		"49535": {
+			"release_per_platform_id": "n64_300009E3",
+			"name": "Flower Power!",
+			"description": "Max out your FP (Including Badges)",
+			"api_key": "49535",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86094.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86094_lock.png"
+		},
+		"49536": {
+			"release_per_platform_id": "n64_300009E3",
+			"name": "All Beefed Up",
+			"description": "Max out your HP (Including Badges)",
+			"api_key": "49536",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86092.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86092_lock.png"
+		},
+		"49537": {
+			"release_per_platform_id": "n64_300009E3",
+			"name": "Badge Points",
+			"description": "Max out your Badge Points",
+			"api_key": "49537",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86093.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86093_lock.png"
+		},
+		"49538": {
+			"release_per_platform_id": "n64_300009E3",
+			"name": "Max Power!",
+			"description": "Level Mario to his max level",
+			"api_key": "49538",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86095.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86095_lock.png"
+		},
+		"49539": {
+			"release_per_platform_id": "n64_300009E3",
+			"name": "Old Age Wisdom",
+			"description": "Free Eldstar from the captivity of the Koopa Bros. and gain his power",
+			"api_key": "49539",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86096.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86096_lock.png"
+		},
+		"49540": {
+			"release_per_platform_id": "n64_300009E3",
+			"name": "Motherly Instinct",
+			"description": "Free Mamar from the captivity of Tutankoopa and gain her power",
+			"api_key": "49540",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86097.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86097_lock.png"
+		},
+		"49541": {
+			"release_per_platform_id": "n64_300009E3",
+			"name": "The Life of a Scholar",
+			"description": "Free Skolar from the captivity of Tubba Blubba and his Boos and gain his power",
+			"api_key": "49541",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86098.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86098_lock.png"
+		},
+		"49542": {
+			"release_per_platform_id": "n64_300009E3",
+			"name": "Time to Chill",
+			"description": "Free Muskular from the captivity of General Guy and gain his power",
+			"api_key": "49542",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86099.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86099_lock.png"
+		},
+		"49543": {
+			"release_per_platform_id": "n64_300009E3",
+			"name": "Little Miss Star",
+			"description": "Free Misstar from the captivity of the Lava Piranha and gain her power",
+			"api_key": "49543",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86100.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86100_lock.png"
+		},
+		"49544": {
+			"release_per_platform_id": "n64_300009E3",
+			"name": "The Book Worm",
+			"description": "Free Klevar from the captivity of Huff N. Puff and gain his power",
+			"api_key": "49544",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86101.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86101_lock.png"
+		},
+		"49545": {
+			"release_per_platform_id": "n64_300009E3",
+			"name": "Stay Calm",
+			"description": "Free Kalmar from the captivity of the Crystal King and gain his power",
+			"api_key": "49545",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86102.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86102_lock.png"
+		},
+		"49546": {
+			"release_per_platform_id": "n64_300009E3",
+			"name": "First Time Strike",
+			"description": "Get a first strike",
+			"api_key": "49546",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86103.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86103_lock.png"
+		},
+		"49547": {
+			"release_per_platform_id": "n64_300009E3",
+			"name": "Premptive Striker",
+			"description": "Get a total of 100 first strikes in a game",
+			"api_key": "49547",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86104.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86104_lock.png"
+		},
+		"49548": {
+			"release_per_platform_id": "n64_300009E3",
+			"name": "Hammer Bro",
+			"description": "Get the Hammer",
+			"api_key": "49548",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86105.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86105_lock.png"
+		},
+		"49549": {
+			"release_per_platform_id": "n64_300009E3",
+			"name": "Super Hammer Bro ",
+			"description": "Get the Super Hammer",
+			"api_key": "49549",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86106.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86106_lock.png"
+		},
+		"49550": {
+			"release_per_platform_id": "n64_300009E3",
+			"name": "Ultra Hammer Bro",
+			"description": "Get the Ultra Hammer",
+			"api_key": "49550",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86107.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86107_lock.png"
+		},
+		"49551": {
+			"release_per_platform_id": "n64_300009E3",
+			"name": "Super Jumpman Mario!",
+			"description": "Get the Super Boots",
+			"api_key": "49551",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86108.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86108_lock.png"
+		},
+		"49552": {
+			"release_per_platform_id": "n64_300009E3",
+			"name": "Ultra Jumpman Mario!",
+			"description": "Get the Ultra Boots",
+			"api_key": "49552",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86109.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86109_lock.png"
+		},
+		"49576": {
+			"release_per_platform_id": "n64_300009E3",
+			"name": "Battle Hardened",
+			"description": "Fight your way through 250 battles throughout your adventure",
+			"api_key": "49576",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86110.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86110_lock.png"
+		},
+		"49577": {
+			"release_per_platform_id": "n64_300009E3",
+			"name": "Power Bouncer",
+			"description": "Bounce 25 times consecutively",
+			"api_key": "49577",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86111.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86111_lock.png"
+		},
+		"49578": {
+			"release_per_platform_id": "n64_300009E3",
+			"name": "Pop Quiz",
+			"description": "Answer your first Chuck Quizmo question",
+			"api_key": "49578",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86112.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86112_lock.png"
+		},
+		"49579": {
+			"release_per_platform_id": "n64_300009E3",
+			"name": "Quiz Master",
+			"description": "Answer all 64 of Chuck Quizmo questions",
+			"api_key": "49579",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86114.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86114_lock.png"
+		},
+		"49580": {
+			"release_per_platform_id": "n64_300009E3",
+			"name": "Star Piece Collector",
+			"description": "Collect 80 star pieces",
+			"api_key": "49580",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86115.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86115_lock.png"
+		},
+		"49581": {
+			"release_per_platform_id": "n64_300009E3",
+			"name": "Star Man",
+			"description": "Collect all 160 Star Pieces",
+			"api_key": "49581",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86116.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86116_lock.png"
+		},
+		"49582": {
+			"release_per_platform_id": "n64_300009E3",
+			"name": "Graduate",
+			"description": "Prove yourself worthy to have your Diploma",
+			"api_key": "49582",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86117.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86117_lock.png"
+		},
+		"49583": {
+			"release_per_platform_id": "n64_300009E3",
+			"name": "Coin Collector",
+			"description": "Collect more than 1,000 coins throughout your adventure",
+			"api_key": "49583",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86118.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86118_lock.png"
+		},
+		"49608": {
+			"release_per_platform_id": "n64_300009E3",
+			"name": "End of Story",
+			"description": "Rescue the Princess and sit back and watch the fireworks.",
+			"api_key": "49608",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86119.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86119_lock.png"
+		},
+		"49609": {
+			"release_per_platform_id": "n64_300009E3",
+			"name": "Boy Scout",
+			"description": "Get your first badge",
+			"api_key": "49609",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86120.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86120_lock.png"
+		},
+		"49610": {
+			"release_per_platform_id": "n64_300009E3",
+			"name": "First Class Scout",
+			"description": "Obtain 20 Badges",
+			"api_key": "49610",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86121.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86121_lock.png"
+		},
+		"49611": {
+			"release_per_platform_id": "n64_300009E3",
+			"name": "Star Scout",
+			"description": "Obtain 40 Badges",
+			"api_key": "49611",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86122.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86122_lock.png"
+		},
+		"49612": {
+			"release_per_platform_id": "n64_300009E3",
+			"name": "Life Scout",
+			"description": "Obtain 60 Badges",
+			"api_key": "49612",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86123.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86123_lock.png"
+		},
+		"49613": {
+			"release_per_platform_id": "n64_300009E3",
+			"name": "Eagle Scout",
+			"description": "Obtain all 80 badges in the game",
+			"api_key": "49613",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86124.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86124_lock.png"
+		},
+		"49614": {
+			"release_per_platform_id": "n64_300009E3",
+			"name": "Hard Shelled Bully",
+			"description": "Defeat Kent C. Koopa",
+			"api_key": "49614",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86125.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86125_lock.png"
+		},
+		"49615": {
+			"release_per_platform_id": "n64_300009E3",
+			"name": "Buzz Off!",
+			"description": "Defeat Buzzer",
+			"api_key": "49615",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86126.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86126_lock.png"
+		},
+		"49616": {
+			"release_per_platform_id": "n64_300009E3",
+			"name": "Anti-Antiguy",
+			"description": "Defeat Antiguy",
+			"api_key": "49616",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86127.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86127_lock.png"
+		},
+		"49617": {
+			"release_per_platform_id": "n64_300009E3",
+			"name": "Goomnutless*",
+			"description": "Defeat the Goomba King without the use of the Goomnut",
+			"api_key": "49617",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86128.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86128_lock.png"
+		},
+		"49618": {
+			"release_per_platform_id": "n64_300009E3",
+			"name": "Ring Around the Rosie",
+			"description": "Play Ring Around the Rosie with a Candycane to get some life",
+			"api_key": "49618",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86129.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86129_lock.png"
+		},
+		"49687": {
+			"release_per_platform_id": "n64_300009E3",
+			"name": "Full Energy Bowser",
+			"description": "Defeat Bowser without using your Star Energy (Final part of the battle)",
+			"api_key": "49687",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86073.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86073_lock.png"
+		},
+		"79592": {
+			"release_per_platform_id": "n64_300009E3",
+			"name": "Encyclopedia*",
+			"description": "Do a tattle to all enemies",
+			"api_key": "79592",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85928.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85928_lock.png"
+		},
+		"79593": {
+			"release_per_platform_id": "n64_300009E3",
+			"name": "Kitchen Nightmare",
+			"description": "Make all recipes",
+			"api_key": "79593",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85929.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85929_lock.png"
+		},
+		"79594": {
+			"release_per_platform_id": "n64_300009E3",
+			"name": "Rolling in the Deep",
+			"description": "Destroy all spinning flames at Mt. Lavalava",
+			"api_key": "79594",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85930.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85930_lock.png"
+		},
+		"79595": {
+			"release_per_platform_id": "n64_300009E3",
+			"name": "Dennis the Menace",
+			"description": "Read the entire Luigi's Diary",
+			"api_key": "79595",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85931.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85931_lock.png"
+		},
+		"79596": {
+			"release_per_platform_id": "n64_300009E3",
+			"name": "Unwanted Mail",
+			"description": "Read all Mario's letters",
+			"api_key": "79596",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85932.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85932_lock.png"
+		},
+		"79597": {
+			"release_per_platform_id": "n64_300009E3",
+			"name": "Santa Claus doesn't want any more letters",
+			"description": "Read all Partners letters",
+			"api_key": "79597",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85933.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85933_lock.png"
+		},
+		"79598": {
+			"release_per_platform_id": "n64_300009E3",
+			"name": "Oink!",
+			"description": "Win an Item from an Lil Oink",
+			"api_key": "79598",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85934.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85934_lock.png"
+		},
+		"79599": {
+			"release_per_platform_id": "n64_300009E3",
+			"name": "99.7 FM",
+			"description": "Get the last reward from the Trading Event Toad",
+			"api_key": "79599",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85935.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85935_lock.png"
+		},
+		"79600": {
+			"release_per_platform_id": "n64_300009E3",
+			"name": "Jackpot",
+			"description": "Won a total of 250 coins or more in the Smash Attack Minigame",
+			"api_key": "79600",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85936.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/85936_lock.png"
+		},
+		"79707": {
+			"release_per_platform_id": "n64_300009E3",
+			"name": "Why Spike?*",
+			"description": "Don't forgive Lakilester",
+			"api_key": "79707",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86072.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/86072_lock.png"
+		},
+		"84288": {
+			"release_per_platform_id": "n64_300009E3",
+			"name": "Afraid of Ghosts",
+			"description": "Get to the chest without using Bow or Lakilester at Tubba Blubba's Castle spikes room",
+			"api_key": "84288",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/91675.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/91675_lock.png"
+		}
+	}
+}

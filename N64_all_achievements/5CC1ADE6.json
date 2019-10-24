@@ -1,0 +1,708 @@
+{
+	"Achievements": {
+		"47484": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "Staging Area",
+			"description": "Complete stage 1 Staging Area",
+			"api_key": "47484",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48576.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48576_lock.png"
+		},
+		"47485": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "The Terraformer",
+			"description": "Complete stage 2 The Terraformer",
+			"api_key": "47485",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48577.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48577_lock.png"
+		},
+		"47486": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "Main Engineering",
+			"description": "Complete stage 3 Main Engineering",
+			"api_key": "47486",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48578.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48578_lock.png"
+		},
+		"47487": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "Holding Area",
+			"description": "Complete stage 4 Holding Area",
+			"api_key": "47487",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49090.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49090_lock.png"
+		},
+		"47488": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "Tech Center",
+			"description": "Complete stage 5 Tech Center",
+			"api_key": "47488",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49091.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49091_lock.png"
+		},
+		"47489": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "Alpha Quadrant",
+			"description": "Complete stage 6 Alpha Quadrant",
+			"api_key": "47489",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49093.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49093_lock.png"
+		},
+		"47490": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "Research Lab",
+			"description": "Complete stage 7 Research Lab",
+			"api_key": "47490",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48587.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48587_lock.png"
+		},
+		"47491": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "Final Outpost",
+			"description": "Complete stage 8 Final Outpost",
+			"api_key": "47491",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49092.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49092_lock.png"
+		},
+		"47492": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "Even Simpler",
+			"description": "Complete stage 9 Even Simpler",
+			"api_key": "47492",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49095.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49095_lock.png"
+		},
+		"47555": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "The Bleeding",
+			"description": "Complete stage 10 The Bleeding.",
+			"api_key": "47555",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48591.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48591_lock.png"
+		},
+		"47556": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "Terror Core",
+			"description": "Complete stage 11 Terror Core.",
+			"api_key": "47556",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48592.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48592_lock.png"
+		},
+		"47557": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "Altar of Pain",
+			"description": "Complete stage 12 Altar of Pain.",
+			"api_key": "47557",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48594.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48594_lock.png"
+		},
+		"47558": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "Dark Citadel",
+			"description": "Complete stage 13 Dark Citadel.",
+			"api_key": "47558",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48593.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48593_lock.png"
+		},
+		"47559": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "Eye of the Storm",
+			"description": "Complete stage 14 Eye of the Storm.",
+			"api_key": "47559",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48595.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48595_lock.png"
+		},
+		"47560": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "Dark Entries",
+			"description": "Complete stage 15 Dark Entries.",
+			"api_key": "47560",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48596.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48596_lock.png"
+		},
+		"48258": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "Blood Keep",
+			"description": "Complete stage 16  Dark Blood Keep",
+			"api_key": "48258",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48597.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48597_lock.png"
+		},
+		"48259": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "Watch Your Step",
+			"description": "Complete stage 17 Watch Your Step",
+			"api_key": "48259",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49094.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49094_lock.png"
+		},
+		"48260": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "Spawned Fear",
+			"description": "Complete stage 18 Spawned Fear",
+			"api_key": "48260",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49131.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49131_lock.png"
+		},
+		"48261": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "The Spiral",
+			"description": "Complete stage 19 The Spiral",
+			"api_key": "48261",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48601.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48601_lock.png"
+		},
+		"48262": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "The Breakdown",
+			"description": "Complete stage 20 The Breakdown",
+			"api_key": "48262",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49079.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49079_lock.png"
+		},
+		"48263": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "Pitfalls",
+			"description": "Complete stage 21 Pitfalls",
+			"api_key": "48263",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49080.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49080_lock.png"
+		},
+		"48264": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "Burnt Offerings",
+			"description": "Complete stage 22 Burnt Offerings.",
+			"api_key": "48264",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49081.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49081_lock.png"
+		},
+		"48265": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "Unholy Temple",
+			"description": "Complete stage 23 Unholy Temple.",
+			"api_key": "48265",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49082.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49082_lock.png"
+		},
+		"48266": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "No Escape",
+			"description": "Complete stage 24 No Escape.",
+			"api_key": "48266",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49083.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49083_lock.png"
+		},
+		"48267": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "Cat and Mouse",
+			"description": "Complete stage 25 Cat and Mouse.",
+			"api_key": "48267",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49084.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49084_lock.png"
+		},
+		"48268": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "Hardcore",
+			"description": "Complete stage 26 Hardcore.",
+			"api_key": "48268",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49085.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49085_lock.png"
+		},
+		"48269": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "Playground",
+			"description": "Complete stage 27 Playground.",
+			"api_key": "48269",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49086.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49086_lock.png"
+		},
+		"48270": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "The Absolution",
+			"description": "Complete stage 28 The Absolution.",
+			"api_key": "48270",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49352.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49352_lock.png"
+		},
+		"48271": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "Outpost Omega",
+			"description": "Complete stage 29 Outpost Omega.",
+			"api_key": "48271",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49087.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49087_lock.png"
+		},
+		"48272": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "The Lair",
+			"description": "Complete stage 30 The Lair.",
+			"api_key": "48272",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49088.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49088_lock.png"
+		},
+		"48273": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "In the Void",
+			"description": "Complete stage 31 In the Void.",
+			"api_key": "48273",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49089.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49089_lock.png"
+		},
+		"48274": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "Hectic",
+			"description": "Complete stage 32 Hectic.",
+			"api_key": "48274",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48602.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48602_lock.png"
+		},
+		"48280": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "The Terraformer Secrets",
+			"description": "Complete stage 2 with 100% Secrets.",
+			"api_key": "48280",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48658.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48658_lock.png"
+		},
+		"48281": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "Main Engineering Secrets",
+			"description": "Complete stage 3 with 100% Secrets.",
+			"api_key": "48281",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48659.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48659_lock.png"
+		},
+		"48282": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "Holding Area Secrets",
+			"description": "Complete stage 4 with 100% Secrets.",
+			"api_key": "48282",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48660.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48660_lock.png"
+		},
+		"48283": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "Tech Center Secrets",
+			"description": "Complete stage 5 with 100% Secrets.",
+			"api_key": "48283",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48661.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48661_lock.png"
+		},
+		"48284": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "Alpha Quadrant Secrets",
+			"description": "Complete stage 6 with 100% Secrets.",
+			"api_key": "48284",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48662.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48662_lock.png"
+		},
+		"48285": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "Research Lab Secrets",
+			"description": "Complete stage 7 with 100% Secrets.",
+			"api_key": "48285",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48663.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48663_lock.png"
+		},
+		"48286": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "Final Outpost Secrets",
+			"description": "Complete stage 8 with 100% Secrets.",
+			"api_key": "48286",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48664.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48664_lock.png"
+		},
+		"48287": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "The Bleeding Secrets ",
+			"description": "Complete stage 10 with 100% Secrets.",
+			"api_key": "48287",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48665.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48665_lock.png"
+		},
+		"48288": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "Terror Core Secrets",
+			"description": "Complete stage 11 with 100% Secrets.",
+			"api_key": "48288",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48666.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48666_lock.png"
+		},
+		"48289": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "Altar of Pain Secrets",
+			"description": "Complete stage 12 with 100% Secrets.",
+			"api_key": "48289",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48667.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48667_lock.png"
+		},
+		"48290": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "Dark Citadel Secrets",
+			"description": "Complete stage 13 with 100% Secrets.",
+			"api_key": "48290",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48668.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48668_lock.png"
+		},
+		"48291": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "Eye of the Storm Secrets ",
+			"description": "Complete stage 14 with 100% Secrets.",
+			"api_key": "48291",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48669.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48669_lock.png"
+		},
+		"48292": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "Dark Entries Secrets ",
+			"description": "Complete stage 15 with100% Secrets.",
+			"api_key": "48292",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48670.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48670_lock.png"
+		},
+		"48293": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "Blood Keep Secrets",
+			"description": "Complete stage 16 with 100% Secrets.",
+			"api_key": "48293",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48671.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48671_lock.png"
+		},
+		"48294": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "Watch Your Step Secrets",
+			"description": "Complete stage 17 with 100% Secrets.",
+			"api_key": "48294",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48672.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48672_lock.png"
+		},
+		"48295": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "Spawned Fear Secrets",
+			"description": "Complete stage 18 with 100% Secrets ",
+			"api_key": "48295",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48673.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48673_lock.png"
+		},
+		"48296": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "The Breakdown Secrets",
+			"description": "Complete stage 20 with 100% Secrets.",
+			"api_key": "48296",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48674.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48674_lock.png"
+		},
+		"48297": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "Pitfalls Secrets",
+			"description": "Complete stage 21 with 100% Secrets.",
+			"api_key": "48297",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48675.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48675_lock.png"
+		},
+		"48298": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "Burnt Offerings Secrets",
+			"description": "Complete stage 22 with 100% Secrets.",
+			"api_key": "48298",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48676.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48676_lock.png"
+		},
+		"48299": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "Unholy Temple Secrets",
+			"description": "Complete stage 23 with 100% Secrets.",
+			"api_key": "48299",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48677.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48677_lock.png"
+		},
+		"48300": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "No Escape Secrets",
+			"description": "Complete stage 24 with 100% Secrets.",
+			"api_key": "48300",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48678.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48678_lock.png"
+		},
+		"48301": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "Cat and Mouse Secrets",
+			"description": "Complete stage 25 with 100% Secrets. ",
+			"api_key": "48301",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49347.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49347_lock.png"
+		},
+		"48302": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "Outpost Omega Secrets",
+			"description": "Complete stage 29 with 100% Secrets.",
+			"api_key": "48302",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48679.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48679_lock.png"
+		},
+		"48303": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "The Lair Perfectionist Secrets",
+			"description": "Complete stage 30 with 100% Secrets.",
+			"api_key": "48303",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48680.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/48680_lock.png"
+		},
+		"48304": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "Staging Area Bloodthirsty",
+			"description": "Complete stage 1 Staging Area[Watch We Die! Difficulty]",
+			"api_key": "48304",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49096.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49096_lock.png"
+		},
+		"48305": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "The Terraformer Bloodthirsty",
+			"description": "Complete stage 2 The Terraformer[Watch We Die! Difficulty]",
+			"api_key": "48305",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49097.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49097_lock.png"
+		},
+		"48306": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "Main Engineering Bloodthirsty",
+			"description": "Complete stage 3 Main Engineering[Watch We Die! Difficulty]",
+			"api_key": "48306",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49098.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49098_lock.png"
+		},
+		"48307": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "Holding Area Bloodthirsty",
+			"description": "Complete stage 4 Holding Area[Watch We Die! Difficulty]",
+			"api_key": "48307",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49099.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49099_lock.png"
+		},
+		"48308": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "Tech Center Bloodthirsty",
+			"description": "Complete stage 5 Tech Center[Watch We Die! Difficulty]",
+			"api_key": "48308",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49100.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49100_lock.png"
+		},
+		"48309": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "Alpha Quadrant Bloodthirsty",
+			"description": "Complete stage 6 Alpha Quadrant[Watch We Die! Difficulty]",
+			"api_key": "48309",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49101.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49101_lock.png"
+		},
+		"48310": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "Research Lab Bloodthirsty",
+			"description": "Complete stage 7 Research Lab[Watch We Die! Difficulty]",
+			"api_key": "48310",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49102.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49102_lock.png"
+		},
+		"48311": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "Final Outpost Bloodthirsty",
+			"description": "Complete stage 8 Final Outpost[Watch We Die! Difficulty]",
+			"api_key": "48311",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49103.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49103_lock.png"
+		},
+		"48312": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "Even Simpler Bloodthirsty",
+			"description": "Complete stage 9 Even Simpler[Watch We Die! Difficulty]",
+			"api_key": "48312",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49104.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49104_lock.png"
+		},
+		"48313": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "The Bleeding Bloodthirsty",
+			"description": "Complete stage 10 The Bleeding[Watch We Die! Difficulty]",
+			"api_key": "48313",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49105.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49105_lock.png"
+		},
+		"48314": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "Terror Core Bloodthirsty",
+			"description": "Complete stage 11 Terror Core[Watch We Die! Difficulty]",
+			"api_key": "48314",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49106.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49106_lock.png"
+		},
+		"48315": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "Altar of Pain Bloodthirsty",
+			"description": "Complete stage 12 Altar of Pain[Watch We Die! Difficulty]",
+			"api_key": "48315",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49107.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49107_lock.png"
+		},
+		"48316": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "Dark Citadel Bloodthirsty",
+			"description": "Complete stage 13 Dark Citadel[Watch We Die! Difficulty]",
+			"api_key": "48316",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49108.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49108_lock.png"
+		},
+		"48317": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "Eye of the Storm Bloodthirsty",
+			"description": "Complete stage 14 Eye of the Storm[Watch We Die! Difficulty]",
+			"api_key": "48317",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49109.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49109_lock.png"
+		},
+		"48318": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "Dark Entries Bloodthirsty",
+			"description": "Complete stage 15 Dark Entries[Watch We Die! Difficulty]",
+			"api_key": "48318",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49110.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49110_lock.png"
+		},
+		"48319": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "Blood Keep Bloodthirsty",
+			"description": "Complete stage 16  Dark Blood Keep[Watch We Die! Difficulty]",
+			"api_key": "48319",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49111.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49111_lock.png"
+		},
+		"48320": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "Watch Your Step Bloodthirsty",
+			"description": "Complete stage 17 Watch Your Step[Watch We Die! Difficulty]",
+			"api_key": "48320",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49112.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49112_lock.png"
+		},
+		"48321": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "Spawned Fear Bloodthirsty",
+			"description": "Complete stage 18 Spawned Fear[Watch We Die! Difficulty]",
+			"api_key": "48321",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49132.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49132_lock.png"
+		},
+		"48322": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "The Spiral Bloodthirsty",
+			"description": "Complete stage 19 The Spiral[Watch We Die! Difficulty]",
+			"api_key": "48322",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49113.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49113_lock.png"
+		},
+		"48323": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "The Breakdown Bloodthirsty",
+			"description": "Complete stage 20 The Breakdown[Watch We Die! Difficulty]",
+			"api_key": "48323",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49114.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49114_lock.png"
+		},
+		"48324": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "Pitfalls Bloodthirsty",
+			"description": "Complete stage 21 Pitfalls[Watch We Die! Difficulty]",
+			"api_key": "48324",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49115.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49115_lock.png"
+		},
+		"48325": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "Burnt Offerings Bloodthirsty",
+			"description": "Complete stage 22 Burnt Offerings[Watch We Die! Difficulty]",
+			"api_key": "48325",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49116.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49116_lock.png"
+		},
+		"48326": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "Unholy Temple Bloodthirsty",
+			"description": "Complete stage 23 Unholy Temple[Watch We Die! Difficulty]",
+			"api_key": "48326",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49117.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49117_lock.png"
+		},
+		"48327": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "No Escape Bloodthirsty",
+			"description": "Complete stage 24 No Escape[Watch We Die! Difficulty]",
+			"api_key": "48327",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49118.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49118_lock.png"
+		},
+		"48330": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "Cat and Mouse Bloodthirsty",
+			"description": "Complete stage 25 Cat and Mouse[Watch We Die! Difficulty]",
+			"api_key": "48330",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49120.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49120_lock.png"
+		},
+		"48331": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "Hardcore Bloodthirsty",
+			"description": "Complete stage 26 Hardcore[Watch We Die! Difficulty]",
+			"api_key": "48331",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49121.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49121_lock.png"
+		},
+		"48332": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "Playground Bloodthirsty",
+			"description": "Complete stage 27 Playground[Watch We Die! Difficulty]",
+			"api_key": "48332",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49122.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49122_lock.png"
+		},
+		"48328": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "The Absolution Bloodthirsty",
+			"description": "Complete stage 28 The Absolution[Watch We Die! Difficulty]",
+			"api_key": "48328",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49353.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49353_lock.png"
+		},
+		"48329": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "Outpost Omega Bloodthirsty",
+			"description": "Complete stage 29 Outpost Omega[Watch We Die! Difficulty]",
+			"api_key": "48329",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49119.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49119_lock.png"
+		},
+		"48333": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "The Lair Bloodthirsty",
+			"description": "Complete stage 30 The Lair[Watch We Die! Difficulty]",
+			"api_key": "48333",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49123.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49123_lock.png"
+		},
+		"48335": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "In the Void Hard",
+			"description": "Complete stage 31 In the Void[Watch We Die! Difficulty]",
+			"api_key": "48335",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49125.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49125_lock.png"
+		},
+		"48334": {
+			"release_per_platform_id": "n64_5CC1ADE6",
+			"name": "I'm Master of Doom",
+			"description": "Complete stage 32 Hectic with 100% kills[Watch We Die! Difficulty]",
+			"api_key": "48334",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49124.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/49124_lock.png"
+		}
+	}
+}

@@ -1,0 +1,252 @@
+{
+	"Achievements": {
+		"53218": {
+			"release_per_platform_id": "n64_08287CC8",
+			"name": "Sticky Situation",
+			"description": "Clear Training Room 1 in less than 11 seconds",
+			"api_key": "53218",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54513.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54513_lock.png"
+		},
+		"53219": {
+			"release_per_platform_id": "n64_08287CC8",
+			"name": "Freefall",
+			"description": "Clear Training Room 2 in less than 8 seconds",
+			"api_key": "53219",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54526.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54526_lock.png"
+		},
+		"53221": {
+			"release_per_platform_id": "n64_08287CC8",
+			"name": "Bring it Around Town",
+			"description": "Clear Training Room 3 in less than 7 seconds",
+			"api_key": "53221",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54527.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54527_lock.png"
+		},
+		"53220": {
+			"release_per_platform_id": "n64_08287CC8",
+			"name": "Lick Above the Rest",
+			"description": "Clear Sky Training in less than 10 seconds",
+			"api_key": "53220",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54528.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54528_lock.png"
+		},
+		"53222": {
+			"release_per_platform_id": "n64_08287CC8",
+			"name": "Catapult a Fast One",
+			"description": "Clear Carnival Training in less than 7 seconds",
+			"api_key": "53222",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54529.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54529_lock.png"
+		},
+		"53223": {
+			"release_per_platform_id": "n64_08287CC8",
+			"name": "Fly Another Day",
+			"description": "Clear Ice Training in less than 10 seconds",
+			"api_key": "53223",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54530.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54530_lock.png"
+		},
+		"53224": {
+			"release_per_platform_id": "n64_08287CC8",
+			"name": "Platform Peril",
+			"description": "Clear Toy Training in less than 13 seconds",
+			"api_key": "53224",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54531.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54531_lock.png"
+		},
+		"53225": {
+			"release_per_platform_id": "n64_08287CC8",
+			"name": "Tower of Terror",
+			"description": "Clear Great Edo Training in less than 25 seconds",
+			"api_key": "53225",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54517.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54517_lock.png"
+		},
+		"53226": {
+			"release_per_platform_id": "n64_08287CC8",
+			"name": "King of Swing",
+			"description": "Clear Pyramid Training in less than 10 seconds",
+			"api_key": "53226",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54532.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54532_lock.png"
+		},
+		"53237": {
+			"release_per_platform_id": "n64_08287CC8",
+			"name": "Cloudy with a Chance of Chameleons",
+			"description": "Defeat the Maraca Madman and clear Sky Land",
+			"api_key": "53237",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54495.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54495_lock.png"
+		},
+		"53238": {
+			"release_per_platform_id": "n64_08287CC8",
+			"name": "Mr. Chameleon's Wild Ride",
+			"description": "Defeat the Burger Battler and clear Carnival Land",
+			"api_key": "53238",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54496.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54496_lock.png"
+		},
+		"53239": {
+			"release_per_platform_id": "n64_08287CC8",
+			"name": "Cool Chameleons on the Block",
+			"description": "Defeat Wheeler Walrus and clear Ice Land",
+			"api_key": "53239",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54497.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54497_lock.png"
+		},
+		"53240": {
+			"release_per_platform_id": "n64_08287CC8",
+			"name": "Ohayou Chameleon San",
+			"description": "Defeat Crusher Frog and clear Great Edo Land",
+			"api_key": "53240",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54498.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54498_lock.png"
+		},
+		"53241": {
+			"release_per_platform_id": "n64_08287CC8",
+			"name": "It's not a Doll, it's a Chameleon Figure",
+			"description": "Defeat Battle Bot #2 and clear Toy Land",
+			"api_key": "53241",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54499.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54499_lock.png"
+		},
+		"53242": {
+			"release_per_platform_id": "n64_08287CC8",
+			"name": "Walk like a Chameleon",
+			"description": "Defeat the Demon Sphinx and clear Pyramid Land",
+			"api_key": "53242",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54500.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54500_lock.png"
+		},
+		"53231": {
+			"release_per_platform_id": "n64_08287CC8",
+			"name": "Linda in the Sky with Dimes",
+			"description": "Collect all 20 Coins in Sky Land",
+			"api_key": "53231",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54533.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54533_lock.png"
+		},
+		"53232": {
+			"release_per_platform_id": "n64_08287CC8",
+			"name": "Took Tokens Taken",
+			"description": "Collect all 20 Coins in Carnival Land",
+			"api_key": "53232",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54534.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54534_lock.png"
+		},
+		"53233": {
+			"release_per_platform_id": "n64_08287CC8",
+			"name": "Frozen Assets",
+			"description": "Collect all 20 Coins in Ice Land",
+			"api_key": "53233",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54535.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54535_lock.png"
+		},
+		"53234": {
+			"release_per_platform_id": "n64_08287CC8",
+			"name": "Yin Yang Yen",
+			"description": "Collect all 20 Coins in Great Edo Land",
+			"api_key": "53234",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54536.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54536_lock.png"
+		},
+		"53235": {
+			"release_per_platform_id": "n64_08287CC8",
+			"name": "Monopoly Money",
+			"description": "Collect all 20 Coins in Toy Land",
+			"api_key": "53235",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54537.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54537_lock.png"
+		},
+		"53236": {
+			"release_per_platform_id": "n64_08287CC8",
+			"name": "Tomb Raider",
+			"description": "Collect all 20 Coins in Pyramid Land",
+			"api_key": "53236",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54538.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54538_lock.png"
+		},
+		"53243": {
+			"release_per_platform_id": "n64_08287CC8",
+			"name": "Believe in the Heart of the Stars",
+			"description": "Collect all 4 Star Hearts in Sky Land",
+			"api_key": "53243",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54539.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54539_lock.png"
+		},
+		"53244": {
+			"release_per_platform_id": "n64_08287CC8",
+			"name": "Lots of Love",
+			"description": "Collect all 5 Star Hearts in Carnival Land",
+			"api_key": "53244",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54540.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54540_lock.png"
+		},
+		"53248": {
+			"release_per_platform_id": "n64_08287CC8",
+			"name": "Super Slippery Physics Fanatic",
+			"description": "Clear Ice Land without pressing the Z button",
+			"api_key": "53248",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54541.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54541_lock.png"
+		},
+		"53245": {
+			"release_per_platform_id": "n64_08287CC8",
+			"name": "Hopping Mad",
+			"description": "Defeat Crusher Frog without pressing the A button",
+			"api_key": "53245",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54542.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54542_lock.png"
+		},
+		"53246": {
+			"release_per_platform_id": "n64_08287CC8",
+			"name": "Playtime is Over",
+			"description": "Defeat Battle Bot #2 without taking damage",
+			"api_key": "53246",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54543.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54543_lock.png"
+		},
+		"53247": {
+			"release_per_platform_id": "n64_08287CC8",
+			"name": "Spicy",
+			"description": "Eat 15 of the Demon Sphinx's fireballs at once",
+			"api_key": "53247",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54544.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54544_lock.png"
+		},
+		"53227": {
+			"release_per_platform_id": "n64_08287CC8",
+			"name": "Dizzy Dancing",
+			"description": "Achieve at least 2000 points in Poledancer",
+			"api_key": "53227",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54903.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54903_lock.png"
+		},
+		"53230": {
+			"release_per_platform_id": "n64_08287CC8",
+			"name": "Ball In",
+			"description": "Clear Pocket Pool in 15 shots or less",
+			"api_key": "53230",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54727.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54727_lock.png"
+		},
+		"53228": {
+			"release_per_platform_id": "n64_08287CC8",
+			"name": "Godlike Gobbler",
+			"description": "Bowl a Turkey in Bowled Over",
+			"api_key": "53228",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54902.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54902_lock.png"
+		},
+		"53229": {
+			"release_per_platform_id": "n64_08287CC8",
+			"name": "Lizard Brain",
+			"description": "Achieve at least 400 points in Twisted Math",
+			"api_key": "53229",
+			"image_url_unlocked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54904.png",
+			"image_url_locked": "https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/54904_lock.png"
+		}
+	}
+}
